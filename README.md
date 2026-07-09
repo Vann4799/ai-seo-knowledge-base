@@ -60,22 +60,28 @@ Experts were selected using these criteria:
 ## Repository Structure
 
 ```text
-research/
-  sources.md
-  expert-shortlist.md
-  summary.md
-  transcript-collection-log.md
-  youtube-video-targets.csv
-  linkedin-posts/
-    <expert>/
-      index.md
-  youtube-transcripts/
-    <expert>/
-      <video-title>-<video-id>.md
-  other/
-scripts/
-  download_youtube_transcripts.py
-  download_youtube_transcripts_free.py
+.
+|-- README.md
+|-- requirements.txt
+|-- research/
+|   |-- sources.md
+|   |-- expert-shortlist.md
+|   |-- summary.md
+|   |-- transcript-collection-log.md
+|   |-- youtube-video-targets.csv
+|   |-- linkedin-posts/
+|   |   |-- README.md
+|   |   |-- manifest.csv
+|   |   `-- <expert>/
+|   |       `-- index.md
+|   |-- youtube-transcripts/
+|   |   |-- README.md
+|   |   `-- <expert>/
+|   |       `-- <video-title>-<video-id>.md
+|   `-- other/
+`-- scripts/
+    |-- download_youtube_transcripts.py
+    `-- download_youtube_transcripts_free.py
 ```
 
 ## Research Methodology
