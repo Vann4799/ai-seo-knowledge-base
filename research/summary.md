@@ -55,7 +55,6 @@ A practical AI-powered SEO content playbook should include:
 
 ## Current Gaps
 
-- YouTube transcripts still need to be downloaded through the prepared Supadata workflow.
-- LinkedIn posts are summarized manually and should be expanded if more recent posts become available.
-- The current synthesis is preliminary and should be updated after transcript collection.
-
+- Only one YouTube video per expert was transcribed; broader video coverage per expert would strengthen the synthesis further.
+- LinkedIn coverage is limited to 3 public post records per expert because collection was done manually.
+- The current synthesis is preliminary and should be expanded after deeper coding of the transcripts and LinkedIn post records.

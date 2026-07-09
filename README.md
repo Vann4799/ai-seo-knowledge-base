@@ -177,4 +177,4 @@ research/youtube-transcripts/<expert>/
 
 ## Initial Synthesis
 
-See [`research/summary.md`](research/summary.md) for early insights, recurring patterns, and gaps to address after transcript collection.
+See [`research/summary.md`](research/summary.md) for early insights, recurring patterns, and gaps to address through deeper analysis.
