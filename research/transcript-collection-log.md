@@ -15,9 +15,10 @@ This log documents transcript collection attempts for the YouTube targets in `re
 Script:
 
 ```powershell
-$env:SUPADATA_API_KEY="your_api_key"
 python scripts/download_youtube_transcripts.py --manifest research/youtube-video-targets.csv
 ```
+
+`SUPADATA_API_KEY` was set in the local shell environment before running the script.
 
 Status:
 Successful.
@@ -94,9 +95,10 @@ We're sorry... your computer or network may be sending automated queries.
 To refresh transcripts, rerun the Supadata API script from an authenticated API workflow:
 
 ```powershell
-$env:SUPADATA_API_KEY="your_api_key"
 python scripts/download_youtube_transcripts.py --manifest research/youtube-video-targets.csv
 ```
+
+Set `SUPADATA_API_KEY` in the local shell environment first.
 
 If Supadata is unavailable, rerun the free script from a non-blocked residential connection:
 

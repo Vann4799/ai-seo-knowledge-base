@@ -137,9 +137,10 @@ python scripts/download_youtube_transcripts.py --manifest research/youtube-video
 Actual run:
 
 ```powershell
-$env:SUPADATA_API_KEY="your_api_key"
 python scripts/download_youtube_transcripts.py --manifest research/youtube-video-targets.csv
 ```
+
+Before running the command, set `SUPADATA_API_KEY` in your local shell environment.
 
 The script saves Markdown files under:
 

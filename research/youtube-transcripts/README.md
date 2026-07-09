@@ -7,9 +7,10 @@ This folder contains transcript files generated from `research/youtube-video-tar
 Supadata workflow:
 
 ```powershell
-$env:SUPADATA_API_KEY="your_api_key"
 python scripts/download_youtube_transcripts.py --manifest research/youtube-video-targets.csv
 ```
+
+Set `SUPADATA_API_KEY` in the local shell environment before running the command.
 
 Free-method workflow:
 
