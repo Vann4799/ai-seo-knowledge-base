@@ -64,6 +64,7 @@ research/
   sources.md
   expert-shortlist.md
   summary.md
+  transcript-collection-log.md
   youtube-video-targets.csv
   linkedin-posts/
     <expert>/
@@ -72,6 +73,7 @@ research/
   other/
 scripts/
   download_youtube_transcripts.py
+  download_youtube_transcripts_free.py
 ```
 
 ## Research Methodology
@@ -97,6 +99,7 @@ The research uses three collection lanes:
 - Codex for repo setup, research organization, and script generation.
 - Web research for source verification.
 - Supadata API target workflow for YouTube transcript collection.
+- `youtube-transcript-api` and `yt-dlp` were tested as free transcript collection methods.
 - Manual LinkedIn collection for posts where scraping is not necessary or reliable.
 - Git with small, staged commits to show progress over time.
 
@@ -110,9 +113,17 @@ The automation layer is intentionally narrow and safe:
 - It supports `--dry-run` so targets can be validated before making API calls.
 - It handles per-video errors without storing credentials in the repository.
 
+The repository also includes a free-method script using `youtube-transcript-api`:
+
+```bash
+python scripts/download_youtube_transcripts_free.py --manifest research/youtube-video-targets.csv
+```
+
 ## YouTube Transcript Collection
 
 The transcript script is ready, but transcripts are not committed until the API is run.
+
+Collection attempts and blockers are documented in [`research/transcript-collection-log.md`](research/transcript-collection-log.md).
 
 Dry run:
 
@@ -142,6 +153,7 @@ research/youtube-transcripts/<expert>/
 ## Limitations
 
 - YouTube transcripts have not been downloaded yet because the API key is not stored in the repository.
+- Free transcript methods were attempted, but YouTube blocked requests from the current environment.
 - LinkedIn research is manually collected from public pages and search results, so it may not represent every recent post by each expert.
 - Some experts have stronger newsletter or webinar material than YouTube material.
 - This repository is a research base, not the final AI SEO playbook.
