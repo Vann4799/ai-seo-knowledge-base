@@ -1,0 +1,583 @@
+﻿---
+title: "What effective content distribution actually looks like with Ross Simmonds @ Foundation"
+expert: "Ross Simmonds"
+video_id: "TpmBInAnY3Y"
+video_url: "https://www.youtube.com/watch?v=TpmBInAnY3Y"
+channel: ""
+published_at: ""
+language: "en"
+---
+
+# What effective content distribution actually looks like with Ross Simmonds @ Foundation
+
+- Expert: Ross Simmonds
+- Source: https://www.youtube.com/watch?v=TpmBInAnY3Y
+
+## Transcript
+
+[Music]
+- [00:31] here we
+- [00:59] go all right I got to ask are you always
+- [01:48] just fired up like in general or like
+- [02:23] how do you get fired up like getting on
+- [02:54] stage because every time I've seen you
+- [03:13] present it's infectious appreciate it I
+- [03:47] I love it I'm a big fan of kind of
+- [04:33] bringing good energy to any room that
+- [05:05] I'm in so I I just love it I listen to a
+- [05:51] lot of hype music before I get on stage
+- [06:40] were you listening to earlier so the
+- [07:08] Hamilton soundtrack funny enough even as
+- [07:44] a Canadian just like gets me going I'm
+- [08:23] just like throw in the Hamilton
+- [08:47] soundtrack and then you writee your way
+- [09:19] out and I'm like got it let's go um so
+- [10:01] that's like my go-to track yeah it's fun
+- [10:37] so I unfortunately did not get to see
+- [11:10] your talk cuz we here how it go it was
+- [11:40] awesome the feedback has been great like
+- [12:03] that's the main thing for me it's like I
+- [12:25] have two metrics do I get a lot of
+- [12:49] messages after people saying it was
+- [13:12] great do I get a lot of people
+- [13:33] increasing their phone and raising it up
+- [13:59] to take pictures of slides and a lot of
+- [14:32] people did so that tells me it must have
+- [14:56] been good both things you can't really
+- [15:17] measure at least that easily but it's
+- [15:44] usually gut feeling right 100% it's all
+- [16:18] based off of the gut and like getting a
+- [16:51] sense of the vibe and the energy has
+- [17:22] been great so I feel it's so weird not
+- [17:50] seeing you in your sick chair because
+- [18:16] like I always feel like I see in the
+- [18:38] back of always got
+- [19:12] that the gamer the back is like way
+- [19:51] lower than it should is I know 100% I
+- [20:26] don't know what's going on it's
+- [20:44] different it's different where do I put
+- [21:00] my hands exactly so remind me again
+- [21:39] Foundation is working with which types
+- [22:10] of B2B companies yeah so we work
+- [22:40] exclusively primarily with like B2B SAS
+- [23:14] so when we're working with Brands it is
+- [23:54] everything from early stage all the way
+- [24:27] through to publicly traded ipoed
+- [24:54] companies
+- [25:12] a lot of the early stage folks us
+- [25:51] strategy work up front and then we train
+- [26:24] their marketing cont teams to kind of
+- [26:54] run the Eng with our larger Brands we're
+- [27:28] doing a lot of SEO work and content
+- [27:57] creation for them yep top of funnel
+- [28:32] bottom of funnel and then also
+- [28:50] supporting them in something that a lot
+- [29:10] of people don't do which is distribution
+- [29:38] so that's running distribution playbooks
+- [30:11] on different channels like LinkedIn and
+- [30:43] Reddit and Facebook and all of the
+- [31:22] various places and it's mostly organic
+- [32:00] and uh yeah it's been great so I'm going
+- [32:31] to let you get on your so box for as
+- [33:01] long as you want to stay on okay why do
+- [33:32] so many B2B companies sleep on
+- [34:07] distribution I think it's because a lot
+- [34:41] of them um have organizations that are
+- [35:23] built around like the production cycle
+- [36:26] of content being an asset and what they
+- [37:19] do is they get into this the cycle where
+- [37:57] they believe that pressing publish is
+- [38:29] Success so when they do that yeah when
+- [39:09] they think that the life cycle of a
+- [39:46] piece is actually considered a success
+- [40:18] when it goes live and that is the end of
+- [40:56] that asset's life cycle they fall into
+- [41:31] that and a lot of them are on the
+- [42:00] hamster wheel and I see why like on
+- [42:38] LinkedIn you see people talking all the
+- [43:04] time create more content write more blog
+- [43:30] posts like these are what you got to do
+- [43:53] everybody needs to create content but
+- [44:21] they don't realize you actually have to
+- [44:44] market the content that you produced
+- [45:15] content marketing is two words right
+- [45:40] like I I seen this over the course of my
+- [46:14] career I've been in the industry for a
+- [46:34] long enough time to know that there's a
+- [47:01] lot of content agencies that go out and
+- [47:35] they sell themselves as content strategy
+- [48:02] and then they give you a Content
+- [48:20] calendar notion with a few keywords and
+- [48:52] they say this is all we're going to do
+- [49:15] and we're going to win we're going to
+- [49:32] win and then clients listen and it sucks
+- [50:16] because like if you go back to Circuit
+- [50:43] 2013 I probably was that guy saying the
+- [51:18] same thing but you have to recognize
+- [51:49] that that Playbook doesn't work today we
+- [52:23] have buyers who are spending time on
+- [52:49] different channels we have buyers who
+- [53:22] are um more sophisticated than ever
+- [54:12] before where they are more informed they
+- [54:41] want access to information and we can't
+- [55:22] keep running these same playbooks you
+- [55:53] have to distribute the stories and a lot
+- [56:34] of Brands will say that's too much work
+- [57:18] yes but that is why you have to
+- [57:53] recognize what things are within your
+- [58:23] circle of control and where maybe you
+- [59:04] should actually Outsource it to someone
+- [59:29] else or bring in a freelancer or a
+- [60:08] partner to run your distribution side if
+- [60:52] you have great thought leaders who are
+- [61:16] creating ridiculously good content let
+- [61:52] them do their thing and then pass that
+- [62:26] content off to be repackaged and
+- [62:49] repurposed by people who are able to
+- [63:22] understand the different channels where
+- [63:38] they can spread it and if that's not in
+- [64:08] the cards for you then sprinkle AI on
+- [64:43] top of everything AI makes it so much
+- [65:18] easier today you can leverage AI tools
+- [66:04] to take one blog post and turn it into
+- [66:36] to five social posts that you don't need
+- [67:05] to send in one week you can schedule it
+- [67:42] over the course of a quarter you can
+- [68:08] take one YouTube video One podcast one
+- [68:41] and repurpose it there's AI tools that
+- [69:12] will literally take our conversation
+- [69:44] transcribe it and then turn it into
+- [70:10] social posts turn it into Clips all
+- [70:47] those things so to me I don't think the
+- [71:16] excuse should exist anymore I think
+- [71:57] there's no way it should exist it should
+- [72:24] not exist like you have to do more with
+- [73:08] your pieces of content um after you go
+- [73:51] live with it like when I see beautiful
+- [74:20] guides like this I'm like this this is
+- [75:01] gold oh that's going to be like probably
+- [75:30] 10 to 12 months at minimum of content
+- [75:57] exactly easily easily cuz you folks did
+- [76:28] the hard work to find great insights
+- [76:59] great research so it would be a shame
+- [77:32] you would actually be doing a disservice
+- [78:01] to your audience to let it Live and Die
+- [78:27] in this document and then not talk about
+- [78:58] it it would be a disgrace because what
+- [79:40] you need to do is recognize like there's
+- [80:11] probably ideas in here that could help a
+- [80:43] professional achieve their goal and if
+- [81:16] you don't repurpose it and reshare it
+- [81:47] then those people are going to continue
+- [82:07] to struggle and suffer from problem you
+- [82:42] shouldn't do that like you should take
+- [83:05] it reshare it repackage it and that's
+- [83:35] what more Brands need to do every single
+- [84:00] day yep so if I would have been in the
+- [84:34] room for your talk I probably wouldn't
+- [84:58] be asking this question because I assume
+- [85:25] that it was in your presentation yeah
+- [85:54] what are some of the tools that you're
+- [86:11] using on an AI front to help you with
+- [86:44] this right now yeah so we're big fans of
+- [87:26] both Jasper and copy. a those are two
+- [88:06] tools that we use a lot um they've kind
+- [88:41] of been um in many ways like the
+- [89:19] frontier of the AI copywriting and
+- [89:54] content creation tools so we use those
+- [90:23] we use Claud chat TPT those types of
+- [91:02] things but a few of the more Niche tools
+- [91:29] that use that we get a lot of value out
+- [91:56] over things like 11 Labs so 11 Labs is
+- [92:36] an AI tool that will create a synthetic
+- [93:08] version of your voice and if you press
+- [93:52] publish on a blog post for example that
+- [94:23] blog post lives and it exists but if you
+- [94:55] can take that content and then turn it
+- [95:24] into a script that is podcast and then
+- [96:04] you have a synthetic version of your
+- [96:30] voice read that script and people listen
+- [97:06] to it and they get the same value out of
+- [97:35] it that's an amazing opportunity that's
+- [98:06] wild so I've published on create like
+- [98:44] the great it's like podcasts where I've
+- [99:12] interviewed myself using AI I've had
+- [100:05:19] like um episodes go live where it's
+- [100:37:20] fully AI generated and people leave
+- [101:06:40] comments this is great this is amazing
+- [101:27:20] this is awesome it's not me well it's me
+- [102:04:00] but it's not it's like that is the power
+- [102:53:20] of some of these stuff um hen is another
+- [103:39:20] one that we use a lot um and Heen is
+- [104:17:20] like a deep fake version so you upload a
+- [104:52:00] video version of yourself you connect it
+- [105:27:19] to 11 labs for the synthetic voice and
+- [106:00:39] it will create a video version of you so
+- [106:28:00] I created a um video on my YouTube
+- [107:06:00] channel about what is generative engine
+- [107:38:40] optimization and it's me but it's not me
+- [108:29:20] talking about this concept and for the
+- [109:27:19] most part it's pretty close I think in a
+- [109:58:00] year no one's going to be able to tell I
+- [110:28:40] showed my mom two videos one was me real
+- [111:09:59] this is the real this is the real test
+- [111:32:40] how did it go it went bad my mom didn't
+- [112:19:20] know she didn't know my mom thought the
+- [112:56:00] AI was me and she was so confident she
+- [113:33:20] was like that's you I know myself I was
+- [114:09:20] like oh goodness this is bad so we had
+- [114:55:59] to have a conversation about a safe word
+- [115:35:20] where I was like Mom if somebody calls
+- [116:09:59] you and it doesn't S it's me here's the
+- [116:55:19] joke that you have to ask me so yeah I
+- [117:22:00] think we're uh we're going into a wild
+- [117:50:40] time so hey Jen is great 11 Labs is
+- [118:27:59] great I'm working on a product called
+- [118:52:40] distribution. it's open for a weight
+- [119:23:20] list right now which is going to do a
+- [119:50:40] lot of the stuff that I've been
+- [120:06:00] preaching for years and just give it to
+- [120:31:59] marketers to be able to upload their
+- [120:57:20] podcast upload their blog post and just
+- [121:30:40] let the distribution take care of itself
+- [122:05:20] so we're still in early stages of
+- [122:33:19] building it but I'm excited for it to
+- [122:53:20] come up that's awesome are you just like
+- [123:15:20] cloning yourself or like how are you
+- [123:34:39] doing much yeah like it essentially Kidd
+- [124:16:00] no it does it's essentially it's
+- [124:52:00] essentially a replication of the process
+- [125:27:19] that we've used for our clients over and
+- [125:55:19] over again turned into a workflow system
+- [126:42:40] within AI with using AI to like power it
+- [127:31:20] um we've got some great Engineers that
+- [127:51:59] are working on it and we're taking like
+- [128:22:00] my thinking and applying it to the the
+- [129:07:20] Tex act and just like starting to build
+- [129:32:40] it out we've been able to crack audio
+- [130:03:19] which is great right now and we've been
+- [130:28:00] able to crack the written word the next
+- [130:50:39] step is like we want to get into the
+- [131:09:59] video side we want to be able to take
+- [131:35:59] any asset and repurpose it and
+- [132:05:20] distribute it bring it to Market love it
+- [132:47:19] so you're creating ton of content for
+- [133:34:39] your companies at least the clients that
+- [134:05:59] you have how are you helping companies
+- [134:50:40] create content that builds trust yeah so
+- [135:25:20] our team has writers directly on our
+- [136:14:00] accounts and then those writers are
+- [136:44:40] briefed from the early stages on the
+- [137:22:00] Brand's guidelines their values their
+- [137:53:20] mission their their voice their tone Etc
+- [138:37:19] and then we have a great group of
+- [138:54:40] editors who will be assigned to an
+- [139:19:59] account who kind of act as like that
+- [139:53:59] brand trust like they are the person who
+- [140:57:20] maintains that then our writers go they
+- [141:35:20] create that content one of the things
+- [142:02:40] that we found to be ridiculously
+- [142:34:00] valuable though is when our writers
+- [143:06:40] interview subject matter experts within
+- [143:37:19] these organizations and they actually
+- [144:12:00] are essentially ghost writing on their
+- [144:38:39] behalf two magical things happen one
+- [145:25:19] they get insights and ideas that they
+- [145:46:00] never would have came up with as a
+- [146:06:40] writer who was typically engaged and in
+- [146:42:40] their Niche but now they are able to
+- [147:24:40] pull direct quotes from somebody who's
+- [147:53:19] in the game in those niches and in those
+- [148:28:00] Industries second beauty of it is the
+- [149:10:40] author on those pages gets to be that
+- [149:40:39] individual so this person might be a
+- [150:09:20] subject matter expert who has a
+- [150:35:20] specialty in a certain Niche that like
+- [151:06:40] only their Niche cares about they're
+- [151:36:00] more likely to share it on social
+- [152:01:19] because their name's associated with it
+- [152:28:40] they feel great you know who also loves
+- [153:00:00] that Google because Google says the
+- [153:37:20] person who wrote this piece isn't Ross
+- [154:10:40] Simmons the person who wrote this is
+- [154:46:40] Mark who is a back has a background in
+- [155:27:20] user research blah blah blah this is a
+- [155:58:39] genius so then what Google does is they
+- [156:40:40] have this thing called double e
+- [157:08:40] experience um expertise Authority and
+- [157:47:20] Trust And if the author demonstrates
+- [158:33:20] those characteristics they're more
+- [159:01:20] likely to show that article versus the
+- [159:27:20] competition so when our clients have an
+- [160:11:20] expert press publish on a piece but the
+- [160:49:19] competition has a marketer who do you
+- [161:22:39] think Google's going to rank going to
+- [161:50:40] rank the expert so we typically are
+- [162:34:00] using our writers to be the voice for
+- [163:03:20] some of our subject matter experts and
+- [163:28:00] clients our team of course does a
+- [163:55:20] ridiculously good job at like top of
+- [164:21:20] funnel content even bottom of funnel but
+- [164:54:00] when it's like talking about the product
+- [165:20:00] talking about a thought leadership asset
+- [165:45:20] it's interview style and then using that
+- [166:14:00] to kind of uh create Magic for them do
+- [166:51:20] you feel like you have to convince those
+- [167:27:19] experts that they have something
+- [167:46:40] interesting to say yeah a lot of time
+- [168:26:39] there's like in this is in every
+- [168:52:39] industry right like even in amongst
+- [169:17:20] marketers like impostor syndrome is real
+- [169:58:40] it's a real thing even marketers are
+- [170:36:00] like oh I don't have anything to say yet
+- [171:07:20] like you could go on for hours talking
+- [171:34:00] about your area so you do have to have
+- [172:04:40] those conversations with them ideally
+- [172:30:40] you can like do it as a group what we
+- [173:01:20] have found to be the most successful is
+- [173:24:39] you bring the subject matter experts to
+- [174:03:20] the table and we always think about
+- [174:40:00] content culture within organizations and
+- [175:20:00] we do educational sessions to teach the
+- [176:14:00] thought leaders the subject matter
+- [176:39:19] experts about the value of content
+- [177:26:40] online on the website like elevating
+- [178:16:00] everyone and when they start to see that
+- [178:47:19] and grasp it the fear goes down and the
+- [179:40:00] Intrigue goes up so we host like these
+- [180:20:00] sessions where we'll teach them about
+- [180:49:19] the ROI of past things that their brand
+- [181:27:59] is done and their business is done how
+- [181:51:20] it translated will show competition that
+- [182:34:39] always gets people excited because
+- [182:54:40] they're like wait competitors aren't
+- [183:20:00] going to do this better than us um and
+- [183:50:39] then in academic circles where it's very
+- [184:17:20] technical we like to show like journals
+- [184:44:00] and like people talking about that and
+- [185:19:20] we talk about the benefits of profile
+- [185:58:00] and then they they get bought in love it
+- [186:37:19] so you mentioned Roi yeah measuring
+- [187:20:40] contents impact and Roi is tough it is
+- [188:06:00] how do you think about it because
+- [188:22:40] there's no magic answer no we think that
+- [189:07:19] every piece of content should be created
+- [189:30:00] with intent and before you press publish
+- [190:02:40] you need to have a brief that outlines
+- [190:30:39] the intent of the piece and that intent
+- [191:03:59] should be rooted in the marketing goals
+- [191:44:00] um which should be rooted in the
+- [192:12:00] business goals so when we press publish
+- [192:51:19] on a piece sometimes it's pure play SEO
+- [193:29:20] and we're just trying to generate
+- [193:46:40] organic traffic which is going to lead
+- [194:08:00] to Brand awareness and then we make that
+- [194:34:40] clear so that asset was invested in for
+- [195:40:40] the purpose of organic traffic so that's
+- [196:15:19] what we're going to measure however if
+- [196:48:00] we create a case study and that case
+- [197:20:40] study is intended to influence pipeline
+- [198:01:20] then we are going to optimize it and
+- [198:33:59] write it in a way that is going to lead
+- [199:05:20] to an increase in mqls that we would
+- [199:51:20] hopefully get access to their CRM and be
+- [200:24:00] able to say did the number of people who
+- [200:54:39] downloaded or watch this case study
+- [201:25:20] ultimately turn into Pipeline and then
+- [201:53:20] we would track that and it's not easy
+- [202:36:39] but we try to do the full reporting
+- [203:13:20] around that entire engine and then
+- [203:47:19] articulate that back to our clients on a
+- [204:14:39] regular basis around how the work that
+- [204:50:40] we're doing is leading to business
+- [205:14:40] results for their business I'm going to
+- [205:37:59] bring it back on the rails but nothing
+- [206:00:39] like Dave Gart just leaving his own
+- [206:23:20] event with his
+- [206:46:00] backpack like peace out I'm done with
+- [207:20:40] this I'm done I got my ice cream I'm
+- [207:52:00] leaving I'll see you guys a
+- [208:23:19] few uh so you mentioned writing case
+- [209:02:40] studies in a specific way yeah uh maybe
+- [209:46:39] it's the secret sauce how do you think
+- [210:10:39] about that because people generally are
+- [210:38:40] a little skeptical of case studies true
+- [211:11:19] and I I see why like when we think of
+- [211:44:00] case studies case studies need to be
+- [212:12:39] educational engaging entertaining or
+- [212:48:40] empowering and what we mean by that is
+- [213:34:40] educational in the sense of it should
+- [214:01:20] feel like you're reading a blog post
+- [214:38:00] with a story attached to it a lot of
+- [215:12:00] people make the mistake of being very
+- [215:35:20] boring and very basic with their case
+- [216:00:00] studies and not really telling me
+- [216:34:40] um not having a hook just saying problem
+- [217:23:59] solution results and when you say a lot
+- [217:56:00] that's pretty much the norm pretty much
+- [218:15:20] the norm right like you need to hook
+- [218:46:40] people with a an introduction paragraph
+- [219:25:59] that has Aida attention interest desire
+- [220:12:40] and action and you hook the reader into
+- [220:53:19] that then you're going to articulate to
+- [221:28:40] them within the case study the story
+- [222:05:19] around why they came to you here's
+- [222:34:39] another thing that a lot of SAS people
+- [222:57:19] make the mistake of don't badm your
+- [223:35:20] client and pretend that you are like
+- [224:00:40] this Angel who came from the heavens
+- [224:38:00] above and were like able to save the day
+- [225:13:59] it happens so often they like they write
+- [225:40:40] these case studies and it's like um they
+- [226:14:40] were sucky they were horrible everything
+- [226:50:39] was wrong who why would they ever share
+- [227:25:20] that they're not sharing that with
+- [227:44:40] anybody because you're you're
+- [228:10:40] badmouthing them so we always say like
+- [228:53:20] make it empowering make them feel like
+- [229:37:19] they are the hero in this story so
+- [230:18:40] they're going to share it I just get a
+- [230:45:59] slack message from the team and they
+- [231:03:59] were like sharing a screenshot of one of
+- [231:41:19] the client's clients who read one of our
+- [232:17:20] case studies and they were like over the
+- [232:47:20] moon and it's like that that's the
+- [233:09:20] impact that you want you want the person
+- [233:56:00] who is the case study to read it and say
+- [234:41:20] this is going to maybe get me a
+- [235:04:39] promotion this is maybe going to get me
+- [235:42:40] into new rooms this is going to get me
+- [236:06:40] into my next company because look how
+- [236:29:20] Innovative I was to use this company you
+- [237:06:00] want to make them the hero so that's
+- [237:32:40] kind of the approach that we take I love
+- [237:59:19] that and when you're writing a case
+- [238:18:40] study or for the companies that do and
+- [238:43:19] badmouth competitors it's a worse look
+- [239:24:40] on you like it does it looks horrible
+- [240:02:40] I've done that or I've read those before
+- [240:37:59] and I was evaluating the company I'm
+- [241:09:59] done evaluating the I'll go you're not
+- [241:47:20] going to write about me like that you're
+- [242:26:40] saying that about them
+- [242:49:20] like exactly true so we just launched
+- [243:48:00] this original
+- [244:09:19] research congrats yeah it was a beast
+- [245:06:00] I'm glad that it's done but uh there
+- [245:45:59] were some crazy things that we found I
+- [246:18:00] think one of my favorites was that nine
+- [247:02:40] out of 10 sellers wish they had better
+- [247:38:00] customer
+- [247:55:19] evidence how can companies fix this yeah
+- [248:47:19] that's I think it starts with Shifting
+- [249:31:19] the internal CL culture around like what
+- [249:59:19] they should invest in like so many
+- [250:38:40] organizations focus on the shiny thing
+- [251:38:00] and they don't focus on the fact that
+- [252:04:40] like people want to hear from their
+- [252:33:19] peers and what they believe about a
+- [253:19:19] product and about that so like be
+- [253:44:00] intentional with it instead of always
+- [254:08:00] thinking okay we need to invest in just
+- [254:47:59] like trying to go viral let's allocate
+- [255:56:00] viral if I had a dollar for every time
+- [256:29:20] that I heard that like we would not
+- [257:02:40] exactly it's so true it's wild right
+- [257:39:20] like I think more companies need to look
+- [258:13:59] at their investment like an actual
+- [258:44:00] investment and they need to allocate
+- [259:24:40] funds to projects based off of what they
+- [260:19:59] believe is going to translate into Roi
+- [260:54:00] so instead of just saying okay we have a
+- [261:18:00] Content budget and Calling it Quits the
+- [261:48:39] content budget needs to be allocated
+- [262:14:39] around some bets so if you believe that
+- [263:01:20] you're already doing well with Organic
+- [263:27:20] maybe you need to shift your budget to
+- [263:56:00] be more focused on proof points and
+- [264:36:40] having those customer interviews and
+- [265:01:19] stories and telling stories around that
+- [265:37:20] maybe it's flying out a camera crew to
+- [266:05:59] go and interview some of your best
+- [266:26:39] customers like you might need to do that
+- [266:50:39] so I think it just starts with an
+- [267:16:00] internal shift in the culture within
+- [267:44:40] some of these Orcs it's crazy and then
+- [268:22:00] there was another one that said 57% of
+- [269:00:40] buyers struggle to find credible Roi
+- [269:49:59] stats why do you think that's happening
+- [270:31:20] I think it's because marketers ruined a
+- [270:57:20] lot of
+- [271:12:40] things clipping that yeah I think
+- [271:57:59] markers did a lot of things I think it's
+- [272:40:00] very difficult like it's close to
+- [273:02:39] impossible to validate now we um you
+- [273:41:59] throw in Ai and people can create things
+- [274:12:40] in the matter of seconds the internet is
+- [274:42:00] slutted with a lot of noise it's very
+- [275:19:59] difficult and I wish I could say to you
+- [275:58:39] it's going to get better but it's not
+- [276:29:20] it's going to get worse the more and
+- [277:00:40] more that people create the more
+- [277:33:19] difficult it's going to be and you're
+- [277:54:00] going to have to like do your due
+- [278:26:39] diligence which is where I think a lot
+- [278:50:39] of communities are becoming more and
+- [279:15:19] more popular the reason why Reddit is
+- [279:59:19] taking off is because people trust
+- [280:36:39] people when you go to Google and you
+- [281:05:59] look for a new mattress you don't
+- [281:33:59] believe anything that you read because
+- [282:01:59] it's all a bunch of seos who have
+- [282:24:40] created a bunch of content they got
+- [282:50:40] affiliate links they're just trying to
+- [283:11:20] sell you but when you go to Reddit and
+- [283:43:19] you're in there or you go to a local
+- [284:07:19] Marketplace and you're in there and
+- [284:23:20] you're asking for Mattress reos you're
+- [284:57:19] probably going to believe other people
+- [285:26:40] because those people are just like you
+- [286:02:00] yep versus the SEO who's trying to
+- [286:28:39] manipulate you so I think communities
+- [286:59:20] are actually becoming a a more
+- [287:33:19] trustworthy place amongst creators when
+- [288:13:20] it used to be Google that's a big
+- [288:47:20] problem um but I think that's going to
+- [289:20:00] be the reality that a lot of us live in
+- [289:49:20] for the next few years so one of my
+- [290:12:40] favorite things on the Reddit topic and
+- [290:40:39] I'm sure you've probably come across
+- [291:00:00] this before are accounts that try to
+- [291:50:40] look like they're not working for the
+- [292:26:39] account and gassing up a particular
+- [292:58:40] product I love when the internet rallies
+- [293:30:00] around something and just exposes people
+- [294:00:00] and then they go to their history and
+- [294:18:00] it's like you're an employee empe yeah
+- [294:50:40] we've seen this yeah yeah yeah you're do
+- [295:20:00] you're just like and it's horrible like
+- [295:56:40] I think you have to be um transparent
+- [296:38:39] about it I think you have to be like the
+- [297:22:39] best accounts in my opinion for
+- [297:46:00] corporate purposes are the company
+- [298:23:20] account where it's like literally the
+- [298:47:59] company who's transparently showing that
+- [299:14:00] we have a presence and you be
+- [299:57:20] transparent about that or even in your
+- [300:33:20] username it says Ross at foundation and
+- [301:34:39] that way it's clear to folks like I have
+- [302:05:59] an agenda because if you don't and
+- [302:46:40] people see you like trying to talk
+- [303:20:00] something up they're going to tell you
+- [303:36:40] where to go and how to get there so I
+- [304:10:00] think being transparent is the key on
+- [304:34:40] Reddit yep well and people are smart
+- [305:11:19] like they're going to see right through
+- [305:29:59] your agenda if you don't just like one
+- [305:58:40] click yeah so I just don't understand
+- [306:31:20] why people do it but this was awesome I
+- [307:11:20] have a blast talking with you do it % I
+- [308:05:20] would love to thank you so much for
+- [308:25:20] having me and thanks so much for what
+- [308:41:20] you do for the industry means a lot
+- [309:04:39] appreciate it appreciate it
