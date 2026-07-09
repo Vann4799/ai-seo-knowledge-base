@@ -1,0 +1,1464 @@
+﻿---
+title: "Product-Led SEO in AI Era with Eli Schwartz"
+expert: "Eli Schwartz"
+video_id: "x5CgYCRLgbc"
+video_url: "https://www.youtube.com/watch?v=x5CgYCRLgbc"
+channel: ""
+published_at: ""
+language: "en"
+---
+
+# Product-Led SEO in AI Era with Eli Schwartz
+
+- Expert: Eli Schwartz
+- Source: https://www.youtube.com/watch?v=x5CgYCRLgbc
+- Notes: Product-Led SEO in AI Era discussion with Surfer.
+
+## Transcript
+
+- [04:56] All right. All right. All right. Hello
+- [05:43] everybody. Hello Ellie. Thank you for
+- [06:25] joining me today on Surface Academy
+- [07:25] webinar.
+- [08:00] Great to be here.
+- [08:22] How are you doing? Everything all right?
+- [09:08] What time is it there on your side?
+- [10:18] Uh right now it it's 9:00 a.m.
+- [11:06] in California. Okay. So,
+- [12:00] uh it's 10:00.
+- [12:24] No.
+- [12:49] 9 hours.
+- [13:18] That's that's quite a big difference.
+- [13:44] So, you're starting the day, I'm
+- [14:05] wrapping up the day.
+- [14:33] I'm wondering how about people watching
+- [15:13] us because there is already
+- [15:47] there's already 42 people on live
+- [16:22] stream.
+- [16:40] Uh say hi in the chat.
+- [17:22] Uh we got people from the States,
+- [17:46] Pittsburgh. Uh John, hello. Shazdi,
+- [18:51] Cassie Aliya Cat Sima.
+- [19:57] Vanessa.
+- [20:36] And that's all I've got in the chat. Uh
+- [21:37] What do you feel about today's topic? Uh
+- [22:31] I'm thinking uh there is a lot of
+- [23:04] rumors. There is a lot of uh gurus uh
+- [24:14] showing up on the internet. How do you
+- [24:56] see the industry changing?
+- [26:42] I like where we're changing to. I I
+- [27:18] think that we're we're coming back to
+- [27:52] where SEO and marketing should have
+- [28:32] always been.
+- [28:54] I don't know. What what do you think?
+- [29:26] Are you scared of the future or you're
+- [29:54] you're optimistic?
+- [30:22] It's both.
+- [30:46] Right? Uh me as a product person, I
+- [31:43] never have lived in a times where we can
+- [32:53] create the proof of concept, create some
+- [33:56] like turn some crazy scope idea into
+- [34:50] something that works.
+- [35:22] However, everyone can do it now, right?
+- [36:13] So, uh there is no such a big advantage
+- [37:14] of a company that has infrastructure,
+- [38:22] developers, processes, and so on
+- [39:23] over
+- [39:45] uh regular person with cloud code when
+- [40:34] it comes to POC.
+- [41:36] Okay, so that might make sense for
+- [42:05] product, but I think about marketing in
+- [42:40] a totally different standpoint. So, I
+- [43:10] think you can vibe code
+- [43:43] anything. You can vibe code a product,
+- [44:12] you can vibe code software.
+- [44:44] I struggle to think that you can vibe
+- [45:26] market things. You can build the
+- [46:22] the functionality, the foundations, the
+- [47:14] structure for vibe coding marketing, but
+- [48:08] vibe coding but marketing is all about
+- [48:47] being that doorway to sell. And if you
+- [49:32] can't build that connection, that
+- [50:06] emotion that helps close a deal, gets
+- [50:55] you closer to closing a deal, then I
+- [51:26] don't think it's worthwhile. So, again,
+- [51:48] you can you can vibe code or you can
+- [52:26] vibe market an email sequence, but if
+- [53:16] you're not connecting to those
+- [53:37] customers, if your product and your
+- [54:06] marketing and your message doesn't
+- [54:35] really fit what those those humans want,
+- [55:24] then I don't think you're getting there.
+- [55:42] And and I think that's going to be a
+- [56:08] fundamental challenge of many of the
+- [56:40] things that people are building in vibe
+- [57:06] coding. They're solving their own
+- [57:35] problems, and you can use AI prompts to
+- [58:27] build something that solves the problem
+- [58:58] you have, but it's your problem. If you
+- [59:36] want other people to use your software,
+- [60:18] I think many many products are going to
+- [60:55] have a very hard time getting scale and
+- [61:26] getting users and to identify and use
+- [62:16] those products because they're missing
+- [62:52] that marketing piece. So, I think that
+- [63:20] the need for marketing, the value of
+- [63:50] marketing has only grown. And you know,
+- [64:30] we we'll dive into SEO, but I I I don't
+- [65:07] think you can solve that gap with AI.
+- [66:04] Yeah, 100%. I mean, uh
+- [66:46] when you when you look at the situation
+- [67:32] when AI entered uh the playground of
+- [68:24] SEO,
+- [68:48] uh there was a horrendous amount of
+- [69:34] manpower
+- [70:04] working on these repeatable tasks like
+- [71:09] creating like myself. I was creating
+- [71:53] meta titles when I was working in agency
+- [72:40] like 9, 10 years ago. I was writing meta
+- [73:23] titles over and over and over again for
+- [74:04] 8 hours straight during my day because
+- [74:36] that was
+- [74:55] that was required. That was what we sold
+- [75:28] at the time.
+- [75:50] And [snorts]
+- [76:06] uh you said about the email sequences,
+- [76:59] uh
+- [77:08] which is kind of
+- [77:59] maybe not similar,
+- [78:29] but
+- [78:46] kind of
+- [79:03] how many ways are there to tell that
+- [79:45] here is your password reset link. I
+- [80:23] mean, you can be creative in there, but
+- [81:02] all in all,
+- [81:27] it's uh most of the of the common
+- [82:06] patterns. So, I feel like the creativity
+- [83:20] in both SEO and marketing got unleashed
+- [84:22] right now because of all of these are
+- [85:04] out of the table, or at least they
+- [85:42] should be already because they are
+- [86:06] solved problems with AI.
+- [87:12] 100%. So, I I I completely agree. A lot
+- [88:15] of these tasks, they weren't really
+- [88:49] marketing anyways. They were just tasks.
+- [89:43] Even some of the
+- [90:06] the operations piece, they they were
+- [90:36] just tasks. The I don't like changing
+- [91:10] meta titles. Yes, it's an important
+- [91:35] function of SEO, but it was
+- [92:16] an inefficiency that you had to do it.
+- [92:53] And I had the same thing. You know, one
+- [93:25] of the things that I don't know if you
+- [93:44] ever had this experience, but I manually
+- [94:26] sent out backlink requests emails and
+- [95:01] tried to get backlink. That's an
+- [95:27] inefficiency. And I don't know now if
+- [96:16] you necessarily want to use AI, you want
+- [96:55] to build connections. I got one of the
+- [97:20] best links I ever got in my backlink
+- [98:00] building career
+- [98:25] from a university that controlled the
+- [99:02] government website for the US of uh fuel
+- [99:57] economy. So, it's fueleconomy.gov. And I
+- [100:39:20] got this link by picking up the phone.
+- [101:22:40] Amazingly, at the other end of the the
+- [101:50:00] phone was a research lab at at some
+- [102:31:20] university, and they controlled this
+- [102:56:00] website, and I talked to the person
+- [103:34:00] there and asked if I could have a link.
+- [104:12:00] And he said, "Sure, where do you want
+- [104:32:40] the link to go to?"
+- [104:56:40] I I think I'd emailed that office many
+- [105:39:20] many times, and never responded. So, I I
+- [106:11:20] can't see how you can replace these
+- [106:39:20] human connections when human connection
+- [107:17:20] is required with AI.
+- [108:00:00] And is it the perfect segue to
+- [108:47:20] explaining to the people a little bit
+- [109:28:40] more about the concept of product led
+- [110:06:00] SEO? I think making that connection
+- [111:12:40] when you create your content. So, like a
+- [111:56:40] little foundation uh I will start and
+- [112:32:40] then pass it over to you, obviously, but
+- [113:12:40] uh
+- [113:26:40] it seems like you you you got this
+- [113:56:00] backlink because you showed the
+- [114:30:00] interest, you showed the connection, you
+- [114:58:40] showed your presence uh compared to like
+- [116:14:40] creating
+- [116:36:00] SEO content, which is basically
+- [117:13:20] syndicated
+- [117:38:40] water boils at 100Â°.
+- [118:23:20] Uh and like evergreen type of content.
+- [119:11:20] So, if you maybe could
+- [119:50:40] uh show uh to the people a little bit
+- [120:33:20] more of your uh definition because you
+- [121:23:20] you are an expert in this area.
+- [122:16:40] So, es- essentially what product led SEO
+- [122:59:20] is is instead of thinking of SEO as
+- [123:47:20] content. So, the way many people do or
+- [124:39:20] did SEO, and it's changing, of course,
+- [125:22:00] is they took the the keyword research
+- [126:06:40] and went every keyword research tool
+- [126:28:00] they like, even Google or just Google
+- [127:07:20] Suggest as a keyword research tool.
+- [127:53:20] And they would find things that they
+- [128:16:00] assume people are searching, and they
+- [128:51:20] and they write content that uses those
+- [129:39:20] specific keywords.
+- [130:07:20] What product led SEO does is it elevates
+- [130:54:00] this concept of SEO and thinks about
+- [131:36:40] what is it that the user is looking for
+- [132:19:20] when they go and do these keyword
+- [132:47:20] searches. The end state of the user is
+- [133:31:20] not to just type words in and to see a
+- [134:11:20] search results page. The end state of
+- [134:50:00] the user is to find something that
+- [135:48:40] solves that problem. So, product led SEO
+- [136:35:20] is the effort in building that end
+- [137:16:00] state, a product, an experience. So, in
+- [138:03:20] some cases, it might be an end state.
+- [138:30:00] So, say you're looking you want to know
+- [139:15:20] we just passed tax season in the USA.
+- [139:56:40] So, you want to know you have questions
+- [140:25:20] about filing taxes. You don't want
+- [140:58:40] definitions, you want assistance, you
+- [141:33:20] want answers, you want to be uh calmed
+- [142:20:00] down that you're okay, you want to be
+- [142:48:40] guided to the right solution. So, just
+- [143:27:20] filling up a piece of content with this
+- [144:00:00] is what that term is is not helpful for
+- [144:36:00] that user. Now, if you are a tax filing
+- [145:13:20] website, having the actual forms that
+- [145:43:20] someone could use, that's product led
+- [146:20:40] SEO. If someone is looking, I I worked
+- [147:03:20] with a company called AllTrails, which
+- [147:32:00] is a I think they're global, a directory
+- [148:20:00] of of trails and hikes all over
+- [148:44:40] >> Oh, yes, I know it. I hike. I don't use
+- [149:18:00] them, but I've heard that it's a good uh
+- [150:05:20] it's a good one.
+- [150:28:00] Yes, so I worked with them uh early in
+- [151:10:00] my consulting career.
+- [151:38:40] When someone does a search for the name
+- [152:10:40] of a park, they don't want the to find
+- [153:05:20] out that the park exists. They don't
+- [153:34:00] want a long piece of content saying the
+- [154:00:00] park exists. They want to know about the
+- [154:30:00] trails
+- [154:35:20] >> From 1990s, right? The park was founded.
+- [155:23:20] That's the most important information I
+- [155:53:20] want to know when I'm searching for a
+- [156:17:20] park. Not place to go. Not at all.
+- [157:11:20] I I Or I mean, you might want
+- [157:40:00] information about the park. You want to
+- [158:02:00] know how much it costs to park there.
+- [158:30:00] You might want to know if there's
+- [158:44:40] bathrooms. But that's what they're
+- [159:06:00] looking for. So, working with them,
+- [159:34:40] their product led SEO is making sure
+- [160:06:40] that the information that the user is
+- [160:41:20] looking for is found scaled across the
+- [161:27:20] entire world, across every park that's
+- [161:53:20] available.
+- [162:04:00] >> Isn't it
+- [162:24:00] a great moment to talk about it when we
+- [163:01:20] have this AI stuff around? Because I
+- [163:54:00] imagine
+- [164:24:00] like
+- [164:38:40] I played with it a little bit because of
+- [165:10:40] this webinar. Just got inspired a little
+- [165:58:40] bit, but I started doing it like this.
+- [166:27:20] So, I'm writing this article,
+- [167:06:40] what are the underlying questions behind
+- [167:48:00] it? I'm not an expert, but what they
+- [168:16:40] might be looking for. And you know what?
+- [168:58:00] The simplest ChatGPT models gave me
+- [169:55:20] these really decent reasons, way better
+- [170:49:20] than I would thought of. And I feel like
+- [171:48:40] we are very lucky to implement this
+- [172:41:20] strategy
+- [173:04:00] because it's much easier now. Obviously,
+- [173:40:00] there's probably more art to this, but
+- [174:24:40] even starting this shallow approach
+- [175:33:20] could make a difference, especially in
+- [176:08:40] user behavior while reading your
+- [176:37:20] content.
+- [177:06:00] What you're thinking?
+- [177:12:40] >> 100%. Yeah, it it's really like
+- [177:54:40] product-led SEO is is really about
+- [178:22:00] thinking about the goals of the user.
+- [178:56:00] And I think that a mistake that many
+- [179:27:20] people have always made when it came to
+- [179:54:00] SEO is they looked at the search as the
+- [180:51:20] end state of this entire process.
+- [181:34:00] And really, the reason you're doing SEO
+- [182:26:40] is to bring someone towards some sort of
+- [183:11:20] event. Ideally, you're bringing them
+- [183:44:00] towards something that helps you make
+- [184:16:00] money, but either way, there is some
+- [184:56:00] sort of thing that you want to happen.
+- [185:21:20] You want them to do a search, you want
+- [185:51:20] them to click on the results, you want
+- [186:18:40] them to arrive on your website, you want
+- [186:50:40] them to experience that website and do
+- [187:21:20] something. So, if it's e-commerce, you
+- [187:54:40] obviously want them to buy. If it's
+- [188:19:20] SaaS, maybe you want them to talk to a
+- [188:44:00] salesperson or fill out a lead or do
+- [189:21:20] something. Or if you're media, you want
+- [189:59:20] them to read and watch or whatever it is
+- [190:34:00] that they're doing. But that's the end
+- [190:58:00] state. Just showing up in Google is not
+- [191:35:20] helpful. I remember earlier in my SEO
+- [192:20:40] career finding these, you know, scammy
+- [193:06:00] SEO people who did things like offer
+- [193:44:00] guaranteed results. Like, I guarantee
+- [194:16:40] you for $100, you'll be on page one. But
+- [195:00:40] page one of what? There's no point in
+- [195:34:40] being on page one unless it's page one
+- [196:03:20] of something that drives you, not even
+- [196:36:40] page one, but being getting clicked
+- [197:16:40] drives you to something that is going to
+- [197:56:40] happen that's beneficial for the
+- [198:14:00] business. Otherwise, it doesn't make
+- [198:42:00] sense to invest in this channel.
+- [199:32:40] Wow.
+- [199:50:40] This is a big one. And
+- [200:27:20] I'm so happy we we we touch
+- [201:15:20] this part because
+- [201:50:00] you know, back in the days, people
+- [202:18:00] thought that, "Oh my god, I need a huge
+- [203:02:00] ass keyword database.
+- [203:37:20] I need to cluster all of these terms in
+- [204:34:00] order to figure out the groups I target,
+- [205:16:00] blah blah blah blah." But
+- [205:54:40] what's behind it?
+- [206:53:59] Back then, it was
+- [207:29:20] "I just want to build topical authority.
+- [208:08:40] I just want to cover as much as I can."
+- [209:06:00] Basically, like a dog walking around the
+- [209:54:40] neighborhood and trying to leave the
+- [210:32:00] mark on every single tree possible, just
+- [211:21:20] in case to show like, "I was there. I
+- [211:56:40] was there." So, websites were doing it
+- [212:41:20] and I feel like a lot of websites are
+- [213:16:00] still doing it just to show their
+- [214:11:20] presence, make a mark in every single
+- [214:56:40] SERP around. Even though
+- [215:50:00] these SERPs do not belong to this brand
+- [216:50:00] from sake of providing the solution. And
+- [218:05:20] I've seen
+- [218:25:20] Once one one more sentence and I I I let
+- [219:00:00] you.
+- [219:20:40] I've seen Google taking away keywords
+- [220:24:40] from SurferSEO.com
+- [221:11:20] just because we were really good at
+- [221:47:20] optimization. We were really good at
+- [222:32:00] putting it in front of the people, but
+- [223:10:40] in the end we didn't have a product
+- [224:46:00] that serves this purpose. It was just
+- [225:20:40] part of the SEO.
+- [225:56:40] And Google were taking it away and I was
+- [226:32:40] like, "Oh my god, our traffic went down.
+- [227:28:00] What do we do?"
+- [227:56:00] And it turned out that this traffic has
+- [228:36:00] zero calories, like Coke zero calories
+- [229:26:40] traffic without conversions. It was just
+- [230:13:59] there because
+- [230:40:00] we fit this puzzle fit good enough. And
+- [231:44:40] I would love people to start thinking
+- [232:17:20] differently in this area, not go from
+- [233:06:00] the
+- [233:23:20] basic research, but actually go from
+- [234:05:20] these from these problems because these
+- [234:45:20] problems, even though they do not have
+- [235:13:20] much search volume, these are the real
+- [235:54:00] priorities we should start of. And what
+- [236:53:20] what what about that?
+- [237:36:00] So, I'll give you a few different
+- [238:03:20] examples. So, and this also helped pivot
+- [238:48:40] my thinking. So, when I was at
+- [239:07:19] SurveyMonkey,
+- [239:32:40] I joined and had never ever done SEO
+- [240:07:20] before. And it was amazing to join a
+- [240:31:20] brand that was so well known, had
+- [241:02:00] backlinks from every government in the
+- [241:28:00] world, every university in the world,
+- [242:00:40] and they'd never done SEO. But the four
+- [242:43:20] non-brand terms that they were
+- [243:13:20] >> perfect place to stop. My god, I'm
+- [243:55:20] jealous.
+- [244:16:40] It was great. So, the four terms that
+- [245:00:00] they had, non-brand terms that they were
+- [245:25:20] ranking on was online survey, online
+- [246:17:20] surveys with the plural of that, survey
+- [246:53:59] and surveys.
+- [247:15:20] Those are the four terms they drove all
+- [247:42:00] the non-brand traffic.
+- [248:12:40] During about two years after I joined,
+- [248:56:00] they lost the rankings for the word
+- [249:34:40] surveys. So, we had been number one for
+- [250:08:40] those four terms, and for the the plural
+- [250:51:19] for online surveys and surveys, we moved
+- [251:29:20] from number one to number nine.
+- [252:04:40] And everyone was freaking out and they
+- [252:34:00] it reflected on me like, "What did you
+- [253:03:20] do wrong here?"
+- [253:30:00] And I I looked and we hadn't done
+- [253:58:00] anything wrong. And the reason that we
+- [254:28:40] slipped from number one to number nine
+- [255:17:59] is because what Google did was they
+- [255:47:19] determined that when someone searched
+- [256:13:20] the plural version of those words,
+- [256:53:20] they weren't looking to create a survey,
+- [257:42:40] send out a survey, which is the
+- [258:09:20] SurveyMonkey product. What they were
+- [258:39:20] looking for is they were looking to go
+- [259:12:40] to one of those maybe scammy, maybe not
+- [259:55:20] so scammy websites where they would take
+- [260:31:20] surveys about products they used, and
+- [261:03:20] they would get paid in in points and
+- [261:38:40] shells and whatever it was. So, despite
+- [262:20:00] the fact that we had backlinks from
+- [262:46:40] every government and every university
+- [263:16:40] and every corporation in the world, it
+- [263:50:39] was not the product But it's actually
+- [264:25:59] good you lost this keyword. Like because
+- [265:12:40] that wasn't your keyword.
+- [265:45:20] So, we that was before we I I pivoted
+- [266:36:00] the whole company to thinking about
+- [266:57:59] revenue. So, we got a lot of traffic
+- [267:27:19] from it, but it was hard to know whether
+- [267:49:20] we generated any revenue from it. So,
+- [268:20:00] that's correct. We may we lost traffic
+- [269:00:00] from those keywords, but we probably
+- [269:36:40] didn't lose any revenue because if
+- [270:01:19] that's what someone's looking for, they
+- [270:30:00] want to take a survey and get paid to
+- [270:59:20] take surveys. So, they looked on at how
+- [271:40:40] to do that. So, they they would searched
+- [272:12:00] online surveys, they found SurveyMonkey,
+- [272:38:40] they're like, "This isn't the thing for
+- [273:00:39] me. I want to get paid to take surveys.
+- [273:27:20] I'm leaving going somewhere else." I
+- [273:56:00] actually later on once once I realized
+- [274:28:40] that, I helped build some of our
+- [274:54:00] rankings around a competitive product
+- [275:22:40] that we had. So, that's what someone was
+- [275:52:40] looking for. So, now we had that
+- [276:13:20] competitive product that they could take
+- [276:35:20] surveys. That's one way of thinking of
+- [277:06:00] it. Another project I worked on, so I
+- [277:40:40] consulted with Coinbase.
+- [278:18:40] So, Coinbase is the same thing. So, the
+- [279:02:00] when you're building, it's not about
+- [279:23:59] building traffic, it's about building
+- [279:54:40] some sort of end state that you want to
+- [280:22:40] monetize. So, when I started consulting
+- [280:56:40] with Coinbase, all of their SEO efforts
+- [281:32:40] went into the something around the words
+- [282:10:39] Bitcoin. Because when it came to crypto,
+- [282:45:59] Bitcoin was far and away the most
+- [283:28:40] popular crypto out of all the other
+- [284:02:00] cryptos.
+- [284:21:20] However, all those long-form, going back
+- [284:54:00] to the history piece, long-form blog
+- [285:27:20] posts about how Bitcoin works and what's
+- [286:12:00] the, you know, history of Bitcoin and
+- [286:44:00] who created it and what's Bitcoin worth
+- [287:22:40] was not relevant because when someone
+- [287:48:40] searched Bitcoin,
+- [288:18:00] they want to transact. And that's what
+- [288:49:20] Coinbase makes money on. So, I pivoted
+- [289:31:20] all the SEO efforts around this is what
+- [290:00:00] someone's searching for. So, it doesn't
+- [290:30:00] make sense for us to get a lot of
+- [290:48:00] traffic for history of Bitcoin if we'll
+- [291:16:00] never monetize it. So, all the SEO we
+- [291:54:00] did was around the different cryptos to
+- [292:40:40] find the pricing and do the
+- [293:01:20] transactions, and then you're joining
+- [293:25:20] Coinbase and you're helping monetize.
+- [293:51:20] So, SEO, like you said, empty calories,
+- [294:38:40] doesn't really help anybody. It's not
+- [295:10:00] about traffic unless there's anybody out
+- [295:48:40] there that has figured out how to get
+- [296:12:40] paid just by showing up on Google,
+- [297:01:20] it doesn't help to just show up on
+- [297:20:40] Google. You want to get
+- [297:34:40] >> know who it helps? Hold on, I will break
+- [298:10:00] into
+- [298:26:40] That will make a good discussion.
+- [299:00:40] It helps PBN builders.
+- [299:48:40] And I feel like people are messing these
+- [301:04:00] two strategies. I want to build
+- [302:00:40] sustainable model for SEO and marketing
+- [302:54:00] for my real company that sells
+- [303:47:59] I don't know, training rubber bands,
+- [304:22:40] okay?
+- [304:42:40] Or I want to rank on as many fitness
+- [305:48:00] stuff so I can sell the backlink for
+- [306:34:00] 300, not for 200. And
+- [307:44:00] well, the first one has to do it legit
+- [308:43:20] with all of these
+- [309:16:40] elements of
+- [309:49:20] solving the problem that that that
+- [310:23:20] product-led SEO, but the other can do
+- [311:13:20] every shady thing
+- [312:01:20] because they will
+- [312:26:00] not solve the problem anyway. They are
+- [312:54:40] just there to get traffic, get the get
+- [313:53:20] to to the marketplace and sell through
+- [314:31:20] it as many backlinks as possible, then
+- [315:24:00] kill the website because
+- [316:02:00] sooner than later, it's going to be be
+- [316:38:39] done. They will buy another aged website
+- [317:32:00] and the cycle repeats.
+- [318:23:20] So, I want everybody to think first,
+- [319:22:40] what are they building? Are they
+- [320:01:20] building
+- [320:22:40] full traffic topical authority website
+- [321:07:20] with a purpose of
+- [321:54:40] selling mentions, links, whatever, or is
+- [322:44:00] it their business? Because the tactics
+- [323:29:20] may differ.
+- [324:12:00] Yeah, absolutely. I think that many
+- [324:59:20] let's pivot this to AEO. I think there
+- [325:40:00] are many in the AEO industry that are
+- [326:12:00] selling something around
+- [327:04:40] visibility on LLMs that is the exact
+- [327:42:00] same as what you're talking about with
+- [328:02:40] PBNs.
+- [328:25:20] LLMs is just visibility. Just showing up
+- [329:27:20] in an LLM is just [clears throat]
+- [329:52:40] visibility, just like search rankings
+- [330:25:20] are. I think there's a tremendous amount
+- [330:58:40] of value for businesses that will come
+- [331:37:20] out of LLMs. Unfortunately, we're
+- [332:11:20] probably never going to be able to get
+- [332:36:00] accurate tracking of how you perform in
+- [333:18:40] an LLM from end to end. You can look at
+- [334:03:20] it as like referral, but you won't know
+- [334:39:20] the prompt, and you won't really know
+- [335:07:20] the landing page, and you won't know the
+- [335:32:00] journey. You just know that it came from
+- [335:59:20] that website.
+- [336:25:20] So, it's sort of the same empty calorie
+- [337:00:40] thinking. And we need to again keep in
+- [337:57:20] mind that the goal of this as a channel,
+- [338:49:20] the goal of organic, whether it's LLM or
+- [339:27:20] search as a channel, is to bring you to
+- [340:06:00] some sort of
+- [340:28:40] business KPI, some business performance
+- [341:29:20] metric that is relevant. And I find and
+- [342:23:20] I've been doing consulting for last 7
+- [342:58:00] years, I find that there are many
+- [343:28:00] businesses that they want to do SEO just
+- [344:12:40] to check the box. They raise money and
+- [344:37:20] they're like, "Well, I have money. Now I
+- [344:58:00] should do SEO."
+- [345:22:40] You could say to them, "Well, you raised
+- [345:53:20] money, you have money. Maybe you should
+- [346:22:40] take out ads on TV. Maybe you should be
+- [346:58:40] on Spotify. Maybe you should launch a
+- [347:24:00] podcast." There's lots of maybes you
+- [347:50:40] should do, but they don't because they
+- [348:27:20] say, "Well, I'm not going to launch a TV
+- [348:52:40] ad because my audience doesn't watch
+- [349:31:20] TV." Or I'm not going to be a going on
+- [350:06:40] podcast because my audience doesn't
+- [350:34:00] listen to podcast. Well, I would apply
+- [351:02:40] that same level of critical thinking to
+- [351:32:40] SEO. Does your audience Is your audience
+- [352:20:40] going to be searching? What's going to
+- [352:42:40] happen when your audience searches? What
+- [353:10:40] do they land on? Will they follow on and
+- [353:40:40] land on that end state? And I think it's
+- [354:13:20] really important to to to think about
+- [354:48:40] that before you make that huge
+- [355:08:00] investment. And one of the most popular
+- [355:41:20] posts I've had on on my Substack in the
+- [356:14:00] last year has been around doing AEO and
+- [357:12:00] thinking about AEO as the follow-up. So,
+- [357:55:20] it's not about just showing up in the
+- [358:23:20] LLM, it's about what happens next. If
+- [359:13:20] you are called out as the brand that
+- [359:54:00] makes sense for whatever they're
+- [360:14:40] searching for, then they'll the next
+- [360:49:20] thing they'll do is they're going to
+- [361:11:20] Google, likely Google, cuz they they
+- [361:48:40] citations probably aren't the best
+- [362:12:00] landing page. So, they'll Google, maybe
+- [362:40:00] they'll go directly to the to your
+- [363:06:40] website, and you'll be a complete direct
+- [363:36:40] visit. But when you think about LLMs,
+- [364:06:00] it's all about building the follow-up.
+- [364:34:00] But if you hit a blank wall there and
+- [364:58:40] you say, "Well, I don't know what the
+- [365:16:00] follow-up is." Well, should you even be
+- [365:54:40] thinking about AEO as a channel? Is it
+- [366:31:20] the same thing as a product-led SEO when
+- [367:16:00] you look at the keywords and turn them
+- [367:46:00] into problems and answers? And when you
+- [368:27:20] look at the article you are creating in
+- [369:20:00] in order to
+- [369:54:00] show up in LLM responses, so you can
+- [370:56:00] already start thinking about these
+- [371:28:40] follow-up questions. I was playing with
+- [372:15:20] with this specific approach and and
+- [373:03:20] tried it on on on Surfer AI as a custom
+- [373:52:40] instructions, and it turned out it was
+- [374:37:59] already like I was writing about best
+- [375:08:00] SEO tool, and it was already promoting
+- [375:40:00] like, "Is it good for agencies? Is it
+- [376:20:40] good for in-house?
+- [376:49:20] How How do I start?" Or even You know
+- [377:39:20] what? It even created activation plan at
+- [378:50:40] the end of the article. So, what are my
+- [379:28:00] next steps for the first week, for the
+- [380:00:00] second week, for the third week? How do
+- [380:42:00] I implement the solution already? And I
+- [381:26:00] was thinking, will this source be also
+- [382:54:00] cited for all of the future questions
+- [383:46:00] because it's already in a context and
+- [384:27:20] history of this conversation, so I saved
+- [385:27:20] them tokens, I saved them web search. If
+- [386:16:40] they already have that information
+- [387:06:40] in the context of the first chosen
+- [387:54:00] source. I know I I I I I I said a lot,
+- [388:50:00] but what what what do you think about
+- [389:31:20] this?
+- [389:48:40] I I I think it's the same idea from a a
+- [390:34:00] thought level perspective, but I do
+- [391:04:40] think there's a fundamental difference
+- [391:26:40] between product-led SEO and product-led
+- [391:58:00] AEO. So, when it comes to product-led
+- [392:37:20] Yeah, so when it comes to product-led
+- [392:58:40] SEO, you're actually building out a
+- [393:26:40] product. So, you're thinking about what
+- [394:30:00] is the broad scaled approach to all the
+- [395:29:20] general things. So, like I'm talking
+- [395:50:40] about AllTrails. What's the broad scaled
+- [396:32:00] approach for every trail, every country,
+- [397:15:20] every every thing that someone could
+- [397:40:40] land on? How do you build it out because
+- [398:07:20] that's what they're looking for as a
+- [398:24:40] product. When it comes to product-led
+- [399:02:40] AEO, I think it actually gets more
+- [399:38:40] narrow, and I think companies like
+- [400:05:20] AllTrails get stepped on by LLMs. So,
+- [400:44:39] it's no longer about building this
+- [401:16:00] entire
+- [401:38:00] big
+- [401:58:00] big broad landing page for every single
+- [402:39:20] park that might exist. Now, we're
+- [403:16:00] probably going to be in a world where
+- [403:37:20] the LLMs will replace that element of
+- [404:14:40] AllTrails. So, product-led AEO is about
+- [405:10:00] what happens next. What's the follow-up
+- [405:46:40] to that? Do you build a product? So,
+- [406:15:20] it's from a thought level, it's similar,
+- [406:48:40] but from a product level, it's different
+- [407:19:20] because you're building something that's
+- [407:44:40] the follow-up. So, now they know about
+- [408:18:00] the park exists, what sort of
+- [408:47:20] information do you provide that's not
+- [409:18:40] going to be provided by the LLM? What
+- [409:42:40] sort of experience can you sell tickets
+- [410:27:59] to the park? Can you sell parking to the
+- [411:06:40] park? Can you um give UGC that the LLM
+- [412:17:20] can't give? That's That's a different
+- [412:55:20] experience than product-led SEO where
+- [413:23:20] it's all about I'm giving everything
+- [413:52:00] because the LLM doesn't exist. Yeah.
+- [414:40:00] Wow.
+- [415:26:40] Wow. I mean,
+- [415:59:20] uh 10-second pause will be a good idea
+- [417:02:00] to to have right here because what you
+- [417:57:20] what you said is is uh
+- [418:49:20] something that will start growing next
+- [420:11:19] year or even 2 years from now. Uh you
+- [421:17:59] you you you gave a prophecy, I would
+- [421:52:40] say, because people are
+- [422:41:19] really crazy stuck in figuring out the
+- [423:59:20] new reality. Like, how do I do outreach
+- [424:50:40] for backlinks? How do I write my content
+- [425:22:00] now? Is the Claude 5.4 better? Or should
+- [426:34:39] I try blogs? Whatever whatever like so
+- [427:22:00] many different things they have to
+- [427:55:20] chase, but there is no way to like step
+- [428:58:40] back what you just said
+- [429:37:20] and think,
+- [430:07:20] "What can I do that LLM can't do so I am
+- [431:25:20] not replaceable in this chain of
+- [432:45:20] well, money flow, basically. So, can
+- [433:36:40] AllTrails only provide" This is a good
+- [434:22:40] example. "Only provide hiking route with
+- [435:14:00] GPX and like navigate me through it? Or
+- [436:33:20] they can they can do more, basically.
+- [437:18:40] Give the comments, give the photos of
+- [437:48:40] the place.
+- [438:12:40] Maps It's called
+- [438:46:40] uh mapy.cz
+- [439:20:40] is like our
+- [439:50:40] European
+- [440:16:00] hiking map thingy. And they provide
+- [441:17:20] photos of the place. And
+- [442:18:40] it's only in their database. It's not
+- [442:45:20] like indexed somewhere.
+- [443:22:00] So, every time I see
+- [444:14:00] I search for a trail in the mountains, I
+- [445:02:00] check if there are winter photos so I
+- [445:36:00] can see if there's north face is
+- [446:20:40] actually snowy in May.
+- [447:03:20] And this is something you can't get. So,
+- [448:12:40] I believe that everyone
+- [448:54:00] should start thinking about this unique
+- [449:47:20] perspective of the business, and I'm
+- [450:34:40] really sorry to all of the like service
+- [451:55:20] people because it will be hard to think
+- [452:37:20] about something crazy when you are a
+- [453:16:00] plumber. You just offer the service, you
+- [454:09:20] can go there and fix the pipe, but
+- [454:53:20] maybe yeah.
+- [455:20:00] Let's do the exercise. What would you do
+- [456:10:00] if you were a plumber to be this extra
+- [456:58:40] extra thingy?
+- [457:47:20] Yeah, so I have I have a longer answer
+- [458:28:40] to this. All right. [laughter]
+- [459:01:20] We still have plenty of time. I want to
+- [459:41:20] give a better example of how the how to
+- [460:22:40] think about this problem. So, I I
+- [460:55:20] consulted with a company called
+- [461:17:20] cars.com. cars.com monetizes in two
+- [462:13:20] different ways. They monetize with
+- [462:46:00] impression advertising. So, when someone
+- [463:18:40] sees their content, they're they have
+- [463:44:00] advertising. And the second way they
+- [464:14:40] monetize is they help sell used cars.
+- [465:10:40] So, the first way, unfortunately, is
+- [465:58:40] disrupted. So, the information they had,
+- [466:35:20] if it's commoditized information, so the
+- [467:07:20] same way they bought spec data and photo
+- [467:43:20] data from the auto manufacturers, the
+- [468:32:00] LLMs can buy that data, too. So, now
+- [469:07:20] it's commoditized. There's no reason to
+- [469:32:00] even click. If cars.com is ranking
+- [470:04:00] number one, there's no reason to click
+- [470:24:00] number one because a lot of the
+- [470:42:00] information you need is now going to be
+- [471:22:40] in an LLM. And AI mode even brings in
+- [472:07:59] those comparisons. So, I can say compare
+- [472:36:00] the, you know, this Volvo to that Volvo,
+- [473:19:20] compare the Honda to the Toyota. It's
+- [473:52:40] all there. You don't need the content
+- [474:18:40] anymore. So, that is disrupted. What is
+- [474:57:20] not disrupted is the ability to buy the
+- [475:54:00] car. I came online because I would like
+- [476:36:00] to get a new car or someone else's car,
+- [477:21:20] a used car.
+- [477:48:00] I can get information about that, but I
+- [478:28:40] can't get the car from the LLM. I need
+- [479:16:00] the physical car. So, now what you're
+- [479:51:20] doing, and then we'll get into the
+- [480:08:40] plumber question, what you're doing from
+- [480:41:20] an LLM standpoint is you're focusing on
+- [481:13:20] the mid-funnel, which is I'm going to
+- [481:40:00] assume you now know what car to get
+- [482:10:00] because that has been disrupted by LLM.
+- [482:43:20] What you can't do is find the car local
+- [483:16:00] to you. You can't figure out if the
+- [483:50:40] prices that are being recommended, you
+- [484:28:00] can now give a very specific window and
+- [484:58:39] say, "I want a car that's priced between
+- [485:33:20] X and Y. I want it to be this amount of
+- [486:11:20] distance from me." The LLM will feed it
+- [486:50:40] from websites like cars.com, and now you
+- [487:30:00] still need to use cars.com to find it.
+- [488:08:40] That's the That is the opportunity that
+- [488:52:40] exists with LLMs. So, it's no longer
+- [489:26:40] about capture the top of funnel, bring
+- [489:54:00] them into your journey. It's now about
+- [490:30:40] the top of funnel exists on the LLM, and
+- [491:21:20] the mid-funnel is what exists on your
+- [491:58:40] website. So, you're cat again, you're
+- [492:24:39] catching that follow-up with the
+- [492:42:40] mid-funnel.
+- [493:07:20] Now, for the plumber, I would argue that
+- [493:42:40] maybe plumbers should never have been
+- [494:20:40] doing SEO. And the reason why is because
+- [495:14:00] plumbers are really good at plumbing,
+- [495:41:20] they're not necessarily the best at SEO.
+- [496:17:20] I'm sure there's exceptions to that, but
+- [496:46:40] they should focus on their plumbing. And
+- [497:21:20] I've even been in a situation where I
+- [497:50:00] was looking for local service providers
+- [498:22:40] and I found their websites and their
+- [498:46:40] websites were so bad that I didn't want
+- [499:22:00] to use that local service provider
+- [499:50:40] because maybe there were typos, maybe
+- [500:18:40] there was outdated pricing, maybe the
+- [500:49:20] website was hacked. Now, if the plumber
+- [501:28:00] did not have that website, I might have
+- [501:59:20] done what many people did before
+- [502:27:20] websites existed, which is find their
+- [503:07:20] phone number, call them, talk to them,
+- [503:36:40] and find out if they're a good fit for
+- [504:07:20] me. Now we're in an LLM world. So in an
+- [504:48:00] LLM world, I actually think the website
+- [505:18:40] needs to exist again. And the reason why
+- [505:59:20] that website needs to exist is because a
+- [506:58:40] you now have the your own source to feed
+- [507:50:40] the LLM. So instead of
+- [508:32:00] I don't know how it is in the rest of
+- [508:49:20] the world, but instead of Yelp and
+- [509:08:40] Google My Business feeding that
+- [509:31:20] information about this is where the
+- [509:51:20] plumber is located, this is the service
+- [510:18:40] the plumber offers, you have it on your
+- [510:45:20] own website, it's feeding the LLM. So if
+- [511:20:00] I say, I want a plumber that specializes
+- [512:00:40] in
+- [512:18:00] sink faucets,
+- [512:43:20] the LLM now learns from the website that
+- [513:21:20] this plumber specializes in sink
+- [513:40:40] faucets. I might say I would like a a
+- [514:13:20] plumber that charges $100 per visit,
+- [515:08:00] that's feeding from their website and
+- [515:32:40] the LLM will help make a recommendation.
+- [516:03:20] So that's what I would think about. I
+- [516:26:40] would no longer think about SEO the way
+- [517:00:00] many plumbers have done in the past,
+- [517:34:40] which is they want to write all that
+- [517:57:20] generic information. This is what a sink
+- [518:26:40] is, this is what a pipe is, this is what
+- [518:56:40] a toilet is. Unnecessary, they never
+- [519:30:40] should have done it. Now it's really
+- [519:56:00] about I want the LLM to recommend me,
+- [520:41:20] what should they recommend me for? What
+- [521:10:40] are my prices? Where are my Where are my
+- [521:43:20] Where am I willing to go to fix things?
+- [522:26:40] Yeah, like am I am I able to fix the
+- [523:04:40] copper pipes or I only work in plastic,
+- [523:48:40] stuff like that. And
+- [524:24:00] if you actually say, I work with
+- [525:05:20] plastic, I work with aluminum, if
+- [525:50:00] anybody is using, but I work I work with
+- [526:30:00] copper pipes, I work with steel pipes,
+- [527:13:20] then if nobody else will explicitly say
+- [528:32:40] that they fix copper pipes.
+- [529:28:00] And only you are the one who say, I work
+- [530:12:40] with copper, I have no problem with
+- [530:55:20] fixing that, you will be the one
+- [531:26:40] recommended because you said so. And
+- [531:58:40] this is actually really beautiful time
+- [532:46:40] we live in because whatever you say is
+- [533:34:40] actually true. I mean, if you say on
+- [534:14:00] your website you work with copper pipes,
+- [534:54:39] it will be taken to the analysis,
+- [535:32:00] information retrieval, analysis, and
+- [536:11:20] then boom, this guy works with copper
+- [536:36:00] pipe, I recommend him because
+- [537:19:20] one of the questions was about the
+- [537:46:40] copper. So
+- [538:18:40] giving these uh
+- [538:55:20] actually example of use, example of
+- [539:37:59] service uh
+- [540:06:00] you can actually brainstorm with AI a
+- [540:36:00] lot, like what can be my my thing?
+- [541:47:20] So people because that's a follow-up
+- [542:16:40] question actually, but what do I do if I
+- [543:02:40] have a copper installation at my home?
+- [543:38:40] What do I do if it if it's plastic? And
+- [544:18:00] then it will be already these anchor
+- [544:51:20] that I need the plumber and I need to
+- [545:34:00] provide a plumber that I am sure they
+- [546:24:40] work with this type of installation.
+- [547:07:20] Kind of
+- [547:24:00] kind of a good idea.
+- [548:00:40] You would need that all on your website.
+- [548:34:40] So now if the LLM is going to feed it.
+- [549:08:40] And you also can't do the spammy things
+- [549:48:40] and I'm sure you and and many people
+- [550:27:20] watching have seen the
+- [551:07:20] places that are named near me. I
+- [551:37:20] actually saw one in Texas that was
+- [552:17:20] called urgent urgent
+- [553:06:40] urgent care near me. Exactly. So you
+- [553:34:00] have all these places named near me, but
+- [554:04:00] the LLMs will now be much smarter. So
+- [554:32:00] they're not going to fall for like it
+- [555:00:40] says near me in the name, they're
+- [555:28:40] actually learning from your your
+- [556:04:00] location. And now they're going to pull
+- [556:37:20] from different sources on the web to
+- [557:02:40] know whether you'd provide copper pipes
+- [557:34:40] or aluminum pipes. So I I think they'll
+- [558:08:00] the websites become really important in
+- [558:36:00] that respect.
+- [559:13:20] Well.
+- [559:44:00] I think we covered a decent amount of
+- [560:56:00] of questions already. I'm wondering what
+- [561:37:20] the what the audience thinks and by the
+- [562:11:20] way, still 80 people watching guys, like
+- [562:57:59] the number is not going going down at
+- [563:42:40] all. So I want to be super thankful for
+- [564:50:40] for sticking with us for already
+- [565:27:59] half an hour. Give it a like and
+- [565:56:40] subscribe if you can.
+- [566:32:00] We had this one question like people in
+- [567:22:00] marketing department are always one step
+- [568:12:00] away from the guillotine and I wanted
+- [568:45:53] [clears throat] to follow up on this
+- [569:10:00] question because
+- [569:44:00] someone started to say that oh, Google
+- [570:18:40] will will now offer selling used cars
+- [571:00:40] and so on. And look at what Cloud is is
+- [571:49:20] is doing. People are building their own
+- [572:30:00] apps, MCPs, whatever and then six months
+- [573:40:40] later, surprise, it's out of the box in
+- [574:40:40] Cloud as a as an add-on or whatsoever.
+- [575:44:00] So do you agree with being this one step
+- [576:28:00] away from the guillotine or actually
+- [577:16:40] you're building the guillotine for the
+- [577:45:19] others?
+- [578:09:19] I I don't think so. I I think that many
+- [578:50:40] marketers have this problem where
+- [579:14:00] they're they're following rather than
+- [579:43:20] leading. So I what I would suggest to
+- [580:32:40] anyone, this is what I do with all of my
+- [580:59:20] clients, is think about where AI will be
+- [581:56:40] in two years from now and plan for that.
+- [582:46:40] So instead of every time you see
+- [583:13:20] something, like for example, I'm going
+- [583:47:20] to be at Google I/O in in two weeks, on
+- [584:25:20] May on May 19th. And instead of me being
+- [585:34:00] reactive to what Google's going to
+- [586:16:40] announce and pivoting all my strategies,
+- [586:54:00] I've been doing my best the last year
+- [587:38:40] since the last Google I/O to be as in
+- [588:15:20] close contact with people that are
+- [588:39:20] working on these things and trying to
+- [589:06:00] feel and and figure out what it is that
+- [589:54:40] will exist. I'm I'm very very convinced
+- [590:42:40] based on everything I've learned so far
+- [591:22:40] that we're very close to Google AI mode
+- [592:01:20] becoming the default. So instead of
+- [592:32:40] being reactive on the day after Google
+- [593:15:20] I/O and saying, oh no, this is AI mode,
+- [593:54:40] what do I do now? Everything around SEO
+- [594:24:00] has changed, I've been working with all
+- [595:01:20] the clients that I I talk to and say
+- [595:33:20] this is what likely will be the reality.
+- [596:16:40] This should be our strategy that adapts
+- [596:45:20] to that reality.
+- [597:08:40] And you know, anything you think that an
+- [597:54:00] LLM could do but doesn't do today, it
+- [598:44:40] probably will eventually do it. So I saw
+- [599:33:20] Nate's comment about
+- [600:05:59] Google selling cars. Actually, that's
+- [600:34:00] something Google has tried twice. I feel
+- [601:04:40] very confident Google's likely not going
+- [601:35:20] to do that again. The reason they failed
+- [602:05:20] at it both times and you know, I've been
+- [602:57:20] in in and out of automotive SEO for a
+- [603:34:40] while.
+- [604:00:00] Dealing with individual dealers is very
+- [604:42:40] very complex, which is also the reason
+- [605:17:20] that Google has gone in and out of the
+- [605:48:40] restaurant booking business. Like it in
+- [606:36:00] theory
+- [607:03:20] it sounds like a good idea to be able to
+- [607:41:20] book direct like seats directly in a
+- [608:15:20] restaurant, but in practice that means
+- [608:48:40] dealing with every single different
+- [609:15:20] booking software, dealing with every
+- [609:44:40] manager, dealing with who who are you
+- [610:30:00] mad at when you show up and your
+- [610:52:00] reservation isn't there. If you if you
+- [611:41:20] fill out a lead to buy a car and you go
+- [612:09:20] to the dealer and that car is not there
+- [612:34:40] or the price changed dramatic Google. So
+- [613:14:40] that's complex. So I feel very confident
+- [613:45:20] Google's likely not going to do that.
+- [614:18:00] What Google does with travel is similar,
+- [615:14:00] right? But like Google's using OTAs and
+- [615:44:40] we're all used to that. So they're just
+- [616:21:20] becoming that OTA. You might be mad at
+- [616:55:20] Google, but those systems are there. You
+- [617:22:40] very rarely show up at a hotel that you
+- [618:00:00] booked on Expedia or booking.com and it
+- [618:30:40] didn't exist. So Google's just using
+- [619:00:40] that same system. What they do with
+- [619:30:00] flights is they send you over to those
+- [620:01:20] airlines. So Google's not responsible if
+- [620:28:00] your flight is late. So think about
+- [620:57:20] where
+- [621:12:00] any of this technology could go and
+- [621:45:59] that's likely where will go. Will it be
+- [622:17:20] in a year from now? Will it be in five
+- [622:38:00] years from now? But you have to build
+- [623:01:20] your marketing around that and not just
+- [623:29:20] wait for that other shoe to drop or the
+- [623:52:40] guillotine to fall on your head. I had
+- [624:28:40] the same situation with
+- [625:08:00] sport results. Let's say Barcelona is
+- [625:57:20] playing a game and I want to know
+- [626:46:40] if if they won. And fine, Google will
+- [627:32:40] tell me they won and I see like
+- [628:16:00] Lewandowski scored.
+- [628:49:20] In in many cases that's enough
+- [629:19:20] information, but I still go and follow
+- [630:08:40] up to the website because I want a
+- [630:44:40] commentary from the expert.
+- [631:32:00] I don't only want a shortcut video, but
+- [632:22:40] I also want to read what do they think
+- [633:06:40] about the per- performance of each
+- [633:56:40] player. So
+- [634:28:40] for all of these businesses, there will
+- [635:18:00] be always a way to make it like it's
+- [636:50:40] it's basically this extra mile besides
+- [637:56:00] just providing the information who won.
+- [638:30:40] And uh
+- [639:02:40] yeah, I think that people will
+- [639:38:40] uh will have to. It's not only like a
+- [640:36:40] I'm I'm not asking you to start doing
+- [641:14:00] it. I tell you if you don't do it, the
+- [641:58:40] guillotine might be actually uh might be
+- [642:48:40] might be actually coming uh your
+- [643:18:00] direction. So
+- [643:48:00] uh but I will also
+- [644:18:00] ask you to do it because I I care about
+- [645:02:00] you guys. I want you to succeed
+- [645:30:00] everyone. So please think about these uh
+- [646:23:20] how you can make this extra mile so
+- [647:06:40] there is a reason to visit.
+- [648:02:00] Maybe you have tips on on the
+- [648:41:20] >> it's a great example on the on what you
+- [649:14:40] were saying as far as the the sports. So
+- [650:01:20] a website like that in the finance space
+- [650:44:40] has lost a lot of traffic as a result of
+- [651:21:20] LLMs. Like if you just want to
+- [651:44:40] understand
+- [652:08:40] what's a stock price, Google the
+- [652:40:00] knowledge graph already gives that to
+- [653:00:40] you. What has not lost a lot of traffic
+- [653:35:20] is sports websites because you don't
+- [654:11:20] just want the score, you want the
+- [654:30:40] commentary. So LLMs can't disrupt that.
+- [655:05:20] You want the user-generated piece, you
+- [655:36:00] want the the expert piece. So when you
+- [656:27:20] think about what LLMs will do,
+- [657:10:00] if an LLM can disrupt you, it probably
+- [657:56:40] will disrupt you. If what you're
+- [658:39:20] providing is is not something that
+- [659:13:20] someone's going to get out of an LLM,
+- [659:42:00] then continue to provide it and I
+- [660:03:20] wouldn't be so concerned about it.
+- [660:37:20] Everything we are talking about is also
+- [661:29:19] boosting behavioral signals of potential
+- [662:27:20] visitor because it doesn't matter
+- [663:02:40] whether it's Google or LLM or is a
+- [663:44:40] direct visit to your blog post. If there
+- [664:30:40] is this underlying problem that is
+- [665:03:20] solved and not only the one, but also
+- [665:48:40] the next one.
+- [666:18:40] And ideally the next one and then they
+- [667:01:20] are pushed through the funnel and they
+- [667:25:20] are actually oh my god, they already
+- [667:56:00] gave me the solution and I can pay them
+- [668:29:20] right now with Apple Pay and go away
+- [669:11:20] home with with the solution.
+- [670:00:40] They increase the behavioral signals
+- [670:47:20] which are clearly one of the strongest
+- [671:38:00] indicators of
+- [672:08:00] ranking prediction. So,
+- [673:01:20] are we actually talking about adapting
+- [673:48:40] to
+- [674:06:40] new search with data approach because it
+- [675:08:40] helps in many areas as well?
+- [676:22:40] I think the thing that that many miss
+- [677:08:40] when they they approach this is there's
+- [677:30:40] a very very strong element of brand.
+- [678:30:40] So, what LLMs are doing is they're
+- [679:03:20] becoming your own personal assistant.
+- [679:46:40] So, an example I like to give is there's
+- [680:38:00] something subconscious that you can't
+- [681:22:00] describe that tells you that Nike shoes
+- [682:06:00] are Nike shoes. When you see a Nike
+- [682:46:00] shoe, you're like oh I that means
+- [683:18:40] quality. That's the same shoe that
+- [683:46:40] basketball players are it's completely
+- [684:19:20] subconscious to you. And if I gave you a
+- [684:51:20] fake Nike shoe
+- [685:24:00] that looked almost like Nike, you would
+- [686:00:00] have a very hard time describing why
+- [686:41:20] it's not Nike. The swoosh is a little
+- [687:14:40] off, the blackness of the shoe is not as
+- [687:50:00] deep black. The sole feels a like
+- [688:32:40] something about it, but you can't
+- [688:55:20] subconscious. So, what LLMs do is they
+- [689:38:00] pick up all these brand signals
+- [690:22:40] to try to understand what it is that
+- [690:46:00] people are looking for. So, it's not
+- [691:17:20] just did it match the keyword? Was it
+- [691:53:20] cited on Reddit? It's really
+- [692:29:18] >> [clears throat]
+- [692:50:00] >> Wait.
+- [693:05:20] Excuse me. It's really about the brand.
+- [693:36:40] So, these are little individual signals
+- [694:26:00] that match and and like get aggregated
+- [695:17:20] up to say that this is the right thing.
+- [695:50:40] So, when you search you we talked about
+- [696:18:40] plumbers, we talked about cars. When you
+- [696:55:20] search these things,
+- [697:26:40] what is it that makes you trust that
+- [698:02:00] plumber? What is it that makes you trust
+- [698:32:40] the car? You it's hard for you to
+- [699:04:00] pinpoint, but AI they don't have
+- [699:42:40] emotions. They can pull it all together.
+- [700:13:20] That's what LLMs are are are intending
+- [700:50:40] to do. They're not very good at it.
+- [701:17:20] They're not perfect at it just yet. So,
+- [701:47:20] I think many in the SEO industry they're
+- [702:17:20] looking for shortcuts. They're like
+- [702:38:00] well, LLMs just gravitate towards
+- [703:05:20] Reddit. Well, they gravitate towards
+- [703:34:00] things like Reddit. They're looking for
+- [704:06:40] those signals. But the same way you as a
+- [704:43:20] human couldn't directly articulate how
+- [705:27:20] and why you like measure brand, the LLMs
+- [706:25:20] will do the same thing. So, the the
+- [706:54:40] biggest shortcut to showing up in in AI
+- [707:43:20] is being that brand, being what users
+- [708:14:00] want, being everywhere because you don't
+- [708:46:00] know what matters.
+- [709:23:20] Being everywhere sounds like we enter
+- [710:13:20] the area of
+- [710:48:00] these not super accurate, but still
+- [711:51:20] ways of monitoring visibility. We did
+- [713:06:40] quite a few data studies to figure out
+- [713:50:40] if it makes sense to monitor thousands
+- [714:25:20] of prompts even they are similar, but it
+- [715:22:00] turned out that no, the results are
+- [716:05:20] almost the same. There's like a huge
+- [716:42:40] percentage of the same brands, the same
+- [717:10:40] sources even though you ask the question
+- [717:37:20] different way. So,
+- [718:15:20] what I'm what I'm trying to segue to is
+- [718:45:20] that there is a way to find these places
+- [719:48:40] that are currently being cited. LLMs
+- [720:57:20] like them from this reason or or that. I
+- [721:36:40] don't care. If I know that this page
+- [722:20:40] shows up twice
+- [722:56:40] more frequently than the other one, I
+- [723:36:00] will be trying to chase that
+- [724:22:40] that page
+- [724:46:00] in order to get my brand in front of the
+- [726:00:40] editor and maybe they can test my
+- [726:49:20] product, maybe they can
+- [727:26:40] get my money and put
+- [728:34:40] put a
+- [729:02:00] my brand on top of the list. So, uh
+- [729:58:00] I see that
+- [730:27:20] monitoring the whole funnel from like
+- [731:25:20] how much money did we make? What's the
+- [732:11:20] like attribution problem is bigger than
+- [732:46:40] ever. And I feel like everybody is aware
+- [733:38:40] of that, but from the perspective of
+- [734:15:20] collecting data, collecting these SERPs
+- [735:02:40] that are the most influential over the
+- [736:07:20] AI
+- [736:43:20] topics around AI SEO, around plumbing in
+- [737:49:20] Manchester, around something else is
+- [738:50:00] actually that's the that's the advantage
+- [739:28:00] of of of doing this visibility reports
+- [740:22:00] just to see like who is manipulating the
+- [740:55:20] most. Is it Reddit? Yes, I go for
+- [741:32:00] Reddit, but in my niche maybe it's not
+- [742:01:20] Reddit. So, I want to know that.
+- [742:46:40] Yeah yeah yeah absolutely. And and I
+- [743:12:00] think one of the reasons that you're
+- [743:36:40] going to find prompts surfacing the same
+- [744:21:20] answers is because there actually is not
+- [744:59:20] that much variety in the world. So,
+- [745:40:00] let's say again keeping with our our you
+- [746:19:20] know talking about cars. I think there
+- [747:22:40] I forget the number it it's no more than
+- [748:02:40] 150 make models that are available every
+- [748:59:19] year. So, if you say what's the best
+- [749:58:40] family car, there's like six different
+- [750:40:00] mini vans. So, no matter how you word
+- [751:16:40] that, it's always going to have those
+- [751:44:40] sets. When you say what's the best SAS
+- [752:22:40] soft what best CRM software, there
+- [753:08:00] aren't 5,000 CRM tools. There's actually
+- [754:07:20] maybe there are 5,000, but there's only
+- [754:34:40] five that matter. So, that's the reason
+- [755:14:00] you're seeing that. Now, how do you
+- [755:39:19] become one of the 5,000 and move into
+- [756:12:39] the top five? That's brand. That's not
+- [756:50:00] about structuring your page. And and
+- [757:26:00] that again that's the reason why that I
+- [758:06:40] don't think it matters as much to do the
+- [758:36:40] visibility like just to measure your
+- [759:11:20] your prompt visibility because it's
+- [759:42:40] going to mirror other signals. It's
+- [760:08:40] going to mirror your brand. If you find
+- [760:42:00] some sort of corner case of
+- [761:30:00] you know, these are the prompts where we
+- [761:51:20] show up. Maybe that corner case is so
+- [762:23:20] worthless that no actual human would do
+- [762:56:40] it. So, it's not even worth measuring.
+- [763:27:20] Yeah. And for for Google, I would say
+- [764:04:00] that it was harder to manipulate the
+- [764:35:20] brand signals. Like what what's a brand
+- [765:16:00] signal for Google? It's like a branded
+- [765:58:40] search basically. They they they get
+- [766:27:20] this
+- [766:42:40] data from the search console. They see
+- [767:13:20] like a lot of people is typing HubSpot
+- [767:56:00] login, HubSpot whatever, HubSpot
+- [768:36:40] something else. So, they see like oh
+- [769:09:20] HubSpot is a thing. So, that's the
+- [769:54:00] brand, but for LLM,
+- [770:35:20] I believe that if you put yourself on so
+- [771:26:40] many listicles that make a difference in
+- [772:10:00] the area,
+- [772:32:00] it's like under your control of money
+- [773:21:20] and influence over these authors to
+- [774:08:00] actually
+- [774:30:00] show that I'm a real brand because
+- [775:10:40] everyone is talking about me. It's not
+- [775:48:00] that users are typing. You cannot I
+- [776:36:00] mean, you can pay users to type Surfer
+- [777:16:40] best SEO tool in the world in Google
+- [777:54:00] every day and click the the first
+- [778:22:00] result. You can do it. There are
+- [778:42:00] services like that, but it's so much
+- [779:24:00] harder compared to to to to to what I
+- [780:21:20] said. I mean, kind of kind of shady,
+- [780:53:20] kind of black hat, but you don't do it.
+- [781:20:40] Somebody else does it. Well, if you are
+- [781:54:00] SurveyMonkey, you don't have to, but if
+- [782:40:40] you are SurveyMonkey competitor that
+- [783:32:00] started last year, I guess that's the
+- [784:14:00] way to to to start showing up in these
+- [784:58:40] uh
+- [785:32:00] It so so then one of the push backs I
+- [786:12:39] get when I talk about this is they
+- [786:41:20] someone will say, well, as a startup,
+- [787:23:20] that means that you don't have a chance.
+- [787:56:40] And that actually can be somewhat true.
+- [788:30:00] So, if you take this into an offline
+- [789:04:00] arena, if you are an established
+- [789:47:20] restaurant, everyone wants to go to you
+- [790:29:20] because everyone talks about how good
+- [790:58:40] your food is. If you're a startup
+- [791:29:19] restaurant, what do you do to get people
+- [792:04:40] to come to you as a startup? Well, you
+- [792:34:40] make really good food and you start that
+- [793:06:40] virality of word of mouth. The same
+- [793:44:40] thing has to happen. You can't just you
+- [794:18:40] know, with traditional SEO, you could
+- [794:47:20] have done out SEO'd whoever was there to
+- [795:23:20] begin with by doing better SEO and show
+- [795:53:20] up even if you weren't that brand. With
+- [796:27:20] LLMs again where they're thinking like a
+- [796:54:00] human and you want to use offline
+- [797:18:40] examples, you have to propel yourself
+- [798:16:00] into that the same level as the brands.
+- [799:13:20] I am looking right now
+- [799:48:40] because we will be wrapping up soon and
+- [800:25:20] we just received a question question of
+- [801:01:20] question about these best listicles.
+- [802:10:00] So, if everyone says they are the best,
+- [802:48:00] who's the best and so on?
+- [803:17:20] And I'm looking at the at the data right
+- [803:48:00] now
+- [804:06:00] that
+- [804:24:40] shows huge correlation between the
+- [805:30:40] position
+- [806:04:40] of your brand within the listicles. So,
+- [806:40:00] let's say there's top 10 best plumbers
+- [807:16:00] in the area.
+- [807:38:40] The one that will be there on the top
+- [808:25:59] spot
+- [808:48:00] or the second, third in the combination,
+- [809:45:20] there's a strong correlation with them
+- [810:09:20] being referred as the best. So, we will
+- [811:00:00] be basically optimizing positions in the
+- [812:00:00] listicles inception inception, but
+- [813:15:20] there is like ex like so, this is how
+- [813:59:19] they decide who's the best. Who's the
+- [814:30:40] best of the best? The one that is showed
+- [815:18:00] up on the first position in the best the
+- [816:06:00] best listicles. Crazy, but the reality.
+- [817:34:00] I I mean I again, I I think it's a
+- [818:02:00] shortcut. Some of these shortcuts will
+- [818:28:00] work today.
+- [818:56:40] Uh I'm every once in a while I'll do
+- [819:24:40] these lists of like best SEO software
+- [819:59:20] just to see what shows up. And you see
+- [820:32:40] some people are able to manipulate it to
+- [820:55:20] the top, but I don't think these things
+- [821:17:20] last. I think you know, they're learning
+- [821:55:20] from the from these mistakes and these
+- [822:39:20] hallucinations all the time.
+- [823:16:00] Focusing on the shortcuts would be a
+- [823:42:00] really bad use of time because once the
+- [824:22:00] rug gets pulled out away from the
+- [824:43:20] shortcut, you have nothing left. So,
+- [825:07:20] >> Yeah, it
+- [825:21:20] depending on where you are, right? For a
+- [825:55:59] SurveyMonkey, that's that's definitely
+- [826:36:40] not the best strategy. But if you have
+- [827:03:20] nothing to lose, I mean, you make it or
+- [827:54:00] break it. You lost zero, but it's like a
+- [828:48:40] I think it's something like a deal on
+- [829:20:00] AppSumo to some extent. I mean, your
+- [830:14:00] product will be presented to many
+- [830:54:00] people. You won't make a lot of money,
+- [831:26:00] but if you have a good upsell strategy,
+- [832:06:00] expansion of that customer later on, it
+- [832:57:20] can actually
+- [833:30:00] help you more than ruin your profit
+- [834:15:20] margins. But, yeah.
+- [834:50:00] Uh uh
+- [835:07:20] It's 50 minutes. We still have over 70
+- [835:53:20] people with us, and I'm so, so, so
+- [836:46:40] grateful you you agreed to come because
+- [837:26:40] it looks like these are heated
+- [837:54:00] conversation is is kind of
+- [838:50:00] People kind of like it, and I and I and
+- [839:22:00] I and I see that and so happy about it.
+- [840:10:00] Uh so, uh we will take a few questions,
+- [840:46:00] everyone. We'll take like two, three
+- [841:13:20] questions and wrapping up. So, uh
+- [841:58:00] thoughts on AI LLMs becoming dumber as
+- [842:54:40] it learns its own slop.
+- [844:13:20] I I think that's a a gap. I I'd say if
+- [844:54:00] LLMs weren't progressing, that would be
+- [845:23:20] a huge problem. But, the best thing
+- [845:46:00] about LLMs is they're constantly
+- [846:12:40] progressing and learning from things
+- [846:57:20] that it can do to improve. One of the
+- [847:29:20] things that I'm most frustrated
+- [847:56:00] frustrated by today, and it's something
+- [848:28:00] that everyone should be aware of, is
+- [848:53:20] deep personalization happening within
+- [849:19:20] Gemini and AI mode and soon to be AI
+- [850:10:00] overused. So, I I think uh Google has
+- [851:00:40] the wrong personalization. They don't
+- [851:30:00] forget things. So, if I ask a question,
+- [852:08:40] it remembers it, and then every question
+- [852:41:20] I ask, it says, "Well, as someone that
+- [853:09:20] works in SEO's like this isn't relevant
+- [853:37:20] for SEO. I just want to know if I still
+- [853:59:20] have pizza now or not." So, that's a
+- [854:38:40] that's a gap. And these are the things
+- [855:08:40] that it
+- [855:33:20] the engineers are dogfooding, they will
+- [856:02:00] learn. So, I I think yes, it's learning
+- [856:30:00] from AI slop, but it's also going to
+- [857:02:40] learn that it how to ignore AI slop. So,
+- [857:34:00] if we just froze it where it is today,
+- [858:09:20] LLMs are terrible. But Today
+- [858:50:40] Today someone dropped on our Slack a
+- [859:38:40] tool, like a model, trained only on the
+- [860:38:40] text from before 1930s.
+- [861:50:40] Like
+- [862:10:40] 100-year-old content that it was used to
+- [862:48:40] to train the model. And guess what?
+- [863:30:40] Talking to this model wasn't super
+- [864:12:00] helpful.
+- [864:34:40] And it wasn't trained on the slop.
+- [865:15:20] Uh right now, there's a lot of I mean,
+- [865:42:00] slop. I mean
+- [866:09:20] We should uh debunk it. Like
+- [866:54:00] I really don't like people say AI slop
+- [867:42:00] to every single every every single AI
+- [868:32:40] output. I mean, there's a lot of slop.
+- [869:14:40] Yes, there's a lot of slop. But,
+- [869:54:40] uh it's
+- [870:21:20] it's really bad to have this uh
+- [871:12:00] connection like if AI does slop because
+- [871:55:20] not true. I mean, there's a
+- [872:40:00] tons of content that are created
+- [873:19:20] properly, that are super helpful, that
+- [873:54:40] solve all your problems, that come a
+- [874:28:40] long way because you as a human can't
+- [875:16:40] comprehend that level of complexity in
+- [876:09:20] figuring things out unless you are
+- [876:54:00] Stephen King or any like famous famous
+- [877:43:20] writer. So, uh
+- [878:16:40] Uh last question is about this slop.
+- [879:16:00] Is it slop? Is it
+- [879:45:20] Can it be good content produced by the
+- [880:27:20] AI related to the last updates? And then
+- [881:14:40] we we just go offline.
+- [882:23:20] So, early in my SEO career, I produced a
+- [883:17:20] lot of slop. At the time, it was not
+- [883:52:40] called AI slop, it was called spun
+- [884:34:40] content. So, what it was is I had a
+- [885:14:40] WordPress plugin, and it would pull in
+- [885:43:20] RSS feeds, and it would make complete
+- [886:24:00] crap. And it ranked, and then it didn't.
+- [887:14:00] So, I I think that it would be the same
+- [887:44:00] thing when it comes to AI content.
+- [888:08:40] Google has been learning how to get rid
+- [888:48:00] of content that is low quality, whether
+- [889:22:40] it's spun content or AI content. If it
+- [890:26:40] answers the question, it does a good
+- [890:50:40] job. If it describes a product, totally
+- [891:30:00] fine.
+- [891:37:20] >> Even you know what?
+- [891:59:20] Better than everything else that is
+- [892:34:40] currently available because why do they
+- [893:13:20] waste tokens if it's the same thing,
+- [894:02:00] right?
+- [894:11:20] >> Exactly.
+- [894:20:00] >> Adding this extra mile to every single
+- [894:57:20] piece. Sorry for interrupting. Yeah, it
+- [895:30:40] it it really comes down to the quality
+- [895:56:40] of the content. If the user looks at
+- [896:23:20] this and says this is AI slop, then
+- [896:52:00] Google's probably going to discover it
+- [897:14:00] as AI slop, too. If it's extremely
+- [897:51:20] helpful, if it's describing a photo, if
+- [898:25:20] it's describing a product, if it's fake
+- [899:02:40] UGC, it's useless. So, like yes, it
+- [899:45:20] might work today. Might work 6 months
+- [900:19:20] from now. Might even work a year from
+- [900:40:40] now, but I wouldn't invest in it.
+- [901:24:00] All right.
+- [901:51:20] Uh
+- [902:10:40] Okay. Um such a great such a great
+- [902:59:20] livestream. This is uh the first very,
+- [903:44:00] very, very first time I have never
+- [904:27:20] shared my screen during the during the
+- [905:33:20] Surfer Academy webinar. That's a totally
+- [906:16:00] different formula.
+- [906:43:20] Uh I hope everyone here enjoyed it as
+- [907:26:00] just as I did. I hope you Ali enjoyed it
+- [908:13:20] being here on the show with us.
+- [908:47:20] Uh everyone will be asking, "Is it the
+- [909:20:40] recording or anything?" There's a
+- [909:59:20] transcript. You can find it on YouTube
+- [910:31:20] on our channel.
+- [910:58:40] Uh any last words to the people who want
+- [911:34:00] to prepare for the apocalypse?
+- [912:40:00] Uh follow my newsletter on
+- [913:06:40] productledseo.com. Obviously, connect
+- [913:40:40] with me on LinkedIn. I will be sharing
+- [914:10:40] about this apocalypse. I'll be sharing
+- [914:35:20] my my live updates from Google IO. And
+- [915:21:20] again, like wherever you think SEO is
+- [915:55:59] going, it's probably going there. So,
+- [916:29:19] work on that. Like assume it's assume
+- [917:16:00] the worst.
+- [917:36:40] Thank you so much, and have a great rest
+- [918:16:00] of the day, everyone. Take care. Take
+- [918:51:20] care everyone.

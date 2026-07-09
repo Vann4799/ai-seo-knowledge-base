@@ -1,0 +1,1340 @@
+﻿---
+title: "Automate $10K/Month in Tasks with AI (REAL Workflows You Can Steal) | Gael Breton (Authority Hacker)"
+expert: "Gael Breton"
+video_id: "blG6gss-mUY"
+video_url: "https://www.youtube.com/watch?v=blG6gss-mUY"
+channel: ""
+published_at: ""
+language: "en"
+---
+
+# Automate $10K/Month in Tasks with AI (REAL Workflows You Can Steal) | Gael Breton (Authority Hacker)
+
+- Expert: Gael Breton
+- Source: https://www.youtube.com/watch?v=blG6gss-mUY
+- Notes: Authority Hacker episode on practical AI workflows and automation.
+
+## Transcript
+
+- [00:04] So, here's the thing. If at least 20% of
+- [00:57] your marketing work isn't automated by
+- [01:36] AI, you're already falling
+- [02:30] behind. I know, I know there's a lot of
+- [03:14] hype around AI right now. It's going to
+- [03:50] replace jobs, do it 10 hours of work in
+- [04:30] 10 minutes, slash marketing costs, blah
+- [05:16] blah blah. A lot of that hype is just
+- [05:53] that, hype. Most of the stuff AI gurus
+- [06:50] talk about just isn't good enough in
+- [07:22] practice. At least not if you have
+- [07:53] actual experience with the subject. But
+- [08:32] there are people doing legit things with
+- [09:02] AI like my friend Gail Braden. I've
+- [09:48] known Gail for years through the SEO
+- [10:20] industry and he's never been just a
+- [10:46] theory guy. Very pragmatic, very
+- [11:30] actionable. So Gail has been playing
+- [12:05] around with the hottest new AI tools for
+- [12:37] many, many months now, building cool
+- [13:12] workflows and actually implementing them
+- [13:42] in his own business. So, I figured I
+- [14:17] should invite him to HF's podcast and
+- [14:50] ask him to show me exactly what he's
+- [15:36] doing with AI. Honestly, I was coming
+- [16:20] into this quite skeptical, but Gail
+- [17:01] absolutely blew me away with what he
+- [17:38] showed me. By minute 10, I guarantee
+- [18:17] you'll want to pause the video and send
+- [18:50] it to your entire marketing team. I know
+- [19:22] this because I shared this episode with
+- [19:56] my team right after we finished
+- [20:26] recording. Okay, last thing. If you
+- [21:06] usually listen to HF's podcast, I highly
+- [21:46] recommend that you actually watch this
+- [22:18] one on YouTube. The things that Gail
+- [22:53] shows are much easier to grasp when you
+- [23:27] can actually follow them on screen. All
+- [23:57] right, enough with the intro. Let's roll
+- [24:32] the episode.
+- [25:01] HRE's podcast.
+- [25:33] [Music]
+- [26:26] So, uh what brought us here today uh is
+- [27:17] essentially V marketing, right? I I feel
+- [28:05] quite inundated with the amount of talk
+- [28:55] about AI about all these new models and
+- [29:39] everyone is claiming that they they have
+- [30:13] figured out how to automate their like
+- [30:45] entire marketing team with AI but the
+- [31:46] thing is uh I know that you are quite
+- [32:56] meticulous with testing different tools
+- [33:40] with fig figuring out what works and
+- [34:10] what doesn't so yeah when when you were
+- [35:18] creating courses for affiliate SEO and
+- [36:06] publishing your strategies and teaching
+- [36:34] other people do affiliate SEO. Uh I
+- [37:13] always knew that the stuff that you guys
+- [37:42] releasing are legit. So when I saw that
+- [38:30] you started dabbling with different AI
+- [39:13] tools and testing and figuring out how
+- [39:57] to like hook them up together, uh I knew
+- [40:42] that I want to bring you on and kind of
+- [41:25] pick your brain uh and absorb uh many
+- [42:26] many months of using uh AI for marketing
+- [43:37] uh in essentially like 1 hour or
+- [44:12] something. Yeah, you'll see that. Yeah,
+- [44:40] it's like you can save quite a bit of
+- [45:03] money on whatever staff is not topnotch
+- [45:47] and also if you're a small company for a
+- [46:17] small business like you know you run
+- [46:48] marketing right you guys are strapped
+- [47:08] for resources like you want to get a
+- [47:29] landing page done it takes three weeks
+- [48:02] uh you want to you know prepare I don't
+- [48:42] know some copy for something it just
+- [49:10] takes ages because the writer is working
+- [49:40] on something else etc and so like the
+- [50:12] idea is like you're going to get do do
+- [50:41] more with less basically so yeah let's
+- [51:17] let's get right into it uh what is the
+- [51:52] first thing uh you want to show okay so
+- [52:33] we're going right Okay. Okay. So, I
+- [53:02] mean, I want to start with like simple
+- [53:26] stuff that people can do even if they
+- [54:00] don't have much time, even if they don't
+- [54:40] uh they're not very technical or
+- [55:05] something like that. Like, let's just go
+- [55:28] gradually into the nerd level, right?
+- [56:05] Um,
+- [56:30] so it's like I think the first thing I
+- [56:55] wanted to pick is I was like, "Oh, hey,
+- [57:24] I I'm team solo, CMO of HF. I want to
+- [58:16] help take the AI turn and uh we're
+- [59:09] running a good SEO tool and we want to
+- [59:48] find B2B AI opportunities." And this is
+- [60:22] deep research that you're looking at
+- [60:45] from Gemini. Actually, I don't think
+- [61:10] many people use this. Everyone's using
+- [61:49] CHPT, but actually this one is better. I
+- [62:30] would argue uh Google just updated it
+- [63:05] with their new model called uh Gemini
+- [63:40] 2.5 Pro, which arguably is the best
+- [64:41] model out there uh right now. But most
+- [65:45] importantly, this is an agent. And what
+- [66:16] this agent does is it makes a plan for
+- [66:54] research. So, you see, it gave me a
+- [67:22] plan. And one thing I like to wait I
+- [67:54] didn't get what did you what did you ask
+- [68:23] it to do? I asked it to essentially find
+- [69:04] me opportunities for HFS to jump into
+- [69:38] the AI world to stimulate growth for
+- [70:15] your company. That's pretty much and the
+- [70:50] idea is like you would probably give
+- [71:09] that challenge to like you know an
+- [71:52] intern as I said like fire your intern
+- [72:41] you'll be like hey like go and research
+- [73:04] like what the competition is doing and
+- [73:30] and like like give me ideas of things I
+- [74:16] could implement for the company
+- [74:40] basically. And so this is not just like
+- [75:06] a chat GPT request. this is something
+- [75:33] that's going to go read hundreds of uh
+- [76:13] documents etc. And most importantly, it
+- [76:50] does a research plan. And what I like to
+- [77:22] do is I'm like, "Hey, go and read
+- [77:45] Reddit. Go and read like Substack, like
+- [78:20] all the newsletters that people are
+- [78:45] writing, etc." And find me like use
+- [79:16] cases of like people using AI in the B2B
+- [80:04] world so that I can have ideas on like
+- [80:36] how I connect my feature set with uh
+- [81:25] essentially what people are talking
+- [81:42] about right now, the problems they're
+- [82:02] having, and the use cases, right? That's
+- [82:28] that's pretty much what I want. And the
+- [83:01] idea is like it doesn't tell you how to
+- [83:33] run ATS necessarily, but it's going to
+- [83:58] give you ideas. like it's going to make
+- [84:20] you think about things that people are
+- [84:54] talking about and combining what you get
+- [85:37] with your understanding of your company
+- [86:08] and your feature set you might actually
+- [86:37] be able to get some good ideas for the
+- [87:18] company right so that's that's what I
+- [87:42] wanted to achieve here um and so like
+- [88:24] the trick here really is to be like go
+- [88:53] and read UGC like basically for me all
+- [89:29] the value online is UGC but it takes
+- [90:07] forever to read ready to read all of
+- [90:34] that and I'm sure you don't have time uh
+- [91:05] so if I can have a bot go do this for me
+- [91:40] that's kind of handy you know um and so
+- [92:21] like I I launched it and it's basically
+- [92:53] the research. If I open the research
+- [93:17] here, you can see I have like a giant
+- [93:45] report where it just basically broke it
+- [94:32] down with like you know what is SCM rush
+- [95:10] doing for AI uh what is similar web
+- [96:05] doing for AI, what HubSpot doing for AI,
+- [96:47] maybe some tables etc. Like it did all
+- [97:20] that. Did you pick up what we are doing
+- [97:45] for AI? Yeah, it said that you started
+- [98:27] implementing it in existing tools
+- [98:53] basically from what I've read. Good. So
+- [99:25] it's like you know it's like it's not
+- [100:06:40] perfect perfect but it's not bad. But
+- [100:31:59] the most important part is like you're
+- [100:52:00] never going to read that, right?
+- [101:34:40] Like no way. But like I saw you post on
+- [102:09:19] Instagram that you got to go to. I I'll
+- [102:51:59] interrupt you for a second, but that
+- [103:17:20] that always amazed me when I was kind of
+- [104:03:59] watching how other people are using AI.
+- [104:42:40] They they uh put some requests. It would
+- [105:29:19] generate like a ton of information.
+- [106:05:19] They're like, "Oh, this is awesome. This
+- [106:30:40] is awesome." But you're right. No one is
+- [107:05:20] actually reading all that. Like who has
+- [107:32:00] time? It's it's almost like it would
+- [108:03:59] take you almost the same time and brain
+- [108:32:00] power to to to do research manually that
+- [109:16:00] then read this kind of document. I
+- [109:50:40] agree. I would not read this either. Um
+- [110:25:20] I would scan it, you know, I would like
+- [110:50:39] look like usually I would just like copy
+- [111:20:00] paste it into a chat and then chat with
+- [111:44:00] it. Uh and the good thing in the Gemini
+- [112:22:40] deep research is actually when you ask a
+- [112:51:59] question on a follow-up chat, it doesn't
+- [113:20:00] just read its own report, but it reads
+- [113:44:00] all the sources it use. So you can see
+- [114:06:40] all the resources it uses including you
+- [114:41:20] know some product hunt threads some red
+- [115:17:19] stuff some substack newsletters etc etc
+- [115:58:40] right um so handy wait again I I will
+- [116:41:20] interrupt you quickly this shows that
+- [117:14:40] you still have to create a lot of
+- [118:03:59] resources if you want to be present in
+- [118:48:00] those conversations of AI because if you
+- [119:33:20] stop kind of creating content uh if you
+- [120:16:00] start stop like doing thought leadership
+- [120:52:00] and all that and again generating
+- [121:21:20] backlinks because still LLMs or crawlers
+- [122:06:39] that that crawl the web, they still have
+- [122:33:19] to differentiate where is the content
+- [123:08:00] farm and where is the legit website. So
+- [123:44:00] things like brand links and all those
+- [124:16:00] stuff would still matter and you still
+- [124:38:40] have to create content if you want to
+- [125:09:20] appear uh in those sitations and if you
+- [125:45:20] want them to pick you up. I agree and
+- [126:26:39] actually most of the models now they
+- [127:09:19] they get grounded in search. So they
+- [127:41:20] either rely on Bing or on Google or
+- [128:13:19] whatever to essentially inform the
+- [128:46:39] answer. And every time they are
+- [129:10:39] benchmarked when they are not grounded
+- [129:41:20] in search versus grounded in search,
+- [130:14:40] they always perform better when they're
+- [130:42:40] grounded in search. So it's like people
+- [131:08:00] who say SEO is dying, not really because
+- [131:47:59] it's almost becoming kind of like the
+- [132:13:20] layer under the user interface that
+- [132:54:39] people are using. It's a little bit more
+- [133:27:59] hidden and different. Um, but it's
+- [134:07:59] definitely something that is not dead
+- [134:41:19] and if anything is being used more and
+- [135:10:39] more by these uh AI companies as we go.
+- [136:04:00] Actually, speaking of search, uh I'm not
+- [136:45:19] sure if I can already disclose that, but
+- [137:37:20] Dimmitri is actually preparing a product
+- [138:24:00] uh to kind of productize YAP search so
+- [139:12:00] that different AI agents and such would
+- [140:02:40] be able to use the API of our search
+- [140:42:40] engine. Uh and I think he wants to
+- [141:14:39] launch it pretty soon. So maybe by the
+- [141:45:19] time uh this podcast episode goes out,
+- [142:32:00] we won't need to cut out this
+- [142:58:39] announcement. Okay. I mean, yeah, that's
+- [143:41:19] handy. And it's like grounding your
+- [144:09:18] answers in search always gets better
+- [144:34:39] results. The challenge for you guys is
+- [145:00:00] going to be that Google does it very
+- [145:21:19] cheap right now. Like grinding in search
+- [145:42:40] is extremely cheap on the Gemini API. Um
+- [146:37:19] so again back to our problem, great read
+- [147:25:20] all these pages, but I'm never going to
+- [147:52:00] read this this giant document. So the
+- [148:30:40] good thing is actually deep search on
+- [148:56:40] Gemini has generate audio overview and
+- [149:47:59] what it does is it reads the report and
+- [150:13:20] it generates a six minute podcast uh
+- [150:50:40] that actually is engaging. I sent it to
+- [151:18:40] you before the episode. I don't know if
+- [151:41:20] you had time to check it out. It's not
+- [152:14:40] perfect but it's like it will actually
+- [153:01:20] like it does discuss some interesting
+- [153:34:40] use cases of uh your your clients etc.
+- [154:21:20] It's not again this is here to give you
+- [154:51:59] ideas as long as you as you treat it
+- [155:29:20] like that and not like this is what I'm
+- [155:53:20] going to do with my uh big company then
+- [156:37:19] it's not a bad thing to listen to when
+- [157:14:40] you go on a run or something like that.
+- [157:37:20] So when I go to the gym now I'm
+- [157:57:20] generating myself uh custom podcasts on
+- [158:56:00] deep search that match the topics that I
+- [159:30:40] really care about like very deep stuff
+- [160:01:20] that there's no existing podcast about.
+- [160:28:00] I'm not saying human podcasts are are
+- [160:57:20] trash. I'm just saying like because this
+- [161:21:20] is more niche down on what I care about
+- [161:54:40] in a way this adds more value than maybe
+- [162:32:00] some generic podcast that would not
+- [162:56:00] necessarily apply to what I'm actually
+- [163:18:40] doing right now. Uh and so like that's
+- [163:50:39] useful to me use case that I'm thinking
+- [164:33:19] for it uh is uh kind of similar to what
+- [165:20:00] you just said because when I research
+- [166:03:59] guests for my podcast because I don't
+- [166:38:40] necessarily know a lot about their
+- [167:09:20] business, about their company and the
+- [167:30:40] kind of marketing they've done. So, I
+- [167:58:40] have to listen to quite a few podcast
+- [168:33:20] interviews and Michelle uh my podcast
+- [169:12:00] producer has to do a lot of research.
+- [169:56:00] But yeah, if I could just paste the
+- [170:38:40] links to podcasts existing and it would
+- [171:31:59] generate first of all kind of a summary
+- [172:12:00] like the next one.
+- [173:00:00] Okay, we're getting ahead of ourselves.
+- [173:32:00] Let's do it. No, it's good. It's good. I
+- [173:58:40] mean, okay, so like this is deep search.
+- [174:26:40] This is for like general information on
+- [174:50:40] internet. Now, if you wanted to research
+- [175:17:20] like the problem is like it's not very
+- [175:38:40] good at getting YouTube content for
+- [175:58:39] example. I feel like a lot of content on
+- [176:25:20] YouTube these days, it's hard to take
+- [176:50:40] notes on YouTube content. It's hard to
+- [177:17:20] retain. It's like it's it's super great
+- [178:10:40] and then it's like you walk away from
+- [178:37:20] the video and you're like, "Oh, what do
+- [178:59:59] I do again? I don't have anything to do
+- [179:30:40] with it." And so that's why we use
+- [180:04:00] another Google tool called Notebook LM
+- [180:33:20] basically. Um Notebook LM. And you know
+- [181:13:19] what I did is like I actually put all
+- [181:44:00] your podcasts in there. Um, so they're
+- [182:37:20] all like I have an extension called, let
+- [183:14:40] me check the name, uh, web sync
+- [183:56:00] fullsight importer for notebook that can
+- [184:36:00] import entire YouTube playlists in one
+- [185:13:20] click on Chrome basically. Wow. Um, so
+- [185:57:20] that now I've grounded Century Gemini
+- [186:44:00] into audio podcasts and then I have a
+- [187:36:00] chat and I'm like one question uh this
+- [188:57:20] step of uh transforming audio into a
+- [189:55:20] transcript when when does this happen?
+- [190:37:20] Who does this? It's unnecessary with
+- [191:14:40] notm because it's a Google product and
+- [192:04:00] YouTube is a Google product too. So I
+- [192:53:19] they are connected by default. the
+- [193:20:00] Gemini API you can put a YouTube URL it
+- [193:59:59] has the context of the entire video. Ah
+- [194:47:59] wow. Okay. Okay. Uh so that's very handy
+- [195:37:20] even on the uh on the developer platform
+- [196:17:20] like you can put a YouTube link and then
+- [196:46:39] ask a question and it will like actually
+- [197:30:40] consume the content of the video. Wow.
+- [198:06:40] And so those like those for example auto
+- [198:45:19] captions that YouTube generates uh
+- [199:22:40] notebook LM already has kind of access
+- [200:04:00] to except yeah except I'm not even doing
+- [200:42:40] it illegally. They're not like you can
+- [201:06:40] scrape like there's there's there's
+- [201:27:59] platforms like API 5 for example that
+- [202:02:40] has like built-in scrapers and I could
+- [202:37:20] scrape stuff like if I'm using this into
+- [203:04:00] an automation tool like make.com or n10
+- [203:53:20] or like something like that then I'm
+- [204:18:39] going to use some kind of API like that.
+- [205:00:00] But again, we're starting easy, right?
+- [205:30:39] So, it's like this is like, hey, this is
+- [205:53:20] a free tool from Google. Just paste your
+- [206:38:40] paste your YouTube links and then get
+- [207:13:20] some contextual information that is
+- [207:56:00] going to be maybe a bit more interesting
+- [208:24:00] than just an a generic AI answer. Okay.
+- [209:17:20] So, what did you do here? Tell me. So, I
+- [210:04:00] put all your podcast links and I was
+- [210:30:39] like, hey, I'm doing a podcast with the
+- [210:58:39] host today. Uh, we're going to talk
+- [211:27:59] about AI in marketing SEO, the good and
+- [212:04:00] the bad. The host will probably take a
+- [212:36:00] somewhat hostile stance to
+- [213:31:20] AI based on previous interviews. What
+- [214:34:40] question is he likely to ask? Um, and
+- [215:24:00] then it's like that. And then the good
+- [215:49:19] thing is like it gives me questions but
+- [216:13:19] most importantly it gives me sources. So
+- [216:42:40] I can click on it and it will open the
+- [217:18:40] podcast and then it's like actually
+- [218:00:00] tells me like where I got the idea from,
+- [218:33:20] right? So I can click on it and it's
+- [218:54:39] like okay from this one and from uh from
+- [219:46:40] the same one apparently but like you get
+- [220:14:40] the idea and it will just scroll you
+- [220:38:40] down to exactly what it meant. So it's
+- [221:03:59] like then I can go back to the source
+- [221:31:59] material and actually consume it. It
+- [221:58:40] doesn't mean I should only stop at AI.
+- [222:34:39] It means like it's a great way to index
+- [223:05:20] everything that you've done and then I
+- [223:29:20] can contextually get the information I'm
+- [223:56:00] looking for uh using notebook. So very
+- [224:41:20] very handy for your favorite creators
+- [225:13:20] like you know for example like um on
+- [225:57:20] notebook I'll take like uh like let's
+- [226:38:40] say Hozi right hope everyone loves
+- [227:04:00] Homozi but he makes like one and a half
+- [227:29:19] hour videos nobody has time to watch
+- [227:52:00] them right it's like let's be honest uh
+- [228:52:00] and again it's like I I want to keep up
+- [229:17:20] with that stuff there's some good tips
+- [229:36:00] in there but it's like I don't have time
+- [230:10:39] for the rest so it's like it's like I
+- [230:34:39] could be like hey I'm
+- [231:05:59] bootstrapping bootstrap I can't type
+- [231:53:59] strapping how do I generate
+- [232:47:59] my first cells and then really the gauge
+- [233:26:39] of quality of this is like how
+- [233:50:39] comparable is it to like a generic
+- [234:26:40] chipity answer basically right it's like
+- [235:01:19] like and then it's like you can say like
+- [235:39:59] first of all I prompted it to sound like
+- [236:07:59] the creator so I actually made a system
+- [236:37:19] prompt that says like sound like them
+- [237:02:40] it's more fun you know and uh and then
+- [237:54:40] yeah it's like actually tells me stuff
+- [238:18:40] but most importantly again it links me
+- [238:42:40] to the right video and the right part of
+- [239:14:39] the transcript and I can just watch the
+- [239:46:39] video um to actually get that so it's
+- [240:33:20] It's pretty handy basically.
+- [241:27:59] Okay. Any interesting uh potential
+- [242:13:20] question from me that it uh g I lost it
+- [243:00:00] now. I I I lost it now. But um Okay. Oh,
+- [243:53:20] no. It's back. Is it back? No, it's
+- [244:21:20] back. Okay. Uh yeah, it's like you're
+- [245:15:59] basically saying like uh a lot of stuff
+- [246:03:59] about basically hating on AI content. It
+- [246:36:00] looks like you talked a lot about AI
+- [246:57:20] content in your previous podcast. Yeah.
+- [247:33:19] uh and that like human content is better
+- [248:04:00] and that AI should not be considered uh
+- [248:44:00] for creating content at all. It looks
+- [249:09:19] like that's your stance given that and
+- [249:46:39] also like scaling laziness seems to be a
+- [250:22:40] common theme that you might scaling laz
+- [251:03:59] laziness doesn't quite come from me. Uh
+- [251:57:20] that was from the guy I interviewed uh
+- [252:52:00] was it Brian Harris? Uh okay. Yeah.
+- [253:48:00] Anyway, but in terms of uh creating
+- [254:37:19] content, uh I kind of since that
+- [255:17:20] interview, I I changed my perspective a
+- [255:57:20] little bit because right now I don't
+- [256:42:40] publish any single post on LinkedIn
+- [257:25:20] unless I first do a bit of brainstorming
+- [258:05:20] with uh chat GPT or Claude. So yeah, I I
+- [259:23:59] do see how uh AI can enhance my content,
+- [260:39:59] but you still need an idea. You still
+- [261:10:40] need an an original idea. I would never
+- [261:57:20] go to chat GPT and say give me some
+- [262:37:20] ideas of what to post on LinkedIn. No,
+- [263:07:59] never. I have like I have enough ideas
+- [263:37:20] of my own but uh to frame that idea
+- [264:38:40] better like to tell a better story to
+- [265:14:40] create a better hook. Yeah, AI is is so
+- [266:01:20] helpful and I I can clearly see between
+- [266:37:19] my draft and after like five minutes uh
+- [267:28:00] bouncing there and back with with AI, my
+- [268:13:20] draft becomes just so better. Yeah. So
+- [268:44:00] much. I agree. But I think it's like if
+- [269:08:00] you give too much power to AI, then it's
+- [269:37:19] you lose the authenticity and then you
+- [270:06:39] will lose engagement on social. I have
+- [270:33:20] made that mistake at some point. I was
+- [270:56:00] starting to post stuff that was a little
+- [271:14:40] bit too AI sounding and I actually
+- [271:53:20] killed my reach. So just saying it's not
+- [272:22:40] always perfect. Uh and now I'm back to
+- [273:01:20] kind of like doing things more manually
+- [273:24:00] and it's kind of like coming back up
+- [273:46:40] slowly basically. Um, so it's like,
+- [274:25:20] yeah, you can go too far with that
+- [274:50:40] stuff, but again, like researching
+- [275:30:39] content with Notebook LM and getting
+- [276:02:39] ideas and then talking with AI to kind
+- [276:37:19] of like refine the idea like that's
+- [277:09:19] that's kind of like the kind of new
+- [277:41:20] workflows that marketers have to adapt.
+- [278:11:59] It doesn't mean you disappear. It just
+- [278:37:20] means you leverage these tools to focus
+- [279:20:00] on like the stuff that you can do better
+- [279:50:40] and then AI does the grunt work. Really,
+- [280:22:40] that's kind of the idea. Yeah, I would
+- [280:53:19] actually I would love to test uh putting
+- [281:35:59] like 10 past podcast episodes with
+- [282:22:40] someone I want to interview. Uh and
+- [282:57:19] because people on different podcast they
+- [283:37:20] they tend to talk about kind of the same
+- [284:12:00] things. So you have kind of your agenda,
+- [284:43:59] you have your I don't know ideas,
+- [285:21:20] ideology or whatever and you typically
+- [286:02:40] talk about those those same uh things
+- [286:37:19] but on different interviews you can come
+- [287:11:59] up with different stories and maybe add
+- [287:49:20] something. So if I would be able to use
+- [288:47:59] this to generate kind of one I don't
+- [289:42:39] know 15minut podcast episode with like
+- [290:44:00] the most salient points from 10 episodes
+- [291:44:00] uh that would be very cool and that
+- [292:11:59] would yeah it would basically cut uh our
+- [293:03:59] preparation for
+- [293:27:20] interviews if not in half then like
+- [294:18:40] three four times I don't know because we
+- [294:46:40] spend there's an even cooler thing I can
+- [295:25:20] show you so like you can generate that
+- [296:00:00] podcast as well from search. Yeah, you
+- [296:34:39] have it. It's called audio overview, but
+- [297:02:40] they have something called interactive
+- [297:24:00] mode. And see, interactive mode means
+- [297:55:59] you can interrupt the show and ask them
+- [298:38:40] a question and they will regenerate on
+- [299:14:40] the fly. So, I don't know if we're going
+- [299:41:20] to be able to make it work here, but um
+- [300:58:40] yeah, of course, when you do a live
+- [301:19:59] demo, it doesn't work. Oh, here you
+- [301:59:20] go. Can you hear? Yeah. All right. Uh, I
+- [303:12:00] just want to know how Alex Hmosi would
+- [303:46:40] uh generate the first five sales of a
+- [304:18:40] new business. All right. Of course, we
+- [304:54:39] do a live demo. It doesn't work. But the
+- [305:20:00] point is like Anyway, the point is like
+- [306:08:00] I I've used it and it's like it actually
+- [306:45:20] has worked for me. It's just like uh and
+- [307:16:00] so that's one way of like extracting
+- [307:41:19] information differently. It's because of
+- [308:03:59] your Yeah, it's probably that actually.
+- [308:40:00] But h No, it's because it doesn't have
+- [309:04:00] access to my microphone. I have a
+- [309:25:19] warning on my thing. Okay. Um anyway,
+- [310:29:20] let's let's move on to something else. I
+- [311:09:20] agree. Um, let's let's stay on content.
+- [311:44:00] What do you think? Um, like I think like
+- [312:36:00] you know, you talked about like having a
+- [313:13:20] having an original idea. Let's not do
+- [313:49:20] that. I'll show you that after. But I
+- [314:18:40] want to show you like how I generate
+- [314:50:00] content and I get engagement, good
+- [315:31:59] engagement, and that's through our
+- [315:50:39] newsletter, right? So, this is actually
+- [316:21:20] my inbox. And this is the amount of
+- [316:56:00] replies I have to the newsletter. Wait,
+- [317:25:20] wait, wait. I'm not seeing anything. Did
+- [317:52:00] you stop screen sharing or Sorry, let me
+- [318:28:00] just share this tab again. Sorry. Yeah.
+- [319:18:40] So, this is my inbox and this is the all
+- [320:16:00] the replies to like the newsletter like
+- [320:44:00] literally from last week. Like you can
+- [321:05:19] see the dates, right? It's like this is
+- [321:44:00] an AI written newsletter. Um and and
+- [322:54:40] like there is engagement basically. All
+- [323:25:20] I'm saying I think there's there's more.
+- [323:47:59] I don't know. I'm afraid to click but
+- [324:12:00] yeah, there's more. You can see there's
+- [324:30:40] like multiple pages of uh of responses
+- [325:24:00] and it's like these are your people, you
+- [325:46:39] know, like people actually responding
+- [326:08:00] and reading it. answering to a question
+- [326:41:20] I asked at the bottom of the newsletter
+- [327:48:00] like here. So that tells you that the
+- [328:45:20] engagement is pretty good if this many
+- [329:05:20] people reply to something that's
+- [329:24:00] literally at the most bottom part of the
+- [329:56:00] newsletter basically. So this is
+- [330:31:59] basically me saying this this probably
+- [330:58:40] can work. Now I want to show you how I
+- [331:19:59] do this. Okay. Um and it's like you were
+- [332:10:40] completely right on the idea that you
+- [332:45:19] need to um oh by the way I have
+- [333:29:19] something called rational Nazi. I'm
+- [333:50:40] going to get cancelled for that. This is
+- [334:14:40] not a Nazi thing. This is just a guy
+- [334:45:20] that basically breaks down my uh breaks
+- [335:41:20] down like uh I want to grow my email but
+- [336:26:40] not sure what to start. I just basically
+- [336:52:00] just destroys my assumptions and just
+- [337:24:00] tries to uh give me a very logical
+- [337:54:40] answer. So please don't cancel me. This
+- [338:28:00] is this is just what's the prompt for
+- [339:12:00] it?
+- [339:39:59] What do you tell it to do? Uh, you're
+- [340:26:40] hyperrational first first principal
+- [341:09:19] problem solver with zero tolerance for
+- [341:33:20] excuses, pure focus deconstructing
+- [342:02:40] problems, relentless drive of actionable
+- [342:37:20] solutions and result, no regard for
+- [343:02:40] conventional wisdom, absolute commitment
+- [343:36:00] to intellectual honesty. Uh, and then it
+- [344:13:20] just has a bunch of stuff of like, you
+- [344:35:59] know, how to how to do that basically.
+- [345:09:19] Um, the point is like yeah, this just
+- [345:50:39] these kills make excuses basically.
+- [346:18:40] Let's just say that for people who
+- [347:01:20] didn't pick up the prompt, uh you can
+- [347:34:40] request it in comments and we'll ask
+- [348:05:20] Gail to to post it. Sure. I I got it on
+- [349:00:00] social media actually, but this is very
+- [349:21:19] handy. Like this is like when I want to
+- [349:45:20] do something, but I'm like, "Ah, I want
+- [350:09:19] to do this, but like I I don't know,
+- [350:34:40] it's difficult, whatever." It will just
+- [351:00:00] basically destroy my ego and and explain
+- [351:38:39] to me like how I'm wrong and what I
+- [352:07:59] should do. Basically, uh anyway, let's
+- [352:42:40] go back to the newsletter. We're not
+- [353:17:20] we're not here to talk about that. Um
+- [353:57:20] so, let me go to this one. This is the
+- [354:39:59] one that you just saw, I think.
+- [355:48:00] Uh let me check actually. No, this is
+- [356:29:20] the one you just saw. Yeah, here you go.
+- [357:09:20] Um so again, you need ideas and this is
+- [357:58:40] this is also a project with like lots of
+- [358:37:19] uh there's lots of prompting to this
+- [359:02:39] one. So it's like I think it's this one.
+- [359:41:20] And it's like again I have a big prompt
+- [360:29:20] on like what I want from the newsletter
+- [361:19:59] uh the tone blah blah blah like you know
+- [361:54:40] classic prompt engineering but kind of
+- [362:32:00] like did you wrote it yourself or again
+- [363:10:40] kind of took it somewhere? I used AI to
+- [363:45:20] brainstorm it uh and then I wrote it
+- [364:32:00] with AI basically. So it's like it's
+- [365:12:00] just like I'm like you know you use the
+- [365:45:20] canvas feature you just talk it
+- [366:09:19] generates it on the right and you're
+- [366:28:00] like ah actually like it's missing this
+- [366:54:40] I would like this and let's try like you
+- [367:36:00] run it once and you're like oh this is
+- [367:55:59] the response I got this was not so good
+- [368:41:20] uh I think it should be more like this
+- [369:06:39] more like that let's change the prompt
+- [369:30:40] for this and so you know that's like a
+- [370:00:00] day of doing that basically um and so
+- [370:48:00] like yeah that's a very long prompt that
+- [371:22:40] also gives examples of past newsletters
+- [371:54:40] that I wrote manually and I think that's
+- [372:26:39] kind of like the base of like all good
+- [373:14:39] uh AI work is like you do the work
+- [373:42:40] manually because the better prompts have
+- [374:25:19] real examples that show what the
+- [374:57:20] expected outcome is and yeah you're
+- [375:46:39] better off doing it yourself basically.
+- [376:18:40] Um so that's that's the prompt. Now
+- [377:04:00] let's go back to the
+- [377:26:00] chat and I'm going to go here. And so
+- [378:18:39] then the next thing I have once I have
+- [378:44:00] like the prompt is used for every
+- [379:05:20] newsletter is I actually just write
+- [379:41:20] really badly formatted notes on notion
+- [380:42:39] on like what I want the intro to be. So,
+- [381:18:40] for example, I made a tweet that was
+- [381:54:40] like, "Oh, I've lost a lot of money when
+- [382:20:00] the stock market went volatile, but I
+- [382:48:00] don't care. AI is a big opportunity
+- [383:14:39] right now." Basically, and it's like I
+- [383:45:20] was like, "Oh, make an intro based on
+- [384:13:20] this tweet." Like, just just figure it
+- [384:41:20] out. Uh, you know, the tone, you know,
+- [385:10:40] all of that. I like the idea. Let's
+- [385:34:40] start the newsletter with something like
+- [385:58:40] this. The sponsor, I was like, "I'll do
+- [386:34:39] it later." And the main content, which
+- [387:11:59] is like this this big tutorial that uh
+- [387:52:00] you saw earlier on the newsletter, was
+- [388:26:40] me just writing bullet points, right?
+- [388:57:20] like it's like, "Oh, I've replaced
+- [389:16:00] Google with AI except maybe for local
+- [389:45:20] search." Uh, AI answers are generic, so
+- [390:33:20] I follow creators. Here's like, and then
+- [391:14:40] that teaches the notebook LM stuff that
+- [391:52:00] I just showed you, basically. Um, and
+- [392:29:20] then it's like, I follow creators, but
+- [392:54:40] it's hard to follow everything they do.
+- [393:17:20] And then just basically, I wrote down
+- [393:41:20] like the step by step how I build this
+- [394:20:00] custom notebook LM thing, so I can query
+- [394:52:00] it basically. And you can see it's just
+- [395:17:19] like 10 bullet points on like how to do
+- [395:50:39] this. Uh and then uh there's a section
+- [397:01:20] with links. So again, one thing that's
+- [397:30:39] really cool is I actually taught this
+- [397:58:40] chatbot to actually go and research
+- [398:33:19] itself. So in this case, for example, I
+- [399:04:00] was like, "Oh, tool of the week is
+- [399:22:40] lovable.dev." And then you will see that
+- [400:05:20] it's just going to go and research it
+- [400:24:00] itself. Like I didn't have to go and get
+- [400:50:39] gather the data or anything because I
+- [401:18:40] didn't like this is something I can
+- [401:48:00] figure out on its own basically. Uh, and
+- [402:25:20] then I'm curious and then it's like
+- [402:54:40] that's what people reply to, which is
+- [403:24:00] like, hey, should I go more advanced or
+- [403:47:59] should I keep it simple? Basically, and
+- [404:32:00] that's why I got so many responses. Um,
+- [405:10:40] so that's that's what I input into AI to
+- [405:50:39] get a newsletter that has like just
+- [406:22:40] essentially a raw draft with everything
+- [407:10:40] that you want to to say, but it's not
+- [407:40:00] polished in any way. And I don't try to.
+- [408:22:39] And so that makes me walk faster.
+- [408:49:20] Basically, I know that AI will polish it
+- [409:28:00] fine. And so like okay well I spend half
+- [410:02:39] the time doing this and then AI is just
+- [410:41:20] going to pick it up and then I can do
+- [411:08:00] something else with the other half of
+- [411:25:20] the time. That's why I said like get
+- [411:46:40] more done using AI basically. And so
+- [412:21:20] like the good thing is actually this
+- [412:44:00] chatbot is hooked into perplexity. Um so
+- [413:45:20] what it can do is it's like it's
+- [414:08:00] reasoning it's like ah I'm missing
+- [414:46:40] information. I need to research notebook
+- [415:20:00] LM. I don't have all the information
+- [415:40:00] about this. There's tutorial about it
+- [416:01:19] but I don't really know about it. So it
+- [416:27:59] went and queried perplexity. You can see
+- [417:10:40] with like what is notebookm key benefits
+- [417:40:00] feature 2025 and then that uses the deep
+- [418:21:20] research on perplexity that gave it a
+- [418:54:40] full report on essentially features from
+- [419:39:59] notebookm etc with all the sources. So
+- [420:22:40] now the model has context on what it is
+- [420:50:39] I didn't have to put it in my notes. Um
+- [421:33:20] then same for the tool right I said I
+- [422:01:19] didn't write the section for the tool so
+- [422:21:20] it was like a [Â __Â ] I need to get to know
+- [422:45:19] about this tool. Uh there's a section to
+- [423:16:00] write I don't know what I'm doing. And
+- [423:42:40] so again, it did a query and got a full
+- [424:24:00] report with like exactly like you see it
+- [424:53:20] has like all the technologies using etc.
+- [425:24:00] Like it's pretty it's pretty good
+- [425:48:00] basically. Um and again perfect for like
+- [426:29:20] a short feature like one paragraph for a
+- [427:04:00] tool like good enough which I'm going to
+- [427:32:00] edit later anyway. Um and then it just
+- [428:17:20] writes it. Wait. Uh chaos is a letter.
+- [429:12:00] Is it yours or do you No, Game of
+- [429:56:39] Thrones. It's from Game of Thrones. But
+- [430:48:00] wait, who came up with the Ah, this is
+- [431:27:59] me. This is me. Like this is the the
+- [432:02:40] tweet the tweet I gave it.
+- [432:57:20] I think it's like it's here. You can see
+- [433:21:20] it's here in my initial prompt actually.
+- [433:58:40] Okay. Because it was too good. Okay.
+- [434:49:20] Initially that's Game of Thrones. That's
+- [435:13:19] not me. Um so and then it's like it just
+- [435:54:39] took it. But it actually was smart
+- [436:29:20] enough to be like, "Oh, that's probably
+- [436:46:40] a good uh item to use in the subject
+- [437:25:20] line." Yeah. Right. Yeah. That that's
+- [438:03:59] also quite impressive that it identified
+- [438:40:00] this kind of catchy phrase and put it in
+- [439:25:19] the title. Nice. Yeah. It's a It's a
+- [440:01:20] good uh subject line. I didn't end up
+- [440:24:00] using it. Oh, wait. You you you didn't
+- [441:00:00] give it even subject lines, but your
+- [441:41:20] kind of system prompt says find a good
+- [442:30:39] subject. Okay. So, like that's the
+- [443:02:40] point. It's like I built a workflow for
+- [443:26:40] writing the newsletter. Now, I just
+- [443:47:59] input my notes. I'm like, write a
+- [444:09:20] newsletter. The prompting is done. I
+- [444:39:59] just jump on this. It's like basically
+- [445:08:00] if I create a new chat in this folder,
+- [445:45:20] it will automatically inherit all the
+- [446:15:59] the the system prompt. And then I'm just
+- [446:53:19] going to I think we're we're automating
+- [447:30:39] uh HF's newsletter with this kind of
+- [448:18:39] Yeah, it's like it's it's not bad
+- [448:44:00] because and also it has access to a tool
+- [449:20:00] called Firecrol. Firecrol allows it to
+- [450:08:00] visit web pages and read them basically.
+- [450:52:00] Um which means it can take screenshots
+- [451:34:39] too by the way. Um and so like it just
+- [452:25:20] allow it's a little bit independent. It
+- [452:55:59] can query perplexity that will run its
+- [453:36:00] own research or will it can open the web
+- [454:12:00] pages and just uses the tools when it
+- [454:39:59] makes sense and then it just gives me
+- [455:05:20] that right. Okay. Now you will impress
+- [455:38:40] me if you'll say that uh you
+- [456:06:40] automatically import this thing into
+- [456:38:39] your uh email marketing tool. Not yet.
+- [457:21:20] Not yet. I'm still first of all I'm
+- [457:49:19] reviewing it. I'm reviewing it. Um so
+- [458:37:19] the point is like okay I got a
+- [458:54:40] newsletter that was pretty good but um
+- [459:33:20] there's a few things that I didn't like.
+- [459:57:20] First of all uh the intro was too long.
+- [460:34:40] Like this is a very long intro. Um, so
+- [461:17:20] again, again that's something I can
+- [461:42:39] maybe refine my system prompt on and I
+- [462:11:59] kind of like iterate that on. And then I
+- [462:53:20] feel at the end was like I think it has
+- [463:30:40] like what is notebookm? So it took the
+- [463:57:20] research it did on perplexity and make a
+- [464:22:40] whole section what is notebookm except
+- [464:58:39] that's not what you're looking for in a
+- [465:20:00] newsletter, right? It's like this is not
+- [465:41:20] an SEO article. Um, you want actionable
+- [466:29:20] stuff. Uh, and so like I don't like
+- [467:01:19] this. I I I didn't think that was good.
+- [467:40:00] Uh, it did a good job at doing the
+- [468:13:20] tutorial based on the very sparse notes
+- [468:47:59] I gave it. Uh, it doesn't have the
+- [469:16:00] screenshots. I had to add them myself as
+- [469:39:59] well. So, that's one thing that it
+- [469:58:39] couldn't do. Um, and then, yeah, I
+- [470:39:59] didn't like that as well. I felt like it
+- [471:17:20] wasn't benefit driven enough like what
+- [471:49:19] you've just created. It's like, okay,
+- [472:11:59] that's pretty boring and bland. I really
+- [473:01:20] like that we're we're not stopping at
+- [473:30:40] just saying, "Oh, it is so awesome. It
+- [473:55:59] is so awesome. It generated the
+- [474:16:00] newsletter." But you're shredding to
+- [474:53:20] parts the kind of the initial output.
+- [475:44:00] Yeah. And it's like that's it's still
+- [476:14:40] fast, right? it still takes me like 2
+- [476:54:00] hours to total for like the newsletter
+- [477:41:19] per week. Like it's not a lot of time
+- [478:06:40] and it's sponsored. I make money from
+- [478:29:19] this. Um, and it's like, yeah, it's like
+- [479:18:40] I'm not trying to fully automate it. I'm
+- [479:52:00] trying to do something of quality that
+- [480:13:19] people love. Like I want as many replies
+- [480:39:59] as I showed you, but I want to do it
+- [481:19:59] fast basically. And then that's when the
+- [482:04:00] feedback comes back. And you can see I
+- [482:24:00] had seven points of feedback basically.
+- [482:57:20] Uh, which is like, hey, intro is too
+- [483:32:00] long. um mentioned the plus like again
+- [484:16:00] very small details but it didn't mention
+- [484:45:20] that you get the better version of
+- [485:17:19] notebook LM when you have a paid Google
+- [485:52:00] Workspace account that's a detail a lot
+- [486:19:59] of my audience will care about uh it
+- [486:54:40] didn't use that so again I had to review
+- [487:17:20] that and read the full copy to
+- [487:40:00] understand that it missed that um this
+- [488:33:19] like what is notebook lm it's a bit it's
+- [489:08:00] like an ad keep it casual focus on
+- [489:42:40] benefits rather than features uh what
+- [490:20:00] you've just created section uh you know
+- [491:00:00] this was not good basically uh and then
+- [491:42:39] I was like oh Let's add a link to the to
+- [492:26:39] the link section. You can see in my copy
+- [492:53:19] I only had one. Usually I have three in
+- [493:17:20] the newsletter. I wasn't finished
+- [493:51:59] basically. And I was like, I will just
+- [494:16:00] put a link to the Zapia MCP. And I was
+- [494:58:39] like, uh, oh, browse it with fire crawl,
+- [495:38:40] which is the thing that opens web pages
+- [496:04:00] to understand it. Like I'm not going to
+- [496:26:40] explain to you what this is. Just figure
+- [496:49:19] it out. Um, make lower much shorter
+- [497:41:19] again like bullets with emojis. And then
+- [498:28:00] uh again the PS was like remember chaos
+- [499:09:20] is a blah blah blah. I felt like it was
+- [499:32:00] a repeat of the top of the like this is
+- [500:04:00] a useless PS. So I was like I don't like
+- [500:34:40] this. Um and again like AI took this
+- [501:37:20] went to visit Zapio MCP like I was like
+- [502:14:40] research it. It did it. Um for some
+- [503:05:20] reason it actually went to on
+- [503:34:40] firecrol.dev. So it's like again AI
+- [504:10:39] doing AI
+- [504:43:20] things and then it started making me an
+- [505:22:40] interactive canvas. So you can see it
+- [505:45:20] can go a little bit random and I didn't
+- [506:13:19] use it. It's fine. It's okay. Um, and
+- [506:54:40] then it just gave me another version.
+- [507:41:19] And then uh and then that's it pretty
+- [508:29:19] much. And then I just worked on the uh
+- [509:10:39] sponsor section that wasn't done. And
+- [509:45:20] then we worked on subject lines
+- [510:09:19] together. And I I took this subject
+- [510:48:00] line, cl your favorite guru's brain, and
+- [511:29:20] I messed it up. And so like actually
+- [511:56:00] half of the email sent with the wrong
+- [512:19:59] subject line. Uh still got a lot of
+- [512:46:40] replies, but the point is like I also
+- [513:16:00] got the subject line because it knows
+- [513:41:19] how to do that. Um so that's content
+- [514:32:40] creation for you. And then it's like,
+- [515:06:39] yeah, the final newsletter. And so like
+- [515:45:20] this is what the final newsletter looks
+- [516:08:00] like. And yeah, that's basically the
+- [516:32:00] copy you the final copy you saw on my
+- [517:17:20] chatbot plus the screenshots I added
+- [517:53:19] basically. Um, and that's it. And then
+- [518:38:40] you can see the link like this is like
+- [519:08:00] you know added this thing from crawling
+- [519:37:20] etc. I added a screenshot of lovable but
+- [520:12:00] we wrote it as I asked and then that's
+- [520:41:20] it. That's the newslet. So that's to me
+- [521:18:40] that's like the reasonable way of
+- [521:45:20] creating content with AI today. uh which
+- [522:34:39] is like it's still manual but it takes a
+- [523:16:00] lot less time than if I had to write
+- [523:40:00] from scratch. Uh I'm not trying to 100x
+- [524:18:40] my productivity. I'm just trying to be
+- [524:47:59] like 80% more productive basically and
+- [525:20:00] then then you can do things that people
+- [525:50:39] will still enjoy I think. Yeah. So
+- [526:41:20] what's important here is to have uh a
+- [527:25:20] good uh kind of system prompt to explain
+- [528:14:39] everything that you expect AI to do for
+- [529:09:20] you. uh then as I figured out you would
+- [530:08:00] go back and refine this system prompt if
+- [530:48:00] you if you see that it is like
+- [531:14:00] consistently making the same mistake and
+- [531:52:00] you don't want it to repeat you you just
+- [532:26:39] like put pay attention intro shouldn't
+- [533:02:40] be long just use like no more than three
+- [533:38:40] four sentences try to keep it short and
+- [534:20:00] those kinds of things but then again
+- [534:50:40] you're you're relying on yourself to to
+- [535:39:59] give it all the so-called information
+- [536:30:40] gain all the all the original stuff you
+- [537:02:40] put it and then you ask it like where it
+- [537:38:39] needs to like research a little bit
+- [538:03:59] where it needs to uh go and check the
+- [538:42:40] website and stuff like this. Same as you
+- [539:12:00] would do with an intern. Let's say you
+- [539:32:00] had an intern that writes well but
+- [539:53:20] doesn't know your industry very well,
+- [540:16:00] right? It's like probably the workflow
+- [540:45:20] would be quite similar. Um and it's like
+- [541:26:40] you don't have to research everything.
+- [541:49:19] You don't have to go get the stuff
+- [542:06:40] that's easily easy to get but the stuff
+- [542:32:00] that you get from experience, the stuff
+- [543:02:40] that like is not documented online or
+- [543:42:40] whatever. That's what people are seeking
+- [544:10:39] for the inside that kind of content. you
+- [544:43:59] you deliver that and you let AI do the
+- [545:38:40] rest uh and do the formatting and make
+- [546:13:19] it engaging and all of that. And I think
+- [546:40:00] that's the kind of workflows that
+- [547:11:59] marketers are going to have to pick up.
+- [547:34:39] And it's quite easy to become a spammer
+- [548:10:40] with that stuff because you could just
+- [548:33:19] 100x that. I could be like, "Oh, I'm
+- [548:59:59] going to send a newsletter every day and
+- [549:28:00] blah blah blah blah blah." And it's like
+- [549:57:20] that's that's that's the thing. You need
+- [550:31:59] self-restraint a little bit. Yeah.
+- [551:26:40] And uh but it's a balance you find like
+- [551:57:19] it's easy to go too far. uh most people
+- [552:40:00] go too far and most people also don't
+- [553:07:59] pay attention to the details like they
+- [553:36:00] can't be bothered going back on the copy
+- [554:06:39] and giving feedback and so on and I
+- [554:39:59] think that's what make gives AI a bad
+- [555:05:20] name right it's like I I don't think
+- [555:33:20] it's a bad tool it's just that it's the
+- [556:10:40] same as like it's just like now the same
+- [556:54:40] tool can be used for spam and for
+- [557:36:00] quality stuff before they would be very
+- [558:09:20] separated you have like content spinners
+- [558:45:19] and no nobody that does quality content
+- [559:16:00] would use a content spinner I really
+- [559:38:40] like your quote where you said something
+- [560:06:39] along the lines uh AI I is doing to text
+- [560:57:20] what calculator did for numbers. So it's
+- [561:56:00] kind of similar thing. So instead of
+- [562:28:00] trying to calculate it on your own, you
+- [562:59:59] just use a calculator. So again, instead
+- [563:29:19] of trying to write something well on
+- [564:06:39] your own, you just give the idea and you
+- [564:51:59] refine uh it with this tool. Okay. What
+- [565:42:39] else do you have for me?
+- [566:22:40] Uh okay, I'll show you a little bit of
+- [566:49:19] automation. So I think like another
+- [567:19:59] thing that we do to promote the podcast
+- [567:48:00] recently is actually um to let me just
+- [569:03:59] sh let me actually share the whole
+- [569:40:39] window is actually to uh post shots
+- [570:35:59] about it. Like the shorts are like I
+- [571:03:59] wouldn't say they're like massively
+- [571:22:40] successful but like you know an average
+- [571:54:39] short across YouTube, Instagram, Tik Tok
+- [572:39:59] gets maybe like 2,000 views something
+- [573:13:19] like that. So, it still raises awareness
+- [574:01:20] somehow
+- [574:27:59] to like the podcast and that's that's
+- [575:03:59] one thing that maybe you guys can
+- [575:30:39] consider doing. Um, and so like I'm
+- [576:09:19] using uh right now it's like again
+- [576:50:39] strapped for resources don't have too
+- [577:14:39] much time. Uh I kind of want to get it
+- [577:49:19] done. So this is a little bit less
+- [578:09:19] refined than the newsletter because it's
+- [578:34:39] more of a a process that's posted on
+- [579:11:59] brand accounts. And so I have AI
+- [579:50:40] actually I'm using Cap Cut uh that I
+- [580:46:40] can't show you Cap Cut but the point is
+- [581:10:39] that you upload your video it cut shorts
+- [581:43:59] and I watch all of them and I pick the
+- [582:13:20] ones that are not bad basically. Again
+- [582:57:20] there's a human review process in there.
+- [583:32:00] We're not automatically Wait, wait,
+- [583:58:40] wait. Does it automatically cut shorts
+- [584:40:00] for you? Yep. In Cap Cut? Yep. Uh does
+- [586:09:20] it have built-in AI or something? Yep.
+- [587:13:20] So it transcribes it transcribes stuff
+- [587:49:20] and it gives you there's lots of tools
+- [588:21:19] like that. There's a tool called Opus
+- [588:44:00] Pro as well for example that kind of
+- [589:08:00] stuff. So the point is like on the other
+- [589:33:20] side you get a video file that's like
+- [589:58:40] between 30 seconds and 2 minutes that's
+- [590:30:39] vertical uh and uh you can post on
+- [591:24:00] social media that you should review. I
+- [591:57:20] would argue three out of four I would
+- [592:24:00] not post and one out of four I would
+- [592:47:59] post. So this is still not great. But
+- [593:30:40] point is like I get I get these files I
+- [594:02:40] put them on Google Drive, right? Um, and
+- [594:42:40] then what happens is I basically have AI
+- [595:16:00] prepare the work for me, right? It's
+- [595:40:00] like it's not the final post, but what
+- [596:17:20] it does is it downloads the file, puts
+- [597:02:39] it on Gemini. It waits a bit because it
+- [597:45:20] needs the it needs the model to process
+- [598:14:40] it. It uh essentially it's queried to
+- [599:27:59] transcribe the video. So then I get a
+- [600:04:00] text version of what is said on the
+- [600:37:20] clip.
+- [601:14:00] Um then I have the sorry then I have the
+- [602:28:00] code one that actually just writes a
+- [603:26:40] post for it like again has a bunch of
+- [604:02:40] guidelines on like take the transcript
+- [604:29:20] and write the text description for it.
+- [605:01:19] Why do switch from Gemini to claude? Uh
+- [605:46:40] Gemini is multimodel and can just
+- [606:28:00] transcribe video for very cheap
+- [606:55:20] basically. Um whereas cl but why why
+- [607:42:40] don't you continue using Gemini for
+- [608:12:00] writing the this is an older one. I
+- [608:53:20] would probably if I build it again
+- [609:18:40] today, I would probably just switch to
+- [609:42:40] Gemini 2.5 Pro. Actually, this is just
+- [610:14:40] like I haven't rebuilt it. Like, okay,
+- [610:46:40] Chloe is still a good writer. Gemini is
+- [611:16:00] cheaper. Um, Gemini is cheaper and
+- [611:46:40] faster. And then it just like puts the
+- [612:21:20] item on notion. So, I'll show you what
+- [612:41:20] like a final result looks like on
+- [613:02:40] Notion, right? It's like I have this and
+- [613:44:00] then basically I have the clip that is
+- [614:33:20] on the right. So, like this, if I open
+- [615:05:20] this, I don't know if you're going to
+- [615:21:20] see it. Yeah, you're going to see it.
+- [615:45:20] And so, you
+- [616:22:00] know Mhm.
+- [617:33:20] we'll soon see a company with a billion
+- [618:17:19] uh dollars for one person. Basically,
+- [618:46:39] the point was that it's like that's like
+- [619:08:00] that's a clip that I identified. That's
+- [619:34:40] a pretty decent clip for a clip concept
+- [620:16:00] for for like short platforms basically.
+- [620:53:20] And then this wrote this. Now, my
+- [621:21:20] problem is like this is not this is a
+- [621:57:20] little bit too pompous and and and and
+- [622:37:20] not super authentic. So, I actually use
+- [623:13:19] notion AI to quickly fix it. Uh so, I
+- [623:53:20] can click on like ask AI and I can be
+- [624:26:40] like make it more authentic.
+- [625:19:20] Again, you can make better prompts, but
+- [625:57:20] like I'm doing this quickly for the
+- [626:17:20] podcast here. And the point is like
+- [626:42:40] again, you can walk uh you you can you
+- [627:34:40] can walk with AI here on a decent text
+- [628:05:19] editor. And then it's like the first uh
+- [628:53:20] this is already a lot better. Uh for
+- [629:32:00] example, and so like yeah, and then we
+- [630:00:00] we essentially cue that on um on Buffer
+- [631:12:00] and then Buffer just posts like one one
+- [631:44:00] every two days or something and then
+- [632:13:20] that's one way of promoting the podcast.
+- [632:43:59] It's not perfect. Like if we had a human
+- [633:16:00] doing this, it would be better, but it's
+- [633:54:39] cheaper and it's faster. Um, and it's
+- [634:36:00] like sometimes done is better than
+- [635:00:00] perfect in marketing. You can't just do
+- [635:25:20] 100% at everything. And that's where
+- [636:03:59] like these kind of AI processes can can
+- [636:37:19] pick up the slack for you, I think. But
+- [637:09:20] from here, you need to manually go and
+- [637:39:59] post it on LinkedIn, uh, Tik Tok,
+- [638:33:20] Instagram, YouTube shorts. We use buffer
+- [639:14:40] for this. So we just drag and drop it
+- [639:38:40] and we just put the description. I just
+- [640:00:00] select all the networks I just basically
+- [640:55:59] just auto connection right now between
+- [641:44:00] uh t and buffer maybe not with videos
+- [642:34:40] unfortunately like the point is like
+- [643:02:40] uploading the video like again that's
+- [643:29:20] kind of like that's why you see this
+- [643:57:20] industry is like not mature yet and
+- [644:23:59] there's a lot of like quirks to it um
+- [645:05:20] where you're like you have these amazing
+- [645:44:00] workflows that people present to you on
+- [646:09:20] YouTube etc and you try and do it and
+- [646:44:00] there's that one thing that doesn't work
+- [647:20:00] and that just blocks everything like
+- [647:58:40] everyone has had that. Nobody's talking
+- [648:32:00] about it. It's Yeah. And that's why
+- [649:05:20] there's still some manual work that's
+- [649:30:40] needed. So, right now, right now, I just
+- [650:08:00] had my wife do that like just on the
+- [650:38:40] side like this. I just posted. So, so I
+- [651:25:19] can't wait to replace my wife with AI,
+- [651:52:00] you know.
+- [652:21:20] Does your wife take on clients? Uh I can
+- [653:14:40] I can ask her if
+- [653:43:20] you but like the point is like this is
+- [654:23:59] again this is like this has reduced the
+- [654:53:19] human footprint. This this has removed a
+- [655:36:00] lot of the tedious parts of it. Uh, and
+- [656:13:20] it's like I would not say it's great. I
+- [656:52:00] would say it's good enough for this
+- [657:16:00] process. And I'm not I'm not gonna like
+- [657:58:40] I wish I could do better. Uh, I saw
+- [658:37:20] there's a platform that does bureau now
+- [659:15:59] for example. I would like to to try it
+- [659:40:00] actually. What was the tool where you
+- [660:06:40] build this automation?
+- [660:41:20] Make.com. Make.com. Uh, because I
+- [661:29:19] believe there are quite a few similar
+- [662:01:20] tools where you can do similar
+- [662:46:40] sequences. You create some AI agent and
+- [663:28:00] then like you automate this and this and
+- [663:57:20] that. Yep. uh you you chose make.com for
+- [664:52:00] some particular reason. So I actually
+- [665:46:40] you now we run most of our stuff on N8N
+- [666:34:40] which is another tool. Um the reason I'm
+- [667:16:00] running uh this one on make is again the
+- [668:18:40] video download doesn't play super nicely
+- [668:53:20] with N8N and again it's quirky and and
+- [669:56:00] uh make.com is like nine bucks per month
+- [670:25:20] or something. It's like I'm like you
+- [670:45:20] know I can spend nine bucks per month or
+- [671:12:00] I can spend a day trying to fix this.
+- [671:46:40] Uh, I p I picked nine bucks.
+- [672:50:40] Okay. Uh, last thing uh I want to
+- [673:34:40] discuss because we're already 40 minutes
+- [674:04:00] in and I don't want to make uh this one
+- [674:41:20] too long because you're already
+- [675:04:00] overwhelming me with a lot of
+- [675:25:20] information, but that's like super cool.
+- [676:05:20] Uh, MCP server. It's amazingly useful.
+- [677:06:39] It's amazingly useful because if I would
+- [677:47:59] uh if I would uh have an opportunity to
+- [678:49:20] push back, I would. But so far uh we
+- [679:49:19] agree with you on pretty much
+- [680:13:20] everything. There is I don't see I don't
+- [680:46:40] see an opportunity to push back and call
+- [681:21:20] you out on something. So yeah, it's it's
+- [681:53:20] very cool and I'm definitely sending
+- [682:30:40] this video to our team to SQ who's doing
+- [683:24:00] our newsletter. Michelle would
+- [683:56:00] definitely watch it as the podcast
+- [684:18:40] producer and we'll try to do some of the
+- [684:48:00] things there. Uh yeah, definitely to to
+- [685:44:00] our video team to to try and use
+- [686:18:40] automations to cut those uh snippets and
+- [687:06:39] so yeah, we'll we'll definitely try to
+- [687:37:20] replicate a lot of the things uh that
+- [688:14:40] you were showing here. So let's talk
+- [688:53:20] about this MCP server uh which you made
+- [689:49:19] a formal request for HFS to develop and
+- [690:38:39] when I posted it on Slack uh Dimmitri
+- [691:16:00] our C and founder uh got pretty excited
+- [691:58:39] about it. Uh so we we actually started
+- [692:49:20] to work on it but yeah tell me more
+- [693:29:20] about it and uh why why do you need
+- [694:11:59] this? Okay, so you saw the automation at
+- [695:06:40] built on make.com, right? It's like you
+- [695:41:20] have these nodes and essentially these
+- [696:14:40] nodes are API calls, right? It's just a
+- [696:46:40] way to call the tool programmatically
+- [697:18:39] and get an answer back and do something
+- [698:00:00] with the answer. That's that's pretty
+- [698:22:40] much what you do with API call. MCP is
+- [699:11:59] API for AI agents. Um, so essentially
+- [700:20:00] it's it's a little bit more than that.
+- [700:59:59] So you give a list of tools that the AI
+- [701:36:00] agent can use. So for example, you could
+- [702:01:20] say keyword explorer, you could say
+- [702:46:40] backlink analysis, whatever, etc. And
+- [703:28:00] then the agent knows it has access to
+- [704:06:40] this tool. It has documentation on how
+- [704:36:00] to use these tools as well. So for
+- [704:56:00] example, you make a list of all the
+- [705:24:00] filters that are available um to the
+- [706:07:59] agent and that kind of stuff. And then
+- [706:44:00] after that, the agent can call one of
+- [707:16:00] these tools using the parameters that
+- [707:41:20] you've taught it through your MCP
+- [708:18:40] server. And so it can start making
+- [708:49:20] intelligent decisions. So, I could make
+- [709:14:40] an automation that says, "Well, every
+- [709:53:19] week I want you to go through all the
+- [710:38:39] subs of the keywords I rank for, compare
+- [711:50:40] my rankings to last week and see who
+- [712:29:20] outranked me and then analyze their
+- [713:21:19] content or new backlinks with H. Yeah,
+- [714:13:20] new backlinks with hrefs and then re
+- [714:49:19] give me a report of the new backlinks
+- [715:16:00] they just acquired. Uh, so I can just
+- [715:55:59] essentially do something about it." And
+- [716:18:40] so like essentially an agent is going to
+- [716:54:40] do low-level SEO tasks for you if it has
+- [717:47:59] access to an HFMCP server. It can tap
+- [718:34:40] into your data. Uh that's that's what it
+- [719:21:20] would be able to do. And that's why I
+- [719:44:00] think people would go crazy because
+- [720:10:40] people like for example for like startup
+- [720:50:40] ideas, right? Like that's a big one.
+- [721:14:40] Like people would use HFS to go and look
+- [722:02:39] at the keywords, the trends, etc. get
+- [722:33:20] tap into all your existing proprietary
+- [723:12:00] data and have AI start putting reports
+- [723:57:20] together and so on. And so the amount of
+- [724:40:00] workflows you can build is unlimited.
+- [725:12:00] And the ability for small players to
+- [725:44:00] scale up operations, deliver more value
+- [726:11:59] in general uh without having more human
+- [726:49:20] workflows is going to be uh is going to
+- [727:30:40] be huge. Basically,
+- [728:06:40] I would imagine that the billing for
+- [728:36:00] those MCP servers is kind of similar to
+- [729:17:20] API kind of protocols that Yeah. Like
+- [730:29:20] can I use my credits? Can I use my
+- [731:05:20] credits uh with an AI agent? Like what
+- [731:58:39] does it matter to you anyway? Yeah,
+- [732:51:59] like it's like I'm paying. It's like you
+- [733:21:19] you can you have the log of my usage. If
+- [733:52:00] my agent goes crazy, use my credits. You
+- [734:34:40] you just tell people to to rain in their
+- [735:06:40] agents. I think you sell a lot more uh a
+- [735:44:00] lot more credit in general um by
+- [736:26:40] implementing. We actually stopped uh we
+- [737:06:39] don't have credits anymore uh starting
+- [737:41:20] from standard. So we only have credits
+- [738:10:40] on our lower lower tier plans. On on
+- [738:56:00] starter that's $29 per month and on
+- [739:40:00] light that's 99. on all other plans
+- [740:28:00] there. There's some usage cap that we
+- [741:14:40] don't want people to abuse, but no no
+- [741:49:20] more credits. Yeah. So, uh yeah, very
+- [742:31:59] cool and very uh awesome illustrated
+- [743:45:20] with that make.com where you can just uh
+- [744:38:40] connect HFS and ask it uh pull up new
+- [745:32:00] backlinks to this page or pull up the
+- [746:11:59] SERs or pull up the keywords uh and then
+- [747:01:20] do something with those keywords. Yeah,
+- [747:26:40] if you can automate that stuff. But if
+- [748:04:00] you connect it to an agent, it can make
+- [748:29:20] decisions. It can be like, oh, like if
+- [748:58:39] they did that, then I'm going to do
+- [749:18:40] that. Otherwise, like I'm going to do
+- [749:45:19] this other thing. Like you can actually
+- [750:12:00] involve like low-level decision making
+- [750:50:40] because an agent can use that data as
+- [751:22:40] well. That's the power of it. Yeah. I
+- [752:06:39] wonder uh if we'll be able to develop
+- [752:43:59] this server uh MCP server before this
+- [753:30:40] episode goes out. That that would be
+- [754:00:00] pretty cool. Uh but if not, uh I think
+- [754:46:40] we should we should be able to ship it.
+- [755:17:20] I'm not sure how complex it is. uh but
+- [755:53:20] it seems that uh Ditri understands the
+- [756:34:40] urgency uh of shipping something like
+- [757:10:39] that because people are already dabbling
+- [757:43:59] with those uh AI automation tools more
+- [758:18:40] and more. So this is something uh kind
+- [759:06:40] of the faster you develop because like
+- [759:42:40] you have this automation in make.com
+- [760:16:00] that you are not bothering to rebuild so
+- [760:54:40] far you don't have enough motivation to
+- [761:20:00] rebuild it. So whichever uh SEO tool you
+- [762:10:39] would use for MCP server first it might
+- [762:53:20] be stuck there for a while. So yeah, it
+- [763:40:00] makes sense to to be uh among the first
+- [764:31:59] people to do it. Uh Gail, this was
+- [765:25:20] awesome. You blew me away with uh how
+- [766:34:40] like with the automations and use cases
+- [767:21:20] of AI that actually make sense because a
+- [768:08:00] lot of the times that I was looking what
+- [768:37:20] other people are sharing, I couldn't see
+- [769:22:40] how I would use something like that. But
+- [769:57:19] with literally everything you've shown
+- [770:38:39] me, uh I'm keen to try it out and
+- [771:18:40] implement it in our own uh uh marketing
+- [772:15:19] department. I'm not I'm not going to
+- [772:54:40] fire any people probably, but I think
+- [773:25:19] we'll be able to ship more work. Do
+- [773:58:39] more. Yeah, 100%. I guess you have you
+- [774:52:00] have even more uh use cases, right? You
+- [775:46:40] prepared more. There's even more. Do you
+- [776:22:40] want to do that? No, no, no. We we can
+- [776:54:40] leave that uh in a couple weeks. we can
+- [777:37:20] do another round two. We'll see. We'll
+- [778:16:00] see how people react to this one and do
+- [778:54:39] part two with Gail. So, uh yeah, call to
+- [779:58:40] action for people who were watching
+- [780:29:20] this. Uh if you want part two, uh give
+- [781:18:40] us some comments, give us some likes,
+- [781:46:40] and I will bring Gail again and we'll go
+- [782:24:00] deep into more different use cases of
+- [782:58:40] AI. Especially, I think after a while,
+- [783:56:00] uh I'm sure Gail is going to discover
+- [784:23:59] more more cool use cases or maybe
+- [784:54:40] iterate on the use cases that we
+- [785:21:20] discussed today. So yeah, definitely
+- [785:53:20] give us give us some love and we'll give
+- [786:40:00] you some
+- [787:04:40] content. Awesome. Thanks a lot for the
+- [787:54:00] chat. Thank you. Thanks a lot for
+- [788:42:39] sticking till the very end of this
+- [789:09:20] episode. I guess that means you enjoyed
+- [789:45:19] it, right? Because if you did, I have to
+- [790:32:00] ask you to subscribe to this YouTube
+- [791:01:20] channel or maybe click the follow button
+- [791:44:00] if you're listening to this on Apple or
+- [792:13:20] Spotify. Not sure if you know this, but
+- [792:57:20] subscriptions and follows are the
+- [793:33:20] strongest signal for these platforms to
+- [794:04:00] show this piece of content to more
+- [794:37:20] people. So, I would really, really
+- [795:12:00] appreciate it if you would follow and
+- [795:46:40] subscribe. Thanks in advance and I'll
+- [796:22:40] see you in the next episode. by

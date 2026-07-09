@@ -1,0 +1,1722 @@
+﻿---
+title: "Google Will Kill Your Traffic - Here's How You Adapt | Kevin Indig (Growth Memo)"
+expert: "Kevin Indig"
+video_id: "jQXvbeYF5go"
+video_url: "https://www.youtube.com/watch?v=jQXvbeYF5go"
+channel: ""
+published_at: ""
+language: "en"
+---
+
+# Google Will Kill Your Traffic - Here's How You Adapt | Kevin Indig (Growth Memo)
+
+- Expert: Kevin Indig
+- Source: https://www.youtube.com/watch?v=jQXvbeYF5go
+- Notes: Ahrefs Podcast discussion about AI Overviews and search adaptation.
+
+## Transcript
+
+- [00:04] Today, SEO is facing one of the biggest
+- [00:45] shakeups we've seen in years. Between
+- [01:29] generative AI, search experience
+- [02:04] changes, and how AI chatbots are
+- [02:38] evolving, the entire landscape is
+- [03:15] undergoing a massive disruption. So, for
+- [04:01] this special episode, I wanted to
+- [04:27] explore what's really happening in
+- [04:52] search right now and where it's all
+- [05:22] going. And I can't think of a better
+- [05:58] guest than Kevin Indic to discuss this.
+- [06:46] Kevin advised some of the fastest
+- [07:18] growing companies on the planet. Think
+- [07:54] Reddit, Dropbox, Nextdoor, and Snapchat.
+- [08:42] He led SEO and growth at companies like
+- [09:18] Shopify, G2, and Atlassian. And every
+- [10:08] week, over 22,000 marketers rely on his
+- [10:58] email newsletter to stay ahead of the
+- [11:25] curve. So, in my conversation with
+- [11:51] Kevin, we discussed how AI is changing
+- [12:29] the world of SEO, what the future might
+- [13:06] look like, and most importantly, how to
+- [13:50] prepare for this new AI first reality
+- [14:27] and not get left behind. But enough with
+- [15:06] the intro. Let's roll the episode.
+- [15:58] HRE's podcast.
+- [16:52] [Music]
+- [17:24] Kevin, uh, thanks for doing this. Happy
+- [18:04] to have you on Href's podcast. Long time
+- [18:54] coming
+- [19:13] and waiting for this.
+- [19:54] And like I told you, uh, this is not
+- [20:37] going to be my typical kind of
+- [21:04] interrogation of the guest when I'm
+- [21:37] trying to get to the bottom of things
+- [22:00] and like challenge them on everything.
+- [22:33] But more so like uh I want to catch up
+- [23:12] with you because I know that you're like
+- [23:38] deeply entrenched in SEO industry. Uh
+- [24:36] you are keeping your hand on the pulse
+- [25:09] of what's happening with AI, with
+- [25:49] search, with everything. And it's almost
+- [26:25] like I want to exchange notes with you
+- [27:08] like what you're seeing, what I'm
+- [27:36] seeing, where we agree, we disagree. So
+- [28:17] basically AI and SEO uh would be the
+- [29:08] topic of our conversation. Sounds good.
+- [29:41] I'm a little relieved cuz in my head I
+- [30:17] was mentally preparing for a sparring
+- [30:48] session and uh I was getting my my my
+- [31:44] soft uh you know uh gloves out. So uh
+- [32:37] yeah, let's do it, man.
+- [33:06] Well, you never know. I might throw a
+- [33:45] few jabs here and there.
+- [34:30] So that's okay. the the two kind of
+- [35:17] overarching topics that uh I really
+- [36:04] wanted to discuss with you uh is u how
+- [37:09] AI is changing a SEO and search kind of
+- [38:25] from two directions. From one direction
+- [39:17] we have the AI that is integrated into
+- [40:09] search with like the AI overviews with
+- [40:56] Google AI mode uh yada yada yada. So the
+- [41:46] search is changing itself. From the
+- [42:26] other uh end we have using AI to do like
+- [43:56] marketing and SEO. So I think a good
+- [44:45] place to start is actually search how
+- [45:26] search is changing. So uh I I posted on
+- [46:25] LinkedIn the other day the the crocodile
+- [47:05] chart where impressions and clicks are
+- [47:46] going uh different ways.
+- [48:57] What is your perspective? Is this
+- [49:22] something you're seeing across the
+- [49:45] board? Is anyone immune to this? like
+- [50:28] what is the situation with the
+- [50:50] overviews? Let's start from that.
+- [51:33] I haven't seen anyone immune to this.
+- [52:00] Just to take that uh off the front off
+- [52:27] the off the top. Um
+- [53:17] 2024 to me is the peak traffic year. I
+- [54:21] think we'll look back at 2024 and we'll
+- [55:10] say, man, that was the peak that we the
+- [55:50] most traffic that we've ever seen. And
+- [56:20] I'm intentionally not saying organic
+- [56:52] traffic. I'm saying traffic as a whole
+- [57:27] because Google is the biggest traffic
+- [57:54] referer still, right? which we'll we'll
+- [58:37] bank that for later cuz I think it's an
+- [59:17] important point here in the in the
+- [59:37] context. Um but yes, clicks are going
+- [60:26] down, impressions are going up. It does
+- [61:09] seem like the impression increase is
+- [62:04] mostly due to the way that Google counts
+- [63:01] impressions and positions for AI
+- [63:44] overviews, right? So essentially based
+- [64:16] on their definition, every URL that is
+- [65:18] cited in an AIO view automatically gets
+- [66:05] an impression once the AIO view loads
+- [66:38] since it's at the top it loads um
+- [67:29] basically for every search uh of that
+- [68:16] topic or of that keyword better said and
+- [69:02] uh even if it only loaded when people
+- [69:39] click the load more button of the AI
+- [70:22] overview so the expansion um most people
+- [71:06] do that right we're going to come back
+- [71:29] to the study that I did in a while but
+- [71:54] to take that up front as well. Uh we did
+- [72:35] a study and we saw that over 85% of
+- [73:12] people click the load more button
+- [73:34] because they want to see what the rest
+- [73:54] of the AI overview says. So that's why
+- [74:29] we see this
+- [74:40] over 85% of people click the load more
+- [75:29] on AI overview.
+- [75:53] Yeah,
+- [75:58] that's absolutely not my personal
+- [76:32] experience. I I never click them.
+- [77:01] typically like maybe I'm searching for
+- [77:37] different things but for me the the the
+- [78:10] the answer that I need for for the kind
+- [78:46] of the for the queries where I I would
+- [79:16] be satisfied with the IIO view I don't
+- [80:05] typically click uh see more so that's
+- [80:53] that's an interesting takeaway
+- [81:34] do you get the kind of answers you're
+- [82:11] looking for from the AIO view though
+- [82:41] like the before you click on load more
+- [83:29] oh it depends it's like a very
+- [83:56] philosophical question so let's not uh
+- [84:40] go into this but uh again to to bring
+- [85:38] that uh back a little into kind of
+- [86:37] actionable uh things and HF's product
+- [87:46] because we are scraping AI overviews
+- [88:38] essentially to see like which brands
+- [89:12] show up there but if I remember
+- [90:04] correctly we don't like our our scraper
+- [90:54] or like our data partners who are doing
+- [91:22] this they don't click on load more so we
+- [92:05] only see the snippet before it
+- [92:53] uh so it's interesting if 85% of people
+- [93:48] are clicking it. But but again, even if
+- [94:30] they're clicking doesn't mean they read
+- [94:55] it start to finish.
+- [95:21] Correct? Yes, that's the same thing that
+- [95:46] we saw in the study. I'm going to
+- [96:10] explain the study in just a second,
+- [96:28] right? But to to finish that point, um
+- [97:02] we also noticed that the majority of
+- [97:40] people, they read the upper third of the
+- [98:21] AI overview. And it's the same behavior
+- [99:00] that people had before AIO use, right?
+- [99:45] They would just read the top of the
+- [100:09:20] search results most of the time. They
+- [100:40:00] skim, right? Don't get me wrong. they
+- [101:06:40] they scan and they skim the whole AIO or
+- [102:14:40] the whole search results page, but they
+- [102:46:40] pay most of their attention on the top
+- [103:25:19] third. So it is most important to be
+- [104:13:19] cited early on or to be mentioned in the
+- [104:50:40] AI view. You're you're correct in that
+- [105:14:40] sense.
+- [105:42:40] Okay. Uh so again you are right now kind
+- [106:52:00] of a free agent. You are doing advising
+- [107:28:00] and consulting. So you have multiple
+- [107:56:00] clients uh which we can use as a kind of
+- [109:12:00] a sample size uh to see
+- [110:13:20] what is their kind of attitude to AI
+- [111:09:20] overviews and and loss of traffic. Again
+- [111:57:19] uh may maybe the first question do you
+- [112:29:20] see much correlation and again not even
+- [113:22:40] among your clients but with other people
+- [113:57:20] who you talk to do you see much
+- [114:18:40] correlation between loss of traffic and
+- [114:58:39] loss of revenue because I think it was
+- [115:29:19] Rand Fishkin who published an article uh
+- [116:08:00] traffic down revenue up or something
+- [116:35:59] along those lines actually this is kind
+- [117:10:40] of the same thing that we're seeing at
+- [117:36:00] Hrefs. uh our traffic is going down but
+- [118:25:19] revenue is still climbing so we're still
+- [118:58:39] growing which is very good to to know
+- [119:54:40] but yeah what are you seeing yourself
+- [120:38:39] it's a great call because it's so
+- [120:59:59] important to differentiate between
+- [121:20:00] traffic and revenue across my clients
+- [122:01:20] and some other sites that I have insight
+- [122:29:20] to I'm seeing on average revenue
+- [123:51:59] relatively flat the correlation with the
+- [124:41:20] traffic loss is low some obviously
+- [125:34:40] there's some businesses where it's
+- [125:54:40] incredibly high like publishers, right?
+- [126:22:40] Publishers not in a good place. Now,
+- [126:59:59] um affiliates same way.
+- [127:26:40] Um
+- [128:02:40] sorry, most such affiliate marketing,
+- [129:05:20] affiliate SEO was such a cheat code in
+- [129:37:19] those like past I know five years that I
+- [130:29:19] I kind of giggle that this is all coming
+- [131:20:00] to an end. It was it was just so easy.
+- [132:08:00] It's a tricky one because you know like
+- [132:39:59] some super blackhead affiliates are
+- [133:09:20] making bank right now, right? They're
+- [133:33:20] spamming LM. So there is a you know
+- [134:10:39] there is a kind of piece of the pie that
+- [134:43:59] is still rich. Um and then on the other
+- [135:28:00] hand right there is these interesting
+- [135:57:20] conversations of you know should maybe
+- [136:37:20] OpenAI take an affiliate commission for
+- [137:10:40] products that they sell. I don't want to
+- [137:32:00] veer off too much off but it's it's like
+- [137:54:39] a very you know like sure affiliates
+- [138:37:19] were always the middleman but then
+- [138:57:20] there's also this question like who is
+- [139:19:59] the new middleman and or you know anyway
+- [139:50:40] so affiliates publishers struggling um
+- [140:52:00] SAS companies typically flat to up um
+- [141:54:39] e-commerce not a huge impact from AI
+- [142:49:19] views yet cuz I mean the whole
+- [143:14:39] e-commerce landscape has been changing
+- [143:41:19] before AIO views already um and then
+- [144:21:19] there are marketplaces like consumer
+- [144:53:19] marketplaces or B2B marketplaces at
+- [145:25:19] least what's left of them um and and
+- [146:09:20] their revenue is more slightly down but
+- [146:58:40] still not to the same degree that
+- [147:24:00] traffic is lost. And so that brings us
+- [147:52:00] to like an interesting theory, right? So
+- [148:35:59] either um you know like was a lot of the
+- [150:00:00] top of the funnel content that SEOs
+- [150:39:59] created was that maybe more impactful
+- [151:22:39] than we thought but we were never able
+- [151:54:40] to attribute it um or um are we also
+- [153:07:59] seeing more AI overviews for commercial
+- [153:53:20] queries? I would say probably both right
+- [154:33:19] if I had to give an answer I would say
+- [154:58:40] it's probably both. I think on the one
+- [155:24:00] hand there there were there was a lot of
+- [155:58:39] these like very early user journey
+- [156:53:20] topics like what is blah blah blah or
+- [157:43:59] how to do blah blah blah that is very
+- [158:09:20] basic that maybe had a bit more impact
+- [158:42:40] on the downstream funnel than we thought
+- [159:10:40] but it was just harder to attribute and
+- [159:44:00] at the same time I think that the I
+- [160:28:00] don't have data to prove that yet but I
+- [161:12:00] do think that the the so-called donifa
+- [162:08:00] in German right like the actual number
+- [162:42:40] of how often AI overviews show up goes
+- [163:25:20] goes way beyond what we're able to
+- [163:56:00] measure because people prompt longer
+- [164:34:40] questions. And so I'm saying all of that
+- [165:15:59] because that explains a little bit of
+- [165:56:00] the revenue impact that we're seeing.
+- [166:25:20] There are some companies, especially in
+- [166:49:20] the SAS space, that are actually seeing
+- [167:24:00] higher revenue after the launch of AI
+- [168:00:00] overviews in conjunction with all the
+- [168:34:40] other LLMs because people get better
+- [169:12:00] answers to their questions faster and
+- [169:40:00] they get to a conversion point much much
+- [170:15:59] faster in their journey. But then there
+- [170:41:20] are also other companies that benefited
+- [171:20:00] largely from their size, from their
+- [171:52:00] number of pages um in the old SEO world
+- [172:45:20] that are now struggling because that
+- [173:18:40] same um advantage doesn't really uh um
+- [174:18:39] exist anymore in LMS, at least right
+- [174:47:59] now. It's interesting that you mention
+- [175:38:40] that AIO reviews are starting to show up
+- [176:29:20] for commercial queries. The last time we
+- [177:32:00] checked, and I admit that was I think 3
+- [178:25:20] months ago, the last time we studied uh
+- [179:12:00] the kind of the search intent of
+- [179:50:40] keywords that show AI reviews, it was
+- [180:38:40] 99.9%
+- [181:10:40] informational. So like the overwhelming
+- [182:13:20] uh number of keywords that show AI
+- [182:49:20] reviews were informational. So maybe
+- [183:30:40] it's time for us to repeat the study and
+- [184:08:00] see if really like a sizable amount of
+- [185:00:00] commercial queries has crept in. Is like
+- [185:53:20] did did you say someone else's study
+- [186:29:20] along these lines? No, I had this I came
+- [187:04:00] to the same conclusion. Uh I published
+- [187:32:00] this like meta review of all the
+- [188:13:20] available studies in February and I came
+- [188:49:20] to the same conclusion. It's like all
+- [189:09:19] all top of the funnel allformational
+- [189:36:00] keywords. Cool. And then I started in in
+- [190:20:00] March right when Google launched the
+- [190:44:00] March core update. And at the same time
+- [191:25:20] they significantly dialed up AI
+- [192:13:20] overviews you know um we can talk more
+- [192:46:40] about that but at the same time I saw AI
+- [193:29:20] overviews popping up for so many more
+- [194:04:00] queries and I don't have the data about
+- [194:32:00] that yet but a lot of comparison queries
+- [195:25:19] a lot of where to buy type of queries
+- [196:01:20] right so I think a bit of this is also
+- [196:45:20] how do we define commercial queries um
+- [197:32:00] but um yeah man I think I think this
+- [198:24:00] cuts deeper into commercial and
+- [198:49:20] transactional than what we're able to
+- [199:25:20] measure right now. And I'm very keen for
+- [200:00:00] kind of the next study to see if that's
+- [200:41:20] true or not.
+- [200:58:39] Yeah, interesting. We need to check. By
+- [201:24:00] the way, uh in our brand radar tool, uh
+- [202:00:00] we have an index of AI overviews. And if
+- [202:46:40] you do an empty search, it would show
+- [203:13:20] you basically the graph of how many
+- [203:44:00] keywords we see AI overviews for. So
+- [204:18:39] people can kind of track how Google is
+- [204:58:40] rolling out AI overviews and even change
+- [205:33:20] countries. Uh which is very handy handy
+- [206:20:00] to understand like what's the situation.
+- [207:02:40] So my question about that, sorry to
+- [207:37:20] recruit you. Just just a quick question
+- [208:05:20] about this. Um,
+- [208:53:20] how like is there a cuto off of the
+- [209:42:39] number of terms in a prompt or query
+- [210:42:40] that you measure? In other words, are
+- [211:18:40] you able to measure like 30word prompts
+- [212:04:00] and longer?
+- [212:14:39] No, no, no. For for AI reviews, it's
+- [212:45:20] simple. We use the same keyword database
+- [213:14:40] that we use for site explorer. So all
+- [213:57:20] the same keywords that we show you that
+- [214:33:19] websites are ranking for uh we just pull
+- [215:13:20] AI overviews for them and create a
+- [215:45:20] separate database. So it's like it's a
+- [216:24:00] very very simple concept but not that
+- [217:00:00] easy kind of to replicate. This is why
+- [217:28:00] you don't see uh any other tools
+- [218:00:00] introducing anything like that. So yeah
+- [218:42:40] uh again this is like a whole different
+- [219:16:00] conversation in terms of AI visibility
+- [219:58:40] and how do you know that these are the
+- [220:28:00] actual prompts and if you need the
+- [220:58:39] actual prompts this is out of scope of
+- [221:48:00] our today's conversation maybe we can do
+- [222:21:20] round two and talk about AI visibility
+- [223:05:20] but yeah speaking still about AI
+- [223:56:00] visibility uh in regards to AI reviews
+- [224:57:19] we have like two questions left to
+- [225:24:00] tackle uh first of of all
+- [226:41:19] is it useful to show up in those AI
+- [227:14:39] views like as a brand as a product or
+- [227:50:40] whatever and second how how do you show
+- [228:34:40] up in Google's AI views so what do you
+- [229:14:39] have uh along these lines sorry for
+- [229:51:59] interrupting the interview but I have a
+- [230:21:19] very quick announcement to make this
+- [230:57:20] October we're bringing Hrefs Evolve our
+- [231:44:00] 2-day marketing conference to sunny San
+- [232:21:20] Diego and Kevin Indig is actually one of
+- [233:07:59] our speakers at this event so if you're
+- [233:42:40] enjoying our conversation so far
+- [234:12:00] consider getting ticket to HFS Evolve in
+- [234:47:59] San Diego where you'll get a chance to
+- [235:22:40] meet Kevin and maybe even ask him a
+- [235:53:19] bunch of your own questions. Go to our
+- [236:31:59] website at hrefs evvolve.com to see more
+- [237:26:40] details about the event and get your
+- [237:54:40] ticket. Again, it's hrefs evolve.com
+- [238:50:39] this October in San Diego. Now, back to
+- [239:29:20] the episode. So, to answer number one,
+- [240:25:19] we don't know.
+- [240:53:19] We don't know. Um there are cases here
+- [241:45:20] and there that show a benefit. Um, but I
+- [242:49:20] will also say it's still tricky to
+- [243:21:19] track, right? What what's often
+- [243:56:00] forgotten is that Google changes AIO
+- [244:32:00] views so so much. And so the way that I
+- [245:15:59] think about them as a SER feature or as
+- [246:05:20] a product in Google search is that it's
+- [246:46:39] it's it's very nent. It's very young.
+- [247:36:00] Google is still adjusting all the time.
+- [248:20:00] As soon as a Gemini model update comes
+- [249:12:00] out, it also impacts AI overviews,
+- [250:06:39] right? And so the noise factor is
+- [250:34:39] incredibly high which makes it very hard
+- [251:14:40] to consistently measure. Right? I often
+- [251:52:00] get into these conversations where we
+- [252:26:40] see data um about AI overuse visibility
+- [253:28:00] and then you know somebody would go out
+- [253:59:59] and and like you know Google it
+- [254:25:20] themselves quote unquote and then see
+- [254:51:59] something different. And so it's very
+- [255:29:20] hard you know to to get the accuracy
+- [256:14:40] right for AIO views. And a large part is
+- [256:53:20] because Google changes them all the time
+- [257:18:40] and refineses them and works on them and
+- [257:45:20] all that kind of stuff. Um so any case
+- [258:30:39] study that says we saw this 10 20 30%
+- [259:26:40] uplift in citations and AIO views and we
+- [260:21:19] saw a bottom line impact you have to be
+- [260:54:39] careful with that um they exist and
+- [261:46:39] they're very rare still because
+- [262:17:20] they exist I didn't I didn't see any any
+- [262:52:00] such uh case study
+- [263:18:40] nothing public uh but there are
+- [263:46:40] companies that are you know that are
+- [264:12:00] they're they're kind of seeing that data
+- [264:53:20] in their dashboards and they see some
+- [265:36:00] impact on the bottom line but again
+- [266:20:00] incredibly hard to measure. Not just
+- [266:57:20] because the AIO data is tricky, but also
+- [267:41:20] because since we're getting fewer and
+- [268:17:19] fewer clicks, a big piece of the impact
+- [269:13:19] needs to come through self-s serve
+- [269:53:20] attribution. Basically asking people
+- [270:29:19] when they sign up, how have you heard
+- [270:53:19] about us?
+- [271:03:59] They would just say Google.
+- [271:27:59] Yeah, they would just say Google, right?
+- [271:50:39] And so and if they remember, right, they
+- [272:29:19] a lot of times, you know, they might not
+- [272:57:19] remember where they first first saw you.
+- [273:24:00] So super hard to cleanly attribute and
+- [274:54:40] measure that to an increase. Now second
+- [275:30:39] question uh how do you grow your
+- [276:13:19] coverage and AI use? Um a lot of that is
+- [277:16:00] in the most simple way to give the most
+- [278:04:00] relevant and and best answer. And so
+- [279:03:59] that is a much harder concept when we're
+- [279:54:40] talking about shorthad keywords. Right?
+- [280:21:19] So when when somebody's looking for
+- [280:45:20] example for what's the best the best SEO
+- [281:41:19] keyword rank tracker, right? Um or or
+- [282:37:20] maybe just best SEO tool, right? That is
+- [283:18:40] a shorthand keyword. Very hard to say
+- [283:54:39] what people really want. When somebody
+- [284:37:20] searches on the other hand for, you
+- [285:18:39] know, best rank tracker for uh five
+- [286:14:40] people company in the legal space under
+- [287:02:39] $200 a month. much more specific, much
+- [288:01:20] easier to get to do understand what the
+- [288:42:39] best answer looks like in this case. And
+- [289:26:40] so we have to differentiate here between
+- [290:18:39] um what types of keywords and prompts
+- [290:49:19] are we actually targeting with AI
+- [291:14:40] overviews and the more specific the
+- [292:05:20] prompt is that we're targeting, the
+- [292:32:00] easier it is to understand what a good
+- [292:58:40] answer looks like and the easier it is
+- [293:32:00] to then create content or update your
+- [294:14:40] content to appear in AI overviews. So to
+- [295:08:00] bring that to a tactical point, right,
+- [295:44:00] it's about content freshness, content
+- [296:26:40] relevance, like how closely do you match
+- [297:05:20] what people are actually prompting or
+- [297:33:20] looking for? It's about brand authority
+- [298:21:20] and trust. Do people actually have they
+- [299:02:39] heard about you when they see your
+- [299:25:19] brand? What sentiment do they have about
+- [299:58:39] your brand? Um and um u number four
+- [301:10:40] might be um factors like you know soft
+- [302:07:59] factors like your domain or URL or
+- [302:55:59] snippet does it communicate that you are
+- [303:38:40] especially relevant for this case. But
+- [304:17:20] these three other factors trust um
+- [305:13:19] freshness and relevance are in my mind
+- [305:54:40] the the main ingredients to bake the
+- [306:28:00] cake.
+- [306:53:19] Sounds uh eerily similar to how we used
+- [307:59:59] to do SEO in the past. uh decade
+- [308:38:40] basically all the kind of all the first
+- [309:21:19] principles apply
+- [309:52:00] the first principles apply and so this
+- [310:22:40] is what I think is missing from the big
+- [310:56:00] discussion between you know uh go LM O
+- [312:14:40] AISO AO like going to list all the
+- [312:57:20] acronyms right I'm going to send it to
+- [313:28:00] the show notes um but you know like is
+- [314:16:00] this new or is this just good SEO and
+- [315:02:40] the answer is yes right the the core
+- [315:58:40] tactics and principles apply I they
+- [316:48:00] apply they apply with um you know um at
+- [317:52:00] a much much higher rate AI accelerates
+- [318:38:40] all of that makes it basically more
+- [319:06:39] important to be good in these things and
+- [319:42:40] also search behavior changes right so in
+- [320:56:00] order for you to be successful in AI
+- [321:30:40] search you know it it there's more
+- [322:18:40] dimensions and layers to this it's not
+- [322:49:20] just what you do it's also what users
+- [323:30:40] are doing and so right now the biggest
+- [324:06:39] difference that I see between AI Search
+- [324:42:40] optimization and classic SEO is not what
+- [325:30:40] we do as SEOs. It's what users are
+- [326:09:20] doing. They're changing the behavior.
+- [326:34:39] They're searching longer prompts because
+- [327:09:20] for two decades, Google longtail search
+- [327:42:40] was not good. Instead, swear word here.
+- [328:38:40] And uh and now all of a sudden it's
+- [329:06:39] getting really good because LM's pick up
+- [329:43:59] on user intent so much better, right?
+- [330:21:20] And so they're changing what they're
+- [330:50:39] doing. And on the other side of the
+- [331:21:20] search marketplace, you have content
+- [331:56:00] inventory that again for two decades was
+- [332:33:20] trained on optimizing for shorthad
+- [333:02:40] keywords. And now there is a big gap, a
+- [333:50:40] vacuum of hyper specific content that
+- [334:50:40] targets these hypers specific questions
+- [335:21:20] that people have.
+- [336:00:00] Uh first of all, I I made a note of
+- [336:36:00] something you said that uh Google is
+- [337:20:00] often changing AI overviews. So like if
+- [338:06:40] you search for kind of exactly the same
+- [338:38:40] thing which people are still doing a lot
+- [339:12:00] of queries are still kind of three four
+- [339:49:20] five words and people are saying the
+- [340:17:19] same thing or even you might ask the
+- [341:17:20] same thing with six or seven words but
+- [342:00:00] adding those like one or two extra words
+- [342:40:00] doesn't really change much for the
+- [343:14:39] context of what what you're hoping to
+- [343:51:59] get. So you might think that it makes
+- [345:12:00] sense for Google to save some
+- [346:00:00] computational resources and cache those
+- [346:48:00] AI overviews. It just makes sense. Like
+- [347:30:39] the other day we we did a very odd
+- [347:59:59] experiment at HF's blog where we wanted
+- [348:33:19] to test kind of uh AI TLDDR blog like uh
+- [350:06:40] don't read like which is stupid in a way
+- [350:41:20] like don't read the article. Here's like
+- [351:12:00] a quick recap by AI. We did generate the
+- [352:15:59] recap with AI uh but we didn't generate
+- [353:05:20] it on the fly. So we we we made a block
+- [353:46:40] we even kind of uh did like a fancy
+- [354:33:20] animation. So when you load an article
+- [355:12:00] it it something something is kind of
+- [355:44:00] loading and then the AI snippet expands
+- [356:25:20] so that to give people an impression oh
+- [356:53:19] AI has generated this for me. But this
+- [357:36:00] was not like generated on the fly. This
+- [358:17:20] was cached and uh included uh in the
+- [358:58:40] page. So I would think that it makes
+- [359:33:20] sense for uh Google to also cache their
+- [360:31:59] AI overviews for popular queries because
+- [361:08:00] if you need to do the same thing over
+- [361:37:20] and over again uh why would you need to
+- [362:24:00] generate it every time? And this gives
+- [362:49:19] me an idea of yet another research that
+- [363:25:20] we could do. We could just track like a
+- [364:04:00] couple I don't know thousand or I know a
+- [364:39:59] million queries and see how much change
+- [365:41:20] of the text of AI overview uh we see
+- [366:28:00] over time. Uh, and this is where we can
+- [367:02:40] also test if uh Ryan Law, our head of
+- [367:54:40] content, and Patrick Stalks, our
+- [368:29:19] technical SEO wizard, are watching HF's
+- [369:20:00] podcast episodes because it would be up
+- [369:53:20] to them to to do this research and
+- [370:30:40] publish it on HF's blog. But yeah, that
+- [371:15:59] being said,
+- [371:48:00] yes, it makes sense to cache your uh AI
+- [372:53:20] overview and not do compute every single
+- [373:30:40] time someone searches for this. But we
+- [374:04:00] also know that the search results
+- [374:32:00] themselves are volatile. So the same
+- [375:17:19] page wouldn't rank number three like
+- [376:00:00] today and tomorrow and the day after
+- [376:28:00] tomorrow. Google kind of switches them
+- [377:10:40] uh all the time which means that they
+- [377:48:00] can also pull information from different
+- [378:49:20] pages and maybe they have ways to test
+- [379:32:00] if people are satisfied with AI overview
+- [380:25:20] that's generated from these three pages
+- [381:02:40] or AI overview that is generated from
+- [381:44:00] these five pages.
+- [382:15:59] So maybe they're running those tests and
+- [382:59:59] identifying which kind of AI answer
+- [383:41:20] satisfies people uh the most. So that is
+- [384:24:00] very interesting. Have you seen any any
+- [384:49:20] studies of like how often Google changes
+- [385:27:59] AI reviews?
+- [386:01:19] I've seen something but I don't have the
+- [386:23:59] data top of mind. Um I think they're
+- [386:58:40] changing relatively often. Uh but I I
+- [387:44:00] would have to look at the data to give
+- [388:02:40] you a specific answer. By the way, um I
+- [388:50:40] would be very um
+- [389:37:20] excited to see such a feature in the
+- [390:34:40] Href's product. So, not just showing how
+- [391:21:20] many AI overviews appear for your
+- [391:48:00] keywords, but how often do they change?
+- [392:17:20] What's the change rate
+- [392:37:20] might be hard to compute? Um but some
+- [393:22:39] some like noise factor because what I've
+- [394:01:20] what I've seen anecdotally in my
+- [394:42:40] experience is that it's very similar to
+- [395:50:39] keywords, right? So in the classic
+- [396:21:20] keywords um we know that the stat like
+- [397:14:40] you know Google sees 15% new queries
+- [397:52:00] every day because things change blah
+- [398:20:00] blah blah. Um and so what I've often
+- [399:02:39] seen is that in in the first couple
+- [399:38:40] weeks that Google sees a new query it's
+- [400:17:19] very hard for Google to understand the
+- [400:42:39] exact user intent. They need to send
+- [401:10:40] more traffic to the query blah blah blah
+- [401:40:00] and then over time the results become
+- [402:13:20] much more stable because Google
+- [402:37:20] understands what people want. I'm seeing
+- [403:03:59] the same thing anecdotally in AI
+- [403:37:19] overviews. Um the challenge is that
+- [404:41:20] again people's prompts are getting so
+- [405:24:00] long that we don't have that um that
+- [406:46:40] much traffic for these prompts anymore.
+- [407:25:20] And so you know Google needs to rethink
+- [408:29:19] um when a prompt like is is successfully
+- [409:46:40] answered or satisfied by an AI overview
+- [410:48:00] without relying on that much traffic.
+- [411:17:20] And you sure you can do things like you
+- [411:48:00] know do people do follow-up searches? Do
+- [412:13:20] they click on the load more? Do they
+- [412:32:00] click on a citation? Like Google can
+- [413:01:20] track all that stuff. We know but the
+- [413:30:40] dynamics change a little bit. Uh and so
+- [414:20:00] um in the same sense I I still expect
+- [415:02:39] that you know as as prompts relate to a
+- [415:58:40] topic that Google knows better the
+- [416:40:00] change rate calms down. It goes down. Um
+- [417:34:39] but new prompts that Google hasn't seen
+- [418:05:20] before AIOS might change by the hour or
+- [418:53:20] at least by the day. By the way, it's
+- [419:20:00] also funny that you know I I I I do
+- [419:53:20] agree that long-term Google needs to
+- [420:18:40] cash more and at the same time I don't
+- [421:09:19] think like I think right now cost
+- [421:38:39] optimization of AI search is mostly an
+- [422:13:20] investor story because you know like
+- [422:58:40] they they surai said that they decrease
+- [423:37:19] cost by 90%. However, you know, whatever
+- [424:21:19] that means. Um, but on the one hand, you
+- [425:09:19] know, um, you you cannot be like people
+- [425:58:40] are concerned about how much it costs
+- [426:22:40] for Google to compute an AIO answer or
+- [426:57:19] AIO. And on the other hand, they're
+- [427:32:00] spending hundreds of billions in capital
+- [428:05:20] expenditure on data centers and cloud
+- [428:36:00] infrastructure and all that other kind
+- [428:58:40] of stuff, right? So, I don't think this
+- [429:24:00] is the time for cost optimization. I
+- [429:50:40] think Google needs to fend off chatt as
+- [430:29:20] a as a challenger and uh and kind of
+- [431:17:20] stabilize the business in that sense um
+- [431:57:19] or the product if you will and so I
+- [432:33:20] don't think cost optimization is top of
+- [433:02:40] mind unless it comes to quarterly
+- [433:30:40] earning calls maybe.
+- [434:02:39] Yeah, won't argue with that. But since
+- [434:43:59] you mentioned the length of the prompts
+- [435:25:20] and you you you keep you you keep
+- [436:00:00] calling search queries prompts, I I want
+- [436:46:40] to do like a very short philosophical
+- [437:26:39] detour and uh
+- [438:24:00] kind of ask at which point a search
+- [439:30:40] query becomes a task for AI. So like the
+- [440:46:39] difference between searching for
+- [441:10:40] something when you actually like want to
+- [441:38:39] find I know a piece of information, a
+- [442:07:59] product, a solution to a problem versus
+- [442:54:40] when you need AI to do something. And I
+- [443:41:19] think the the more words there are in
+- [444:24:00] your search query or like a prompt, the
+- [445:12:00] more it would steer towards the
+- [445:58:40] direction when you are asking AI to like
+- [446:50:40] do something for you rather than you
+- [447:30:39] want to find something, go to the
+- [448:01:20] website and make a transaction. So in in
+- [448:49:20] my mind all these searches that existed
+- [449:42:40] before they will stay because in many
+- [450:34:40] cases when I'm on my phone and I need
+- [451:12:00] like some some kind of information or
+- [451:46:40] some product or like check if if the
+- [452:17:20] restaurant is available I don't want to
+- [452:55:59] write 20 word again we know that web is
+- [454:26:40] increasingly mobile right Google has
+- [455:00:00] this mobile first indexing because they
+- [455:26:40] optimize uh all the everything should be
+- [456:04:00] optimized for phones because people
+- [456:27:59] spend a lot more time on their phones
+- [456:58:40] than on their computers. If we're
+- [457:18:40] talking about old people in in general
+- [458:03:59] and typing on your phone, you don't
+- [458:34:40] write articles on your phone. Maybe
+- [459:17:20] someone does, but I I I never do this.
+- [460:04:00] So, I don't I I think the the vast
+- [460:37:20] majority of searches how they where
+- [461:17:20] they're going to stay. It's just like AI
+- [461:53:19] unlocks a new way to kind of to use a
+- [462:55:59] search engine. You can you can ask it
+- [463:25:20] for something more than just doing a
+- [463:57:20] search.
+- [464:28:00] Philosophically, every search is part of
+- [465:05:20] an action, right? Um, not the action of
+- [465:50:39] searching, but because you're searching
+- [466:18:40] to take action, right? The majority of
+- [466:52:00] times when you search, it's just a piece
+- [467:28:00] of the puzzle because you want to
+- [468:01:20] accomplish something. It's buying a
+- [468:29:19] product. It's learning a skill or
+- [469:20:00] figuring out information to, you know,
+- [469:50:40] maybe I don't know whatever the whatever
+- [470:24:00] you want to do with that information.
+- [470:46:39] And so what we're seeing now is that
+- [471:18:40] there is some data that came out saying
+- [471:58:40] that 30 to 40% of prompts in LMS are
+- [473:14:39] generative, right? So they are about
+- [473:47:59] people taking a specific action like
+- [474:33:19] create this spreadsheet, draw this
+- [474:58:39] image, etc. And that fluctuates over
+- [475:41:20] time as the capabilities of LMS grow. Uh
+- [476:36:00] you probably remember this studio gibli
+- [477:06:40] trend where everybody you know created a
+- [477:38:40] picture of the giblified version that
+- [478:25:20] all of a sudden generative tasks spike
+- [479:12:00] through the roof right it was so bad
+- [479:35:59] that the openi data center commercial
+- [480:22:40] value for for any business in those
+- [480:56:00] prompts
+- [481:23:59] yes that is maybe LinkedIn I don't know
+- [482:06:40] um but uh
+- [482:44:00] but uh you know like that is a general
+- [483:17:20] task and so I think what's important to
+- [483:49:20] understand here is that
+- [484:38:40] All searches trend towards take an
+- [485:21:19] action. The question is just how quickly
+- [485:53:20] do you get there? And now with AI,
+- [486:30:40] whether it's as an AIO or AI mode on
+- [487:18:40] Google or CHP, perplexity clots, Gemini,
+- [488:05:20] all these LLMs, right? There the
+- [488:51:59] ultimate goal is for you to take action
+- [489:21:19] faster and better. Um, some of these
+- [490:08:00] things you can do in the interface right
+- [490:38:40] away like again spreadsheets, images,
+- [491:09:19] etc. And then other things just guide
+- [491:45:20] you to take the action.
+- [492:14:40] I think that's important to understand
+- [492:37:20] because it means that you know on the
+- [493:21:20] one hand it means that if you still get
+- [494:06:39] traffic you better figure out how they
+- [494:49:20] can take action on your site instead of
+- [495:20:00] like just giving more content. Content
+- [495:54:39] is just the means to learning. It's not
+- [496:29:20] the end, right? People don't read blog
+- [496:57:19] articles because they want to read blog
+- [497:17:20] articles. They read block articles
+- [497:33:20] because they want to do some stuff. So
+- [498:01:20] we need to figure out how to make
+- [498:24:00] experiences more interactive beyond just
+- [499:10:39] text but for people to take action.
+- [499:43:59] Otherwise they go to an LM and take it
+- [500:16:00] um you know at some point. Two the
+- [501:08:00] question is in all these generative
+- [501:38:39] tasks is there a point at which people
+- [502:41:19] need information. So if you want to for
+- [503:32:00] example let's just say you want to
+- [503:57:20] create an image for your LinkedIn
+- [504:53:20] profile header and you go to chat and
+- [505:33:20] you say these are the dimensions now
+- [505:56:00] this is what I want to see uh created
+- [506:29:20] there. Is there going to be a point at
+- [507:01:19] which you maybe do anformational search
+- [507:49:19] about what's the impact of actually
+- [508:26:39] having an optimized LinkedIn header?
+- [508:53:20] Right? So I think it's important for us
+- [509:29:19] that in this whole conversation about
+- [510:05:20] generative intent and tasks that people
+- [510:54:39] do to first of all acknowledge that this
+- [511:34:39] can be very volatile over time. It's
+- [512:01:19] very dependent on the capabilities of
+- [512:26:39] LLMs. Two, every search is a task down
+- [513:32:00] the line. So how can we short that on
+- [514:04:00] shortcut that on our sites? And then
+- [514:41:20] three um
+- [515:34:40] what information is connected to
+- [516:22:40] specific tasks that people are taking
+- [516:57:19] and can you provide that information on
+- [517:32:00] your site so that you're visible when
+- [517:58:40] people take that action.
+- [518:32:00] Okay, that that's enough of uh the
+- [519:02:39] detour uh into philosophical area. Let's
+- [520:04:00] go back to uh ranking in AI or reviews.
+- [521:01:19] So you you you touched on all those like
+- [521:46:39] first principles of SEO, but since we
+- [522:30:39] were discussing
+- [522:58:40] that AI views are can be pulled from
+- [524:02:39] multiple pages and those are not just
+- [524:49:20] the pages of your website and we also
+- [525:34:40] discussed that like every time Google
+- [526:37:20] creates a new AI overview for a given
+- [527:10:40] query they can vary or vary what's
+- [528:14:39] what's the right pronunciation uh which
+- [528:49:20] pages they take this information from it
+- [529:29:19] seems that kind of the missing piece
+- [530:16:00] like or the added piece to what SEO
+- [531:04:00] professionals have been doing or no
+- [531:45:20] again this was like uh digital PR
+- [532:44:00] getting links getting mentions has
+- [533:13:20] always been the case for SEO
+- [533:41:19] professionals it's just I think you you
+- [534:25:19] want to have kind of more control
+- [535:37:20] over what people say about you on their
+- [536:30:40] websites like is the information recent
+- [537:14:40] factual
+- [537:37:20] uh yada yada yada and how many of these
+- [538:16:00] websites are talking about you and
+- [538:41:19] what's the authority of these websites
+- [539:09:20] are talking about you. So it feels that
+- [539:53:20] these things are becoming increasingly
+- [540:52:00] more important
+- [541:25:20] maybe even more important than your own
+- [541:58:40] website uh because again you you can say
+- [542:45:19] you can pretend to be anyone on your
+- [543:11:59] website but can anyone else corroborate
+- [543:50:40] that? So it feels that the the major
+- [544:47:59] shift of how AI is changing the search
+- [545:31:59] game is that you need to care more about
+- [546:23:59] what other other websites are saying
+- [547:00:00] about you. What do you think?
+- [547:53:19] I think there's an argument to be made
+- [548:21:20] that that was always the case. And I do
+- [549:16:00] agree with you though. I think both is
+- [549:42:40] true, right? This was always the case
+- [550:04:00] and now it's even more important. Um and
+- [551:01:19] I've I've seen this in this study that
+- [551:40:00] we performed. So, let me just explain
+- [552:00:00] this study real quick because I keep
+- [552:18:40] coming back to it. Um, I partnered up
+- [553:01:20] with uh uh with Eric um Venbuskerk on
+- [554:01:20] conducting a usability study for AI
+- [554:39:59] overviews. Um took a lot of effort. Uh
+- [555:35:59] six people worked on this. It cost a
+- [556:06:40] small car. Uh was uh you know thankfully
+- [557:04:00] sponsored by Zofu and Du follow. I hope
+- [557:38:39] that's okay that I mentioned this. Um
+- [558:11:59] and uh it created like 30 hours of video
+- [559:02:39] material, 125,000 of words of
+- [559:41:20] transcript. very in-depth and what we
+- [560:13:19] did is we tracked 70 participants in the
+- [561:19:59] US across different age ranges and
+- [561:53:19] different devices when solving eight
+- [562:41:19] tasks on Google. Um, eight tasks because
+- [563:33:19] we wanted to cover different user
+- [564:16:00] intents like find a tax accountant in
+- [564:46:40] your area, find this information about
+- [565:24:00] this medical issue, buy earplugs under
+- [566:13:19] $15, etc. And I would say the the
+- [567:17:20] learnings have fundamentally changed the
+- [567:58:40] way that I look at SEO because one of
+- [568:44:00] the learnings is that
+- [569:46:39] people
+- [570:24:00] generally like and believe AI overviews
+- [571:50:39] and they also really like to validate
+- [572:31:59] that AI answer on platforms like Reddit,
+- [573:31:59] YouTube and other forums. Right? So in
+- [574:18:40] that sense it's absolutely true that
+- [574:42:40] it's more important to to see and try to
+- [575:41:20] influence what other platforms are
+- [576:07:59] saying about you um because people use
+- [577:11:58] them in tandem with Google search and
+- [577:56:00] especially AI answers right so it's
+- [578:34:39] almost like a verification check where
+- [579:15:59] they're like ah this seems to be true
+- [579:40:00] but I'd rather see if another quote
+- [580:06:39] unquote human or unbiased
+- [581:10:39] source says the same thing source can be
+- [581:48:00] again Reddit YouTube forums but also
+- [582:39:59] Trustpilot, G2, right? Review platforms.
+- [583:24:00] It can be Google like Google maps. So
+- [584:01:20] people really care about reviews and
+- [584:30:40] opinions from other humans to influence
+- [585:04:00] their decisions that are already largely
+- [585:49:20] influenced by AI answers.
+- [587:02:39] Okay. Uh let's let's shift gears a
+- [587:46:40] little bit and uh
+- [588:32:00] I want to hear your answer about the
+- [589:29:20] question or in some cases a statement
+- [590:08:00] that people are starting to throw around
+- [591:14:40] every time some change happens in the
+- [591:54:40] SEO industry and that is that SEO is
+- [592:41:20] dead. So stick a fork in it. SEO is
+- [593:32:00] dead. AI has disrupted it. Uh things
+- [594:25:20] will never be the same. Blah blah blah.
+- [595:04:00] But other than just uh getting your kind
+- [596:01:20] of comments and impression on the whole
+- [596:50:40] uh SEO is dead narrative, I want to ask
+- [597:56:00] you like what are you seeing among your
+- [598:30:40] clients? How are they approaching SEO?
+- [599:27:59] Because I remember when I was talking to
+- [600:17:20] a lot of different kind of businesses,
+- [600:45:20] startups,
+- [601:17:20] many of them were kind of avoiding SEO
+- [602:14:39] because because it's slow. Uh it takes
+- [602:56:00] like months, sometimes years to to bring
+- [603:48:00] you good results as opposed to ads where
+- [604:27:59] you can get clicks immediately or it is
+- [605:08:00] like too technical and you need to like
+- [605:38:40] hire like very expensive people to to
+- [606:17:20] get it going blah blah blah. So I know
+- [606:48:00] that people like businesses and startups
+- [607:42:40] only already had their kind of
+- [608:26:40] reservations as to why they don't want
+- [609:05:20] to invest in SEO and now that we see
+- [609:52:00] traffic is going down AI answers blah
+- [610:36:00] blah blah what are you seeing is SEO
+- [611:22:40] dead this time
+- [612:06:39] I think SEO died many times right uh if
+- [612:53:20] you will and it kind of revitalized over
+- [613:36:00] and over again um so
+- [614:27:59] I I want to I want to draw a different
+- [614:50:40] viewoint point of this um which is in
+- [615:41:20] the minds of leadership right CMOs CEOs
+- [616:38:40] COOS uh chief revenue offers off
+- [617:14:39] officers etc um they see a a 30%
+- [618:34:40] structural decline of web traffic and in
+- [619:27:59] their minds SEO might not be dead but
+- [620:17:20] it's probably close to being in a coma
+- [621:02:40] right so it's very hard to go back to
+- [621:40:00] somebody who sees that number and then
+- [622:06:39] say oh no SEO is fine like we're okay
+- [622:45:20] unless you can prove it with revenue
+- [623:06:40] data right? That happens. I see some of
+- [623:41:20] my clients where they're like, "Oh, the
+- [624:04:00] traffic is down, but revenue is up, so
+- [624:30:40] cool. We're we're we keep doing this,
+- [625:04:00] right?" Um, but it's it's very important
+- [626:01:20] to understand that the like what the
+- [626:52:00] investors into SEO think and as SEOs, at
+- [628:04:00] least on the in-house side, right? I'm
+- [628:30:40] not not talking about like independent
+- [629:10:40] site owners, uh, merchants, uh,
+- [629:57:19] affiliates, all that kind of stuff. For
+- [630:18:39] them, SEO might be well on life, right?
+- [630:45:20] I'm talking more about like enterprise
+- [631:09:20] companies um or larger companies, right?
+- [631:57:20] Maybe post series C or D if I had to uh
+- [632:52:00] uh draw a line here. Um so for them
+- [633:38:39] leadership sees that okay SEO is
+- [634:10:40] definitely in decline at least the
+- [634:54:40] traditional form of SEO. So they all ask
+- [635:30:39] themselves the same question which is
+- [636:05:20] what is next like what comes after and I
+- [636:53:20] would say the majority of them see AI/AI
+- [638:16:00] surge as the next thing. So everybody's
+- [638:52:00] hungry to invest. Everybody asks like
+- [639:37:20] without a without a um exception,
+- [640:22:39] everybody that who I work with or uh
+- [641:16:00] sites that I'm that I'm seeing from from
+- [641:48:00] you know from the inside, they're all
+- [642:17:20] asking cool how can we be more visible
+- [643:00:00] in Chachipity and Co. because they all
+- [643:38:39] understand that there could be a
+- [644:09:20] potential first mover advantage and I
+- [644:40:00] would say in some cases that's true. um
+- [645:26:39] we can talk a bit more about like you
+- [645:57:20] know like you know how much classic
+- [646:33:19] influ SEO influences uh LM visibility
+- [647:20:00] etc but um they all smell a first mover
+- [648:14:40] advantage they're all very keen to
+- [648:41:20] invest all of a sudden budgets are
+- [649:13:20] opening right and and people in
+- [649:46:40] companies are willing to invest and at
+- [650:20:00] the same time um I think there is a
+- [651:14:40] window in which you need to prove that
+- [652:14:39] out or these budgets are going to dry up
+- [652:52:00] right so I don't know How long that
+- [653:33:20] window is open? Could be another year,
+- [654:09:20] could be another 18 months, um could be
+- [655:01:19] 6 months. But at some point, right, this
+- [655:44:00] invest like the investors into new
+- [656:22:40] software and maybe content and marketing
+- [656:58:39] campaigns, they will want to see what
+- [657:25:20] the returns are. And as we all know,
+- [657:57:20] like or have seen based on the data, AI
+- [658:54:39] traffic converts at a much much higher
+- [659:46:40] or better rate than organic traffic and
+- [660:49:20] it's also still very small, right? So
+- [661:40:00] all these companies, all all this
+- [662:10:39] excitement is an investment in the
+- [662:47:59] future with an implied expectation that
+- [663:33:20] this AI traffic grows to a meaningful
+- [664:21:20] size and hopefully at some point either
+- [665:16:00] comes on top of what's left of classic
+- [665:53:20] organic search from Google or adds even
+- [666:53:20] more. I've seen for the first time last
+- [667:35:59] week a chart of a company where you have
+- [668:44:00] the um the the the bottom line from SEO
+- [670:02:40] uh or classic SEO Google um and a line
+- [671:01:20] with um bottom line from CHBT and they
+- [671:45:20] cross in the middle. It looks like an X.
+- [672:24:00] That's the first time I've ever seen
+- [672:45:20] this and it's very encouraging. It's a
+- [673:09:19] smaller company, right? So you have to
+- [673:34:40] take that into account. But slowly there
+- [674:13:20] are these cases but for the broad
+- [674:49:19] average I mean you know LM conversions
+- [675:37:20] make up maybe between one and 10% of the
+- [676:41:19] organic bottom line. So it's not it's
+- [677:21:20] not meaningful yet.
+- [678:09:19] I really really like your perspective.
+- [679:01:20] So basically AI is not killing SEO. It's
+- [680:25:20] creating a whole new cycle. And this
+- [681:30:40] cycle starts pretty much from hype and
+- [682:18:39] fear of missing out where everyone wants
+- [683:01:20] to jump on this train while you can
+- [683:56:00] still jump on this train while it's not
+- [684:29:20] yet moving too fast. And I guess this
+- [685:10:40] explains because when when all of these
+- [685:45:20] changes to to search were rolling out
+- [686:22:40] and we we started seeing like loss of
+- [686:54:40] traffic across the board, I was worried
+- [687:35:59] for the fate of HF's revenue to be
+- [688:17:19] honest with you because like we we tied
+- [688:53:20] ourselves uh so uh close with the SEO
+- [690:08:00] industry in in all those years. I I was
+- [691:07:59] thinking and and yet again I was seeing
+- [691:54:40] some people saying, "Oh, like we're
+- [692:24:00] losing clients of our SEO agency on on
+- [693:06:40] Twitter, blah blah blah blah blah." But
+- [693:41:20] what you're saying makes a lot of sense
+- [694:13:20] because a lot of people understand that
+- [695:05:19] it might so happen that those chat bots
+- [695:53:20] are essentially the search engines of
+- [696:26:40] the future and people will keep
+- [697:10:39] searching. People do need to find
+- [697:42:40] information. People do need to uh look
+- [698:16:00] for solutions to their problems. So
+- [698:53:20] someone is going to fill that gap. If
+- [699:26:40] it's not kind of traditional search 10
+- [699:57:19] blue links where when you need to land
+- [700:21:20] on the website, there could be something
+- [700:45:20] else AI answer that that gives you the
+- [701:28:00] information and then again you you go
+- [702:02:39] straight to the website with a purchase
+- [702:29:20] intent like you say the the AI traffic
+- [703:01:20] converts a lot better because in a way
+- [703:45:20] chatbot has done the job of persuading
+- [704:26:40] the person that this is the thing you
+- [704:57:19] need just go and buy it don't waste any
+- [705:28:00] more time. So it actually makes a lot of
+- [706:05:20] sense and this is very optimistic and
+- [707:00:00] reassuring and yeah like I said it
+- [707:26:40] explains why HF's own revenue uh we had
+- [708:21:19] a few pretty good months I can tell you
+- [709:08:00] uh and I guess that's that's thanks to
+- [709:41:20] all the kind of AI related things we
+- [710:20:00] were releasing because people are really
+- [710:51:59] hungry for for that information for
+- [711:20:00] their AI visibility for understanding
+- [711:56:00] how to how to rank in uh uh chat GPT
+- [712:50:40] answers and uh other uh chatbot answers.
+- [713:45:20] That being said, we we discussed quite a
+- [714:22:40] bit how to kind of get your brand into
+- [714:57:19] AI overviews and how to get kind of a
+- [715:33:20] citation uh in in AI overview. Uh is
+- [716:25:19] there any difference between what we
+- [716:49:20] discussed for Google AI overview and uh
+- [717:34:40] ranking in in chat GPT?
+- [718:12:00] Yes, showing up in chat GPT.
+- [718:57:20] Totally. Totally. And I I do want to
+- [719:30:40] say, you know, about the like disruption
+- [720:08:00] and hype and stuff, uh, one mantra that
+- [720:59:59] I'm holding mentally up for myself is
+- [721:54:40] it's it it's never as bad as it seems
+- [722:34:40] and it's never as good as it seems, you
+- [723:05:19] know? So, I think things have a funny
+- [723:41:20] way of playing out down the middle, you
+- [724:27:59] know? It's never fully dystopian, never
+- [725:00:00] fully utopian, right? It kind of comes
+- [725:29:20] out in the middle. Uh, so I think the
+- [726:01:20] same is true here in this kind of
+- [726:22:40] disruption. there is absolutely
+- [726:48:00] something to it and the world doesn't
+- [727:37:20] change tomorrow you know like this is a
+- [728:09:19] small gradual change like there's you
+- [728:58:39] know billions of Google users and some
+- [729:41:20] of them especially the older you get
+- [730:13:20] this is again from this study that I did
+- [730:42:40] the older you are the more um you know
+- [732:01:20] um uh kind of uh the less receptive you
+- [732:51:59] are to AI answers right the more you
+- [733:25:19] stick to the classic results so a lot of
+- [733:58:39] nuance here in this conversation but to
+- [734:26:40] give you a specific answer. Um, there is
+- [735:22:39] a significant difference between
+- [736:05:20] appearing or better said between the
+- [736:40:00] impact of your SEO performance on Google
+- [737:41:20] and how you appear on Chat GPT. So, we
+- [738:36:00] know that LM lean heavily on search
+- [739:36:00] engines like Bing and Google to ground
+- [740:32:00] their answers. So there is of course a
+- [741:07:59] carryover effect but I've looked at the
+- [741:40:00] data and what I've seen is that in some
+- [742:21:20] industries the same winners on Google
+- [743:16:00] are also the winners on chat GPT. A
+- [743:54:39] classic example is CRM software right um
+- [744:52:00] you only have maybe three big CRM
+- [745:30:39] software vendors. I mean you could argue
+- [745:54:40] you have a long tail of smaller ones.
+- [746:16:00] Yes, but the market is dominated by
+- [746:46:40] three big ones. Uh mainly Salesforce and
+- [747:30:40] HubSpot. Um, and those are obviously the
+- [748:30:40] most visible ones on Google. They're
+- [749:10:40] also the most visible ones on CHP. That
+- [749:56:00] is a very consolidated market or
+- [750:26:39] industry. The more fragmented markets
+- [751:17:20] and industries, there is a completely
+- [751:54:40] different game. The same winners on
+- [752:20:00] Google are not the same winners in CHP.
+- [752:56:00] Uh, and part of it is because I mean
+- [753:33:20] there's different reasons for that. I've
+- [753:57:20] seen sites that accidentally block LLMs,
+- [754:57:19] right? So, they're opening the door for
+- [755:28:00] challengers or or other contenders to
+- [756:06:40] come in and and be visible. Um, uh, some
+- [756:56:00] of them just, you know, have kind of a
+- [757:33:20] very old school approach to, uh, to SEO
+- [758:20:00] that doesn't translate well to LLM. So,
+- [758:53:20] there's all sorts of reasons for why in
+- [759:25:20] fragmented markets, the winner on Google
+- [759:54:40] are not the winners on, uh, CHBT, but
+- [760:40:00] we're seeing that e-commerce is a good
+- [761:14:40] example. Uh, some SAS industries are
+- [761:56:00] good examples. And so I think at the
+- [762:47:59] very least it's critical to monitor how
+- [763:56:00] you appear, how visible you are in LM
+- [764:44:00] mainly CHP like it's it's mostly it's
+- [765:24:00] like 80% chip really when it comes to uh
+- [766:09:20] what matters right now. Um, and so I
+- [767:00:00] think at the very least you want to
+- [767:22:40] validate that you dominate your, you
+- [768:21:19] know, market so to say the same way on
+- [769:10:40] Chat GPT as you do on Google because
+- [769:45:19] it's not always true. And if it's not,
+- [770:24:00] we we already have the tools to kind of
+- [770:59:59] reverse engineer what creates visibility
+- [771:48:00] for your competitors. Is it specific
+- [772:20:00] pieces of content that you don't have?
+- [772:54:40] Is it specific um stats or data that
+- [773:50:39] they have that you don't? Is it a
+- [774:17:20] specific brand reputation and sentiment?
+- [774:58:40] So, the tools are already good enough to
+- [775:33:20] help you reverse engineer why somebody
+- [776:01:20] else is more visible or less visible
+- [776:33:19] than you in LMS. But at the very least,
+- [777:14:39] I think everybody should check that for
+- [777:41:20] themselves.
+- [778:18:40] Yeah. Uh, exactly. This is why we're
+- [778:52:00] putting so much effort into our brand
+- [779:21:20] raider tool because it does exactly
+- [779:48:00] that. It it pulls all the uh prompts
+- [780:51:59] where your brand is being mentioned,
+- [781:18:40] pulls all the citations so you can
+- [781:52:00] analyze that for yourself. you can
+- [782:17:20] analyze it for competitors and you can
+- [782:43:59] actually go to the actual pages and
+- [783:24:00] websites that LLMs are pulling their
+- [784:01:20] information from and make sure that
+- [784:36:00] you're being well represented there. And
+- [785:09:20] actually I think uh Patrick Stokes on
+- [785:45:20] our team did a pretty cool study where
+- [786:14:40] he again using brand raider data he
+- [787:02:39] analyzed the top websites where LLMs are
+- [788:14:40] pulling their citations from and he
+- [788:57:20] identified a bunch of biases. I think
+- [789:30:40] for example like Google was uh biased
+- [790:28:00] towards information from Reddit. They
+- [790:58:40] were often like pulling stuff from
+- [791:22:40] Reddit. I think Perplexity was biased
+- [792:02:39] towards Wikipedia or something. So yeah,
+- [792:43:59] uh people if they're interested, they
+- [793:09:19] can look it up on a chef's blog. Uh
+- [793:50:39] pretty cool, pretty cool research by
+- [794:17:20] Patrick Sts.
+- [794:33:20] It's important. Hey, it's really
+- [794:50:40] important because that's another piece
+- [795:12:00] of like how this AI search world is
+- [796:01:20] slightly different than the classic
+- [796:32:00] Google world because as you mentioned in
+- [797:02:39] the beginning, you know, we cannot just
+- [797:30:40] focus on our own websites anymore. We
+- [798:01:20] need to focus on other platforms too and
+- [798:44:00] the mix and prioritization depends on
+- [799:33:20] the model that we're looking at, right?
+- [800:02:40] So, we know that Google and Gemini, they
+- [800:29:20] love, for example, Reddit. Sure. Uh a
+- [801:05:20] part of that is also the case for CHPT,
+- [801:41:19] but CHPT might lean on Wikipedia much
+- [802:20:00] much more, right? Or in other platforms.
+- [802:51:59] So now the question is cool how are you
+- [803:17:19] portray how are you portrayed on
+- [803:53:20] Wikipedia? What are ways that you can
+- [804:34:40] influence that or shape that experience?
+- [805:08:00] So um in that sense SEO has become much
+- [806:11:59] more multi- channelannel or
+- [806:37:19] multiplatform
+- [807:04:00] um and way beyond just mentions and
+- [807:46:40] backlinks also in a sense that there's a
+- [808:29:19] different mix of sources that LM are
+- [808:58:39] pulling from. I'm smiling because uh
+- [809:54:40] Wikipedia editors are probably bracing
+- [810:34:39] for all the SEO spammers that are now
+- [811:10:40] like running their way.
+- [811:53:20] Spam's back, baby. It's back well in
+- [812:33:20] life.
+- [812:47:59] We'll see what happens with all those
+- [813:16:00] websites that LLMs re rely that much for
+- [814:15:59] information. Okay. Uh I I like our
+- [815:09:19] takeaway. I I fully agree with it. SEO
+- [815:51:59] is not dead. Uh it's just like a new
+- [816:28:00] cycle. uh people will keep searching and
+- [817:20:00] first principles apply. Uh there would
+- [818:02:40] be a few changes that you need to make
+- [818:42:39] but fundamentally
+- [819:14:40] you can apply a lot of the skill set
+- [819:42:40] that you've gained in the past decade to
+- [820:24:00] to this new era uh with just little uh
+- [821:32:00] adaptation. Let's talk about now using
+- [822:21:20] AI. So, uh, we don't have much time, uh,
+- [823:16:00] in this podcast episode to go into this,
+- [824:00:00] but still I would love to know with with
+- [824:49:19] again with all the hype like you're not
+- [825:26:39] going to be replaced with AI, you're
+- [825:55:59] going to be replaced with people who
+- [826:20:00] know how to use AI, yada yada yada. And
+- [827:01:20] I've seen you publish some AI workflows
+- [827:58:40] that was that folks from a AI ops or
+- [829:01:20] like what was the tool that uh, Arabs?
+- [830:02:40] AOPS. AOPS. Yeah, they created some some
+- [830:51:59] workflows based on your kind of
+- [831:28:00] methodologies. So, what are like what
+- [832:13:20] are the kind of best uses of AI
+- [834:00:00] for SEO and digital marketing that you
+- [834:44:00] saw? I know give me your top three. What
+- [835:16:00] are the like top three things that if
+- [835:55:59] people are not implementing or if not
+- [836:36:00] looking to implement, they are kind of
+- [837:09:20] falling behind? I love that you asked
+- [837:50:40] that question, Tim, because
+- [838:48:00] as you said, AI goes both ways. And I
+- [840:08:00] don't I'm not sure if most people are
+- [840:33:20] aware of this, but there is this implied
+- [841:48:00] battle or race. Race is maybe a better
+- [842:26:40] word. there's this implied race between
+- [843:20:00] marketers who are now becoming like
+- [844:01:20] incredibly powerful because of AI and
+- [845:00:00] LMS and search which is becoming crazy
+- [845:37:20] powerful because of AI and I'm not sure
+- [846:22:40] like you know right now it seems to me
+- [847:04:00] that we we might be winning this race
+- [847:39:59] and we're we're maybe able to influence
+- [848:46:39] LLM results and search results to much
+- [849:33:20] much higher level than LLMs and search
+- [850:30:39] engines can filter
+- [850:55:59] Right. So to make them more tangible, um
+- [851:42:40] my
+- [852:17:20] principal approach here is that
+- [853:05:19] LM and models are not yet good enough to
+- [853:46:39] replace a whole workflow. A workflow
+- [854:23:59] could be keyword research. It could be
+- [854:52:00] updating content. It could be creating
+- [855:16:00] that new content. It could be a
+- [855:36:00] technical audit. LMS are not yet good
+- [856:10:40] enough to do all of that. But LMS are
+- [857:02:39] good enough yet or tools like like
+- [857:31:59] Arabops that we spoke about, they're
+- [858:13:19] good enough to replace steps or to
+- [858:58:39] automate steps of these workflows. And
+- [859:35:59] so my approach is to codify
+- [860:34:39] the most important workflows for a
+- [861:06:40] company. So if you're not a marketplace,
+- [861:33:19] then it's probably some sort of content
+- [861:57:20] generation. Let's just say block article
+- [862:24:00] generation, even though there's
+- [862:45:20] obviously way more than just blocks. Um
+- [863:28:00] so you have a you you write down the
+- [864:11:59] step by step that happens from you know
+- [864:58:40] ideation of a blog article or
+- [865:28:00] identifying that you want to write about
+- [865:49:20] a topic to publishing the article and
+- [866:49:19] then you see which of these steps is the
+- [867:18:39] bottleneck. Maybe it's creating the
+- [867:53:20] draft. Maybe it's editing the piece.
+- [868:32:00] Maybe it's inserting it into this mess.
+- [869:01:20] Kevin time to interrupt you and throw
+- [869:35:59] that jab you were uh looking for uh for
+- [870:21:20] so long. Let's let's not talk about kind
+- [871:02:40] of generals and hypotheticals. I want to
+- [871:46:40] know something specific that I don't
+- [872:25:20] know you're using personally or that you
+- [873:22:40] see anyone using personally that is kind
+- [873:57:20] of blowing you away outside of going to
+- [874:46:40] chat GPT and saying I don't know give me
+- [875:29:20] five titles for my article or help me
+- [876:07:59] improve something or blah blah blah.
+- [876:41:19] Something really impressive that is not
+- [877:16:00] just like a question to chat GPT.
+- [878:02:40] Cool. Okay. Look, um, ramp.com, right?
+- [879:02:39] Uh, probably one of the most or the
+- [879:35:59] fastest fintech company in history just
+- [880:29:20] raised at a $16 billion valuation. I
+- [881:11:59] worked with ramp for a whole year,
+- [881:38:40] integrated into the growth team. And
+- [882:13:20] something that we did is we took
+- [883:01:20] conversations between prospects that
+- [883:49:20] turn to customers and the sales team. We
+- [884:38:40] transcribed these conversations and we
+- [885:28:00] used an AI tool uh Humata AI I'm sure I
+- [886:18:40] can mention it um to analyze these
+- [887:21:20] transcripts. I think we started with 50
+- [888:04:00] and we asked questions like um what are
+- [888:56:00] the problems that customers are facing?
+- [889:30:40] Uh what are the solutions that are that
+- [890:06:40] they're using right now? Who else are
+- [890:38:39] they looking at? What are they trying to
+- [891:03:59] achieve? What does success look like?
+- [891:25:19] Blah blah blah. these questions. We used
+- [892:21:20] AI to identify the answers from all
+- [893:01:20] these conversations and then we created
+- [893:40:00] blog articles that converted at a much
+- [894:17:20] much higher rate because we knew that
+- [894:50:40] our target audience deals with these
+- [895:30:39] questions and we never even looked for
+- [895:59:59] the search volume about this. And the
+- [896:36:00] beauty of AI is that we're able to now
+- [897:17:20] analyze many conversations. I mean you
+- [897:46:40] can look into hundreds of conversations
+- [898:20:00] to identify from a first principle what
+- [899:05:20] topics people really care about and then
+- [899:42:40] create content about them. That is one
+- [900:20:00] very specific example and you can you
+- [900:44:00] can check the performance of the of the
+- [901:07:59] blog and hrefs. Uh
+- [901:32:00] can I give you a little bit of uh a
+- [902:06:39] little bit of push back on this?
+- [902:41:20] Sure.
+- [903:00:00] So so the push back would be is
+- [904:00:00] who is the source of let's call them
+- [904:58:40] conversion triggers. who is the source
+- [905:48:00] of uh kind of solid arguments that
+- [906:44:00] persuade people to buy. I would say that
+- [907:31:59] it's kind of like a marketing and
+- [907:54:40] product department. So, so you you like
+- [908:30:40] this is this is what uh the term sales
+- [909:17:20] enablement means. It's like you take all
+- [910:09:19] the information on what makes your
+- [910:40:00] product awesome and you give it to sales
+- [911:28:00] so that sales what so that sales knew
+- [912:06:39] what to talk to people. Sales are not
+- [912:53:20] product experts. they need to be
+- [913:24:00] educated on the product. And it seems
+- [913:57:20] that when you're analyzing sales calls
+- [914:37:20] and want to create uh content that would
+- [915:29:20] persuade people to buy, it seems like
+- [916:06:40] you're flipping this the script. You're
+- [916:34:40] putting sales as people who know your
+- [917:12:00] product well and know like what works on
+- [917:42:40] customers like who is creating sales
+- [918:36:00] enablement material. It's kind of like
+- [919:11:59] uh closed closed loop here and you don't
+- [919:58:40] know where this loop starts like what is
+- [920:34:39] the the first source of information who
+- [921:15:59] is giving those like conversion triggers
+- [921:58:39] in the first place. Yeah, I I I can
+- [922:37:20] totally see how you can have like I know
+- [923:21:19] at HFS we have multiple tools, we have
+- [923:57:20] multiple features, we have multiple use
+- [924:26:40] cases. uh you give all that to sales and
+- [925:10:40] then you analyze sales calls and they're
+- [925:46:40] telling you oh like I don't know uh chat
+- [926:22:40] GPT index in brand raider is the best uh
+- [927:22:39] but we also see this with subscriptions
+- [928:05:19] so we don't need to use AI to analyze
+- [928:48:00] sales calls we're just seeing what
+- [929:10:40] converts kind of like this so uh what
+- [930:02:40] would you say to this
+- [930:29:20] well I would expect that sales people
+- [930:58:40] know the product as well maybe not as
+- [931:25:19] deep as a like a product person but they
+- [931:57:20] should know it um however the the the
+- [932:37:20] key here is to look at the conversations
+- [933:32:00] of prospects that turn to customers
+- [934:08:00] because not all prospects turn to
+- [934:31:59] customers, right? Some of them maybe the
+- [935:00:00] price is too high or they don't believe
+- [935:22:39] that the product is good enough, right?
+- [935:54:40] So filtering out the conversations you
+- [936:41:19] look at by the by the successful ones,
+- [937:29:20] that is a key to make sure that you also
+- [938:10:40] have the conversations where you know
+- [938:42:39] the salesperson was able to quote
+- [939:13:20] unquote convince or or help the person
+- [939:54:40] buy the product.
+- [940:29:20] Okay. Okay. uh any other use case that
+- [941:24:00] that is I I must say that that makes
+- [941:58:39] sense that's pretty cool use AI to
+- [942:37:20] analyze uh uh sales conversations at
+- [943:32:00] scale and this is I believe like we
+- [943:58:39] don't use gong ourselves but I believe
+- [944:38:40] gong has this kinds of this kind of
+- [945:16:00] functionality because they automatically
+- [945:44:00] analyze all the sales calls you have and
+- [946:19:59] you can easily search whenever people
+- [946:48:00] mention your competitors you can search
+- [947:18:39] for any objection and it would give you
+- [947:47:59] all the sales calls uh this is very cool
+- [948:36:00] but to be honest I see this as uh you
+- [949:39:59] have to use AI as a marketer. It's like
+- [950:17:20] you have to be up to date with like
+- [950:48:00] what's possible like and if you know
+- [951:21:20] that the tool like Gong exists and this
+- [952:02:39] has and it has this functionality and
+- [952:37:20] you're not using it, you're you're
+- [953:10:40] silly. Like like I what I don't like
+- [953:58:39] about the whole kind of you're going to
+- [954:46:40] lose your job to someone who knows how
+- [955:17:20] to use AI is it smells like some secret
+- [956:11:59] sauce to me. While when I try to talk to
+- [957:06:39] people, I'm not saying secret sauce. I'm
+- [957:33:20] saying, "Oh, like use gong." Oh, really?
+- [958:13:19] I like I'm doing this. I'm doing this
+- [958:54:39] like give me the the secret AI sauce.
+- [959:44:00] But look, I I will say I mean Gong
+- [960:17:20] Chorus, right? They all do this. I will
+- [960:51:59] say that
+- [961:22:40] almost nobody who I talk to actually
+- [962:17:20] listens to customer conversations,
+- [962:43:59] right? SEOs have for such a long time
+- [963:32:00] just done keyword research by search
+- [964:01:20] volume. maybe a slightly more refined
+- [964:42:40] approach, but nobody's listening to
+- [965:14:40] customers. And the reason is because for
+- [965:53:20] the last two decades, marketing was
+- [966:36:00] quantified, right? Performance marketing
+- [967:20:00] works incredibly well. So marketers stop
+- [968:01:20] talking to customers. Nobody does that
+- [968:46:39] actually. So the the the first key is
+- [969:26:40] like going back because when you
+- [970:17:20] identify a topic that you know is
+- [971:05:20] important for your target audience and
+- [971:28:00] maybe it doesn't have search volume,
+- [971:53:19] right? maybe nobody else goes after
+- [972:31:59] this, right? You're going to be the only
+- [973:04:00] source of knowledge for a lot of these
+- [973:37:20] topics, right? So, and and people will
+- [974:19:59] look from the outside with SEO tools on
+- [974:53:19] your website like, why are they going
+- [975:21:20] after this stuff? Why are they not
+- [975:48:00] getting organic traffic? But on the
+- [976:09:20] inside, you're laughing cuz you're
+- [976:32:00] seeing that traffic is going up and
+- [976:54:40] conversions are going up, right? So,
+- [977:14:39] there is a bit of a competitive
+- [977:38:40] advantage part here. Now, the secret
+- [978:14:40] source thing is again um automating
+- [979:18:40] workflows like content generation to a
+- [979:56:00] large part. Okay, let's go to the second
+- [980:21:20] use case. I don't think we'll have time
+- [980:45:20] for three, but we we uh discussed one.
+- [981:26:40] When you use AI to analyze sales calls
+- [982:12:00] at scale and then you use that to
+- [982:55:59] identify like conversion triggers,
+- [983:26:40] identify uh objection handling, things
+- [984:09:20] like that, and you create great content
+- [984:37:20] that kind of does it on autopilot
+- [985:09:19] without sales needing to talk to people.
+- [985:42:39] Uh counted. Uh give give me something
+- [986:44:00] else.
+- [986:54:40] Cool. Um the second thing we we already
+- [987:35:59] spoke about this but like providing an
+- [988:09:19] interactive tool or experience on top of
+- [989:02:39] just text right so um
+- [989:53:19] now nowadays with vibe coding which you
+- [990:44:00] know everybody before you freak out I
+- [991:15:59] know people like ah vip coding vip
+- [991:37:19] marketing this all BS um but nowadays
+- [992:20:00] reality is you can create little tools
+- [993:17:19] very very quickly with solutions like v
+- [994:09:20] 0ero lovable right uh uh cursor etc um
+- [995:25:20] to make your content more more
+- [995:51:59] interactive with generators,
+- [996:28:00] calculators, quizzes, uh little apps,
+- [997:17:20] right? Widgets. I think that's a
+- [997:50:40] critical part. Marketers can now use AI
+- [998:40:00] tools to build a proof of concept,
+- [999:30:40] validate that this works and is
+- [1000:06:40] important. And then hand it over to an
+- [1000:33:20] actual developer team who does this the
+- [1001:05:20] right way, right? Like I'm not technical
+- [1001:41:19] enough to build these tools in like
+- [1002:29:20] production ready, but I'm good enough to
+- [1003:13:19] prove the concept out with something
+- [1003:36:00] that just works, right? Like an MVP type
+- [1004:10:40] of thing. Very underrated um but hugely
+- [1005:21:20] effective. I've seen I mean you can like
+- [1005:54:40] look at some of the websites of the
+- [1006:14:40] companies that I work with and you'll
+- [1006:36:00] see some of these uh widgets or tools uh
+- [1007:18:39] across a lot of their pages. big impact
+- [1008:02:40] not just on the engagement with the
+- [1008:41:20] content therefore the poor performance
+- [1009:08:00] of the content but also the conversion
+- [1009:42:40] rates right so something very tactically
+- [1010:17:20] that you can do now is you can have for
+- [1010:49:20] example a calculator on a standalone
+- [1011:32:00] landing page but you can also embed that
+- [1012:09:20] calculator in your blog content or your
+- [1012:49:20] content hubs and then provide a better
+- [1013:30:40] experience improve conversion blah blah
+- [1013:57:20] blah right you can you can be very
+- [1014:19:59] creative with how you build
+- [1014:42:40] if you get any traffic to your website
+- [1015:08:00] to start with
+- [1015:22:39] yeah of course
+- [1015:54:40] requirement it is to get any traffic.
+- [1016:18:40] Right? So that that is number two that I
+- [1016:44:00] would say is kind of a thoughtful
+- [1017:22:39] approach to bip coding and we maybe just
+- [1017:50:40] need a different word for this.
+- [1018:28:00] Uh I agree that's that's a cool use case
+- [1019:30:40] but I'll give you a bit of push back as
+- [1020:04:00] well. Uh and this push back is grounded
+- [1020:53:20] uh in what's happening at HF's marketing
+- [1021:28:00] department. So um I was pushing uh
+- [1023:01:20] Dimmitri to give marketing department a
+- [1024:10:40] dedicated developer for quite a few
+- [1024:54:40] years just to like uh as you say vibe
+- [1025:50:40] code uh whatever marketing department
+- [1026:30:40] wants like those small kind of mini
+- [1027:08:00] tools some of them silly some of them
+- [1027:34:40] useful whatever we need like kind of if
+- [1028:13:19] if marketers have a development resource
+- [1028:49:20] and they're able to do something more
+- [1029:14:40] than write words and create images and
+- [1029:48:00] do landing pages is that always leads to
+- [1030:29:20] something cool and uh only when kind of
+- [1031:49:19] VIP coding became available and uh
+- [1032:38:40] creating those little tools that don't
+- [1033:18:40] necessarily need to be production ready
+- [1033:58:39] but rather proof of concept has become
+- [1035:05:19] like magnitudes easier and fast.
+- [1035:53:20] Dimmitri officially gave the marketing
+- [1036:34:40] department our own developer kind of
+- [1037:09:20] vibe coder a person who is actually good
+- [1037:41:20] at development. Uh but his job would be
+- [1038:52:00] to vibe code different ideas that
+- [1039:34:40] marketers have like you say of like mini
+- [1040:17:20] tools automating workflows and stuff
+- [1040:50:40] like this. Why? Because
+- [1041:40:00] I I understand that vibe coding is going
+- [1042:20:00] forward and you can explain in plain
+- [1042:54:40] English to AI what you want to build and
+- [1043:30:40] it would build it for you. But still
+- [1044:09:20] from from the experience that I'm seeing
+- [1044:42:40] from from the feedback of the people who
+- [1045:13:19] actually use it, if you're not a
+- [1045:49:20] developer,
+- [1046:15:59] there's a high likelihood that you're
+- [1046:46:40] going to uh waste a lot of time and get
+- [1047:28:00] stuck.
+- [1047:49:20] If you are a developer,
+- [1048:32:00] you're not going to get stuck. You will
+- [1049:04:00] identify, you will tell AI like what to
+- [1049:42:40] do. It would fix it for you and you'll
+- [1050:20:00] have uh the result in like 10 times
+- [1051:09:20] faster uh than it was. So in a way I
+- [1052:02:39] agree with you AI unlocks and again
+- [1052:59:59] there's there's a middle ground there's
+- [1053:28:00] a middle ground there's a case of Ryan
+- [1053:57:20] Law our director of content who actually
+- [1054:35:59] went took some Python co courses uh
+- [1055:24:00] taught himself uh the basics of coding
+- [1056:10:40] and now he's legit good using AI to
+- [1057:10:39] create kind of scripts codes because he
+- [1057:55:59] has this background he spent time kind
+- [1058:28:00] of learning even the fundamentals but
+- [1058:58:39] what he's telling me because I I I don't
+- [1059:33:20] have experience coding self what he's
+- [1060:04:00] telling me that without knowing all
+- [1060:37:20] those fundamentals and without being
+- [1061:05:20] able even to talk to AI kind of as a
+- [1061:50:40] developer to developer he wouldn't be as
+- [1062:41:20] efficient and he would be spending
+- [1063:08:00] magnitudes more time and he would still
+- [1063:44:00] need to go and do research and
+- [1064:18:40] understand like where the issue is. So
+- [1065:17:19] yeah, VIP coding is a cool thing, but
+- [1065:48:00] it's kind of it's not necessarily
+- [1066:28:00] marketing. Like I really like our
+- [1067:16:00] approach where we got ourselves a
+- [1067:51:59] developer in our team. And why did we
+- [1068:21:19] get it? Because with VIP coding, we can
+- [1068:56:00] just turn out things very very fast and
+- [1069:34:40] then we can show it to our product team
+- [1070:06:40] and they would say like to product team
+- [1070:34:39] to Demitri our CEO and he would say,
+- [1071:11:59] "Yeah, I like this idea. Let's kind of
+- [1071:46:40] productize it. Let's add it to HFS." So
+- [1072:38:40] yeah.
+- [1072:50:40] Yeah. Totally. I mean, you know, I abs I
+- [1073:25:19] I had the same experience, right? By
+- [1073:49:20] poke coding can be extremely frustrating
+- [1074:26:40] and you get to like 99% quickly and then
+- [1075:10:40] the last percent just takes, you know,
+- [1075:45:20] five times as much time as it took to
+- [1076:10:40] get to 90 99%. Um, so all of that is
+- [1077:00:00] true and I think there's some like
+- [1077:22:39] things that you can do to to kind of um
+- [1078:10:40] make it more efficient like first
+- [1078:41:20] creating a PRD with AI blah blah blah,
+- [1079:14:40] right? like designs, showing what good
+- [1079:39:59] looks like. There's a whole bunch of
+- [1080:01:19] stuff you can do to increase your
+- [1080:20:00] chances, but the reality is a developer
+- [1080:59:59] will always do a better job than a
+- [1081:32:00] marketer. And it's still the first time
+- [1082:13:20] that a marketer can create tools at all.
+- [1082:42:40] You know what I mean? Like before it was
+- [1083:01:20] always like, "Hey, please give us a
+- [1083:24:00] developer." No. Okay, then we can't do
+- [1084:01:20] this. Now that the house is on fire from
+- [1084:43:59] a traffic perspective, it's a perfect
+- [1085:25:20] time to to think more diligently and
+- [1086:18:40] intentful about this. And so I love that
+- [1086:46:40] you have a developer. I think that's the
+- [1087:12:00] right call. I think every company should
+- [1087:46:40] aim for that. Um, and again, um, these
+- [1088:50:39] little experiences can go way beyond
+- [1089:27:59] just a single landing page. You can
+- [1090:10:40] embed them in many pages. You can string
+- [1090:46:39] them together, right? That's another
+- [1091:21:20] thing that people forget. You can buy a
+- [1091:45:19] little suite of many apps across your
+- [1092:21:20] site. Um, and um, you know, become like
+- [1093:18:40] a like a more product um, focused uh,
+- [1094:11:59] marketing team. Um, do you want to go
+- [1094:43:59] into the third thing?
+- [1095:14:40] Uh, no. We actually don't have uh enough
+- [1095:53:20] time for this. So I will ask you a quick
+- [1096:22:40] question. Did you vape code something
+- [1096:53:19] that is kind of public that people can
+- [1097:29:20] go uh and check out?
+- [1097:58:40] Yeah. All the time, man. Like I'm I'm
+- [1098:41:20] you know putting my money where my mouth
+- [1099:04:00] is. So the um I'm writing this
+- [1099:42:40] newsletter called the growth memo and
+- [1100:06:40] all the I think for over the last couple
+- [1100:29:20] of weeks uh almost every growth memo
+- [1101:19:59] newsletter has um bycoded or like not
+- [1102:21:20] bipcoded tools at the very bottom. I
+- [1102:53:20] will say it's only for premium
+- [1103:10:40] subscribers. Um but yeah b you know like
+- [1103:58:39] an intent classifier tool that will
+- [1104:33:20] classify your questions and keywords by
+- [1105:06:40] user intent. Uh a topic um can like a a
+- [1106:17:20] key sorry a content cannibalization
+- [1106:57:19] identification tool. Uh
+- [1107:25:20] but no online tool that would be
+- [1107:57:20] available on your website for people to
+- [1108:28:00] just go and click around.
+- [1108:58:39] Um I mean if you're subscribed yes uh
+- [1109:33:20] there's like
+- [1109:43:59] only for paid subscribers.
+- [1110:20:00] Only for paid subscribers right now.
+- [1110:50:39] Yes.
+- [1111:05:20] Okay. Okay. Uh Kevin, uh it's been a
+- [1112:05:20] pleasure. Uh always great to catch up
+- [1112:34:40] with you and uh I'm looking forward to
+- [1113:13:19] seeing you in San Diego in October
+- [1113:53:20] because you're speaking at HFOL
+- [1114:26:40] conference. I'm looking forward to a
+- [1114:58:40] talk because we're recording this in
+- [1115:34:39] July. So it's like July, August,
+- [1116:29:19] September, October is like 4 months
+- [1117:14:39] until the event and who knows how much
+- [1118:02:40] stuff will happen in AI and search. So,
+- [1118:50:39] I'm sure you'll you'll come with some
+- [1119:21:20] fresh information for people. But yeah,
+- [1119:53:19] thanks for doing this.
+- [1120:16:00] Thank you. Been super excited about
+- [1120:49:20] this. Uh not disappointed in the
+- [1121:21:20] slightest and very very uh pumped up
+- [1122:08:00] about uh San Diego. So, I'll see you
+- [1122:37:20] there.
+- [1122:46:40] Thanks a lot for sticking till the very
+- [1123:17:19] end of this episode. I guess that means
+- [1123:53:20] you enjoyed it, right? Because if you
+- [1124:33:20] did, I have to ask you to subscribe to
+- [1125:09:19] this YouTube channel or maybe click the
+- [1125:49:20] follow button if you're listening to
+- [1126:15:59] this on Apple or Spotify. Not sure if
+- [1126:58:39] you know this, but subscriptions and
+- [1127:31:59] follows are the strongest signal for
+- [1128:05:19] these platforms to show this piece of
+- [1128:37:19] content to more people. So, I would
+- [1129:17:20] really, really appreciate it if you
+- [1129:52:00] would follow and subscribe. Thanks in
+- [1130:26:39] advance and I'll see you in the next
+- [1130:53:20] episode. Why?

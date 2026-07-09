@@ -1,0 +1,316 @@
+﻿---
+title: "How to Rank #1 in AI SEO (Step by Step Tutorial)"
+expert: "Matt Diggity"
+video_id: "-vXNeOGNpvs"
+video_url: "https://www.youtube.com/watch?v=-vXNeOGNpvs"
+channel: ""
+published_at: ""
+language: "en"
+---
+
+# How to Rank #1 in AI SEO (Step by Step Tutorial)
+
+- Expert: Matt Diggity
+- Source: https://www.youtube.com/watch?v=-vXNeOGNpvs
+- Notes: AI SEO tutorial focused on ranking in AI-driven search.
+
+## Transcript
+
+- [00:25] I think I've just found the answer to
+- [01:09] the question that everyone has been
+- [01:42] asking since chat GPT was released. How
+- [02:26] do we get our businesses recommended
+- [02:58] when people ask for the best option in
+- [03:28] chat GPT? It's a little bit like uh SEO
+- [04:22] for AI. Right now, the reason we haven't
+- [05:01] been able to solve this problem is us
+- [05:30] SEO guys, we have been probably being a
+- [06:22] little bit too technical. You see,
+- [06:44] original SEO was all about, you know,
+- [07:20] structuring the website and doing all
+- [07:45] the schema and the metadata and all that
+- [08:10] sort of stuff. And we thought that
+- [08:39] that's what we needed to do to be ranked
+- [09:08] in AI. But what I've found is it's
+- [09:44] actually the opposite. So, I reverse
+- [10:22] engineered AI to come up with an answer
+- [11:21] on how do we rank? I've gone to AI and
+- [12:01] I've asked it, how do we get you to
+- [12:30] recommend our brand uh when someone asks
+- [13:13] for it? But what I found was you can't
+- [13:41] just sort of ask it directly. You need
+- [14:05] to ask it in a specific set of prompts.
+- [14:41] So, I've got those prompts here. I'm
+- [15:03] going to show you exactly what I did to
+- [15:34] unlock how you can get your business
+- [16:10] recommended in AI. And it is a lot
+- [16:51] easier than you think. So, let's jump
+- [17:18] into Chachi B and I'll show you what I
+- [17:46] mean. What we want to do first is we
+- [18:27] want to ask Chachi BT, you know, who's
+- [19:08] already ranking in your category. So, in
+- [19:42] my world, we sell coffee concentrate in
+- [20:17] Australia. So, I'm going to ask it, what
+- [20:56] are the top 10 coffee
+- [21:57] concentrate brands in Australia? Okay,
+- [23:15] by doing this we're going to see who
+- [23:48] it's recommending and who it ranks,
+- [24:17] right? So, it's gone to the web. It's
+- [24:38] doing all its bits. It's doing the
+- [24:58] normal thing that we'd be used to. Okay,
+- [25:33] so can see here uh it's given us sort of
+- [26:29] the top seven uh well, not strictly
+- [27:20] concentrates. Okay, so it's given us a
+- [27:44] whole heap, but interestingly, my brand
+- [28:10] is not in here, right? So, these are all
+- [28:36] the big guys. So, currently we're not
+- [29:26] being recommended in AI. So now we want
+- [30:20] to do a little bit of a follow up
+- [30:48] question. We're going to ask it
+- [32:52] how did you come up with these results?
+- [33:25] By doing this we're getting an
+- [33:52] understanding of what chatpt does to you
+- [34:41] know get the right results and how it
+- [35:10] sort of puts them together. So firstly
+- [35:53] we can see that it used Australian web
+- [36:29] search. So I went to the web and it used
+- [36:57] sort of the top keywords. This is basic
+- [37:26] 101 SEO and Chachi is going and doing
+- [38:22] that. Okay. Then secondly, it referenced
+- [38:57] independent roundup. So it searched the
+- [39:34] web, but it's actually found other
+- [39:58] places that are recommending brands and
+- [40:30] starting to join these two together. It
+- [41:05] then went into category specific sites.
+- [41:43] So it looked at different sites to see
+- [42:24] whether or not they are they reference
+- [42:54] sort of the independent sites and the
+- [43:20] web search. And then it's even gone into
+- [44:02] very specific industry news. And then it
+- [44:48] filtered it out for relevance to see
+- [45:12] that you know were the results that they
+- [45:38] captured relevant. So what CHP is doing
+- [46:30] here is it's starting with a web search.
+- [47:08] It's then going out and spreading its
+- [47:34] wings a little bit. It's going to
+- [48:05] industry sites. It's going to reference
+- [48:40] sites. It's going to new sites. And then
+- [49:07] it's using its generative AI engine to
+- [49:44] pull it all together to come with the
+- [50:05] best results. So it's touching lots of
+- [50:32] places across the web. So let's go to
+- [50:57] the next bit. And this is the part where
+- [51:22] we're going to ask why they didn't
+- [51:53] recommend your brand.
+- [53:06] What about Dose, which is the name of my
+- [53:48] brand?
+- [54:56] Okay, so it's telling me why I didn't
+- [55:25] appear in the top 10. Dose didn't appear
+- [56:02] in the current public top 10 lists I
+- [56:34] pulled from the review and product
+- [56:53] ranking sites, mainly because these
+- [57:14] listbased brands with high retail
+- [57:45] presence or high heavy mainstream
+- [58:14] distribution. This doesn't mean Dose
+- [58:55] isn't competitive. Quite the opposite.
+- [59:28] Um, here's why it's not on those generic
+- [59:57] lists. Okay, so it's giving us reasons.
+- [60:40] All right. So one uh most top coffee
+- [61:29] concentrate list in Australia dominated
+- [61:53] by the big products uh the reach of this
+- [62:33] product. So the distribution reach and
+- [63:09] the recency in market. Okay. All right.
+- [63:57] So then it's given us some insight about
+- [64:33] our product. So this is how we stack up.
+- [65:21] Now it says opportunity for inclusion.
+- [65:58] This is where it's going to start to
+- [66:17] tell us what we need to do to rank. All
+- [67:00] right. So first few things it tells us
+- [67:24] is get into review platforms. So we want
+- [67:59] to send products to these sites. it's
+- [68:30] telling us exactly the sites to send it
+- [68:55] to. Um, boost retail marketplace. So,
+- [69:54] sell in, you know, other places like
+- [70:29] sell it on Amazon or eBay. That's a
+- [71:01] really interesting one. Uh, encourage
+- [71:37] custom reviews in public spaces. So,
+- [72:08] rather than just review on our store,
+- [72:33] review in other places. Then it says, if
+- [73:13] you like, I can map out a PR and SEO
+- [73:46] strategy to get dosed into the top
+- [74:13] Australian coffee concentrate lists.
+- [74:52] Okay. So, uh, interesting. Let's do one
+- [75:46] more thing. Even though it's told us
+- [76:06] this, I want to prompt it. I just want
+- [76:25] to get a little bit more info here. So,
+- [76:53] I'm going to type in
+- [77:33] why didn't you include it in your list?
+- [79:06] Okay. So, even though it's told us a
+- [79:29] little bit, we're just going to ask it
+- [79:46] again.
+- [81:33] Okay? Because the list I gave you wasn't
+- [82:05] my personal best of list. It was a
+- [82:37] synthesis of third party rankings. This
+- [83:10] is where it gets really deep, guys. Uh,
+- [83:50] and current market visibility. When I
+- [84:24] pulled top coffee concentrates round up,
+- [84:55] I was working off published product
+- [85:25] ratings, mainstream specialty brands.
+- [86:06] Since Doast hasn't yet been featured in
+- [86:41] any of those lists, um, or had broad
+- [87:38] marketplace distribution, it simply
+- [88:12] didn't appear in the data sets that I
+- [88:41] use. Okay. So, it's a bit like pulling
+- [89:17] Australia's top 10 cafes from a good
+- [89:45] food guy. You might know a hidden gem
+- [90:14] that's better, but they haven't been
+- [90:34] reviewed yet. That said, if we're making
+- [91:02] a quality base list of visibility, dose
+- [91:38] would be in it there for sure, just not
+- [92:16] yet in the public rankings. All right.
+- [93:03] So, what this is telling us is it thinks
+- [93:49] we're a great brand. It knows a lot
+- [94:13] about us, but no one else does. Okay?
+- [95:01] So, this is not saying that we need to
+- [95:33] optimize our website for SEO and
+- [96:06] technical rankings. It's saying that we
+- [96:42] need other people to talk about us. We
+- [97:10] need to be found in, you know, these
+- [97:34] publications. We need to be sold on
+- [98:00] other places to be recommended, right?
+- [98:41] So it can't just go off a single website
+- [99:13] and be like this is the best product. It
+- [99:48] needs you know authority and you know
+- [100:19:59] links from other people to do it. So
+- [100:48:00] let's ask another question and see see
+- [101:13:20] what we actually need to do. We're going
+- [101:30:40] to get a plan in place. All right. Uh so
+- [102:29:20] it says if you want I can redo the
+- [102:54:39] listing including dose. Well that would
+- [103:22:40] just be for us. We want to actually have
+- [103:53:20] the uh have the listing be for
+- [104:31:59] everybody. So, what we're going to ask
+- [105:10:39] it now is what can do
+- [106:41:20] to get listed in the top five
+- [107:57:19] recommendations
+- [108:24:00] always.
+- [108:51:59] Uh, let me fix my spelling.
+- [110:52:00] So, what should happen here is it should
+- [111:26:39] give us a exact plan of what to do.
+- [112:25:20] Okay. So, first it says if those wants
+- [113:13:20] to consistently appear on the top five
+- [113:36:00] concentrate, it needs to play both the
+- [114:08:00] PR awareness game and the SEO content
+- [114:46:39] game. So, this is interesting um because
+- [115:29:19] those lists aren't really objective.
+- [115:54:40] They're usually driven by who the
+- [116:17:19] editors know and have tried, who ranks
+- [116:49:20] high in Amazon or Google, who sends out
+- [117:28:00] samples and press kits, who's generating
+- [117:58:40] review content regularly. All right,
+- [118:20:00] these are all things that we can do. All
+- [118:49:19] right, now here is the priority list
+- [119:21:20] that we need to do. First one is
+- [119:42:40] dominate the listical game. Okay. Our
+- [120:19:59] goal is to be featured in every best
+- [120:45:20] coffee concentrates in Australia
+- [121:14:39] article. All right. So, what we need to
+- [121:40:00] do is outreach to publishers. Uh send
+- [122:20:00] professional media kits. Uh offer some
+- [123:00:00] exclusives. Okay. The first one. The
+- [123:39:59] second one is we want to win the SEO
+- [124:03:59] battles. This is where the SEO does come
+- [124:28:00] into play. When people search best
+- [125:00:00] coffee concentrate in Australia, do
+- [125:25:20] appears on page one. So, we're going to
+- [125:52:00] create our own blog post. Uh optimize
+- [126:32:00] our product pages. Partner with high
+- [127:08:00] domain. So, this is just SEO like I
+- [127:37:20] usually teach on this channel. So, you
+- [128:06:39] should just be doing all the basics for
+- [128:36:00] SEO. All right. And then we've got build
+- [129:14:40] public review volume. This is really
+- [129:40:00] interesting. Get 50 to 100 five-star
+- [130:14:40] reviews on a Google business profile on
+- [130:56:00] product review.com.au, even Amazon. All
+- [131:40:00] right. So, these are all super simple
+- [132:04:00] things. So, what we could probably do
+- [132:22:40] here is, you know, when we sell our
+- [133:02:40] products, instead of getting them to
+- [133:22:40] review on our website, maybe get them to
+- [133:53:20] review on these sort of thirdparty
+- [134:14:40] platforms. Super simple idea. So, send
+- [134:46:39] out an email with an email flow that
+- [135:18:40] says, "Please review our product."
+- [135:43:59] That's crazy easy. All right. And then
+- [136:30:40] get social proof in the right circles is
+- [137:01:20] the next one. Partner with 10 to 15
+- [137:26:40] coffee food creators so we can just
+- [137:57:19] reach out to those. Send them product
+- [138:29:20] and recipe ideas. Get your concentrate
+- [139:06:40] featured in cocktail and booster
+- [139:28:00] competition recipes. Love that idea.
+- [139:53:19] That's a great one. Tap into retail and
+- [140:30:40] visibility. Be discoverable in the same
+- [141:08:00] places. List on Amazon AU. That's an
+- [141:54:39] easy one. In fact, we're already going
+- [142:21:19] down that path. Partner with boutique
+- [142:54:39] grocery chains. Uh pitch to the big
+- [143:37:19] bigger airlines. That's really
+- [143:59:59] interesting. I love that. Um, and then
+- [144:33:19] maintain fresh PR hooks. Okay, so this
+- [145:21:19] has given us everything, but at the end,
+- [145:46:40] this is the cool part. If you want, I
+- [146:17:20] can map out a 12-month dose top five
+- [146:46:39] domination plan um with exact targets.
+- [147:36:00] Uh, yes, please map it out.
+- [149:42:39] All right, here's your domination plan
+- [150:14:40] to make sure you're consistently
+- [150:34:40] featured. All right. So the first months
+- [151:18:40] one to three it's doing the PR kit media
+- [151:55:59] creation. It's then doing initial media
+- [152:22:40] outreach and it's telling me who all the
+- [152:53:19] places I and it's telling me all the
+- [153:33:20] places to outreach to and how we should
+- [154:40:00] approach it. It's telling us what SEO
+- [155:15:59] work that we need to do. All right. Then
+- [155:52:00] phase two is months four to six. Uh seed
+- [156:50:40] with influencers,
+- [157:19:59] get more reviews and then outreach again
+- [158:11:59] to media. Phase three is PR. So maybe
+- [159:08:00] launch some flavors, do brand collabs,
+- [159:42:39] guest blogging, and then phase four is
+- [160:24:00] dominate evergreen presence. That's
+- [160:52:00] months 10 to 12,
+- [161:38:40] what metrics to track, estimated
+- [162:09:20] timeline. So this is like the full plan
+- [162:53:19] on exactly how to get recommended in AI
+- [163:37:20] search engines. Now, as you can see,
+- [164:08:00] it's not an overnight thing. It's one of
+- [164:37:20] those things that we need to work a
+- [164:58:40] little bit hard of. And it's not
+- [165:25:19] technical. It's not hard. It just takes
+- [166:05:20] time. And as you can see, even in the
+- [166:31:59] first one to three months, that's where
+- [166:57:20] we've got to do a lot of the work on
+- [167:17:20] doing the outreach and things like that.
+- [167:46:40] We don't need to think smarter and
+- [168:14:40] harder and do all this crazy technical
+- [168:42:40] optimization stuff. We just need to ask
+- [169:18:39] AI the questions and what it needs from
+- [169:45:20] us and we just got to do the things that
+- [170:14:40] it asks us to do and we've got the best
+- [170:46:40] chance of getting recommended. I'm
+- [171:20:00] already starting this on my brand. I've
+- [171:46:39] created some blog posts. I'm already
+- [172:08:00] doing my PR. Uh I'm getting listed on
+- [172:45:20] Amazon. I'm going to start reaching out
+- [173:11:59] to influencers and sending them free
+- [173:33:20] products. In a couple of months time,
+- [174:05:20] I'm going to revisit this video and see
+- [174:34:40] whether or not this actually works. So,
+- [175:00:00] if you haven't subscribed to this
+- [175:25:19] channel, now's the time because I'm
+- [175:54:39] going to keep posting videos. I'll keep
+- [176:20:00] you updated on the progress of this
+- [176:58:40] project.

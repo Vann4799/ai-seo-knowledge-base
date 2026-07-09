@@ -4,7 +4,7 @@ Research project for collecting high-signal expert content about AI-powered SEO 
 
 ## Project Overview
 
-This repository collects expert sources, LinkedIn research notes, and YouTube transcript targets for a future playbook on AI-powered SEO content production.
+This repository collects expert sources, LinkedIn post records, and YouTube transcripts for a future playbook on AI-powered SEO content production.
 
 The goal is not to collect the most material possible. The goal is to collect strong practitioner material from people who are actively building, advising, testing, or teaching modern SEO, AEO/GEO, AI search visibility, and content production workflows.
 
@@ -13,7 +13,7 @@ The goal is not to collect the most material possible. The goal is to collect st
 - Identify 10 high-signal experts on AI-powered SEO content production.
 - Collect links, annotations, and recent content targets for each expert.
 - Organize LinkedIn research notes by author.
-- Prepare a repeatable YouTube transcript workflow using an API-based script.
+- Prepare and run a repeatable YouTube transcript workflow using an API-based script.
 - Produce an initial synthesis that can support a practical playbook later.
 
 ## Why This Topic
@@ -70,6 +70,8 @@ research/
     <expert>/
       index.md
   youtube-transcripts/
+    <expert>/
+      <video-title>-<video-id>.md
   other/
 scripts/
   download_youtube_transcripts.py
@@ -82,9 +84,10 @@ scripts/
 2. Built a shortlist of expert candidates.
 3. Verified 10 experts with public links and relevant recent content.
 4. Added source annotations and transcript targets.
-5. Created a YouTube transcript downloader script using the Supadata API.
-6. Organized LinkedIn research notes by expert.
-7. Added an initial synthesis of recurring insights and strategy patterns.
+5. Created and ran a YouTube transcript downloader script using the Supadata API.
+6. Collected 10 YouTube transcript Markdown files.
+7. Organized LinkedIn research notes by expert.
+8. Added an initial synthesis of recurring insights and strategy patterns.
 
 ## Data Collection Process
 
@@ -92,7 +95,7 @@ The research uses three collection lanes:
 
 - Source mapping: expert profiles, websites, newsletters, and video channels are documented in [`research/sources.md`](research/sources.md).
 - LinkedIn research: 20 selected public LinkedIn post records are organized by expert under [`research/linkedin-posts/`](research/linkedin-posts/) and consolidated in [`research/linkedin-posts/manifest.csv`](research/linkedin-posts/manifest.csv).
-- YouTube transcripts: transcript targets are listed in [`research/youtube-video-targets.csv`](research/youtube-video-targets.csv) and can be collected with the script in [`scripts/download_youtube_transcripts.py`](scripts/download_youtube_transcripts.py).
+- YouTube transcripts: transcript targets are listed in [`research/youtube-video-targets.csv`](research/youtube-video-targets.csv), collected with [`scripts/download_youtube_transcripts.py`](scripts/download_youtube_transcripts.py), and saved under [`research/youtube-transcripts/`](research/youtube-transcripts/).
 
 ## Tools Used
 
@@ -121,9 +124,9 @@ python scripts/download_youtube_transcripts_free.py --manifest research/youtube-
 
 ## YouTube Transcript Collection
 
-The transcript script is ready, but transcripts are not committed until the API is run.
+10 YouTube transcript files have been collected via Supadata and committed under [`research/youtube-transcripts/`](research/youtube-transcripts/).
 
-Collection attempts and blockers are documented in [`research/transcript-collection-log.md`](research/transcript-collection-log.md).
+Collection attempts, blockers, and final successful API run are documented in [`research/transcript-collection-log.md`](research/transcript-collection-log.md).
 
 Dry run:
 
@@ -152,7 +155,6 @@ research/youtube-transcripts/<expert>/
 
 ## Limitations
 
-- YouTube transcripts have not been downloaded yet because the API key is not stored in the repository.
 - Free transcript methods were attempted, but YouTube blocked requests from the current environment.
 - LinkedIn research is manually collected from public pages and search results as linked post records, so it may not represent every recent post by each expert.
 - Some experts have stronger newsletter or webinar material than YouTube material.

@@ -20,10 +20,13 @@ python scripts/download_youtube_transcripts.py --manifest research/youtube-video
 ```
 
 Status:
-Not run because no API key is stored in the repository.
+Successful.
 
-Reason:
-The project intentionally avoids committing API keys or credentials. The script is ready for use once `SUPADATA_API_KEY` is provided through the environment.
+Result:
+10 transcript Markdown files were saved under `research/youtube-transcripts/`, one per selected expert.
+
+Security note:
+The API key was provided through the `SUPADATA_API_KEY` environment variable and was not committed to the repository.
 
 ## Method 2: youtube-transcript-api
 
@@ -88,7 +91,7 @@ We're sorry... your computer or network may be sending automated queries.
 
 ## Next Best Step
 
-Use the Supadata API script from a normal authenticated API workflow:
+To refresh transcripts, rerun the Supadata API script from an authenticated API workflow:
 
 ```powershell
 $env:SUPADATA_API_KEY="your_api_key"
@@ -103,6 +106,7 @@ python scripts/download_youtube_transcripts_free.py --manifest research/youtube-
 
 ## Notes
 
+- 10 transcripts were collected through Supadata.
 - No fake transcripts were created.
 - No API keys or credentials were committed.
-- The transcript folder includes documentation and is ready for generated Markdown outputs.
+- The transcript folder includes documentation and generated Markdown outputs.

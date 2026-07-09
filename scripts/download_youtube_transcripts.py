@@ -172,6 +172,13 @@ def slugify(value: str, fallback: str = "untitled") -> str:
 def format_timestamp(seconds: Any) -> str:
     if seconds is None or seconds == "":
         return ""
+    if isinstance(seconds, str):
+        parts = seconds.split(":")
+        if len(parts) == 2 and all(part.isdigit() for part in parts):
+            return f"00:{int(parts[0]):02d}"
+        if len(parts) == 3 and all(part.isdigit() for part in parts):
+            return f"{int(parts[0]):02d}:{int(parts[1]):02d}"
+
     try:
         total_seconds = int(float(seconds))
     except (TypeError, ValueError):
@@ -301,4 +308,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

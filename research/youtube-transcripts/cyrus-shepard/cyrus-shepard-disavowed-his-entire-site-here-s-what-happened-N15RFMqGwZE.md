@@ -1,0 +1,980 @@
+﻿---
+title: "Cyrus Shepard Disavowed His Entire Site: Hereâ€™s What Happened"
+expert: "Cyrus Shepard"
+video_id: "N15RFMqGwZE"
+video_url: "https://www.youtube.com/watch?v=N15RFMqGwZE"
+channel: ""
+published_at: ""
+language: "en"
+---
+
+# Cyrus Shepard Disavowed His Entire Site: Hereâ€™s What Happened
+
+- Expert: Cyrus Shepard
+- Source: https://www.youtube.com/watch?v=N15RFMqGwZE
+- Notes: Interview on search changes and brand visibility.
+
+## Transcript
+
+[Music]
+- [02:06] Cyrus uh the people listening to this
+- [02:42] will have to check out the YouTube but I
+- [03:24] I'm going to have to send you a check
+- [03:47] for that the the ad you got running on
+- [04:32] your on your chest plate there thank you
+- [05:10] for coming on you you bet best T-shirt
+- [05:58] ever yeah it's a just to say out loud
+- [06:44] he's wearing Siege media shirt uh thank
+- [07:26] you Cyrus people are kind to us over
+- [08:09] time as many people are we try to hook
+- [08:50] them up with some swag so if you're one
+- [09:15] of those people listening email me and
+- [09:54] I'm happy to but uh it was we we had you
+- [10:58] we were just talking before this Cyrus
+- [11:25] Came seven came out seven years ago in
+- [12:18] in San Diego we no longer have offices
+- [12:58] but it's been far too long to have an
+- [13:33] official reason to talk search so um
+- [14:11] thanks for coming back I I am happy to
+- [14:49] be here and we were talking a little bit
+- [15:16] before the show uh I I probably get so
+- [16:00] many T-shirts from so many companies uh
+- [16:46] but I wear the ones that are comfortable
+- [17:35] uh so people optimize for design and
+- [18:21] things like that I think it Go says so
+- [18:52] much about brand marketing if you're
+- [19:15] giving t-shirts away optimize for
+- [19:51] comfort and you will get you will double
+- [20:26] the value of giving those away so nice
+- [21:19] work yeah agreed there's so many
+- [22:07] conference swag shirts that are just
+- [22:36] like stiff and I just maybe the logo
+- [23:23] looks nice but I have no no I'm not
+- [23:56] wearing that yeah it it's the nap test
+- [24:32] do you want to go to bed in this t-shirt
+- [25:02] if not don't send it out I agreed agreed
+- [26:14] well uh Cyrus you put out some amazing
+- [26:52] content on uh Zippy and I if you're
+- [27:46] listening to this and you haven't seen
+- [28:05] it I mean beyond what we're going to
+- [28:26] talk about today just go check it out
+- [28:52] generally you do some great studies that
+- [29:27] are always worth reading and as I was
+- [30:05] prepping for this call and like what we
+- [30:30] could talk about and of the many things
+- [31:04] that are going on in our world one of
+- [31:38] the things that stood out was you had a
+- [32:13] post around six months ago where you had
+- [33:06] the guts to disavow your entire website
+- [33:53] and all the links uh coming into your
+- [34:31] website I checked in on that looks like
+- [35:07] search is roughly flat according to
+- [36:01] HR could you give a little summary of
+- [36:39] that experiment and also just what your
+- [37:16] kind of what's the update on that it's
+- [37:38] been been six months yeah absolutely and
+- [38:20] this is great because I haven't
+- [38:42] published the results of the updated
+- [39:10] study so I can reveal them for the first
+- [39:38] time here on the podcast uh so last
+- [40:41] spring uh I wanted to find out how the
+- [41:33] Google disavow tool was working in
+- [42:14] 2024 so I disavowed every link that I
+- [43:09] could find in my site uh every Link in
+- [43:48] in Google search console every link and
+- [44:25] ARS disavowed at the Domain level so
+- [45:06] it's something like you know a couple of
+- [45:34] thousand of domains that I disavowed and
+- [46:39] nothing happened for a while if anything
+- [47:13] my traff it seemed like my traffic up
+- [47:38] ticked a little bit uh and so after two
+- [48:31] months I ended the experiment and
+- [49:13] published the results and say nothing
+- [49:44] happened and so so it got a lot of
+- [50:12] attention people in the comments were
+- [50:44] like oh well you don't wait long enough
+- [51:24] you need to wait 3 months things like
+- [51:55] that so since that post has been
+- [52:35] published uh I did a couple more
+- [53:10] experiments I disavowed a third of my
+- [53:48] links I tried to find just a nice
+- [54:19] sampling I'm like well maybe Google was
+- [54:57] ignoring that file because they thought
+- [55:28] I made a mistake they saw that I was
+- [55:59] diso everything so they just ignored the
+- [56:36] links so what if I just diso a subset of
+- [57:35] those links so I did that and I waited
+- [58:35] longer than two months I waited
+- [59:09] something like three and a half months
+- [59:37] like that and I checked in nothing had
+- [60:27] happened
+- [60:52] so I so then I went back and I disou all
+- [62:03] my links again and uh that's been
+- [62:44] running since I don't know October
+- [63:20] something like that and uh when you
+- [63:58] emailed me about this podcast I'm like
+- [64:38] oh yeah I should probably check in on
+- [65:03] that so uh just last week I removed the
+- [65:41] entire disavow list and we'll see what
+- [66:26] happens but as you noted in ARS my
+- [67:04] rankings and traffic have been very
+- [67:40] stable uh so I can't say that anything
+- [68:38] has happened and I I'm not sure what
+- [69:05] we've learned from this other than from
+- [69:39] a scientific point of view it it doesn't
+- [70:26] seem like the uh disavow tool is overly
+- [71:09] effective but I I have some theories I
+- [71:45] have some theories when I mean I'd love
+- [72:31] to hear those what are they well I I I
+- [73:18] it seems like the disou tool is still
+- [73:48] useful uh if you've been hit with an
+- [74:22] unnatural links penalty which is very
+- [74:48] rarely these days but in those rare
+- [75:22] times that you are uh you can use the
+- [76:11] disavow tool to get out of those
+- [76:38] unnatural links penalty and it seems
+- [77:02] like Google has kicked those up a little
+- [77:25] bit over the past year but even that
+- [78:10] that's such an edge case some people
+- [78:46] have
+- [79:00] theorized and that if the disavow does
+- [79:51] do anything uh that it's not it's
+- [80:43] designed not to hurt you it's only
+- [81:20] disavowing those the links that are
+- [82:08] negatively impacting you uh that and I
+- [83:11] have SE nothing that says that isn't
+- [83:56] true uh but I have really can't prove it
+- [84:40] either uh so I think it's an interesting
+- [85:12] Theory so but mostly I I don't think
+- [86:14] you're going to be hurt by the disavow
+- [86:37] tool yeah it makes you wonder I mean do
+- [87:18] you have a sense I mean I assume
+- [87:56] everything Google does is algorithmic in
+- [88:29] some way it almost seems like it's
+- [89:07] a if then kind of situ situation where
+- [90:19] you it has to have had a manual penalty
+- [91:10] and then they'll kind of recognize the
+- [91:38] document otherwise it's not worth their
+- [92:10] kind of crawling recalculation bandwidth
+- [93:03] I don't know that would make sense to me
+- [93:56] yeah I suppose and I've seen a lot you
+- [94:24] know when the uh helpful cont content
+- [95:01] update came out a lot of sites were
+- [95:25] getting hit really hard I saw a lot of
+- [96:12] theories uh about disavowing links based
+- [97:13] on overized op anchor text and I tried
+- [98:11] some of that I can't show decisively if
+- [99:02] it works or not so it all falls into
+- [99:43] this like Realm Of Voodoo uh I'm not
+- [100:30:00] saying don't use the disavow not saying
+- [101:04:00] it's going to help you but right now
+- [101:30:40] it's all a little wishy-washy and I I
+- [102:14:40] can't find any evidence whatsoever it's
+- [102:49:59] it's kind of like believing in God I
+- [103:20:39] mean you either do or you don't and I
+- [104:17:20] I'm not saying that's great either way
+- [104:48:39] but I we just can't prove
+- [105:30:40] it well you're saying don't say it but
+- [106:14:00] uh you're doing some Consulting you're
+- [106:43:19] not necessarily having clients maybe you
+- [107:12:40] have that have had a link penalty would
+- [108:00:00] you use a disal tool for your clients
+- [108:42:40] and in which scenario with Cyrus Shepard
+- [109:23:20] oh absolutely if you've been hit with a
+- [109:46:00] link penalty that is your you you you
+- [110:31:20] have to use the dis ofout tool you have
+- [111:01:20] to show you have to show the team uh the
+- [111:54:40] spam team that you're doing the work and
+- [112:22:00] you have to be sincere about it uh I I
+- [113:23:19] have a colleague who just pulled a
+- [114:00:40] software company and they spent months
+- [114:48:00] months dising links going back and forth
+- [115:31:19] with the spam team and the the the
+- [116:00:39] conversation was like no you haven't
+- [116:26:00] done enough
+- [116:41:20] you need to disavow more you need to
+- [117:19:20] remove these Pages blah blah blah and
+- [118:06:39] they eventually got the penalty lifted
+- [118:41:20] uh by that time they had removed so much
+- [119:24:39] content uh and dis outed so many links
+- [120:09:20] they basically didn't have any of their
+- [120:31:59] original traffic back but they had the
+- [121:02:39] penalty lifted but yeah so if you have
+- [121:44:00] if you have been hit I would definitely
+- [122:10:00] recommend using the disavow tool but
+- [122:37:59] it's really only a tool to show that
+- [123:00:40] you're doing the
+- [123:25:19] work yeah I I agree on that I think that
+- [124:10:39] would be my take as well like not really
+- [124:39:19] worthwhile if
+- [125:11:20] you're trying to do anything else
+- [125:51:20] besides recover from a penalty would be
+- [126:23:20] my like typical hypothesis when you hear
+- [127:08:00] about big Brands actively disavowing
+- [127:47:19] stuff it just seems like there's much
+- [128:13:59] better use of time yeah that said I
+- [128:57:20] generally I generally have a uh blog
+- [130:10:39] spot blanket disavow in all of my
+- [130:59:59] domains uh I found those links are
+- [131:35:59] triome than the worth sometimes Firebase
+- [132:23:19] app you know just scraper sites and
+- [133:00:40] things like that I I don't see any harm
+- [133:29:20] with it and it might help so yeah okay
+- [134:29:19] interesting that's a that's one way of
+- [135:11:20] looking at it for sure I guess that that
+- [135:39:20] makes sense there used to be like two
+- [136:16:00] good block spot domains still around
+- [136:59:59] when we were doing a good amount of
+- [137:22:40] outage four five years ago pretty hard
+- [138:06:39] to find though I'd say they are
+- [138:59:20] absolutely yeah so uh you're not into
+- [140:12:00] giving advice but G some advice or at
+- [140:52:39] least on disount necessarily a kind of
+- [141:58:40] interesting question I thought it would
+- [142:26:00] be good to ask talented SEO such as
+- [143:19:19] yourself so what's a part of SEO you
+- [143:58:40] think most people would disagree with
+- [144:35:19] you on or other like you it's like a
+- [145:24:00] countert take you have from what's
+- [145:54:39] popular opinion does anything stand out
+- [146:38:40] yeah um you think about things I love I
+- [147:27:19] was looking forward to this question
+- [147:54:40] because it's been a great couple of
+- [148:27:20] years uh for being a contrarian uh and
+- [149:46:40] being being proven right about certain
+- [150:10:00] things like there have been debates in
+- [150:54:39] the SEO world that have been literally
+- [151:35:20] settled in the last couple years like
+- [152:07:20] for instance one was does Google use
+- [152:45:20] clicks for ranking purposes and this was
+- [153:27:20] a huge debate and like no no no we
+- [154:23:20] Google downplays it we we don't really
+- [154:55:20] use clicks we just kind of Steve down
+- [155:30:39] the hall kind of might use it to
+- [156:00:00] evaluate our algorithms but no and it
+- [156:31:20] turns out clicks is a core component of
+- [157:12:00] how Google evaluates content and they
+- [157:47:59] they they literally can't work without
+- [158:26:00] it uh the other thing that has sort of
+- [159:18:39] become a non- debate is Google's use of
+- [159:50:40] sitewide signals because Google rank
+- [160:28:40] Pages or do they have signals that uh
+- [161:27:59] propagate throughout the entire site and
+- [161:56:40] and yes we know the evidence that has
+- [162:30:40] come out in the last year yeah sitewide
+- [163:11:59] signals are a thing uh even more than
+- [163:51:20] Google likes to admit but you know and I
+- [164:58:00] I'm fortunate that me and many many many
+- [165:43:20] other people were on the right side of
+- [166:16:40] history but the the sad truth is there's
+- [166:48:00] no reward in SEO for being right zero
+- [167:32:00] none they they give you there's there's
+- [168:17:19] not a lot of penalty maybe I mean maybe
+- [169:05:20] some rankings that might help yeah
+- [169:40:39] that's the most important part I'd say
+- [170:13:59] but it it's been personally validating
+- [170:39:20] but to get to your question what what's
+- [171:09:20] the thing right now if I were to say
+- [171:48:39] something that some people agree with
+- [172:32:40] some people don't agree with is that
+- [173:31:20] eat is a real thing and I will die on
+- [174:35:19] that Hill uh for those that AR aren't
+- [175:31:20] familiar eat stands for uh experience
+- [176:38:40] expertise Authority trust Google talks
+- [177:28:00] about it a lot they say they want to
+- [177:52:00] reward sites that that have these
+- [178:28:39] qualities but yet it's not a real
+- [179:04:40] ranking Factor uh in the traditional
+- [179:50:40] sense so a lot of seos are like it's
+- [180:29:20] it's not a it's wishy-washy it's a it's
+- [181:06:40] a wavy hands correlative yeah okay uh
+- [182:13:20] but I I firmly believe it is it's
+- [183:11:20] actually a real thing uh
+- [184:03:20] and I think some of that comes from my
+- [184:44:00] work as a Google quality raater uh I got
+- [185:42:40] a I started I did a job a year or two
+- [186:21:20] ago signed up started rank uh evaluating
+- [187:17:20] websites as a Google quality raater and
+- [187:55:19] trying to understand how Google uses
+- [188:29:20] those those
+- [188:48:40] ratings uh
+- [189:24:40] and understanding that they use them for
+- [189:59:19] machine learning purposes so if you have
+- [190:46:00] if you have a set of documents that
+- [191:29:20] thousands of quality Raiders are scoring
+- [191:56:40] on eat and they Google has all that data
+- [192:43:59] and they can feed that into the machine
+- [193:09:59] learning they their rank their Sur
+- [193:46:40] results are going to look a lot like
+- [194:08:40] that training set so that's why e
+- [195:06:00] becomes a very real thing for me because
+- [195:37:20] Google's training their algorithms on
+- [196:08:40] those documents that have been scored
+- [196:29:59] for eat so I'm I'm getting a little too
+- [197:07:19] in the weed so I better stop
+- [197:37:20] and no that's good is there I mean
+- [198:40:40] there's obvious eat signals that you
+- [199:38:40] could point I I don't know from that
+- [200:30:39] that Line in the Sand you have there are
+- [200:59:20] there any kind of like nonobvious eat
+- [201:33:59] signals that you think they more
+- [202:13:20] causatively could be looking at that
+- [203:12:40] stand out that maybe are just kind of
+- [203:40:40] actual tibits for people yeah so there's
+- [204:24:40] three there's three ways that Google
+- [204:50:40] generally uses eats there's there's
+- [205:26:40] direct signals which some which you know
+- [206:02:00] you at Siege are really good at you know
+- [206:41:19] links uh page rank getting links from
+- [207:47:20] authorative sites
+- [208:17:19] uh then there's then there's the
+- [208:50:00] evaluative ones where Google can uh test
+- [209:43:20] live algorithms and you know have other
+- [210:12:00] quality rors score and you know compare
+- [210:50:40] the results then there's the machine
+- [211:15:19] learning aspect and that's where we
+- [211:45:20] really get into some of the weeds
+- [212:32:40] uh uh
+- [213:13:59] so there was a recent Google leak where
+- [214:12:40] they showed uh mark from core updates he
+- [214:59:19] he had this Google exploit where he
+- [215:33:20] revealed that Google uses a quality
+- [216:01:20] score in every search result and so each
+- [217:08:00] website has a hidden quality score uh
+- [217:53:19] and one of the things Mark found is that
+- [218:21:19] government sites have generally have a
+- [218:53:20] huge quality score which is interesting
+- [219:33:19] to me because as a quality waiter we
+- [220:02:00] were instructed to rate quality uh
+- [220:36:39] government sites higher so it's no
+- [221:12:40] surprise that government and official
+- [221:38:00] even if they look ugly even if they
+- [222:10:00] don't quite answer the question they are
+- [222:37:20] a trusted source so so that doesn't
+- [223:21:19] surprise me at all but I think it's all
+- [224:03:20] based on machine learning and these
+- [224:27:59] thousands of quality r signals that you
+- [225:00:40] know Google's using every day so I think
+- [225:41:59] those things like trust and experience
+- [226:24:00] so those things that are really hard to
+- [226:47:20] W your your mind around uh actually turn
+- [228:00:00] into Real Results when when they appear
+- [228:46:40] in the
+- [228:59:20] serps do you think there's something to
+- [229:37:19] like you need to have an author page and
+- [230:36:00] things of that nature yeah
+- [231:30:40] so it's it's interesting uh in the
+- [232:32:00] Google quality Rader guidelines uh they
+- [233:16:40] say we should
+- [233:54:39] evaluate who is responsible uh for the
+- [234:48:40] content uh and they don't really talk
+- [235:39:59] about author Pages all that much there
+- [236:22:39] it's more about the site uh can you tell
+- [237:12:00] who wrote the page uh is this website an
+- [238:02:39] expert so yes I include author Pages uh
+- [239:01:20] for a slightly different reason uh which
+- [239:41:20] we may get to later in the podcast uh
+- [240:41:20] but I mean hit us with it hit us with it
+- [241:14:40] well I think I think what Google is
+- [241:49:20] switching to is more people-based
+- [242:35:20] content uh because I I use the example
+- [243:25:20] of things to do in New York City if you
+- [244:09:19] want to write a page about things to do
+- [244:32:00] in New York City Google has literally a
+- [245:22:00] 100,000 pages with that exact keyword
+- [246:12:00] phrase in the title things to do in New
+- [246:44:00] York City they don't need more content
+- [247:21:20] on things to do in New York City and
+- [247:47:59] they have been explain they they use the
+- [248:17:19] term commodity content they don't need
+- [249:03:59] your information they already know what
+- [249:33:19] the things to do New York City are what
+- [250:11:20] it seems like Google is Shifting to with
+- [250:51:19] the helpful content update and more
+- [251:29:20] recent updates is people and experience
+- [252:26:40] Focus content where they're not they're
+- [253:04:39] interested in perspectives and
+- [253:55:20] first-person
+- [254:17:20] experience so and you can sort of see
+- [255:14:40] this we tried to I do I've been doing a
+- [255:51:19] lot of studies where we try to quantify
+- [256:18:00] this how much personal experience does
+- [256:43:19] this play page uh display how many
+- [257:26:40] personal pronouns do they use things
+- [257:52:40] like that so the reason I use author
+- [258:23:19] profiles now is because I want that
+- [259:09:19] great big author picture you know this
+- [259:53:59] page was written by this you know Steve
+- [260:36:00] and I'm an expert in this and so on and
+- [261:10:40] so forth this is my personal experience
+- [261:47:20] and I want that to seep through on each
+- [262:23:20] and every page uh that I create that
+- [263:04:39] this is a perspective this is a real
+- [263:41:19] person because in the age of
+- [264:19:20] AI you got to go beyond information yeah
+- [265:06:39] people are looking for personal
+- [265:42:40] experiences and expertise and not just
+- [266:24:39] data and facts so that's why I use
+- [266:53:20] author Pages now because I want that
+- [267:18:39] beautiful picture and that beautiful
+- [267:42:39] Rich author information yeah makes sense
+- [268:28:39] I agree with that so as you were talking
+- [269:18:00] about about that generally and the API
+- [270:10:39] leak and like how that uncovered those
+- [271:03:20] people's opinions of either being right
+- [271:29:20] or wrong we finally had facts about that
+- [271:59:59] I did
+- [272:14:39] Google and maybe they're hiding it but
+- [273:07:59] uh I didn't see anything or at least
+- [273:39:59] immediately AI told me that that leak to
+- [274:36:40] my
+- [274:51:20] does not have anything about the disal
+- [275:17:59] tool in it so there's no mentions of
+- [275:46:40] disal in there maybe is a signal or
+- [276:26:39] they're not using it but I don't know if
+- [277:00:40] you've heard any differently I I think
+- [277:28:00] it's totally possible they just shut
+- [277:59:19] down the functionality of the disavow
+- [278:40:40] Tool uh years ago and didn't tell us uh
+- [279:47:20] and based on what we've seen from Google
+- [280:39:59] over the past few years that wouldn't
+- [280:59:20] surprise me at all if it's just a they
+- [281:28:39] tell us not to use it and I I one thing
+- [282:23:59] I've learned is that Google generally
+- [283:22:00] means what they say uh even if we don't
+- [284:05:59] believe them in one way or another uh
+- [285:02:00] with certain exceptions it wouldn't
+- [285:33:59] surprise me at all if we're just wasting
+- [286:00:40] our time with the disavow tool oh they I
+- [286:39:19] missed that they've actually
+- [286:58:40] communicated don't use it don't use it
+- [287:32:00] for the vast majority of people oh God
+- [288:22:40] only if you've been hit by one of these
+- [288:45:20] unnatural link penalties oh okay so that
+- [289:26:40] would that would give credit to that if
+- [290:15:19] if then kind of scenario if you've been
+- [290:48:00] penalized but otherwise ignore it that
+- [291:26:00] would that make a lot of
+- [291:49:19] sense um yeah so on that note I'm
+- [292:55:59] guessing this would not fall into your
+- [293:22:00] tool list but curious what is an
+- [294:03:20] underrated like it doesn't have to be
+- [294:44:40] SEO tool but tool obviously that would
+- [295:25:20] be relevant to seos and growth marketers
+- [296:11:20] um and how are how are you using that
+- [296:36:00] today yeah excellent question and I I
+- [297:21:20] think I'm hoping some people can get
+- [297:46:40] some benefit from this answer uh so
+- [298:28:00] traditionally working in SEO you know
+- [299:04:00] show people traffic conversions things
+- [300:04:40] like that over the past year when Google
+- [300:45:20] started making so many changes uh one of
+- [301:38:39] my favorite tools became a Ser anything
+- [302:22:39] that shows Ser history so I use ARS go
+- [303:17:20] into their Ser history I compare you
+- [303:56:40] know what Google search results for my
+- [304:33:20] client keywords look like today and then
+- [305:04:00] I compare it to six months ago and a
+- [305:45:20] year ago uh because it goes so much
+- [306:52:00] Beyond rankings and traffic when you can
+- [307:39:19] actually visualize these are the type of
+- [308:18:39] results that Google is rewarding now
+- [309:02:00] based on a year ago and these are the
+- [309:38:40] Sur features that have been introduced
+- [310:11:19] and so I think something you're you
+- [310:58:00] probably have experience with is
+- [311:35:20] sometimes motivating clients to make
+- [312:06:40] changes on their website you give them a
+- [312:34:00] list of recommendations and you check in
+- [313:01:59] every few months like how's that going
+- [313:35:19] what I started doing is we take the
+- [314:20:40] client's business objectives we want
+- [314:50:40] them to buy XYZ or something like this
+- [315:42:00] and we start with the keywords and I I
+- [316:08:40] walked into share my screen I usually do
+- [316:52:00] it on using a mobile device which
+- [317:34:40] oftentimes the clients never look at
+- [318:03:59] their site on mobile and we just go
+- [318:44:40] through that buying process and we start
+- [319:12:00] with Google and we're like oh you ranked
+- [319:35:20] fifth look at these four results above
+- [320:06:00] you and look at what they offer why are
+- [320:59:19] we going to go down here uh let's look
+- [321:47:20] at and we go through the client the uh
+- [322:25:20] compos competition and then we finally
+- [323:01:59] get to the client site like oh you know
+- [323:48:40] this is kind of bothering me why why
+- [324:22:40] can't I do this why can't can't I do
+- [324:45:59] this and you get a room of people
+- [325:16:40] together and you have you have buyin for
+- [325:57:20] days uh and they they are excited to get
+- [326:43:20] to work on that so Ser history showing
+- [327:32:00] current Surs walking those clients
+- [327:57:59] through it it makes the job so much
+- [328:30:00] easier when trying to get change and buy
+- [329:11:20] in yeah I love that idea of kind of
+- [329:49:20] doing a quick walkthrough rather than
+- [330:15:19] just saying like improve the design on
+- [331:08:40] this page always putting in context to
+- [331:47:20] your competitors is just so powerful to
+- [332:24:00] show and get get mov because they all
+- [333:16:39] they all hate their competitors so yeah
+- [333:57:20] exactly that makes some change yeah do
+- [334:36:40] you use uh yeah it sounds like on a call
+- [335:26:40] like like Loom and the like for things
+- [336:10:00] like that but seems like a very valuable
+- [336:41:20] thing to do for sure yeah I have I have
+- [337:29:20] uh clients uh I I try to do everything
+- [338:17:20] on Zoom I have clients on teams uh and
+- [339:02:00] we won't get into that but uh I'm sorry
+- [339:45:20] always a challenge yeah yeah we do as
+- [340:39:20] well for sure well uh maybe this ties to
+- [341:25:20] something you said in the past but uh
+- [342:15:20] another thing like things are changing
+- [342:55:20] rapidly as your your HS Tool is showing
+- [343:38:40] in terms of the serps and also Ai and
+- [344:23:19] all all the like but what's what's
+- [344:56:39] something you're maybe doing differently
+- [345:35:20] that you're seeing positive movement on
+- [346:19:59] um based on just where your mind is
+- [346:46:00] today yeah so this that's a great
+- [347:46:00] question this kind of results from uh a
+- [348:51:20] lot of the clients I worked with or
+- [349:30:00] ended up working with uh because they
+- [350:14:00] lost significant traffic from Google
+- [350:47:20] helpful content update uh last year's
+- [351:23:59] March core update even the last August
+- [351:59:19] update uh and so I started doing a lot
+- [352:59:20] of studies you know you know what are
+- [353:20:00] what are the qualities of sites that
+- [353:56:40] have seen significant declines versus
+- [354:41:59] the qualities of sites that have seen
+- [355:15:19] significant increase uh and I didn't
+- [356:21:59] want to believe it at first but when I
+- [356:53:19] started looking at SEO features those
+- [357:36:00] became some of the most highly
+- [358:05:59] correlated features that either were
+- [358:37:19] rewarded or or saw saw declines and what
+- [359:36:40] I mean by that is sites that were doing
+- [360:16:00] traditional SEO well I mean maybe too
+- [361:04:00] well were the ones seeing the most
+- [361:32:00] significant declines so these are things
+- [362:09:59] like internal linking uh optimizing your
+- [363:06:40] title tags with you know making highly
+- [363:45:20] clickable 20 best things to do in New
+- [364:20:40] York right
+- [364:39:59] now and when we started quantifying
+- [365:17:19] these things we saw that sites that were
+- [365:38:40] doing traditional SEO very very well
+- [366:17:20] were the ones that were seeing the most
+- [366:42:00] declines uh so what I'm advising clients
+- [367:45:19] to do now uh especially ones working to
+- [368:37:19] recover from traffic declines we're
+- [369:04:00] actually de optimizing we are removing
+- [369:45:20] internal links we are writing more
+- [370:35:20] straightforward titles uh not we're kind
+- [371:49:19] of scaling back our schema a little bit
+- [372:24:39] not that we think these things are
+- [372:42:00] direct ranking factors but I firmly
+- [373:16:39] believe that Google's updates the last
+- [373:42:00] couple years are a direct response to
+- [374:28:00] SEO getting too good at their jobs it's
+- [375:08:00] they are I believe they are anti SEO
+- [375:42:39] updates uh they want to reward more
+- [376:24:40] authentic content more people focused
+- [377:11:59] content like I was talking about earlier
+- [377:44:40] that the profile pictures and content
+- [378:50:40] that generally answers users questions
+- [379:26:40] instead of being optimized to death uh
+- [380:19:19] and unfortunately a lot of
+- [380:49:20] creators uh who do really good work I
+- [382:04:00] think were punished for being too good
+- [382:31:20] at SEO uh think I think that's the
+- [383:10:00] answer at the end of the day yeah makes
+- [383:49:59] sense I mean you you remind me of a
+- [384:32:00] general philosophy we've had is we'll
+- [385:34:40] say like A+ SEO is bad SEO really yeah
+- [386:34:00] um but we would say what I had said and
+- [387:30:39] you made me think maybe we should
+- [387:50:40] revised this further is like good great
+- [388:23:20] SEO actually might be more like B+ SEO
+- [389:12:39] and maybe it's actually more like B
+- [389:39:20] minus now I I don't know that's sort of
+- [390:12:40] what you're you're pointing to a little
+- [390:41:20] bit yeah a little Plus
+- [391:23:20] yeah I I think for most people have a
+- [391:54:00] WordPress site you know your basic
+- [392:32:00] optimization that's going to get you 95%
+- [393:15:20] of the way there uh you know in terms of
+- [393:54:40] in terms of your SEO you don't have to
+- [394:20:00] try too hard you just have to you know
+- [395:12:00] have your signals in place yeah I mean
+- [395:59:19] and I mean it's probably a correlative
+- [396:30:00] or causative thing but there's no doubt
+- [397:04:00] that those traditional SEO things people
+- [397:47:19] users get that now and it is costing you
+- [399:05:20] brand doing a lot it's it's hard to have
+- [399:47:20] a brand voice and be truly a plus SEO at
+- [400:41:20] the same time um it's pretty impossible
+- [401:27:20] actually like those it's PR I don't know
+- [402:05:59] that I could see someone that think of
+- [402:41:19] anyone who's even doing a minus SEO that
+- [403:16:39] you go to their website and like hey
+- [403:49:59] this is a company I'm bookmarking and
+- [404:24:40] coming back to day in day out I don't I
+- [405:04:00] don't know about you but yeah so yeah
+- [405:41:20] traditionally I mean back in the day
+- [406:13:20] when we did SEO we are so focused on
+- [406:58:40] keyword optimization we're going to
+- [407:35:20] we're going to optimize for these
+- [407:52:40] keywords we're going to optimize for
+- [408:12:39] these articles and we we have all the
+- [408:47:59] tools to do that uh I won't I won't name
+- [409:43:20] them but you know I use them maybe you
+- [410:24:40] do in your company where you type in the
+- [410:56:00] URL and it tells you what your heading
+- [411:31:20] should be and everything like that and
+- [412:09:59] we started using those tools a lot and
+- [412:50:00] maybe over optim over relying on keyword
+- [413:39:19] Focus content Focus salent scores when
+- [414:30:40] we should be focusing on the brand stuff
+- [415:44:39] uh answering users questions as f f as
+- [416:18:40] we can user experience those squishy
+- [416:58:00] qualities that you know are genuine and
+- [417:52:00] not scalable uh in a certain way agreed
+- [419:10:39] so you specifically called this out as a
+- [419:46:40] potential Direction and we've talked
+- [420:13:19] about a few times but just that idea of
+- [420:52:00] brand building we're touching on some
+- [421:23:59] aspects of that here it's clearly super
+- [422:20:40] top of mind and you more than
+- [423:03:20] ever in that B+ maybe come down to C+ uh
+- [424:13:20] fashion actually helping your company
+- [424:55:20] build a brand if that's feasible some
+- [425:34:40] may argue it might not be
+- [426:06:40] feasible how can seos do that are there
+- [427:00:00] ways we can contribute to that and
+- [427:52:00] hopefully hold the destiny and our maybe
+- [428:31:19] not control the destiny but at least
+- [428:59:59] contribute to a positive Destiny from a
+- [429:35:20] ranking standpoint yeah so a little
+- [430:15:19] prequel to that question or that answer
+- [431:02:00] so brand has become an important topic
+- [431:47:20] recently uh my former colleague Tom
+- [432:26:00] kapper at M has released one of the best
+- [433:02:40] studies on Google's winners and losers
+- [433:48:40] last year when he looked at how Google
+- [434:26:40] and winners correlated to Brand
+- [435:00:00] Authority brand Authority is just a
+- [435:39:59] metric that MZ puts out that sort of
+- [436:04:40] measures brand search it correlates
+- [436:36:00] highly to Brand search how many people
+- [436:55:19] are looking for your brand and he found
+- [437:32:39] a huge correlation among winners and
+- [438:13:20] losers people with high brand Authority
+- [438:53:20] were winning all the algorithm updates
+- [439:26:40] and people with low brand Authority
+- [439:57:20] tended to be losers uh so I recently did
+- [440:55:20] my own study
+- [441:19:20] uh haven't published anything on it yet
+- [441:57:19] where I took that study a little bit
+- [442:22:00] further and I looked at anchor text
+- [443:07:59] branded anchor text to winners and
+- [443:45:20] losers uh and what I found was again a
+- [445:02:39] surprisingly huge correlation sites that
+- [445:51:20] were winning even even sites that you
+- [446:21:59] think would lose they have ads plastered
+- [447:05:20] all over uh they're doing way too much
+- [447:44:40] SEO but they had something like 20%
+- [448:44:40] branded anchor text or 20% of their
+- [449:30:40] links from domains had had a brand
+- [450:04:39] aspect whereas losing sites even if you
+- [450:48:00] thought they should win the worst of
+- [451:24:40] them we're only having like one or two%
+- [451:59:19] branded anchor text now I'm not saying
+- [452:26:00] branded anchor text is a ranking factor
+- [453:09:20] it's just highly correlated in the data
+- [453:49:20] but if I were to suggest to my clients
+- [454:35:59] and and I do suggest to my clients we
+- [455:14:40] need to shift a little bit about
+- [455:51:20] focusing on building links to your
+- [456:27:20] content and with that you know optimized
+- [457:10:40] anchor text we need to start thinking
+- [457:44:00] about propping you up propping your
+- [458:26:00] website up so I we started shifting
+- [459:07:20] towards building links uh not about the
+- [460:04:00] content but about the company uh not
+- [460:44:00] about keywords but about people so
+- [461:27:59] things like what we're doing right now a
+- [462:08:40] podcast I I I tell my clients if you can
+- [462:50:00] go do a podcast because you're getting
+- [463:18:00] links about your company uh in this case
+- [463:57:59] you know Zippy SEO or Siege media people
+- [464:33:19] are going to be talking about me our
+- [465:13:19] friend John LCA wrote a great article
+- [465:54:00] recently uh can send it to you maybe you
+- [466:30:40] can include it in the show notes about
+- [467:00:00] how Google you know can determine these
+- [467:32:00] these entity relationships behind the
+- [468:03:20] scenes uh and I think there's some it
+- [468:49:20] gives us an opportunity to do some very
+- [469:14:39] technical SEO things uh to help build
+- [469:59:20] our brand you know in Google systems
+- [470:34:40] where we're getting mentions from
+- [470:54:39] certain sites uh the the people graphs
+- [471:44:39] things like that we can do some things
+- [472:14:40] getting the anchor text talking about us
+- [472:43:19] I think there's some very traditional
+- [473:13:20] SEO things we can do to you know to help
+- [474:09:20] build brand and make it more about the
+- [475:06:00] company and not so much these these
+- [475:35:20] keyword focused
+- [476:10:00] things yeah I agreed and you a byproduct
+- [477:05:59] of that I thought of as you're speaking
+- [477:32:00] about it is when you're doing those
+- [478:03:20] kinds of things users are naturally
+- [478:28:00] going to make a decision based on what
+- [478:59:20] that link text says and probably the
+- [479:44:40] brand will stick with them I mean
+- [480:40:40] undoubtedly more likely if they actually
+- [481:19:20] see that as an anchor text and then go
+- [481:45:20] to the site but just seeing random
+- [482:09:20] anchors and they might not
+- [482:54:00] in any way and that will could lead to
+- [483:26:00] another contributing factor which would
+- [484:01:20] be brand search and visiting
+- [484:45:20] via navigational searches both of those
+- [485:34:40] would very you you probably can't
+- [486:24:40] disconnect those if they're truly
+- [486:49:19] organic probably um but they're probably
+- [487:31:20] looking at both now in the same way I do
+- [488:24:39] you think they're looking at Brand
+- [488:38:40] search
+- [488:58:40] yeah I don't know if they are but I
+- [489:35:19] think they are uh they have a statement
+- [490:13:19] in their advice about helpful content
+- [490:45:20] which applies to all Sites now uh
+- [491:26:40] because Google incorporated in their
+- [491:48:39] core algorithm that you have to have an
+- [492:19:20] existing or intended audience uh
+- [493:05:20] existing means you know you have a lot
+- [493:34:40] of people that are coming to you they're
+- [494:08:00] they're searching for you uh intended
+- [494:41:59] audience is a little harder to decipher
+- [495:27:59] but it seems like they are consciously
+- [495:58:00] wanting to reward folks uh that have
+- [496:41:20] that brand visibility uh and if I may I
+- [497:30:39] I know you are you're big on user
+- [498:06:40] experience you you recently uh You
+- [498:41:19] released a video a week or two ago about
+- [499:27:19] some of the top things you've learned
+- [499:54:00] about you know page design I I don't
+- [500:20:40] remember the exact name excellent
+- [500:47:20] excellent video uh and I think some of
+- [501:27:59] some of those things that are hard to
+- [501:52:00] quantify like I had one client that was
+- [502:40:40] so focused on the user that he had no
+- [503:53:20] logo on the page uh no no no navigation
+- [504:54:39] he just I don't want it to be about me I
+- [505:31:59] want it to be about helping people I'm
+- [506:12:00] like and it took me probably a year to
+- [506:48:00] convince them to put a logo on the page
+- [507:24:39] so that people knew knew who he was and
+- [508:04:40] he had a very brandable name but if we
+- [508:47:59] want to get people searching for him we
+- [509:24:40] got to tell him we got to tell folks who
+- [509:56:39] he is so you know putting the logo logo
+- [510:40:40] on the page uh making I I tell people to
+- [511:58:00] Brand everything now if you build a when
+- [512:34:39] I worked at MZ we branded everything and
+- [513:17:20] it was it was so Moz rank uh MZ top 10
+- [514:35:59] uh Moz pod you know Moz Learning Center
+- [515:21:19] it was like easy mode because they
+- [516:09:19] weren't the best tools in the industry
+- [516:47:20] but people remembered them uh they had
+- [517:32:00] name recognition and I think for many
+- [518:03:20] years we had an advantage over our
+- [518:45:19] competitors who had great tools but
+- [519:36:40] because they they picked unfortunate
+- [520:12:40] names to begin with a ra semrush really
+- [520:50:39] hard to remember uh they've caught up
+- [521:31:59] obviously but it was I tell people now
+- [522:11:59] if you're releasing something put your
+- [522:41:19] brand name on it and hopefully it's an
+- [523:09:20] easy to remember brand name you yeah I
+- [524:04:39] completely agree and what you made one
+- [524:40:40] of my notes of a study we did in that
+- [525:25:59] video which I didn't realize the benefit
+- [525:55:20] of until you mention it right now is we
+- [526:38:00] recommended sticky navigations yeah and
+- [527:15:59] a lot of that was to do with increasing
+- [527:40:00] conversions but if you just think about
+- [528:07:20] a sticky navigation your logo is in the
+- [528:51:20] face of the user at all times um so that
+- [529:59:20] has to have some branding effect that
+- [530:33:59] otherwise would not have been there if
+- [531:08:00] we don't have a a sticky nav so that's
+- [531:56:00] another compelling reason to do that
+- [532:32:39] absolutely sure C does it but yeah in in
+- [533:18:00] the data that I have it people think
+- [534:09:20] building a brand yeah so I think I
+- [534:47:20] emailed you this I saw this in a
+- [535:09:19] Facebook quote uh somebody somebody
+- [536:02:40] posted telling a telling a website to
+- [536:52:40] build a brand is like telling a homeless
+- [537:21:20] person just buy a house you know it's
+- [538:03:20] it's really hard to do if especially if
+- [538:32:00] you run a site that's mostly
+- [538:59:59] informational uh it can be hard to do
+- [539:37:59] but in the data that I have and I'm
+- [540:04:00] looking at you don't have to build a
+- [540:35:59] brand like IBM you just have to you just
+- [541:21:59] have to have the tiniest amount to start
+- [542:00:00] with just get just get if you have no
+- [542:44:00] brand get a hundred people uh a month
+- [543:38:40] which may seem instram start with 10
+- [544:06:00] people get them to search remember
+- [544:39:59] something and get them to search for you
+- [545:21:19] because any tiny amount of brand you get
+- [546:14:00] that's that is your moat and you can
+- [547:02:00] build it over time I I've made so many
+- [547:37:20] mistakes like what my my newsletter is
+- [548:18:39] called the SEO tips
+- [548:44:00] newsletter cuz I was targeting a keyword
+- [549:35:19] I I'm not doing that it should be the
+- [550:18:40] Zippy SEO newsletter just something for
+- [551:15:59] people to remember my brand zi SEO tips
+- [552:23:20] newslet that's who anybody could do that
+- [553:01:20] it it doesn't matter but that's my now
+- [553:30:00] you're making me regret we're calling
+- [553:57:59] this content and conversation maybe not
+- [554:39:20] the best idea of all time but hey but we
+- [555:43:20] we've all but they may be but they might
+- [556:19:59] resonate maybe with right uh we do
+- [557:08:40] content a decent amount that might have
+- [557:42:40] at least some
+- [558:04:40] Affinity so now now we just but we and
+- [558:45:19] it's very easy to Rebrand to Siege
+- [559:17:20] content and conversation if you want
+- [560:00:39] yeah yeah that'd be a little long-winded
+- [560:35:20] unfortunately like M but if anyone has
+- [561:25:20] Brand maybe I should ask our friends
+- [561:56:40] that we're always default to my friends
+- [562:28:39] are robots uh is how I describe it for
+- [563:18:39] some advice maybe um yeah is there
+- [564:16:00] anything else in the SE World you've
+- [564:39:20] like changed your mind on recently or
+- [565:23:19] like you're doing a little differently
+- [565:55:20] today
+- [566:16:40] uh no we we've talked on so many things
+- [566:58:40] uh I I'm a big proponent again of the
+- [568:02:40] people focus content uh I've I've
+- [568:55:19] started putting pictures I I tell my
+- [569:53:19] clients hire a photographer I I want I
+- [570:42:00] want high quality people focused
+- [571:19:20] pictures on your on your content uh I
+- [572:11:19] want you to start thinking of images as
+- [572:59:20] content you can put something in Google
+- [573:34:39] lens and they know instantly what the
+- [574:25:19] original source of the uh image was
+- [575:12:00] what's in the
+- [575:33:20] image I want people to start creating
+- [576:25:59] images as original content that you're
+- [577:01:20] producing inhouse or labeling or
+- [577:38:00] something proprietary not stock images
+- [578:35:19] uh I think Google is getting so
+- [579:09:20] sophisticated in so many ways and so
+- [579:52:40] many seos are stuck in 2015 we're going
+- [580:45:20] to use this SEO tool we're going to hit
+- [581:25:19] all these points that's not what it's
+- [581:57:20] about anymore it's you got to be a
+- [582:31:19] little you got to be little better than
+- [582:52:00] that yeah I agree it'll be interesting
+- [583:32:00] to watch how those kind of that
+- [584:03:19] ecosystem evolves as well like is that a
+- [584:47:20] changing Philosophy for more people that
+- [585:40:00] it's a little bit less of that LSI
+- [586:37:19] keywords and what have you and then we
+- [587:23:19] have the elephant in the room uh which
+- [588:18:00] is uh AI answers uh got elephant back
+- [589:25:20] here oh say
+- [590:13:20] guy when AI answers came out you know
+- [591:19:20] really Google really started pushing
+- [591:44:00] them I I kind of dismissed them a little
+- [592:12:00] bit because they weren't very good and
+- [593:06:00] people were posting screenshots and I
+- [593:45:20] can't believe Google is uh you know
+- [594:23:20] promoting this as a weight loss
+- [594:45:19] supplement things like that I am shocked
+- [595:32:00] in the last few weeks how good they are
+- [596:18:40] getting uh when I'm doing research I'm
+- [597:05:20] I'm just going for speed the
+- [597:51:59] summarization uh capabilities of those
+- [598:41:20] AI answers is amazing I I haven't seen a
+- [599:33:20] huge drop in my my traffic or client
+- [600:20:00] traffic but I think it's going to slowly
+- [600:58:40] degrade over time uh and I we have to be
+- [601:45:19] prepared for that and think about think
+- [602:26:40] about these brand building things and
+- [602:58:00] and other strategies to help uh defend
+- [603:57:20] against that I don't think anybody can
+- [604:19:59] tell us what the future is going to be
+- [604:46:00] in two or three years how we support
+- [605:26:39] creators and businesses who are
+- [605:59:59] producing information and the AI answers
+- [606:48:40] that are summarizing it uh I I don't
+- [607:34:40] know what going to happen but man I I
+- [608:23:20] really enjoy using AI answers now and I
+- [608:54:39] never thought I'd say that yeah yeah
+- [609:31:20] they're good I mean you can't you got to
+- [609:55:20] give them Kudos and just Embrace where
+- [610:27:20] we are like
+- [611:02:00] increasingly even from a Content
+- [611:33:19] standpoint how we're thinking about it
+- [611:58:39] is you just the bottom funnel topics
+- [612:46:00] seem more insulated like if you're
+- [613:33:20] comparing brands or what have you like
+- [614:04:00] normally you're gonna you're G to end up
+- [614:43:20] on a website generally and you do want
+- [615:16:00] that people experience as you mentioned
+- [615:46:40] like that does seem important and
+- [616:47:20] necessary and of course the more complex
+- [617:20:40] the idea the more likely it is you're
+- [617:58:40] going to have to go off summary um no
+- [618:45:20] matter how good those summaries are and
+- [619:08:00] you mentioned images and things of that
+- [619:36:39] nature I mean they are kind of sometimes
+- [620:13:20] truncating them but like there's it's
+- [621:02:40] still a thumbnail there's complex images
+- [621:59:20] like I was just setting our team a Gant
+- [622:28:00] chart that's not that complex but uh you
+- [623:21:59] would probably want to click in and see
+- [623:49:20] that in full View get detail on like
+- [624:44:00] complex things like that that you're not
+- [625:21:20] going to be able to get in the UI of a
+- [625:52:40] search engine so far anyways yeah yeah I
+- [626:53:59] agree with that
+- [627:26:40] 100% well Cyrus this is great uh I mean
+- [628:18:00] people should be following you on
+- [628:40:00] LinkedIn X Blue
+- [629:23:59] Sky threads how how how should people
+- [630:13:59] find you I think I my favorite right my
+- [630:48:00] favorites right now uh might change by
+- [631:29:19] the time this airs uh blue sky and
+- [632:10:00] Linkedin uh abs Ely that's where I'm
+- [633:00:00] having fun social media is so confusing
+- [633:34:40] right now and no one knows where to post
+- [634:18:40] or what to post uh but yeah all the
+- [634:56:00] places and of course Zippy dcom uh find
+- [635:41:20] me there sign up for the newly revamped
+- [636:22:00] Zippy SEO newsletter uh which I have the
+- [637:25:20] best idea yeah yeah no matter what
+- [637:56:00] you'll F you'll find it find Cyrus there
+- [638:46:00] and make sure you Google his name give
+- [639:18:00] him a branded link I'll make sure Cyrus
+- [639:48:00] Shepard best SEO just Google that and
+- [640:34:39] click yeah nice that's how that's how we
+- [641:28:00] do it all right Cyrus thank you hey
+- [642:14:00] thanks R uh have a great afternoon it
+- [642:42:40] was a pleasure being on Cheers
+- [643:40:30] [Music]

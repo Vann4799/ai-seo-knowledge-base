@@ -1,0 +1,1696 @@
+﻿---
+title: "You are what you EEAT | Lily Ray, Founder @ Algorythmic & VP SEO & AI Search @ Amsive"
+expert: "Lily Ray"
+video_id: "9dONdby7dDU"
+video_url: "https://www.youtube.com/watch?v=9dONdby7dDU"
+channel: ""
+published_at: ""
+language: "en"
+---
+
+# You are what you EEAT | Lily Ray, Founder @ Algorythmic & VP SEO & AI Search @ Amsive
+
+- Expert: Lily Ray
+- Source: https://www.youtube.com/watch?v=9dONdby7dDU
+- Notes: Interview on SEO and AI search consulting.
+
+## Transcript
+
+The best way to cut through the noise
+- [00:36] right now is to just continue to create
+- [01:22] original content that I can reference
+- [01:47] and that I feel good about the
+- [02:01] methodology because I think both search
+- [02:42] engines and LLM's are going to continue
+- [03:06] to want to highlight, you know, the
+- [03:26] original source of information. How do
+- [04:09] you think about this whole polarized
+- [05:11] narrative in the industry where I feel
+- [05:46] like there are not a lot of voices that
+- [06:23] have nuance? It feels like there's a lot
+- [07:00] of strong opinions
+- [07:33] about SEO versus GEO, etc. Well, the
+- [08:18] first question I would always encourage
+- [08:46] people to ask when they see people
+- [09:29] having very strong opinions is are they
+- [10:30] selling a product that benefits them if
+- [11:28] GEO is totally different than SEO? The
+- [12:06] answer is almost always yes. Before we
+- [12:39] dive in, you're listening to the Muscles
+- [13:14] of Search podcast with me, your host
+- [13:54] Nicholas Bushna.
+- [14:16] Each week I sit down with some of the
+- [14:50] smartest people around the world in SEO
+- [15:27] and AI search to bring you their
+- [15:58] strategies, mental models, and top
+- [16:37] pieces of actionable advice. If you
+- [17:16] enjoy this podcast, don't forget to like
+- [17:59] and subscribe and follow it in your
+- [18:28] favorite podcasting app or YouTube. It
+- [19:09] helps us get top-notch guests and create
+- [19:48] the best possible content for you. Let's
+- [20:20] dive into today's episode. Lily Ray is
+- [20:59] one of the most respected voices in SEO
+- [21:52] and she even launched her own Substack
+- [22:28] recently to create a quote safe space
+- [23:28] for ranting about all things SEO and AI
+- [24:15] search unquote. So, I'm super happy to
+- [25:10] have her on the Muscles of Search
+- [25:32] podcast today. Thanks so much for
+- [26:04] joining Lily.
+- [26:25] Thank you for having me.
+- [27:04] You recently made an announcement, I
+- [27:35] think the day we're recording it's 6
+- [28:16] days ago, that you're actually going out
+- [29:12] on your own and I think it's it's such a
+- [29:54] big announcement actually. It has gotten
+- [30:46] an insane amount of reactions on
+- [31:19] LinkedIn.
+- [31:38] Can you quickly share what this is all
+- [32:13] about.
+- [32:42] Yeah, for sure. Um, so I've just hit
+- [33:28] about 16 years working in the SEO
+- [34:03] industry,
+- [34:28] um, including a couple in-house roles
+- [35:00] and then most of my time spent in the
+- [35:31] agency environment. Um, I think I've
+- [36:03] been working at agencies I lost count,
+- [36:32] but something like 13 or 14 years.
+- [37:20] And, you know, for a long time now I've
+- [37:48] wanted to take on my own clients,
+- [38:34] um, and do my own projects. So, I was
+- [39:16] lucky to be able to come to an agreement
+- [39:45] with Amsef, my current employer, um,
+- [40:28] where I can actually continue my work
+- [41:04] with Amsef, um, as my title is VP of SEO
+- [41:58] and AI search at Amsef, where I help to
+- [42:26] oversee the team,
+- [42:52] um, while taking on select projects of
+- [43:22] my own under Algorithmics. So, my new
+- [44:06] consultancy is called Algorithmics. Um,
+- [44:45] I'm going to be extremely selective
+- [45:19] about the types of projects and clients
+- [45:52] that I take on, um, just because time is
+- [46:30] pretty limited. And I also, you know, I
+- [47:16] have a pretty niche, I would say, skill
+- [47:50] set and approach. So, I want to work
+- [48:20] with companies that are aligned with my
+- [48:58] philosophy.
+- [49:20] And how did you come up with the name
+- [49:47] Algorithmics?
+- [50:16] Yeah, it's actually a name that I've had
+- [50:40] in my back pocket for several years now.
+- [51:19] Um, I wrote about it on the new website
+- [52:12] that I published. I have kind of an
+- [52:30] announcement that includes how I came up
+- [53:08] with the name, but it actually was a
+- [53:39] name that, uh, a few of my teammates,
+- [54:30] several years back, we made like a a
+- [55:14] joke menu for a fake restaurant or fake
+- [55:56] deli,
+- [56:15] um,
+- [56:26] and called the subdomain. And it's full
+- [57:05] of SEO jokes, puns, and plays on words,
+- [58:03] and people's names, and things like
+- [58:34] that. Um,
+- [58:56] and the band that played at this fake
+- [59:35] deli was called the Algorithms.
+- [60:15] So, I was like, well, that's clever
+- [60:43] because I focus on algorithm updates all
+- [61:23] the time, and I've also been a drummer
+- [61:46] since I was 6 years old, and a DJ as
+- [62:15] well. So, it felt like a good name. So,
+- [62:56] I've been holding on to it for a while,
+- [63:18] and I'm really excited that I was able
+- [63:44] to launch with it.
+- [64:25] And now with your new uh, basically
+- [65:08] journey and the whole new chapter, can
+- [65:47] you take us through like a usual day in
+- [66:44] your life like day of a
+- [67:30] SEO consultant SEO AI search consultant
+- [68:29] VP of SEO and AI search at an agency?
+- [69:22] For sure. Yeah, I mean we're we're going
+- [69:49] to figure that out. It's going to be
+- [70:27] an interesting challenge that I'm very
+- [71:12] excited about actually because number
+- [71:38] one my team and I talk all day every day
+- [72:26] for years. You know, I'm very very
+- [72:48] closely aligned with my team and the
+- [73:14] clients that we're working with.
+- [73:48] I still have you know weekly meetings
+- [74:16] with them as well as like kind of like
+- [74:52] mentoring and training a lot of people
+- [75:27] on the team
+- [75:50] and then also like thought leadership.
+- [76:14] So I'll be continuing to do
+- [76:51] you know, research and and marketing on
+- [77:27] behalf of Amzov.
+- [78:02] But then you know, for select projects
+- [78:47] that I take on again, you know, I've had
+- [79:14] I have part of my week allocated towards
+- [79:56] solving complex problems and helping
+- [80:40] select clients with their marketing
+- [81:14] activities. So I'm excited to that I
+- [82:09] have some new approaches and techniques
+- [83:14] up my sleeve for algorithmic that I'm
+- [83:44] excited to test out. I have kind of like
+- [84:24] a new framework for approaching SEO and
+- [85:10] AI search that I've spent many years
+- [85:47] kind of solidifying and I want to work
+- [86:36] with some companies to kind of put that
+- [87:04] into practice.
+- [87:17] >> I'm always amazed by how people like you
+- [88:14] for example or someone like Ethan from
+- [89:02] Graphite how you make the time in your
+- [89:50] day to be super deep in the trenches
+- [90:33] like also with actual SEO work or now AI
+- [91:36] search work and then still having time
+- [92:10] to do a very interesting research. So
+- [93:10] you publish a lot of stuff either on
+- [93:43] LinkedIn or on your Substack. So how do
+- [94:38] you make it work? Like how do you handle
+- [95:08] this?
+- [95:39] It's a good question.
+- [96:05] Constantly trying to figure that out and
+- [96:35] optimize my life and my schedule.
+- [97:10] I would say funny enough the first
+- [97:32] answer to this question I like to tell
+- [97:56] people is that I don't have children.
+- [98:30] That really [laughter] helps. I think
+- [98:56] compared to a lot of my friends and
+- [99:23] colleagues and everything obviously
+- [99:54] going to pick up the kids every day and
+- [100:18:00] things like this get definitely take up
+- [100:46:40] a lot of time.
+- [101:04:00] I do have a dog that's a little bit
+- [101:38:00] demanding but no children.
+- [102:10:40] And I I you know I love what I do so
+- [102:54:00] especially lately
+- [103:30:00] with AI and specifically with Claude I'm
+- [104:08:40] pretty obsessed with Claude.
+- [104:40:40] There's so many ways to create
+- [105:12:40] efficiencies in your workflow now.
+- [105:48:00] And I'm also finding that it's really
+- [106:30:00] even sometimes in the evenings I'll dive
+- [107:02:40] in and create some workflows or have
+- [107:45:19] Claude like co-work help me with certain
+- [108:16:00] things. So I feel like it's an easier
+- [108:49:20] time than ever to start a consultancy in
+- [109:23:20] the sense that we have tools like you
+- [110:04:40] know AI automations and Claude co-work
+- [110:34:40] and everything like if I needed to go
+- [111:10:40] and organize files on my machine things
+- [111:45:20] like this like you know you it used to
+- [112:12:40] take forever and now it's much much
+- [112:38:40] easier. So it's a combination of being
+- [113:13:20] really excited not having children and
+- [114:02:00] having AI to help me. It's helping speed
+- [114:46:00] things up a lot.
+- [115:14:40] We might use this as a headline like if
+- [115:58:00] if you really want to master SEO don't
+- [116:31:20] get children. No just kidding.
+- [116:59:29] >> [laughter]
+- [117:10:00] >> Um
+- [117:40:00] but but definitely definitely
+- [118:20:00] interesting. What would you say how
+- [118:49:20] important is it to you to do your own
+- [119:45:20] research that then also guides the work
+- [120:34:40] you do for clients?
+- [121:18:00] Extremely important.
+- [121:50:00] And I'm actually working on a new
+- [122:17:20] Substack about this. It's going to be my
+- [122:46:40] next one which is about
+- [123:20:40] the quality of content circulating in
+- [124:24:40] our industry right now.
+- [124:52:40] And a lot of poor quality content
+- [125:50:40] circulating and being cited in large
+- [126:19:20] language models on the topics related to
+- [127:00:00] SEO and AI search. And I think a lot of
+- [127:42:00] AI generated content circulating that
+- [128:16:00] tends to get picked up by other AI
+- [128:42:40] generated content and then it just
+- [129:08:00] there's a lot of bad information
+- [129:44:00] circulating right now and I even see it
+- [130:22:00] with my articles too. Like I'll I'll do
+- [130:54:00] some original research and then within a
+- [131:32:00] week, you know, I get a bunch of
+- [131:56:00] notifications for my name or just people
+- [132:44:00] writing about my article with like all
+- [133:18:40] kinds of like
+- [133:44:00] things that are not true or things I
+- [134:07:20] didn't say or like, you know, rewriting
+- [134:56:00] my article without using my name. Like
+- [135:24:00] there's so much of that circulating and
+- [135:51:20] I feel like the best way to cut through
+- [136:36:40] the noise right now, even though a lot
+- [136:57:20] of that is quite frustrating, is to just
+- [137:29:20] continue to create original content that
+- [138:11:20] I can reference and that I feel good
+- [138:31:20] about the methodology. Um and also
+- [139:06:00] citing people that I know are doing that
+- [139:34:40] level of original research. Um because I
+- [140:12:00] think over time, even though LLMs are
+- [140:54:00] not great at this right now, I think
+- [141:17:20] over time both search engines and LLMs
+- [141:56:40] are going to continue to want to
+- [142:11:59] highlight, you know, the original source
+- [142:41:59] of information. And how do you approach
+- [143:16:40] it? Because I always feel like it makes
+- [144:04:00] so much sense, but it's at the same
+- [144:40:40] time, as I read in a book, uh common
+- [145:32:40] sense does not mean common practice. So,
+- [146:17:20] verifying claims, uh coming to your own
+- [147:06:00] conclusions makes so much sense, but
+- [147:37:20] it's also a lot of effort. So, if you
+- [148:26:00] like, can you take us uh with you
+- [149:08:40] through maybe a recent research project
+- [149:45:20] you did? Like, how did you start it? How
+- [150:23:20] did you come up with the idea? And then
+- [151:01:20] how how are the first steps looking
+- [151:34:00] like? do you validate like that you
+- [152:12:40] know, okay, this is this is really
+- [152:37:20] something publishable. I can go out with
+- [153:20:40] this. I can go public. And also because
+- [153:58:40] I mean, if you get cited, you also have
+- [154:44:40] a uh huge reputation to your name. So,
+- [155:26:40] if you put something out, people will
+- [155:55:20] definitely care and look at it. So, it's
+- [156:24:00] also a lot of exposure on it. And I
+- [157:10:00] could imagine some pressure put to it.
+- [157:50:40] So, can you
+- [158:12:00] share a little bit of your thoughts and
+- [158:40:40] the behind the scenes with us?
+- [159:10:40] For sure.
+- [159:34:01] >> [snorts]
+- [159:34:40] >> Yeah, I mean, I think um the most
+- [160:06:00] important thing with all of this and I
+- [160:36:40] learned this early on is to explain your
+- [161:30:40] methodology in detail as much as
+- [162:02:00] possible.
+- [162:22:40] You know, I think a lot of the times
+- [162:39:20] listen like I use third-party tools a
+- [163:11:20] lot of the time in my data. You know, I
+- [163:45:20] might use H refs data or Sistrix or
+- [164:30:00] similarweb data and
+- [165:05:20] a lot of times people have issues with
+- [165:32:00] that data, right? And that's perfectly
+- [166:16:40] fair. You know, I think a lot of these
+- [166:40:40] tools are not perfect. You know, they're
+- [167:08:40] not getting a complete picture of what's
+- [167:30:40] going on. Nobody really is at this
+- [167:52:40] point. Um so I think just being very
+- [168:42:40] clear that this is the data that I'm
+- [169:04:00] using. You know, obviously when I
+- [169:36:40] analyze data or whatever I'm doing lots
+- [170:04:00] of cross checks to make sure that it's
+- [170:25:20] accurate.
+- [170:46:40] Um but explaining that methodology is
+- [171:30:40] like okay, well, if you have a problem
+- [171:52:40] with the
+- [172:15:20] the data itself, it's not necessarily on
+- [172:55:20] me. It's something you can talk to the
+- [173:16:00] tool provider about. Um and I think at
+- [173:50:40] this point we all know that we're
+- [174:06:40] working with directional data. Right? I
+- [174:42:00] mean, once in a while I can do some
+- [175:16:00] research with like anonymized client
+- [175:56:40] data, but I I don't usually make that
+- [176:24:00] public because that's you know, we don't
+- [177:01:20] we're not really able to do that with
+- [177:21:20] our clients.
+- [177:40:40] Um so yeah, I think just being clear
+- [178:10:40] about the methodology and being
+- [178:45:20] transparent about, you know, sample size
+- [179:22:40] and things like this.
+- [179:48:40] Um just have to be honest. At this point
+- [180:40:40] there's no perfect way to conduct SEO
+- [181:30:00] analysis. I mean, even with like Google
+- [182:04:00] Search Console now we've learned that
+- [182:22:40] impression data has been wrong for a
+- [182:48:40] year, right? So it's like we're all just
+- [183:25:20] working with whatever we have access to,
+- [184:03:20] but I would say right now a lot of my
+- [184:23:20] workflow is um
+- [184:56:40] Cloud Code or Cloud Co-Work and various
+- [185:40:00] like MCPs that I'm using.
+- [186:14:00] Um so like
+- [186:40:40] um APIs and MCPs. So like H refs and
+- [187:20:40] Sistrix and similarweb and Search
+- [187:45:20] Console
+- [188:08:40] data for SEO as well.
+- [188:41:20] I
+- [189:08:40] You already mentioned the quality of
+- [189:53:20] information that is floating around and
+- [190:31:20] that it's
+- [190:57:20] uh to to say politely uh sometimes
+- [191:37:19] questionable. Do you feel like this is
+- [192:21:20] gotten worse now with the whole AI
+- [193:03:20] search GEO AEO industry
+- [194:05:20] um basically um growing compared to the
+- [194:52:00] early days of SEO or do you feel like
+- [195:30:40] it's basically just
+- [196:05:20] uh same same but different just
+- [196:31:20] repeating?
+- [197:04:40] Well, I think first of all, I started
+- [197:36:40] SEO in 2010. So, I can't exactly speak
+- [198:15:20] for like the early early days, you know,
+- [198:40:40] I have some colleagues that been doing
+- [199:08:00] this since the '90s and everything. I
+- [199:29:20] was a bit too young.
+- [199:54:40] Um
+- [200:05:20] but I would say back then
+- [200:42:00] it was less of a problem because even
+- [201:25:20] though people were expressing their own
+- [202:01:20] opinions and their own analysis and and
+- [202:42:40] their own experiences and everything, it
+- [203:05:20] was just as much smaller scale, right?
+- [203:52:00] Um like almost like everyone knew
+- [204:16:00] everyone at that point. It was like a
+- [204:35:20] pretty small community.
+- [205:05:20] Um now it's become so egregious with so
+- [206:04:00] many people entering into this space
+- [206:44:40] with little to no experience
+- [207:25:20] trying to strike gold with this whole
+- [207:56:40] like GEO thing. And then not only that,
+- [208:37:20] they have AI tools at their disposal to
+- [209:26:00] create content effortlessly and scale it
+- [210:26:00] really really quickly. So, we just have
+- [210:51:20] this scale problem where and and and to
+- [211:48:40] be honest, it's working. Um you know,
+- [212:16:00] I'm seeing some sites that are basically
+- [212:56:40] just like re-hashing content industry
+- [213:38:40] content or even coming up with
+- [214:17:20] non-existent like like information
+- [214:55:20] that's not true, right? About algorithm
+- [215:34:00] updates or whatever it is and using AI
+- [216:14:00] to create so much of that content and
+- [216:56:40] just blasting it out there and because
+- [217:24:00] of the way that they're structuring it
+- [217:48:00] and it has
+- [218:12:00] you know, bullet points and clear
+- [218:33:59] headings and structured data and all
+- [219:00:00] these things like it shows up in search
+- [219:41:20] and then the large language models think
+- [220:05:20] that it's legit information. And I'm
+- [220:46:40] seeing a lot of these like just
+- [221:17:20] paraphrased AI generated slop sites
+- [222:14:00] appearing in AI search and then so when
+- [222:43:20] you ask a large language model about SEO
+- [223:32:00] or GEO or whatever, it's going to give
+- [224:11:20] you information that sometimes is not
+- [224:36:40] based in reality. And to add to that, we
+- [225:20:40] have things like ChatGPT's new model
+- [226:00:00] launch. I think it's a couple weeks old
+- [226:23:20] now, but ChatGPT 5.3, which is what the
+- [227:14:40] vast majority of ChatGPT users are
+- [227:48:00] using, I think 95% or more,
+- [228:36:00] it doesn't do as like robust of research
+- [229:30:00] in the background, doesn't do as many
+- [229:59:20] fan out queries,
+- [230:26:40] um it doesn't use as many techniques to
+- [230:54:00] like filter, you know, really good data
+- [231:29:20] because it's just trying to respond
+- [231:49:20] really quickly. So, you're getting a lot
+- [232:25:20] of that bad information kind of
+- [232:50:00] circulating in AI answers. So, I think
+- [233:33:20] it's this really bad vicious cycle of
+- [234:12:40] people getting bad information, using AI
+- [234:52:40] tools to circulate that bad information,
+- [235:29:20] and
+- [235:43:20] it's definitely, I would say, a bigger
+- [236:05:20] problem, a bigger challenge than we've
+- [236:28:40] ever had before.
+- [237:17:20] And what do you think how we could break
+- [237:40:00] this cycle? So, is it up to OpenAI, for
+- [238:38:00] example, to improve their method
+- [239:20:40] methodology in the background for the
+- [239:54:00] grounding process? Or, I mean, we could
+- [240:35:20] obviously,
+- [241:00:40] ask people to please stop produce AI
+- [241:48:40] slop content, but as always, probably,
+- [242:32:40] if people see a loophole,
+- [243:08:40] at least some people try to exploit it
+- [243:48:00] as much as possible to their own
+- [244:12:00] personal gain. So, what do you think,
+- [244:47:20] like how will the whole how will this
+- [245:24:40] whole cycle look like in 6 weeks, 3
+- [246:38:00] months, 6 months?
+- [247:29:20] I mean, I think it has to come from the
+- [248:06:40] companies like Google and OpenAI for
+- [248:42:00] anybody to do anything, right? Um Google
+- [249:34:40] is like apparently today just concluded
+- [250:16:00] a core update. I'm still digging into
+- [250:54:40] the impact of that. I was expecting them
+- [251:34:00] to be a bit more aggressive with some of
+- [252:17:20] the [clears throat] slop that's
+- [252:35:20] happening. Um so far, I haven't seen
+- [253:12:00] huge indications that they're doing
+- [253:33:20] that. But, um you know, they do have
+- [254:19:20] systems in place that are working all
+- [254:42:00] the time to demote a lot of AI slop. So,
+- [255:28:00] at least on Google's side, they already
+- [256:04:40] have mechanisms, whether or not they're
+- [256:32:00] perfect, I think they're constantly
+- [256:52:00] improving them. And you see it all the
+- [257:22:40] time where like people launch scaled
+- [258:02:00] content, they use AI to programmatically
+- [258:38:40] create lots of content, and then within
+- [259:16:40] 3 to 6 months, like clockwork, you know,
+- [259:48:00] you start to see it decline. Um and
+- [260:32:40] since large language models are using
+- [261:18:00] Google and Bing and other search
+- [261:40:00] providers, you know, you can also see
+- [262:13:20] like a corresponding drop in citations
+- [262:50:00] over time when that happens. Grockopedia
+- [263:28:40] is a really good example. I think that
+- [263:50:40] site like
+- [264:16:40] went up to like millions in monthly
+- [264:43:20] traffic for a bit and then just
+- [265:06:00] completely tanked, and now it's like
+- [265:35:20] crashing pretty hard, and we're not
+- [265:54:40] really seeing it cited in LLMs either.
+- [266:30:40] So, that's an extreme example, but I
+- [266:49:20] think we see that happen a lot. Um where
+- [267:32:00] it needs to change more, I would say, is
+- [268:08:00] I think OpenAI in particular needs to do
+- [268:53:20] better at uh fighting spam and elevating
+- [270:01:20] high-quality URLs and citations. I think
+- [271:03:20] they're trying to figure this out right
+- [271:26:40] now. Obviously, it's really early days
+- [271:52:00] for them. You know, we I've said this
+- [272:24:00] before, but like Google didn't even have
+- [272:46:40] a spam web spam team for the first
+- [273:17:20] several years. And even then, it took
+- [273:50:39] them a really long time to figure things
+- [274:12:00] out. So, you know, I think
+- [274:48:40] it's kind of a wild west right now. You
+- [275:18:00] know, it's kind of like a gold rush
+- [275:54:00] where it's true that if you try a lot of
+- [276:30:00] spammy stuff, it might work, you
+- [277:06:00] know, better than [clears throat] it
+- [277:20:00] maybe will work in a couple years. Um
+- [278:01:20] but I think
+- [278:25:20] I wouldn't bet on it working forever.
+- [278:58:40] That's for sure.
+- [279:36:00] And how do you think about this
+- [280:15:20] uh somehow funny combination of OpenAI
+- [281:17:21] [snorts] on the one hand having their
+- [282:04:00] fanout career methodology, and obviously
+- [282:48:00] um
+- [282:59:20] things that are changing with new model
+- [283:25:20] releases. So, for example, with I think
+- [284:05:20] also GPT 5.3 now, uh a stronger tendency
+- [285:08:00] to use site search and maybe an inherent
+- [285:56:40] brand bias in some ways. But then on the
+- [286:39:19] other hand, OpenAI also relying on
+- [287:27:19] Google. So, if Google, for example,
+- [288:05:20] pushes a core update, then
+- [288:51:20] maybe Sam Altman wakes up to a lot of
+- [289:31:20] angry users that feel like the results
+- [290:14:40] of ChatGPT have gotten worse just based
+- [291:03:20] on the cascading effect of a Google core
+- [291:38:40] update. So, just how do you look at this
+- [292:48:00] somehow interesting and confusing
+- [293:31:20] combination of these new AI search
+- [294:44:40] tools, but then also everybody's still
+- [295:22:40] relying on Google and Google having like
+- [296:04:40] strong knock-on effects of everything
+- [296:34:40] they're doing? Yeah.
+- [297:10:40] I even had the thought recently, I
+- [297:34:40] wonder if Google is intentionally making
+- [298:04:40] its results worse because everyone's
+- [298:28:40] using Google for their AI products.
+- [299:09:20] Um that's one thought that I had
+- [299:26:40] recently, but um that's just a
+- [300:02:00] conspiracy, but I mean, the first thing
+- [300:37:20] to note is like [laughter]
+- [301:02:00] um
+- [301:26:00] like OpenAI has never publicly admitted
+- [302:12:00] that they're using Google, right? I
+- [302:46:00] think all the public records indicate
+- [303:36:00] that they've only ever used Bing, even
+- [304:12:40] though that relationship, I think, is
+- [304:35:20] over now. Um they've never once said,
+- [305:28:00] "Yes, we rely on Google." Like, it's
+- [305:54:00] been like the SEO industry and some
+- [306:21:20] journalists and everything trying to
+- [306:42:00] like piece together that it's probably
+- [307:14:00] coming from Google. We know that they've
+- [307:49:20] used SERP API in the past. We know that
+- [308:30:40] SERP API is using Google.
+- [309:05:20] Um I guess SERP API had OpenAI as a
+- [309:53:20] client logo on their site and then took
+- [310:24:40] that down. We know that Google has sued
+- [310:54:40] SERP API, so it's like we've kind of all
+- [311:26:00] connected the dots. I think there's also
+- [311:48:40] been like probably 20
+- [312:30:00] studies in our industry at this point
+- [312:52:00] that show that it's likely leveraging
+- [313:30:00] Google really heavily, but I think it's
+- [313:58:00] interesting that like that that's always
+- [314:33:20] been strange to me. Like, do they have
+- [314:55:20] some partnership that we don't know
+- [315:12:40] about? Um are they just using Google
+- [315:44:40] without Google's permission? It kind of
+- [316:10:00] feels like that might be happening. So,
+- [316:46:40] I don't know if Sam Altman's going to go
+- [317:09:20] out there and talk about like, "Oh,
+- [317:42:40] yeah, all the citations in ChatGPT are
+- [318:17:20] going to look different now because
+- [318:35:20] Google had an update." Um
+- [319:10:40] I also think there's a lot of indication
+- [319:46:40] that OpenAI
+- [320:14:00] trying to rely less on Google over time.
+- [320:52:00] Um you know, even though there's lots of
+- [321:23:20] studies like a peak AI recently did a
+- [321:56:40] study that was like 83% overlap with
+- [322:30:40] Google Shopping. Um but I think we're
+- [323:07:20] starting to see with these new model
+- [323:28:00] updates um for example, like fewer uh
+- [324:37:20] fan out queries and more like caching I
+- [325:17:20] think in ChatGPT or at least like them
+- [325:54:40] kind of using their own internal index.
+- [326:41:20] One thing I've seen with them is like if
+- [327:26:40] they discover a URL even if that URL
+- [328:18:40] becomes like no indexed or removed or
+- [329:03:20] changed or something like they can still
+- [329:37:20] store it. So, I think what they're
+- [330:14:40] trying to do is use search to discover
+- [330:48:00] URLs, but I think they're trying to like
+- [331:15:20] maintain a database of their own URLs as
+- [332:01:20] well just to be less reliant on external
+- [332:38:40] providers.
+- [333:20:00] So, that means they're basically in the
+- [333:58:40] process of building their own index. Is
+- [334:30:40] that correct? That's what I think and I
+- [335:15:20] think others have seen the same. I mean
+- [335:44:00] it's again impossible to know what
+- [336:11:20] they're actually doing, but I've seen a
+- [336:38:00] lot of URLs appearing in there that like
+- [337:12:00] don't otherwise appear in top positions
+- [337:49:20] on Google or maybe they used to or
+- [338:14:00] something. Um but I think the hard part
+- [338:56:00] for Open AI will be
+- [339:30:00] you know, having an index is one thing.
+- [340:14:40] Knowing which URLs are high quality is
+- [341:14:40] the hard part, right? And fighting spam
+- [341:51:20] is the hard part. So, having a raw index
+- [342:34:00] of URLs that they've discovered is just
+- [343:10:40] step one. So, I'll be curious to see
+- [343:36:40] what they do with ultimately things like
+- [344:23:20] EAT and you know, like domain authority
+- [345:15:20] and these concepts that we've had in the
+- [345:40:40] SEO space for a long time. I don't think
+- [346:06:00] they've quite figured that out yet.
+- [346:52:00] Just as you said, I have I constantly
+- [347:32:00] have this deja vu uh
+- [348:11:20] moments when we're talking about uh
+- [349:12:00] how does Open AI figure out which URLs
+- [349:51:20] to serve etc.
+- [350:22:00] Um
+- [350:37:20] how do they counter spam etc. It
+- [351:17:20] strongly feels like it's basically the
+- [351:51:20] exact same problems or the exact same
+- [352:43:20] challenges that Google had in the early
+- [353:15:20] days, right? And still people think
+- [354:07:20] about AI search and maybe partly right,
+- [355:02:40] maybe partly wrong, about this new magic
+- [355:42:00] tool that is like completely different,
+- [356:12:00] has no connection to Google whatsoever.
+- [356:57:20] Google is basically some sometimes
+- [357:30:40] perceived as this is what your grandma
+- [358:11:20] or your grandpa are using and the cool
+- [358:55:20] kids are now using ChatGPT. How do you
+- [359:32:40] think about this whole
+- [360:08:40] I feel like somehow polarized
+- [361:03:20] uh narrative in the industry where I
+- [361:40:00] feel like there are not a lot of voices
+- [362:17:20] that have nuance. You are definitely one
+- [362:54:40] of those, but it feels like there's a
+- [363:33:20] lot of strong opinions
+- [364:10:40] uh about SEO versus GEO, etc.
+- [365:04:00] Well, the first question I would always
+- [365:28:00] encourage people to ask when they see
+- [366:10:40] people having very strong opinions is
+- [367:23:20] are they selling a product that benefits
+- [368:04:40] them if uh GEO is totally different than
+- [368:51:20] SEO?
+- [369:12:40] The answer's almost always yes.
+- [369:42:40] Um and that's not to say that there's
+- [370:19:20] not differences, right? I think
+- [370:54:00] especially over time there are more and
+- [371:31:20] more things that are unique.
+- [372:09:20] And I've I have agreed with that since
+- [372:49:20] day one. What I think that the problem
+- [373:17:20] that I had with it was this positioning
+- [374:02:00] SEO as something that, you know, only
+- [374:35:20] your grandpa cares about or Google's
+- [375:11:20] dead or all these things cuz it's like
+- [375:33:20] number one, Google's fueling all this
+- [375:54:40] stuff.
+- [376:14:00] You know, number two, it's not dead. Um
+- [376:54:00] Google's doing an incredible job of
+- [377:22:40] somehow maintaining its users, probably
+- [377:52:00] by
+- [378:09:20] doing lots of things on Google that
+- [378:41:20] encourage people to click more, right?
+- [379:22:00] And search more, um
+- [379:58:40] you know, like adding a lot of internal
+- [380:28:40] links within AI overviews that encourage
+- [381:07:20] that take you to a new search and kind
+- [381:35:20] of tricky things like this. But, you
+- [382:05:20] know, I look at the numbers every month,
+- [382:27:20] Google's usage hasn't dropped. Um you
+- [383:20:00] You so people are using LLMs as these
+- [383:56:40] new tools, but they're also continuing
+- [384:23:20] to use Google. And I think even now a
+- [384:55:20] lot of the time, you know, you might get
+- [385:22:40] uh information from ChatGPT that you go
+- [385:51:20] to Google to cross-reference or look at
+- [386:19:20] pictures or videos or whatever.
+- [386:56:00] So, yeah, the positioning is what I took
+- [388:00:00] issue with this whole time because it's
+- [388:33:20] dangerous, right? And when I show up to
+- [389:03:20] my work at Ampere
+- [389:34:00] and clients have read an article about
+- [390:02:40] SEO being dead and they want to throw
+- [390:26:00] all their money into AI search and it's
+- [390:50:00] like "Whoa whoa whoa
+- [391:20:40] you know, slow down.
+- [391:53:20] We need to talk about this because
+- [392:13:20] that's not exactly how things work. And
+- [392:56:40] I think where I think the industry went
+- [393:33:20] wrong in the beginning because I prefer
+- [394:06:40] being honest over taking advantage of
+- [394:37:20] clients
+- [394:56:40] um is
+- [395:18:40] SEO has always mattered. It matters more
+- [395:50:00] than it ever has, but yes, there's a lot
+- [396:24:00] of new considerations for AI search.
+- [396:56:40] There's a lot of new metrics, new
+- [397:17:20] reporting, new tools, new ways that
+- [397:46:40] people are just changing their behavior.
+- [398:18:00] The two things are extremely important
+- [398:46:40] now. It's not that one is important and
+- [399:19:20] the other isn't.
+- [399:59:20] What would you say from your point of
+- [400:24:40] view are the most substantial
+- [400:50:40] differences between SEO and GEOAEOAI
+- [401:52:00] search?
+- [402:24:40] I think um
+- [402:53:20] from so from like a I've been saying
+- [403:26:40] this since day one, but like the the way
+- [403:52:00] that the consumer searches obviously is
+- [404:37:20] changing. Like the search behavior is
+- [405:06:00] changing. The the way that you can ask
+- [405:36:00] really long and detailed prompts is
+- [405:58:40] changing. The way that there's
+- [406:21:20] personalization in the responses and
+- [406:54:00] everything, that's all changing. You
+- [407:19:20] know, the the lack of links now or the
+- [407:58:00] there's much less much fewer citations
+- [408:30:00] and links in AI search answers. So, like
+- [409:04:00] that the whole nature of searching is
+- [409:34:00] changing. The thing that I've struggled
+- [410:07:20] with since day one are the tactics. What
+- [410:41:20] are the what are the tactics that have
+- [411:00:40] changed? And I think from an SEO like
+- [412:04:00] on-site perspective,
+- [412:38:00] there's some new opportunities. You
+- [413:06:40] know, I think a lot of people are taking
+- [413:25:20] advantage of like kind of exploits in
+- [414:00:00] the system right now. A lot of people
+- [414:22:00] are seeing a lot of success with
+- [414:40:00] listicles. A lot of people are seeing
+- [415:07:20] success with putting their brand in a
+- [415:36:00] position one in a listicle comparing
+- [416:06:00] them against their competitors. There's
+- [416:35:20] like brand versus alternative pages, you
+- [417:27:20] know, comparison pages. There's lots of
+- [417:56:40] these new kind of pages that do work
+- [418:32:40] very very well to influence AI search.
+- [419:08:40] Whether or not that works for a long
+- [419:28:40] time, I don't think it will, but right
+- [419:52:40] now it's true that that's definitely
+- [420:20:00] working better than ever.
+- [420:46:40] Um I also think, and this is something
+- [421:07:20] that I do believe in very strongly, you
+- [421:43:20] know, making sure that your website says
+- [422:23:20] things about your brand and your
+- [422:54:00] leadership and everything that are very
+- [423:19:20] very clear.
+- [423:42:00] I think a lot of companies didn't
+- [423:58:40] necessarily have that. So like in my
+- [424:36:00] conference talks I've shared a
+- [424:55:20] spreadsheet that we can maybe link to in
+- [425:28:00] the the notes of this podcast or
+- [425:48:40] whatever, but like it's a Google Sheet
+- [426:23:20] that basically allows
+- [426:56:40] um you know, you your brand to look at a
+- [427:38:00] bunch of different questions to make
+- [427:58:00] sure that you're clearly answering that
+- [428:23:20] on your website. So that when LLMs ask
+- [429:04:00] questions about your brand, at least you
+- [429:24:00] can help control the narrative. And then
+- [429:57:20] the big answer to your question, I
+- [430:24:00] think, is um what happens offsite.
+- [431:11:20] So obviously offsite SEO has always
+- [431:43:20] mattered a whole lot. We've always cared
+- [432:06:00] about backlinks and everything. Um I
+- [432:36:00] think with AI search, it's not
+- [433:00:40] necessarily just about backlinks, it's
+- [433:26:40] about how your brand is being mentioned
+- [433:58:00] in different places. And I think that's
+- [434:32:00] probably the hardest thing to influence.
+- [435:12:00] Let's quickly dive into the whole
+- [435:59:20] um like listicles, alternatives,
+- [436:52:40] um that part which stands like
+- [437:43:20] um for these initiatives or tactics that
+- [438:46:40] might work short-term also extremely
+- [439:24:00] well, but that might not work long-term.
+- [439:56:40] Because I think this is a very
+- [440:24:00] interesting thought, and I would like to
+- [441:13:20] know how you approach this. Like what's
+- [441:58:00] your mental model for it? Because I
+- [442:27:20] could imagine that a client, so let's
+- [442:55:20] imagine I I would be a client probably I
+- [443:40:40] cannot afford your services, but um
+- [444:18:00] let's imagine it for a second. And I
+- [444:53:20] would say, "Hey, okay Lily, I get it.
+- [445:43:20] But why not take advantage of it as long
+- [446:31:20] as we can? So I mean, I get your point.
+- [447:12:40] We should do it all well, and we should
+- [447:44:00] do long-term strategy thinking, but
+- [448:12:00] still
+- [448:30:40] this and this and this competitor is now
+- [449:14:40] ahead of us, and this doesn't feel right
+- [449:51:20] to me, and it's hard for me to explain
+- [450:21:20] it to the C-level.
+- [450:52:40] How would you approach it? For sure, and
+- [451:24:40] that's a it's a really
+- [451:56:40] difficult conversation to have.
+- [452:42:40] Um
+- [452:51:53] >> [gasps]
+- [453:01:20] >> I would say a couple of things. Number
+- [453:30:40] one, I think there's a way to do these
+- [454:08:00] types of approaches on a very small
+- [454:52:40] scale and do them what I would consider
+- [455:34:00] to be the right way.
+- [455:59:20] Um I even shared last week about um here
+- [456:51:20] in the US, we have like FTC requirements
+- [457:29:20] for how you
+- [457:55:20] position yourself compared to
+- [458:24:40] competitors. If you are mentioning
+- [458:50:00] competitors on your site, or you are
+- [459:14:40] doing something that's considered to be
+- [459:46:00] an objective review of companies, you
+- [460:20:40] know, if I were to say who are the best
+- [460:52:40] SEO experts, and then put Lily Ray's
+- [461:21:20] number one, you know, I need to put
+- [461:58:00] methodology that says I have to let you
+- [462:32:40] all know that I am Lily Ray. So, I have
+- [463:02:40] a vested interest in positioning myself
+- [463:32:00] number one, right? And then the article
+- [464:10:00] loses all credibility. But does it Could
+- [464:36:00] it potentially impact AI search?
+- [465:04:40] Unfortunately, yes. So, we are in that
+- [465:41:20] weird tricky world where like sometimes
+- [466:16:00] you have to do things that I would
+- [466:34:00] consider to be slightly unethical to
+- [467:10:00] succeed in the current landscape. Now,
+- [467:54:00] the reason why I'm so cautious about
+- [468:42:40] this is because of my history in the
+- [469:16:00] space and because of my experience in
+- [469:40:40] the space, and I think there's some
+- [469:58:40] other people like me who have dealt with
+- [470:36:40] so many clients that have been impacted
+- [471:06:00] by algorithm updates and manual actions
+- [471:34:40] over the years that I just see the
+- [472:03:20] writing on the wall for this, especially
+- [472:35:20] since it's become so popular. Um
+- [473:17:20] and to be honest, I've already seen
+- [473:44:40] probably about 20 or 30 sites that have
+- [474:32:00] lost a ton of traction in the last 3
+- [475:15:20] months that had a lot of these
+- [475:49:20] listicles. So, I think right now the if
+- [476:47:20] you are going to do it, I would
+- [477:07:20] recommend doing it on extremely small
+- [477:40:00] scale. Because what I think will
+- [478:22:00] ultimately happen is they're going to
+- [478:56:00] get better and better at demoting this
+- [479:22:00] as a tactic. I mean, obviously Google
+- [479:58:40] doesn't want this to be so like gamed in
+- [480:56:40] its search results and OpenAI doesn't
+- [481:28:40] either. So, like we can assume that one
+- [482:08:00] day soon they're going to demote this
+- [482:30:00] type of approach. The question is how
+- [483:01:20] far will they go? So, when Google
+- [483:46:00] launched the helpful content update and
+- [484:22:00] I talk about this all the time, but I
+- [484:39:20] think it's a very important SEO history.
+- [485:13:20] You know, it's not just the helpful
+- [485:28:40] content, it's Panda, it's Penguin, it's
+- [485:55:20] these really big updates. They hit so
+- [486:34:40] many sites that were didn't even know
+- [487:27:20] they were doing too much SEO. They were
+- [488:06:00] just doing what they thought were the
+- [488:23:20] best practices and it was working
+- [488:48:00] extremely well. I know people that have
+- [489:23:20] lost everything from the helpful content
+- [489:53:20] update and hardly got any of it back,
+- [490:24:40] right? They had to close up shop, they
+- [491:00:40] had to refinance their homes, they had
+- [491:27:20] to do all these extreme things because
+- [491:50:40] they lost everything. So, my position
+- [492:28:00] now is like I never want a company to
+- [492:58:00] ever get put put in that position ever
+- [493:38:00] again.
+- [493:56:40] So, scaling these types of articles
+- [494:37:20] right now, I would consider it very high
+- [495:07:20] risk. Just because it's working now
+- [495:47:20] doesn't mean it'll work it also could
+- [496:32:40] really, really negatively impact your
+- [497:02:00] site and I can share many examples of
+- [497:29:20] that happening.
+- [498:30:00] And do you also see other tactics that
+- [499:02:00] basically fall into the same bucket? So,
+- [499:36:40] potential short-term gain right now and
+- [500:29:20] potential long-term harm?
+- [501:30:00] I think it's tricky because the big wild
+- [502:08:00] card that we don't really know the
+- [502:32:40] answer to right now is is Google going
+- [503:08:40] to continue to behave the way that it
+- [503:44:00] used to behave when there wasn't there
+- [504:34:40] wasn't AI overviews. You know,
+- [505:16:40] um I think now that things are going in
+- [505:46:00] this direction of like one true answer,
+- [506:24:40] I don't know if Google's as invested as
+- [506:58:00] it was before in like demoting a lot of
+- [507:50:00] this type of spam and the only reason I
+- [508:16:00] bring this up is because it seems like
+- [508:36:40] they're acting much more slowly than
+- [509:06:40] they used to to get rid of really spammy
+- [509:58:00] stuff. Um so, I just don't know like
+- [511:10:40] where this is all going in the future.
+- [511:59:20] But basically, yeah, I think that I mean
+- [512:52:00] there was a Verge article that came out
+- [513:22:00] this past week where Google was quoted
+- [514:13:20] in article specifically about the
+- [514:38:40] listicles and saying, you know, we try
+- [515:14:40] to we try not to have this type of
+- [515:44:00] content ranking in search right now. So,
+- [516:24:40] I think like I would just be very
+- [517:01:20] cautious. Um and I forgot the question
+- [517:40:40] you just asked me. I want to make sure I
+- [518:01:20] answered it.
+- [518:45:20] Uh other tactics um that you have like a
+- [519:34:40] potential short-term gain but long-term
+- [520:12:00] harm. And I can also just say what comes
+- [520:58:00] to mind for me is AI content and like
+- [521:54:40] hugely scaled AI content where there's
+- [522:34:00] this term called Mount AI. Basically, it
+- [523:32:00] goes up, you have a lot of traffic,
+- [524:16:00] maybe also leads and conversions, and
+- [524:55:20] then it just falls down a cliff because
+- [525:40:00] Google somehow realizes that this
+- [526:13:20] content is all slop. And I'm just always
+- [526:58:40] asking myself, isn't there a way that we
+- [527:48:00] can do AI content maybe also with a
+- [528:28:00] little scalability in a good way, like
+- [529:08:00] in a properly uh valuable way and not
+- [530:01:20] having the slop and like the the bulk
+- [530:49:20] spam way?
+- [531:17:20] Yes, that's a good question. Um so,
+- [531:50:40] yeah, AI content scaled AI content I
+- [532:38:40] think is extremely dangerous. Every time
+- [533:31:20] I talk about this, there's a hundred
+- [533:52:40] people telling me I'm wrong and it can
+- [534:19:20] be done well and what I see time and
+- [535:02:00] time again is the companies that go too
+- [535:29:20] hard into AI content, even if they think
+- [536:19:20] it's good. And that's always the part,
+- [536:48:00] right, where it's like, well, we think
+- [537:08:00] it's really high quality. And the
+- [537:42:00] reality is that they're just saying
+- [538:17:20] what's already been said. I think that's
+- [538:51:20] the real question you have to ask
+- [539:20:00] yourself is does my content add anything
+- [540:04:40] new to the conversation and anything
+- [540:38:00] useful to the conversation?
+- [541:12:40] Um I've seen time and time again that
+- [541:42:00] that does not work. So, I think
+- [542:20:40] it's playing with fire. I do think there
+- [542:55:20] are companies out there that have really
+- [543:22:00] good implementations. I think there's
+- [543:46:00] companies that are using AI automation
+- [544:14:00] to incorporate real data that they have
+- [545:02:00] access to or customer insights or
+- [545:40:40] whatever it is that's unique that can do
+- [546:19:20] it well. I've just seen so many examples
+- [547:12:40] where it works for 3 months or 6 months
+- [547:45:20] and then it starts to either degrade
+- [548:17:20] over time or crash really quickly. So, I
+- [549:09:20] just think it's it's really risky right
+- [549:49:20] now. Um and I I'm very risk-averse and I
+- [550:51:20] do think that like listen, I do use AI
+- [551:25:20] for a lot of things. I use AI for
+- [551:56:00] research, I use AI for ideation, right?
+- [552:54:00] There's a lot that you can do with AI
+- [553:34:40] that's not producing the actual content.
+- [554:30:40] I think that the content itself at the
+- [555:03:20] very least should have a human reviewing
+- [555:42:40] it and going through it and ideally
+- [556:29:20] putting it in their own voice. I do
+- [557:06:00] think that search engines try to reward
+- [557:58:00] real authentic content written by
+- [558:26:40] humans. Even if right now there's a lot
+- [559:04:00] of examples of that not happening, I
+- [559:26:00] think that's the direction that they're
+- [559:46:00] always trying to go.
+- [560:37:20] Let's tap into the whole AI search and
+- [561:20:00] like
+- [561:38:40] how do we approach AI search a little
+- [562:09:20] bit deeper
+- [562:31:20] because one thing that always comes up
+- [563:12:40] when I speak to
+- [563:43:20] uh people that
+- [564:08:00] that reach out to us
+- [564:40:40] also clients at the beginning of a
+- [565:08:40] collaboration and also partners is how
+- [565:51:20] do you come up with a meaningful set of
+- [566:44:00] prompts to track and to monitor because
+- [567:43:20] it's something where in in in the good
+- [568:27:20] old SEO days and even still now a little
+- [569:17:20] bit, we had keyword data, we could go to
+- [570:06:00] Google Ads Keyword Planner, we could
+- [570:46:00] actually see search volume. Now,
+- [571:17:19] obviously you already said it, the way
+- [571:53:20] how people are searching is changing,
+- [572:27:20] but how do you approach that? Like how
+- [573:06:40] do you come up with something where
+- [573:36:00] you're confident that it makes sense to
+- [574:19:20] monitor
+- [574:42:40] these types of prompts or these types of
+- [575:19:19] searches
+- [575:44:39] and and like how do you go about it?
+- [576:21:19] Yeah.
+- [576:40:00] Yeah, it's becoming trickier than ever,
+- [577:06:40] and we have less like real data
+- [578:00:00] available than ever.
+- [578:35:19] So, there's a number of different
+- [579:09:20] sources that you can pull from to at
+- [579:40:00] least create a universe of potential
+- [580:41:20] prompts and topics and everything. So, I
+- [581:12:00] think the the first step is to generate
+- [582:10:40] as big of a universe as possible with as
+- [582:39:20] many data sources as you can. So, you
+- [583:28:00] know, we have different keyword research
+- [583:51:20] tools that already have questions people
+- [584:35:20] are asking, you know, like Ahrefs and
+- [585:00:40] SEMrush and these tools you can already
+- [585:21:20] filter by questions.
+- [585:50:40] There's people also ask One of my
+- [586:20:40] teammates just made a really nice like
+- [587:04:00] five-coded tool that we're using to
+- [587:56:40] basically like categorize and and
+- [588:20:40] cluster people also ask questions for
+- [589:02:40] certain topics. There's
+- [589:53:20] Google Search Console data where you can
+- [590:26:40] filter by
+- [590:53:20] queries of a certain length to try to
+- [591:28:00] get longer queries that are probably
+- [591:54:40] more conversational, more AI search
+- [592:22:40] oriented. Or questions that begin with
+- [593:10:40] who, what, when, where, why, that type
+- [593:33:20] of thing. And
+- [594:18:40] also fanout queries, right? So, there's
+- [594:45:20] there's like
+- [595:08:00] the Gemini API and everything, and
+- [595:39:20] there's ways to like gather actual
+- [596:14:40] fanout queries that were used by these
+- [596:50:00] LLMs. So, I think it's the first step is
+- [597:30:00] to like aggregate all of that. Also,
+- [597:52:00] there's paid search data, of course you
+- [598:14:40] want to group that in there and kind of
+- [598:34:40] like assign a value to these keywords as
+- [599:33:20] much as possible. You know, some things
+- [599:56:40] are more like conversion oriented, or
+- [600:26:40] you're already driving sales through
+- [600:46:40] paid search with those topics. So, like
+- [601:25:20] kind of like prioritizing it. And then,
+- [602:02:40] you know, I think AI could be a good
+- [602:30:40] companion here. If you start to have
+- [602:58:00] kind of like a core set of topics that
+- [603:44:00] you know are very high converting and
+- [604:09:20] are very relevant to the business,
+- [604:54:00] you can kind of use AI to create some of
+- [605:48:40] the most relevant prompts and maybe like
+- [606:18:40] cross-reference that with existing
+- [606:55:20] keyword research volume data whenever
+- [607:29:20] possible. So, it's not just like
+- [607:56:40] shooting in the dark, but it's actually
+- [608:14:40] data-driven.
+- [608:36:40] But, yeah, it's uh
+- [609:04:40] there's a lot of people coming up with a
+- [609:24:40] lot of creative approaches for this, and
+- [609:52:40] I don't think there's one right answer.
+- [610:17:20] But, that would that would largely be
+- [610:42:40] the process that I would follow.
+- [611:26:00] And how important is AI search
+- [612:10:40] monitoring data in whatever shape or
+- [612:56:40] form either
+- [613:29:20] uh brand visibility,
+- [614:01:20] mentions, share of voice, citations,
+- [614:58:00] citation rate, how important is that
+- [615:32:00] already for you in um like guiding a
+- [616:32:00] strategy, or also the the actionable the
+- [617:34:40] the the work or the action items you you
+- [618:13:20] take away from it?
+- [619:00:00] Yeah, I mean, uh listen, there's like a
+- [619:25:20] a hundred things to say about prompt
+- [620:04:00] tracking tools that are they're
+- [620:46:00] problematic, right? They're not they're
+- [621:13:20] not 100% precise. They can't be, you
+- [622:08:00] know, I think listen, like we have
+- [622:42:40] personalization, we have free tiers and
+- [623:28:40] paid tiers. We have people getting all
+- [623:57:20] types of different responses from LLMs,
+- [624:42:00] and that's a feature, not a bug. That's
+- [625:16:00] like literally how they work. Um which
+- [625:52:40] makes tracking prompts fundamentally
+- [626:45:20] difficult and imprecise.
+- [627:32:40] You know, I think the best article about
+- [627:56:00] this was the one that Rand Fishkin did a
+- [628:18:40] few months ago with SparkToro, where he
+- [628:45:20] kind of talked about like every time you
+- [629:18:00] query an LLM, you're going to get a
+- [629:37:20] different answer. So, they're
+- [630:05:20] you know, non-deterministic by design.
+- [630:47:20] And I think that that makes it really
+- [631:11:20] challenging. So, as long as you
+- [631:44:00] understand all of that, and as long as
+- [632:16:00] you are taking this data as directional
+- [633:00:40] data, and it's not perfect data. Listen,
+- [633:31:20] it's the best data that we could get.
+- [634:09:20] Unfortunately, we don't have a search
+- [634:36:40] console from OpenAI. We don't have um
+- [635:23:20] really precise ways of knowing what
+- [635:46:40] people are typing into LLMs. Uh you
+- [636:34:40] know, there's there's companies like
+- [636:58:00] SimilarWeb and everything that actually
+- [637:22:40] do have some, I think, access to real
+- [638:06:40] conversational data. So, that's
+- [638:37:20] definitely a tool that I use in my tool
+- [639:02:40] set for AI search. But, you know, to the
+- [639:49:20] best of our ability using if you can a
+- [640:40:40] couple different tools to prompt to
+- [641:12:00] track prompts. So at least you can get a
+- [641:42:40] little bit of different data cuz some of
+- [642:05:20] them have different methodologies for
+- [642:26:00] how they collect this data.
+- [642:55:20] Um
+- [643:14:40] it's the best that we can do. So yeah,
+- [643:42:00] when I'm when I'm doing AI search
+- [644:14:00] analysis for clients, am I using, you
+- [644:52:40] know, Peak and Profound and Way K and
+- [645:46:00] Semrush AIO and these different tools
+- [646:19:20] and Ahrefs Brand Radar a lot as well.
+- [646:50:00] Yes, I'm using them because, you know, I
+- [647:30:00] think a lot of people are saying, "Well,
+- [647:45:20] this this data is not perfect, so we
+- [648:08:00] can't rely on it." It's like, "What else
+- [648:32:40] are we going to use at this point?"
+- [649:16:40] And if you get like a new inquiry about
+- [650:46:40] someone that wants to work with you, for
+- [651:17:20] example, now at Algorithmic, what are
+- [651:49:20] like the first things you look at? Like
+- [652:23:20] the first few checks or analysis you do?
+- [653:26:00] Yeah, it's a pretty extensive process.
+- [653:56:00] Again, as I mentioned before, I'm not
+- [654:32:00] just going to take on any client. I have
+- [654:58:00] very limited time, so I want to work
+- [655:30:40] with clients that I feel really good
+- [655:56:40] about, you know, the partnership and
+- [656:27:47] >> [gasps]
+- [656:35:20] >> the philosophy of what they're doing and
+- [657:04:00] how they approach SEO. So number one, if
+- [657:45:20] a company comes to me and wants to scale
+- [658:27:20] as quickly as possible, and wants to
+- [658:49:20] automate everything, and wants to fire
+- [659:14:00] their SEO team, and just wants to
+- [659:48:40] it's not going to be a good fit for me.
+- [660:13:20] There's all kinds of SEOs and GEOs out
+- [660:47:20] there that want that type of challenge.
+- [661:22:40] I I just see how that ends, and that's
+- [661:53:20] not the type of work that I like to do.
+- [662:27:20] Um if a company comes to me and reads my
+- [663:09:20] philosophy and says this is exactly how
+- [663:35:20] we want to do our marketing, and they
+- [664:06:00] know that it takes a long time, and they
+- [664:26:40] know that it requires a lot of hard
+- [664:50:40] work, um I'm much more interested in
+- [665:29:20] working with them. I also like to work
+- [666:00:40] with companies that um
+- [666:42:40] believe in EEAT. And this is something
+- [667:17:20] that I've gone back and forth about it
+- [667:59:20] because I do think that, you know,
+- [668:34:00] Google cared a lot more about EEAT
+- [669:15:20] probably around like the pandemic. So
+- [670:11:20] between 2018 and 2022, I think Google
+- [670:50:00] cared a lot more.
+- [671:17:20] I however do think that it continues to
+- [672:02:40] be where they want to go and I think
+- [672:34:00] where the LLMs are going to want to go
+- [672:57:20] as well and I've also seen it work
+- [673:39:20] tremendously well in my own personal
+- [674:22:00] branding.
+- [674:45:20] This kind of like E-E-A-T approach that
+- [675:21:20] I've developed. So I want to work with
+- [675:43:20] companies that believe in that. So to
+- [676:24:00] answer your question, I have a very
+- [676:53:20] robust onboarding process with companies
+- [677:42:40] that I work with to not only understand
+- [678:17:20] the business but to understand how we
+- [679:00:00] can position them from an E-E-A-T
+- [679:35:20] perspective to set them up for long-term
+- [680:16:00] success.
+- [680:40:00] And what would you say from your
+- [681:12:00] experience, what are like the most
+- [681:58:40] impactful things usually that come up?
+- [682:52:00] Like is it content work? Is it technical
+- [683:33:20] SEO work? Is it offside? Now maybe
+- [684:44:40] digital PR work? Is it informa-
+- [685:38:40] information architecture? So um
+- [686:31:20] also maybe if you say it's E-E-A-T, what
+- [687:22:40] does it look like in practice for people
+- [687:58:00] that maybe do not have such a practical
+- [688:37:20] view on what translating the concept of
+- [689:32:40] E-E-A-T really means into like
+- [690:24:40] day-to-day work, what is it that you
+- [691:01:20] find is most impactful or has been most
+- [691:43:20] impactful for you also with with your
+- [692:20:00] clients? For sure.
+- [692:54:40] Yeah, I mean I think
+- [693:24:40] the dream client for SEOs even though
+- [694:19:20] it's a lot of hard work is a is a client
+- [694:55:20] that has like an enterprise client that
+- [695:29:20] has a lot of technical challenges. You
+- [696:04:40] know, I think um with Ampshift last year
+- [696:42:40] we won best SEO team in the enterprise
+- [697:36:40] category. We also won best SEO campaign
+- [698:12:40] in the enterprise category with
+- [698:32:00] SearchEngineLand and that was all
+- [699:05:20] involving a very technical project um
+- [699:45:20] with MSN,
+- [700:11:20] Microsoft. So that that's the dream
+- [701:14:00] because when a company comes to you with
+- [701:43:20] a very big technical challenge like a
+- [702:07:20] site migration or something and then you
+- [702:32:40] can get it to work and it works. It's
+- [703:12:40] like we we know that it works.
+- [703:42:40] You know, there's nothing risky with
+- [704:07:20] that. There was nothing
+- [704:35:20] that could burn this I mean, unless
+- [705:00:40] you're not doing tech SEO, right? You
+- [705:20:00] could burn the site down. But we have a
+- [705:40:00] really good tech SEO team. So, like
+- [706:14:00] those types of projects go really,
+- [706:40:40] really well. So, you know, when a client
+- [707:12:00] comes to you and they have technical SEO
+- [707:40:00] challenges, then tech SEO is probably
+- [708:07:20] the priority. You need to make sure
+- [708:29:20] that, you know, the pages are being
+- [708:56:00] crawled and rendered and indexed and
+- [709:18:40] everything properly.
+- [709:56:40] But I would say most of the time these
+- [710:28:40] days that's not the biggest challenge
+- [710:55:20] that companies have.
+- [711:28:40] You know, some legacy companies that are
+- [711:54:40] on the old CMSs and things like this
+- [712:20:40] have tech SEO challenges, but I think
+- [712:57:20] right now content and offsite, you know,
+- [713:48:00] brand mentions are usually the biggest
+- [714:11:20] challenge. So, it's case by case.
+- [715:10:40] But as far as the EEAT approach that I'm
+- [715:52:00] using,
+- [716:14:40] the way that I see it and I've been
+- [716:38:40] saying this for years,
+- [717:13:20] I think that the experts that represent
+- [718:04:00] a company or work at a company, whether
+- [718:29:20] it's the CEO, whether it's the
+- [718:52:00] leadership team, whether it's like maybe
+- [719:39:20] influencers that like work at the
+- [720:07:20] company or represent the company,
+- [720:30:40] represent the brand,
+- [720:58:00] can do a lot of the heavy lifting as far
+- [721:34:40] as brand marketing because I think that
+- [722:23:20] people like to follow real people, real
+- [723:03:20] real humans. You know, you don't log on
+- [723:38:00] to LinkedIn to hear what a corporation
+- [724:13:20] has to say as an update. You log on
+- [724:44:40] there to see what experts are talking
+- [725:12:40] about. And I think that experts can
+- [725:46:00] represent brands. So, I think that the
+- [726:29:20] more that brands have real experts that
+- [727:06:40] are going out there and providing really
+- [727:33:20] great content. For example,
+- [728:02:00] engaging in Reddit discussions without
+- [728:35:20] selling things, but just adding value to
+- [729:08:40] the conversation, I think all of that at
+- [729:48:00] ladders up to success for the brand.
+- [730:55:20] And would you say that this whole
+- [731:47:20] like ba- ba- basically that there's
+- [732:44:40] similarity in your thinking about EEAT
+- [733:40:40] and how a company should approach it,
+- [734:23:20] and then at the same time
+- [735:07:20] the fact that for example ChatGPT but
+- [736:02:00] also AI search in general has this
+- [736:38:40] strong bias
+- [737:08:40] towards platforms that surface real user
+- [738:04:40] discussions like as you mentioned Reddit
+- [738:38:40] but then also something
+- [739:14:40] that I noticed recently that LinkedIn
+- [740:00:40] posts are used more and more so more and
+- [740:45:20] more indexed by Google or surfaced more
+- [741:24:40] and then something else I noticed
+- [742:02:40] that Steve Toth from Notebook Agency
+- [742:44:40] made me aware of Facebook groups that
+- [743:24:40] suddenly Facebook groups are now
+- [744:03:20] being indexed more and more and then
+- [744:36:00] also at the same time use a citation. So
+- [745:16:40] do you feel like it's just
+- [745:49:20] like that that we're moving beyond like
+- [746:52:00] corporate content that has gone through
+- [747:38:40] five hands from like SEO team to PR team
+- [748:52:40] to legal team so that it's more
+- [749:28:00] authentic and more like human expert
+- [750:37:20] led?
+- [751:11:20] Yeah, I think that
+- [751:44:40] the reality of the situation is number
+- [752:28:00] one search engines and now LLMs have
+- [753:21:20] been so spammed so heavily whether or
+- [754:12:40] not a lot of SEO folks believe that what
+- [754:40:40] they're doing is spam they see it as
+- [755:03:20] spam.
+- [755:27:20] Um I think that they've had to rely a
+- [756:09:20] lot more on the Reddits and the
+- [756:44:00] LinkedIns and the Facebook groups
+- [757:11:20] because that's where real humans
+- [757:35:20] presumably are still having
+- [757:54:40] conversations and I think that real
+- [758:34:40] humans tend to provide answers in many
+- [759:37:20] cases that have the E the first E in
+- [760:16:40] EEAT which is experience.
+- [760:56:40] Um Google is very interested in first
+- [761:34:40] hand experience because users like to
+- [762:01:20] read first hand experience. So the irony
+- [762:57:20] of the Reddit situation right now and I
+- [763:21:20] think the same thing that's happening
+- [763:40:00] with LinkedIn groups or LinkedIn and
+- [764:07:20] Facebook groups is the reason why those
+- [764:52:00] sites are so heavily cited and are
+- [765:56:40] preferred by the Googles of the world is
+- [766:40:40] because they have this this authentic
+- [767:11:20] human conversation that their users like
+- [767:40:00] to read, right? But now we have like
+- [768:22:00] this new influx of marketers trying to
+- [769:35:20] influence the conversations happening. I
+- [770:04:00] mean, the I the the the idea of going
+- [770:38:00] into a Facebook group and trying to sell
+- [771:03:20] something
+- [771:22:00] is so funny to me because it's like
+- [772:00:00] there's nothing left where humans can
+- [772:30:40] just have conversations, right? It's
+- [772:57:20] like Discord or like these WhatsApp or
+- [773:37:20] these private groups are the only place
+- [774:09:20] left even though marketers are already
+- [774:33:20] trying to infiltrate WhatsApp and
+- [774:57:20] probably Discord, right? But it's like
+- [775:32:00] the whole point is like these are
+- [776:04:40] supposed to be sacred private spaces for
+- [776:34:00] humans to have conversations without
+- [776:56:40] brands going in there and selling
+- [777:18:00] something. And I think Reddit is trying
+- [777:54:40] its best to remove people from doing
+- [778:30:00] that and it's failing in many cases, you
+- [778:58:00] know, I think that the the technology is
+- [779:28:00] so sophisticated now with AI and
+- [779:50:00] everything. It's very easy to trick
+- [780:10:00] moderators, but this is a really big
+- [780:43:20] challenge. I think um it will continue
+- [781:18:40] to be a cat and mouse game where
+- [781:54:40] these companies like Google and OpenAI
+- [782:20:00] and everything are going to try to go
+- [782:39:20] where the real conversations are
+- [782:58:40] happening and marketers are going to go
+- [783:18:40] try to kind of poison those
+- [783:42:40] conversations.
+- [784:50:00] Okay, that's a
+- [785:28:00] it's it's it's a semi-optimistic
+- [786:15:20] outlook for the future.
+- [787:01:20] Um
+- [787:12:00] but yeah, I would agree uh
+- [787:52:00] that's definitely cat and mouse game. Um
+- [788:39:20] something I wanted to
+- [789:15:20] also get your opinion on is the whole
+- [789:50:00] organic versus ads part in AI search.
+- [790:40:40] So, ChatGPT has introduced ads obviously
+- [791:55:20] um very limited scale uh as far as I
+- [792:40:40] know um yet. Then Google is obviously
+- [793:35:20] actively working on monetization in AI
+- [794:19:20] overviews and AI search. I feel like the
+- [795:01:20] cool part of AI search was that it was
+- [795:55:20] purely organic basically up until this
+- [796:36:40] point now. So, how do you see
+- [797:30:40] um the the future for it because if we
+- [798:18:00] look at the the classic 10 blue links
+- [799:06:40] from like 2 3 years ago,
+- [800:00:00] we had over time an increasing presence
+- [800:54:00] of Google Ads, where also a lot of SEOs
+- [801:40:00] got frustrated over time that especially
+- [802:17:20] like money keywords, very commercial
+- [803:04:00] searches,
+- [803:24:00] um there was a big chunk of traffic that
+- [804:01:20] was basically taken away by the ads. So,
+- [804:32:00] how do you see the future for that in
+- [805:20:00] the AI search interfaces? Yeah, I think
+- [806:05:20] it's probably the biggest challenge that
+- [806:41:20] these companies are grappling with right
+- [807:06:40] now. Obviously, you know, they need they
+- [807:30:00] need to make money. They need to
+- [807:45:20] continue to make money. Um and the way
+- [808:19:20] they generally make money is through
+- [808:38:00] ads.
+- [808:56:40] Um especially Google. So, I think that's
+- [809:40:00] one part of the conversation that I
+- [810:08:40] think is very It'll be very interesting
+- [810:50:00] to watch especially as far as what
+- [811:14:40] Google does, right? Because
+- [811:49:20] you know, with AI overviews and with AI
+- [812:28:00] mode and with Gemini, the name of the
+- [813:11:20] game, like you said, is that it's so
+- [813:38:40] frictionless because there are no ads or
+- [814:09:20] there's very few ads right now. Of
+- [814:39:20] course, they started to roll out ads,
+- [815:02:00] but they're pretty limited still. And
+- [815:32:40] they're certainly not disruptive. You
+- [815:54:00] know, they haven't rolled out ads in a
+- [816:14:00] way where I would consider right now the
+- [816:45:20] current search results page is
+- [817:29:20] extraordinarily disruptive. It's never
+- [818:02:00] been more disruptive.
+- [818:32:00] You know, if people like me accidentally
+- [819:05:20] click on ads, that's when you know that
+- [819:41:20] they've designed the search results in a
+- [820:17:20] way to try to trick people into clicking
+- [820:42:00] on ads, right? And I To me, that's
+- [821:06:00] extremely disruptive and and deceptive
+- [821:43:20] and and highly annoying. But it's
+- [822:22:00] interesting to me that Google's landed
+- [822:48:00] in this place in 2026 where sponsored
+- [823:26:00] results have never been bigger. They
+- [823:47:20] take up half of the page. And presumably
+- [824:37:20] we're going to move towards AI mode
+- [825:12:00] where right now there's very few ads and
+- [825:48:00] certainly does not disrupt the
+- [826:06:40] experience. So, it's like how are they
+- [826:34:00] going to make as much revenue as they're
+- [827:16:00] making with the current search results
+- [827:50:00] with something like AI mode where
+- [828:19:20] there's almost no ads, right? It's like
+- [828:42:00] at the bottom of the page.
+- [829:13:20] Um how are they going to manage that?
+- [829:35:20] So, I think that'll be interesting to
+- [829:52:40] pay attention to. I think they probably
+- [830:25:20] have to land on some version of AI mode
+- [830:59:20] or web guide or whatever it is that's a
+- [831:30:40] mix of organic results with ads
+- [832:23:20] and AI features
+- [832:59:20] because they would lose all their
+- [833:29:20] revenue if they switch to the current
+- [833:56:40] version of AI mode for all users. So,
+- [834:42:40] keeping a close eye on that. With
+- [835:08:00] ChatGPT, I mean
+- [835:40:00] I thought it was not the best move for
+- [836:13:20] them. I understand why they had to do
+- [836:33:20] it, but it for me and for I think for
+- [837:09:20] many others kind of
+- [837:38:40] called into question a bit of the user
+- [838:14:40] experience when you're trying to have
+- [838:44:40] this like
+- [839:10:40] you know, personal conversation about
+- [839:46:00] your life or whatever it is people are
+- [840:12:00] using ChatGPT for and then there's like
+- [840:39:20] an ad for something at the bottom. It's
+- [841:06:40] not a great experience, but I understand
+- [841:36:00] why they had to do it. Uh, I did love
+- [842:18:40] Claude's Super Bowl ad where they're
+- [842:59:20] like, "We'll never do this." You know? I
+- [843:36:00] think that was a smart move. I think
+- [844:12:40] I think there's probably better ways to
+- [844:46:00] monetize AI than what I think OpenAI is
+- [845:26:00] currently doing.
+- [846:18:00] Do you feel like that this let's let's
+- [846:59:20] say cascade of events, so from ChatGPT
+- [847:56:40] launching ads, so uh, I don't know about
+- [848:40:40] the exact timeline right now, but
+- [849:09:20] ChatGPT launching ads, then Claude
+- [849:46:00] having this or Anthropic having this
+- [850:22:00] great Super Bowl ad, then Claude
+- [851:02:00] launching new models with Sonnet 4.6,
+- [851:55:20] uh, Opus 4.6, then Claude launching
+- [852:41:20] co-work, then this whole Department of
+- [853:38:00] Defense
+- [854:02:40] uh,
+- [854:16:40] deal
+- [854:40:00] topic and then what was the reason? No,
+- [855:39:20] I think this was the last thing in the
+- [856:16:00] timeline basically Do you Do you feel
+- [856:56:40] like [clears throat]
+- [857:11:20] this has basically created a perfect
+- [857:37:20] storm for Claude to um,
+- [858:47:20] have like the substantial growth in
+- [859:22:40] users they're currently seeing? So, I
+- [859:48:40] checked some similar web data and I
+- [860:18:40] think
+- [860:38:00] just for the web and so, um, desktop and
+- [861:19:20] mobile traffic, Claude AI obviously not
+- [861:59:20] counting in
+- [862:26:00] the desktop app usage, the mobile app
+- [863:01:20] usage, it has I think three-Xed over the
+- [863:52:40] last um 3 months, so from January to
+- [864:33:20] March. Do you feel like
+- [865:13:20] this is something that basically has
+- [866:16:40] been the inception moment for Claude for
+- [867:03:20] also consumer usage, for like the the
+- [867:45:20] the general public, so to say, from this
+- [868:40:40] rather professional background they were
+- [869:06:00] in before? Yeah.
+- [869:42:40] Yeah, I've seen the same. I'm working on
+- [870:04:00] a new presentation that has that same
+- [870:34:00] similar web data in it. Claude is
+- [870:58:00] exploding as expected in the last few
+- [871:29:20] months.
+- [871:44:40] Um myself, I've switched almost all my
+- [872:19:20] behavior to Claude in the last few
+- [872:42:00] months. Um I still use Gemini for like
+- [873:17:20] answers and stuff, but I think I'm not
+- [873:52:00] alone, and a lot of people have begun to
+- [874:27:20] incorporate Claude into their workflow,
+- [875:06:40] and I think they they were very smart
+- [875:49:20] and strategic in how they did this.
+- [876:29:20] I think that [clears throat] a lot of
+- [876:46:00] LLMs
+- [877:10:40] Excuse me.
+- [877:26:40] Um a lot of LLMs
+- [877:59:20] or like a lot of
+- [878:27:20] LLM usage, I think, is questionable in
+- [879:31:20] terms of like how people are using it
+- [879:54:00] and the types of answers that they're
+- [880:10:40] getting. And I think that over time,
+- [880:52:00] especially with ChatGPT, there's a lot
+- [881:24:40] of people sharing. I've seen a lot of
+- [881:44:00] viral videos this week and things where
+- [882:08:40] people are like very concerned about the
+- [882:42:00] answers that they're getting. You know,
+- [883:12:00] and I think one thing that I've always
+- [883:35:20] really respected about Claude compared
+- [884:06:40] to the others is it feels like there's a
+- [884:31:20] lot more guardrails in place to say what
+- [885:10:40] it can and can't do. And it also feels
+- [885:48:40] like Anthropic has really started to
+- [886:16:00] focus, obviously, on like enterprise,
+- [886:42:00] but also just on co-working and and
+- [887:20:00] code. Right? So, I think
+- [887:51:20] co-work and code are
+- [888:28:00] arguably like really, really new ways to
+- [889:13:20] improve your workflow, and I think
+- [889:55:20] they're kind of niching down into that.
+- [890:33:20] I think more and more people are finding
+- [890:54:40] use for the tools for that purpose.
+- [891:38:00] Whereas, trying to be the AI that does
+- [892:22:00] everything or answers all the questions,
+- [893:06:40] ChatGPT keeps getting into trouble,
+- [893:34:40] right? Because they have all these
+- [894:04:00] lawsuits for like psychosis and suicides
+- [894:44:00] and all these things where it's like,
+- [895:12:00] maybe this isn't the best way to use
+- [895:44:00] {quote} AI or like language models for
+- [896:22:00] your being your personal therapist and
+- [896:50:40] being all these things, but like maybe
+- [897:22:40] the best thing with with large language
+- [897:53:20] models and agents and everything so far
+- [898:19:20] is the co-works and the claws and the
+- [898:50:00] coding and everything like that. So I
+- [899:12:00] think Anthropic was very smart to like
+- [899:48:00] kind of niche down into that and now I
+- [900:10:40] think we're trying to see we're seeing
+- [900:41:20] the Googles and and even OpenAI and
+- [901:29:20] everything are trying to invest a lot
+- [901:51:20] more into those products. Um but I think
+- [902:49:20] we'll see where things go, but
+- [903:16:00] personally I think Claude has done a
+- [903:53:20] better job of managing a lot of these
+- [904:43:20] these challenges and trying to have
+- [905:20:00] like, you know, the bill of rights and
+- [905:52:00] kind of this like mission for how to use
+- [906:25:20] AI more safely than its competitors.
+- [907:16:40] Yeah, I think they have this um AI
+- [907:57:20] constitution or something with
+- [908:34:40] constitution. I I I don't know 100% but
+- [909:32:00] yeah, very interesting perspective. Um
+- [910:19:20] ripping up the conversation a little bit
+- [910:49:20] here. We already talked about Google a
+- [911:18:00] lot and obviously Google is still
+- [912:04:00] um
+- [912:15:20] maybe to the surprise of some GEO gurus
+- [913:16:00] of proclaimed GEO gurus is still like
+- [914:06:40] super important for the whole space. I'd
+- [914:42:00] like to get your take on the different
+- [915:25:20] Google interfaces because if we're
+- [915:50:00] talking about Google right now 2026, we
+- [916:41:20] have basically classic Google search so
+- [917:22:40] to say with or without AI overviews. We
+- [918:03:20] have AI mode and then we have Gemini.
+- [918:46:00] Maybe we also have discover like the
+- [919:25:20] Google app. How do you see these
+- [920:04:40] different interfaces
+- [920:40:40] coming or not coming together over time
+- [921:24:00] into a more unified user experience?
+- [922:27:20] Yeah, I think it's really fragmented
+- [923:02:00] right now and disjointed and it's a bit
+- [923:58:40] weird, right? Cuz I think like
+- [924:36:40] it just feels like Google's doing so
+- [924:56:00] much on the AI front and it's not
+- [925:32:40] unified yet.
+- [925:56:40] So I think yes, I think it's going to
+- [926:21:20] kind of consolidate over time.
+- [927:00:00] Probably to something that's like one AI
+- [927:26:40] experience that might be like a mix of
+- [928:04:40] web guide
+- [928:26:00] and AI mode. Yeah, I think that they
+- [928:59:20] will bring Discover into the equation
+- [929:34:40] because they're trying to personalize AI
+- [930:10:00] a lot more and Discover is already
+- [930:50:40] highly personalized. So, I think we're
+- [931:23:20] going to see
+- [931:51:20] what Glenn Gabe is always referring to
+- [932:15:20] as like Jarvis with Star Trek, right?
+- [932:42:40] It's like this personalized computer
+- [933:24:40] that's kind of an assistant that you can
+- [933:50:40] talk to about anything in your life.
+- [934:32:40] And I think that like probably Discover
+- [935:09:20] will feed into that as like these are
+- [935:40:00] the articles and content pieces that we
+- [936:22:40] think will be relevant for you
+- [936:40:40] day-to-day.
+- [937:00:40] Okay. Cool. Awesome. Um
+- [938:04:40] I have a final question. I always ask
+- [938:42:40] this and it always uh brings um
+- [939:48:00] um interesting final thoughts to the
+- [940:19:20] table. So, it is what didn't we talk
+- [941:14:00] about that we should have talked about?
+- [941:47:20] So, what did I miss as the host of this
+- [942:46:00] podcast?
+- [943:25:20] Yeah, I think um
+- [943:50:40] I think the main thing to note is like
+- [944:43:20] just this the this amount of change and
+- [945:39:20] how rapidly things are changing in this
+- [946:10:00] space. I think one thing that people get
+- [946:53:20] wrong
+- [947:13:20] is they think that they understand
+- [947:50:00] whether it's GEO or AI search because
+- [948:29:20] they understand one version of it and it
+- [949:04:00] changes literally every day. [laughter]
+- [949:38:40] These models change all the time. The
+- [950:12:00] ways that these companies are updating
+- [950:46:40] their systems changes all the time and I
+- [951:22:40] think that a lot of people are trying to
+- [951:54:40] position themselves as experts and I
+- [952:26:40] think the best thing you can do right
+- [952:47:20] now is to say we are all still learning,
+- [953:20:00] everyone, all of us.
+- [953:47:20] Um even the people that work at large
+- [954:14:00] language model companies claim that they
+- [954:42:40] don't know how they work.
+- [955:18:00] So, don't claim that you know 100% how
+- [955:48:40] they work because you you don't. So, I
+- [956:16:00] think a little bit of humil- humility
+- [956:51:20] and a lot of exploration and honesty
+- [957:40:00] about that this is a moving target, it's
+- [958:19:20] changing every day and trying to focus
+- [959:01:20] on the things that I always say this,
+- [959:43:20] the things that search engines can't
+- [960:14:00] take away from you, right? If you are a
+- [960:55:20] business that's putting out original
+- [961:20:40] research, original ideas, thought
+- [961:58:40] leadership, original data,
+- [962:42:40] they're not going to take that away from
+- [963:05:20] you. That's something that you own,
+- [963:27:20] right? But if you are living on rented
+- [964:06:00] land where you have, you know, a piece
+- [964:53:20] of content that's ranking really well
+- [965:16:00] for a month or whatever, like that can
+- [965:47:20] be taken away at any any given moment.
+- [966:13:20] So, I think invest in the things that
+- [966:42:40] are yours, that are proprietary, that
+- [967:18:40] build a good brand and build a good
+- [967:40:00] reputation because I think over time
+- [968:15:20] we'll see that those are the types of
+- [968:40:00] approaches that win long-term.
+- [969:14:40] Thanks so much.
+- [969:38:00] Lilly, it has been super insightful
+- [970:05:20] conversation.
+- [970:28:00] Um thanks so much for taking the time in
+- [970:52:40] your busy schedule. It's highly
+- [971:15:20] appreciated by me and also by all uh
+- [972:04:40] listeners and viewers. Um
+- [972:46:00] we'll put
+- [973:10:00] uh
+- [973:22:40] all of the links um possible in the
+- [974:04:00] description below. So, to your LinkedIn,
+- [974:42:40] Substack,
+- [975:14:40] to the Algorithmic page, and also to
+- [975:54:40] that spreadsheet uh where I completely
+- [976:32:00] forgot now what this is about, but I
+- [977:04:40] remember spreadsheet description
+- [977:44:00] in my head. Um
+- [978:14:40] what's the best place for people to
+- [978:46:40] follow? What would you say? Is it
+- [979:06:40] LinkedIn or is it the Substack?
+- [979:50:40] Yeah, I like to tell people just Google
+- [980:16:40] my name and then pick whatever platform
+- [980:43:20] they like to follow people on.
+- [981:15:20] >> Nice. Yeah, there's options.
+- [982:19:20] That's an SEO power move.
+- [982:58:00] Just Google my name and just pick what
+- [983:29:20] comes up.
+- [983:47:05] >> [laughter]
+- [984:00:00] >> So cool. Lilly, thanks so much for
+- [984:28:00] taking the time. All the best to you and
+- [985:10:40] all the success for your new
+- [986:10:40] entrepreneurial journey, and
+- [986:55:20] much appreciated.
+- [987:26:00] Bye-bye.
+- [987:29:20] >> Thanks for having me.
+- [987:40:00] >> Bye-bye. Bye.

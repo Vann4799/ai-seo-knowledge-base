@@ -1,0 +1,1248 @@
+﻿---
+title: "SEO Is Bigger Than Google Now. Hereâ€™s the New Playbook"
+expert: "Nathan Gotch"
+video_id: "lkFA-aBN_LM"
+video_url: "https://www.youtube.com/watch?v=lkFA-aBN_LM"
+channel: ""
+published_at: ""
+language: "en"
+---
+
+# SEO Is Bigger Than Google Now. Hereâ€™s the New Playbook
+
+- Expert: Nathan Gotch
+- Source: https://www.youtube.com/watch?v=lkFA-aBN_LM
+- Notes: AI-era search playbook and search everywhere optimization.
+
+## Transcript
+
+- [00:01] So what is SEO in 2026? Well, it's
+- [01:06] getting very confusing because you have
+- [01:35] all kind of definitions floating around.
+- [02:10] We have SEO, we have AI SEO, we have
+- [03:17] search engine optimization verse search
+- [04:10] everywhere optimization. Then you throw
+- [04:50] in the new acronyms. You've got answer
+- [05:21] engine optimization, AEO. You've got
+- [06:04] generative engine optimization,
+- [06:46] GEO. Okay? And so it's just getting
+- [07:29] absolutely crazy at this point. So, in
+- [08:22] this video, I'm going to bring this all
+- [08:53] together and show you what SEO actually
+- [09:42] is in 2026, all of the different
+- [10:25] components, so you can truly understand
+- [10:54] how to get results, not just in
+- [11:42] traditional search, but also on these AI
+- [12:27] platforms. And so, my name is Nathan
+- [13:01] Gotch. I've been doing SEO for over a
+- [13:40] decade, and I've led hundreds of
+- [14:01] successful SEO campaigns in legal,
+- [14:56] health, B2B, SAS, you name it. I've seen
+- [15:41] pretty much every scenario that you can
+- [16:09] think of. And I also run two SEO
+- [17:12] companies and that are heavily driven by
+- [17:49] AI. So I have rankability and I also
+- [18:29] have search OS. And just if you need to
+- [19:30] see other proof that I'm not just some
+- [19:57] random guy talking on YouTube. You can
+- [20:33] go to Amazon. You can see I'm the author
+- [21:09] of one of the bestselling books on how
+- [21:35] to start an SEO business. And I'm also
+- [22:14] the upcoming author of AI SEO for
+- [23:05] Dummies. Okay. So I eat, breathe, and
+- [23:54] sleep SEO and AI search and AI in
+- [24:55] general. Using AI in every single thing
+- [25:33] that I do. Okay. So let's talk about it.
+- [26:18] So SEO in 2026. Let's begin with the
+- [27:25] simple part here is uh the
+- [28:08] opportunities. Okay. Let's just start
+- [28:34] with the opportunities. So when it comes
+- [29:13] to SEO, my true definition of SEO is
+- [30:13] search everywhere optimization. Okay?
+- [30:57] Because it is truly the broadest
+- [31:25] umbrella that properly defines what
+- [32:13] we're doing. So, I'm going to give you a
+- [32:46] couple example of this. So, let's begin
+- [33:08] with the most obvious part of SEO, which
+- [33:52] is we're going to go ahead and I'm just
+- [34:24] going to fill this out as we go. So,
+- [34:48] traditional search. Okay. So, what is
+- [35:38] traditional search? Well, it is Google,
+- [36:58] Bing Duck.Go
+- [38:14] Yahoo,
+- [38:40] and Brave. Okay. Okay. And there's some
+- [39:07] others we could throw in there, too. But
+- [39:36] essentially, a traditional search
+- [40:06] engine, what everyone knows, you got the
+- [40:38] 10 blue links. It's just an index of web
+- [41:32] pages. Okay, this still matters, but not
+- [42:29] the way that you might think. Okay, so
+- [43:01] number one is
+- [43:34] yes, you can still get traffic. Okay,
+- [44:06] you can still get traffic through this.
+- [44:38] It's just decreasing every single day
+- [45:12] because of organic CTRs getting more
+- [46:01] challenging to come by. Okay? Because
+- [46:34] there's so many other things that are
+- [47:00] going on now in in the SERs. So, but
+- [47:58] traditionally, you would rank for, you
+- [48:45] know, rank your web page or your website
+- [49:22] and you would drive clicks uh through
+- [50:02] this traditional index. Now, what I'm
+- [50:40] going to be showing you here in a second
+- [50:56] is this still matters, but the reason
+- [51:33] why it matters is because it actually is
+- [52:05] the fuel for the AI platforms. Okay? So,
+- [53:16] let's talk about that. So, we've got our
+- [53:38] opportunities, we got our traditional
+- [53:55] search. Next, we're going to talk about
+- [54:29] AI. Okay, so what is AI? And
+- [55:17] specifically, let's get more
+- [55:44] specifically here, AI search. Okay, so
+- [56:25] there's two components of AI search.
+- [57:09] Number one is the static corpus. Okay.
+- [58:28] And what this means is that when a when
+- [59:25] you go into chat GBT and you search
+- [60:05] something like what is the moon and chat
+- [60:45] GBT just responds to you without going
+- [61:24] and doing any research on the internet.
+- [61:54] It's pulling from its static corpus. In
+- [62:33] other words, it's pulling from its
+- [62:56] existing knowledge, right? It's existing
+- [63:28] knowledge, it's existing training data
+- [64:07] and it's giving you an answer. Okay? As
+- [65:00] an AI SEO expert, you need to know that
+- [66:01] you want to influence the static corpus,
+- [66:49] which is that initial training data. And
+- [67:29] you also want to influence, which I'll
+- [68:04] show you here in a second, is any
+- [68:29] answers that are derived from web
+- [69:07] search. Okay. Now, on this front here,
+- [69:45] this what's interesting about static
+- [70:10] corpus is there's a training cutoff
+- [71:22] date. Okay. So, GPT 5.4 four just came
+- [72:28] out and it there's a training date. So
+- [73:18] as soon as that date hits when it
+- [73:53] ingests all of this information, you
+- [74:32] can't influence this anymore. So if the
+- [75:09] training date was 6 months ago, whatever
+- [75:42] you got in prior to that point is going
+- [76:22] to be baked into the static corpus.
+- [77:04] Anything after that, it's invisible.
+- [77:45] It's invisible to the AI models. So I
+- [78:36] don't know if this is always going to be
+- [78:58] the case, but for now, this is the case.
+- [79:36] This is how it works. So they go through
+- [79:57] these big training cycles. they train
+- [80:30] the model, they they cut off the model
+- [81:12] from any new training data and then they
+- [81:52] release that model, right? And so it's
+- [82:17] kind of you're whenever you're working
+- [82:46] with any model, you're technically
+- [83:32] looking maybe three potentially even 6
+- [84:20] months in the past. Okay? Now, how have
+- [85:09] AI platforms overcome this? Well, you
+- [85:56] know, if you if you need up-to-date
+- [86:21] information about anything, you need to
+- [87:11] ultimately go to the internet, right?
+- [87:38] Because search engines are the most
+- [88:13] up-to-date source for information. So
+- [89:13] these AI platforms, they realize that
+- [89:50] the best way to stay upto-date and not
+- [90:18] just be feeding outdated information to
+- [91:05] users, they've added the web search
+- [91:53] component. Okay. Now, web search, this
+- [92:44] is also known as RAG, which is retrieval
+- [93:25] augmented generation. super geeky term,
+- [94:16] but in essence, what's going on here is
+- [94:54] when you when you search something like,
+- [95:24] you know, uh, what are the best baseball
+- [96:04] cleat right now in 2026,
+- [96:57] ChatGBT is not just going to give you
+- [97:28] that answer, right? It's going to go to
+- [98:02] the web. It's going to look for
+- [98:37] opportunities to enhance that answer,
+- [99:22] get more accuracy, and deliver an
+- [100:05:20] accurate, up-to-date response to the
+- [100:34:40] user. Okay. Now, here's where SEO comes
+- [101:16:00] in. Come to find out, one of the top
+- [102:09:19] sources of retrieval where they go and
+- [102:44:00] get information happens to be search. So
+- [103:44:00] watch this. This is the crazy part. You
+- [104:20:00] go like this. And this is going to get
+- [104:49:20] really messy super fast, but I just want
+- [105:17:19] to show you for demonstration. Okay,
+- [105:58:40] this is actually all interconnected.
+- [106:33:20] Okay, you can see that web search is
+- [107:08:00] actually traditional search. And that's
+- [107:51:59] why I'm telling you that traditional
+- [108:14:40] search is still critical. If you want to
+- [108:48:00] be able to influence the output from
+- [109:31:59] these AI search platforms, if you want
+- [110:04:00] to be able to bake in your brand into
+- [110:42:40] those answers, you got to do well in
+- [111:21:20] traditional search. This has not gone
+- [111:49:20] anywhere. You still have to do this.
+- [112:28:00] Okay. So, those are kind of like key
+- [113:08:00] components you need to be thinking
+- [113:29:20] about. Now, when it comes to AI search,
+- [114:09:20] what what is it? What are the platforms
+- [114:37:19] that actually matter? Okay. So, first we
+- [115:31:59] can talk about Google because Google is
+- [116:11:59] the, you know, the most popular
+- [116:44:00] traditional search engine, but it also
+- [117:08:00] has multiple AI products that you need
+- [117:49:20] to be paying attention to. And no, they
+- [118:18:39] are not the same. Every single AI
+- [119:00:00] product that Google has doesn't exactly
+- [119:45:20] produce the same outcome. And that's
+- [120:12:00] because AI in general, when it gives you
+- [121:01:20] an answer, it's it's a non-deterministic
+- [121:40:00] answer. It's very difficult to get AI to
+- [122:20:00] give you the same exact answer across
+- [122:50:40] multiple platforms. it just really does
+- [123:22:40] not happen. It's basically impossible.
+- [124:01:19] So for Google, it's got multiple AI
+- [124:37:19] products we need to be thinking about.
+- [124:58:39] So we have AI overviews and these are
+- [125:46:40] what you see when you're in traditional
+- [126:10:40] Google search, right? So if we we just
+- [126:37:20] run a real quick one, you know, what are
+- [127:02:40] the best
+- [127:30:39] baseball cleat or best? Yeah, that's a
+- [128:18:39] good one. Let's do that. Autosuggest. So
+- [128:53:20] you can see here AI overview. This is
+- [129:40:00] this is what pops up directly in the
+- [130:13:20] SERs. Okay. And you can see it's very
+- [131:02:39] disruptive to the traditional SERFs,
+- [131:35:59] right? We see it. It completely
+- [132:04:00] dominates it. It like just pushes
+- [132:37:20] everything below the fold. Okay? So,
+- [133:15:59] this is a critical AI product that we
+- [134:05:20] need to be paying attention to. Now,
+- [134:40:00] Google's Google is is uh technology is
+- [135:57:20] being used in the underlying layer
+- [136:32:00] across all their AI products. It's still
+- [136:56:00] Gemini, but it's just the way that these
+- [137:32:00] are structured. The uh citations that
+- [138:10:40] they use is never exactly the same. And
+- [138:46:39] I'll show you how to, you know, how to
+- [139:13:19] track this, but this is critical. So AI
+- [140:04:00] product number one, if you're selling
+- [140:40:00] baseball cards, you need to be here,
+- [141:14:39] okay? You want to be in the AI answer,
+- [141:46:40] but you also want to be one of the
+- [142:10:40] citations. And in addition to being one
+- [142:50:40] of the citations, you also want your
+- [143:33:20] brand to be cited on the other citations
+- [144:19:59] as much as possible. Okay, so going back
+- [145:11:59] to this. So we have AI overviews. All
+- [145:57:20] right. Next one is Google AI mode. Okay,
+- [147:09:20] I don't need to put Google twice because
+- [147:34:39] we know what we're talking about here.
+- [148:01:20] All right, so we'll go to AI mode once
+- [148:30:40] again. You're in here, you're on Google,
+- [149:01:20] you click on AI mode, boom, you're going
+- [149:45:20] to get a slightly different answer than
+- [150:28:00] what you just got in the AI overviews.
+- [151:01:20] Okay, and we can even see just based on
+- [151:38:40] my memory here, uh, the citation sources
+- [152:24:00] are even different in this initial run
+- [152:52:00] here. Okay, so we're seeing that we've
+- [153:18:40] got a different set of citations,
+- [153:57:20] different set of retrieval sources and
+- [154:46:40] even the answer itself is slightly
+- [155:28:00] different. Okay, so these are not the
+- [155:56:00] same and we know this because in
+- [156:22:39] rankability we track this. We track uh
+- [157:04:00] performance in AI mode and we track
+- [157:38:39] performance in AI overviews and you
+- [158:10:40] don't always see the same stuff. And
+- [158:37:20] then the third Google AI product that
+- [159:13:20] you need to know about is Google Gemini.
+- [159:45:20] So there are searches being conducted
+- [160:15:59] here all the time. They're just probably
+- [160:54:39] a little bit different. They're probably
+- [161:13:19] a little more context. They're uh not,
+- [162:00:00] you know, kind of these short queries
+- [162:29:19] are probably much longer queries in
+- [162:57:20] here, but still there is still search
+- [163:41:19] demand occurring on Gemini. So, we're
+- [164:25:20] going to go back over here. And so, we
+- [164:57:19] have just in Google alone, we have AI
+- [165:41:20] overviews, we have AI mode, and we have
+- [166:21:20] Gemini. Okay. Now, aside from that, the
+- [167:04:00] the next biggest AI platform you need to
+- [167:45:20] pay attention to goes without saying,
+- [168:20:00] which is Chat GBT. Okay. We know that
+- [168:52:00] chat has this is over you know last time
+- [169:32:00] they reported this I think it's 700
+- [170:13:20] million weekly active users so it's
+- [170:53:20] probably much more than that now um and
+- [171:29:20] it continues to grow so of the AI
+- [172:08:00] platform specifically if you exclude
+- [172:40:00] traditional search chat GBT has I think
+- [173:29:20] the last report was that they have over
+- [174:01:20] 50% of the market okay so it's a lot
+- [174:46:40] right they're huge so we have to be
+- [175:09:20] paying attention we have to be tracking
+- [175:41:20] our performance on these critical
+- [176:20:00] platforms now let's talk about some of
+- [176:52:00] the other platforms that are also
+- [177:29:19] important just not as important as these
+- [178:22:40] two bigger monsters here. So we'll go
+- [179:01:20] and talk about we have uh aside from
+- [179:44:00] that we have claude which is growing
+- [180:17:20] very fast which is through anthropic the
+- [180:52:00] company a lot of people are using claude
+- [181:40:00] um for you know co-work and uh all of
+- [182:36:00] the different functions that claude has
+- [183:13:20] so you need to pay attention to it okay
+- [183:49:20] we also have perplexity also a very
+- [184:40:00] popular search engine uh AI search
+- [185:25:19] engine but just not as big as these
+- [186:02:40] other ones okay we also have Gro lots of
+- [186:42:40] people use Grock and Grock is unique
+- [187:13:20] because it is uh heavily fueled by X. So
+- [188:22:40] a lot of the retrieval sources are
+- [188:56:00] actually X. So it makes it unique in
+- [189:29:20] that way. Okay. And then we have you
+- [189:56:00] know Microsoft Copilot which is also a
+- [190:45:20] big one if you're a big Microsoft user.
+- [191:25:20] Um and then that's those are like
+- [192:13:20] probably the core ones I'd be paying
+- [192:36:00] attention. Of course you can throw in
+- [192:57:20] like DeepSeek and so on and so forth.
+- [193:48:00] Okay. So there's a a significant amount
+- [194:33:19] of platforms we need to be thinking
+- [194:58:40] about and these are all the AIdriven
+- [195:33:20] platforms that we need to be paying
+- [195:54:39] attention to. Okay. So as you can tell
+- [196:33:20] SEO is uh much more than just this. It
+- [197:26:40] used to be just this but now when you
+- [197:57:20] add in all these other opportunities you
+- [198:35:59] start to see that this is much more than
+- [199:17:20] just uh traditional SEO. Okay. Now
+- [200:12:00] there's more though. We're just getting
+- [200:41:20] started. That's those are just those
+- [201:12:00] opportunities. Don't worry, this is not
+- [201:57:20] as complicated as it might seem right
+- [202:26:40] now, okay? Because a lot of these
+- [203:00:00] platforms here, they're they basically
+- [203:40:00] function the same way, okay? You're not
+- [204:13:20] they're not like, you know, each one is
+- [204:45:20] different. They all just copy each
+- [205:05:20] other. So, that's the good news. They
+- [205:26:40] just copy each other. So, the the
+- [206:00:00] optimization process is quite similar
+- [206:40:00] across most of the platforms. You're not
+- [207:04:00] going to you're going to see it's it
+- [207:29:19] produces different outcomes, different
+- [207:52:00] answers, different citations. Yes, it's
+- [208:22:40] all different cuz just the way that it's
+- [208:57:20] composed in these AI answers, but you'll
+- [209:45:20] see it's not that wildly different.
+- [210:25:19] Okay. All right. So, the next one here
+- [210:58:39] we want to definitely be focused on is
+- [211:45:20] local. Okay. And when it comes to local,
+- [212:34:39] it's pretty much Google all day. Okay.
+- [213:10:40] Google dominates local queries. It's not
+- [213:54:39] even close. Uh it is definitely the
+- [214:37:19] number one platform for local queries.
+- [215:05:20] And when it comes to local queries, it's
+- [215:42:40] quite simple. It's the Google business
+- [216:09:20] profile. Okay, the Google business
+- [216:34:40] profile is the center of local
+- [217:40:00] performance on Google. And it's not just
+- [218:17:19] that uh for traditional, you know, the
+- [218:53:20] local pack, which we know you need
+- [219:21:20] Google business profile to show up
+- [219:42:39] there. We've got the local pack, which
+- [220:05:20] is critical, but how you perform in the
+- [220:52:00] local pack also dictates how you perform
+- [221:46:39] in uh Google's AI mode. So very very
+- [222:49:20] important when people are conducting uh
+- [223:42:40] uh local queries
+- [224:22:40] with commercial intent. Okay. So that
+- [225:13:20] would be something like you know we'll
+- [225:50:40] do an example might be like you know
+- [226:30:40] who's the best plumber
+- [227:45:20] near me. Okay. And AI mode is very good
+- [228:35:59] at knowing your location. So you
+- [228:59:59] wouldn't even need to add that localiz.
+- [229:33:19] You wouldn't need to add that modifier
+- [229:58:40] in there. It would probably still give
+- [230:24:00] you a pretty good answer. But if you
+- [230:46:40] wanted a better answer, you'd say, you
+- [231:14:40] know, who's the best plumber in, you
+- [231:53:20] know, Chesterfield, right? That would
+- [232:23:59] obviously produce a better result, a
+- [233:02:39] more relevant result because AI mode is
+- [233:41:19] not going to be 100% accurate. Now, what
+- [234:08:00] it does though is when it conducts when
+- [234:44:00] it goes through this process, um I'm
+- [235:32:00] getting a little OCD here, so I need to
+- [236:06:40] make the padding more. Um, so when it
+- [236:46:39] goes through this process, runs this
+- [237:09:20] query, and it gives an answer. Okay.
+- [237:45:20] What it actually is going to do is it's
+- [238:21:19] going to go actually and look in local
+- [239:09:19] search and it's look specifically at
+- [239:57:19] what businesses are showing up in the
+- [240:38:40] local pack. Okay? And so when it
+- [241:16:00] produces that answer,
+- [242:06:40] it's going to show it's going to show
+- [242:50:40] businesses, right? You're going to see
+- [243:16:00] businesses popping up in that answer,
+- [243:48:00] but they're derived directly from the
+- [244:16:00] local pack. Okay? So you can see how
+- [244:38:40] this all kind of works together, right?
+- [245:05:20] Okay. And so we can even just I'll just
+- [245:30:39] run a real quick test so you can see
+- [245:53:19] this. So we'll look at uh who's the best
+- [246:58:40] plumber in Chesterfield, Missouri. Okay.
+- [248:17:19] And of course, Google can't give you
+- [248:42:40] that exact answer because it can't just
+- [249:20:00] choose one. But you can see here in AI
+- [250:28:00] overviews, you'll see that the the
+- [251:12:00] answers that are derived here are
+- [251:42:40] different than the answers that will be
+- [252:06:40] derived in AI mode. So in AI in AI
+- [253:07:59] overviews you'll see that it's actually
+- [253:46:40] pulling from a lot of uh websites. Okay.
+- [254:40:00] So Angie's Angie's List, Yelp, even a
+- [255:38:40] actual business in that location. Okay.
+- [256:12:00] So this shows that traditional search is
+- [256:49:20] critical and also being on these other
+- [257:30:40] thirdparty platforms is critical if you
+- [258:06:39] want to influence the AI overview. Okay.
+- [258:50:39] But then we go over to AI mode and this
+- [259:21:20] is where things will get a lot different
+- [259:50:40] because more than likely what we'll see
+- [260:14:40] here is it's going to pull it will pull
+- [260:45:20] from those sources again. But then
+- [261:16:00] you'll see it actually is going to show
+- [261:38:40] Google business profiles in here. Okay.
+- [262:14:39] And these are based on our data we've
+- [263:02:39] seen that these are usually just the
+- [263:30:39] businesses that perform well in local
+- [263:59:59] pack. It's it's literally that simple.
+- [264:36:00] Like the business that perform well in
+- [264:55:59] the local pack here uh or perform the
+- [265:36:00] local pack perform well in Google AI
+- [266:20:00] mode. Okay. So if you want better
+- [266:55:59] performance in Google AI mode, you need
+- [267:30:40] to do well in the local pack. That is
+- [268:02:39] the leading uh opportunity there. Okay.
+- [269:06:40] And in addition to the traditional
+- [269:38:40] search as well. Okay. All right. And
+- [270:24:00] then when it comes to the other AI
+- [271:03:59] platforms, this is where things get a
+- [271:40:00] little interesting is we'll say non-
+- [272:23:59] Googlele. So non- Googlele platforms,
+- [273:52:00] they are much more heavily driven by the
+- [274:42:39] third-party platforms. So when you go
+- [275:28:00] into chat GBT and we do the same exact,
+- [276:07:59] we'll run the same exact query in chat
+- [276:58:40] GBT and we'll use 5.4. So uh who's the
+- [278:18:40] best plumber in Chesterfield, Missouri
+- [278:59:59] right now. All right. So, we're going to
+- [279:32:00] run this and you'll it more than likely
+- [280:06:39] is going to go and trigger a web search
+- [280:43:59] or do retrieval. So, you'll see when it
+- [281:26:39] does this thinking here, this means it's
+- [281:53:20] going and doing research. Okay? So,
+- [282:25:20] you'll see here it it's actually going
+- [283:02:39] to kind of uh dictate what it's doing,
+- [283:48:00] but it's going to go and do the do the
+- [284:18:39] research. And what you're going to find
+- [284:38:40] here is it's not just going to be
+- [285:04:00] searching. It's not going to search
+- [285:29:20] Google, right? It's going to search
+- [285:49:19] Angie. It's going to search Yelp. uh
+- [286:23:59] it's going to go to tra it's going to go
+- [286:46:40] to search engines more than likely Bing.
+- [287:40:00] Um but you'll see a lot of this stuff is
+- [288:13:20] going to be very similar to what you'll
+- [288:33:19] see in the traditional search results.
+- [289:09:19] So but you see it went directly to
+- [289:35:59] Angie. So that was probably a direct
+- [290:05:19] retrieval. This was not it going to
+- [290:45:20] search. So this is important to
+- [291:13:20] understand that it's not always going to
+- [291:58:40] search engines, right? Sometimes it is
+- [292:33:20] going direct uh direct retrieval, right?
+- [293:26:40] So we can see now the retrieval sources
+- [294:00:00] here. This is where the magic happens
+- [294:28:00] because if you want to be a brand that
+- [295:06:40] pops up in this AI answer, you need to
+- [296:09:20] be in these retrieval sources. So, the
+- [296:46:40] good news is you just you just look at
+- [297:28:00] all these retrieval sources and see is
+- [298:08:00] our brand actually here. Like, are we
+- [298:44:00] listed on these retrieval sources? Yes
+- [299:14:40] or no? It's simple as that. And if the
+- [299:39:59] answer is no, that's the work that you
+- [300:10:40] have to do. You go in here, you start,
+- [300:49:20] you build a profile there, you optimize
+- [301:21:20] your profile, you start driving reviews
+- [301:48:00] on Angie, Better Business Bureau,
+- [302:24:00] whatever's showing up in these
+- [302:44:00] citations. This is the work, right? This
+- [303:26:40] is where you need to go and and take
+- [303:50:40] action there to to influence this
+- [304:39:59] answer. Remember, this answer is not a
+- [305:18:40] magical thing that occurs. It's just
+- [305:58:40] take it's doing research and then it's
+- [306:42:40] presenting an answer that it's
+- [307:10:40] attempting to be objective based on the
+- [307:41:19] research that it did. The AI does not
+- [308:13:20] know who's the best plumber. All it's
+- [308:53:20] doing is getting that raw material and
+- [309:39:59] then it's able to produce
+- [310:20:00] at least it's attempting to produce
+- [310:45:20] something that's objective, right?
+- [311:13:20] That's what it's trying to do. Okay. So,
+- [311:45:20] for us, our goal to influence this is we
+- [312:33:20] have to be here. Okay? Simple as that.
+- [313:17:20] Okay. So, we're good. We've got local.
+- [313:51:59] And you're probably think, "All right,
+- [314:09:20] yeah, I guess we're good to go. That's
+- [314:28:00] SEO." Uh, well, no. There's actually
+- [315:29:20] more. So, let's continue down this way.
+- [316:15:59] So, we'll move this over here. This is
+- [316:52:00] getting out of control. All right. I'll
+- [317:18:40] put it like this. All right. So, the
+- [317:38:40] next one here. Um, oh, let's see. All
+- [318:44:00] right. Okay. So, the next one is
+- [319:34:40] actually e-commerce. So, obviously these
+- [320:13:19] are not going to be applicable to every
+- [320:34:40] industry, but we do have ecommerce
+- [321:17:20] search. Okay. And it within this bucket
+- [322:14:40] you have Amazon,
+- [322:52:00] Walmart Etsy
+- [323:44:00] uh, and even eBay. eBay's had quite the
+- [324:20:00] resurgence recently. So, you know, those
+- [325:04:00] are all platforms where you can prod you
+- [325:48:00] can actually do SEO on these platforms,
+- [326:41:20] right? You can do Amazon SEO, you can do
+- [327:22:39] Walmart SEO. This is why understanding
+- [328:03:59] SEO in general is so incredibly powerful
+- [328:54:40] because you can apply the same
+- [329:17:20] principles of relevance across any
+- [330:06:40] platform, right? Relevance is key. Okay?
+- [330:56:00] So, and even like, you know, I'll kind
+- [331:28:00] of give you a meta example here, but
+- [331:58:40] like right now, this video that I'm
+- [332:24:00] doing is going to be for the next
+- [332:54:40] opportunity, which we'll go ahead and
+- [333:28:00] click. Let's go this way. This is
+- [334:18:40] getting wild. One second here. Okay.
+- [334:57:20] Bring this over here. and we'll bring
+- [335:38:40] this one over here. Okay, so the next
+- [336:25:20] one here is actually going to be social.
+- [337:07:59] I I don't really like putting YouTube
+- [337:40:00] into social, but for the sake of this
+- [338:09:20] video, we'll just say that. Okay, so we
+- [338:41:20] have social search. All right, the
+- [339:06:39] number one social search, if you want to
+- [339:33:20] call it, is YouTube. Okay, it's not even
+- [340:04:00] close. YouTube is the second most
+- [340:26:40] popular website on the internet besides
+- [340:53:20] Google.com. So, it is a place that you
+- [341:45:20] need to be. And you need to understand
+- [342:28:00] SEO for YouTube specifically. And here's
+- [343:10:40] the good news about doing SEO across any
+- [343:44:00] platform. If you just understand that
+- [344:14:40] you need to create relevant content to
+- [344:54:39] your subject matter expertise and you
+- [345:37:20] need to consistently do that all the
+- [346:15:59] time to retain the uh topical relevance
+- [347:11:59] of your channel, of your Instagram
+- [347:44:00] profile, of whatever it is, that's the
+- [348:25:20] number one thing that's going to help
+- [348:42:40] you. Okay? So on YouTube, you want to
+- [349:25:19] pick a particular niche that you want to
+- [349:53:20] focus in on. Unless you're some sort of
+- [350:25:20] lifestyle blogger and you're trying to
+- [350:48:00] do that, okay, cool. But I'm talking
+- [351:10:40] specifically about B2B. If you're in
+- [351:52:00] B2B, you need to pick a niche. You need
+- [352:24:00] to specialize in that niche. And all of
+- [352:54:40] your content needs to focus on that for
+- [353:29:19] an extended amount of time. If you're
+- [354:08:00] going to be uh, you know, you're a SEO
+- [354:56:00] agency for chiropractors,
+- [355:33:20] all of your content should be about SEO
+- [356:14:40] for chiropractors. Like, and you
+- [356:48:00] shouldn't produce anything else until it
+- [357:26:39] is abundantly clear to the algorithms
+- [358:08:00] that that's what you do. Okay? And the
+- [358:45:20] there's this compound effect. the more
+- [359:12:00] that you focus in on that, the better it
+- [359:41:20] will do. And I'll give you a small
+- [360:08:00] example. Like on my channel, I've been
+- [360:49:20] talking about SEO on my channel since
+- [361:25:20] 2017. Okay? So, I have a lot of uh raw
+- [362:37:20] material to work with, but as soon as I
+- [363:18:39] talk about a topic that's aside from
+- [363:51:59] SEO, like let's say I go totally off the
+- [364:21:19] rails, I'm like, I'm going to do
+- [364:37:20] Facebook ads, you know, today. Um, it
+- [365:24:00] will probably do very poorly. Okay? very
+- [366:05:19] very poorly because the algorithms will
+- [366:40:00] be very confused why all of a sudden now
+- [367:13:20] I'm talking about Facebook ads right and
+- [367:52:00] it's not going to probably put that in
+- [368:17:20] the in front of the right audience
+- [368:44:00] because I've established that my focus
+- [369:29:19] on my channel is SEO AI search and so on
+- [370:18:40] and so forth okay so anything directly
+- [370:53:20] related to SEO so that's a it's an
+- [371:38:39] advantage for performance it's a
+- [372:05:20] disadvantage if you want to expand
+- [372:30:39] outside of that niche okay so but it's
+- [373:12:00] not impossible either by the way if you
+- [373:40:00] want to expand into a a an adjacent
+- [374:21:19] vertical or adjacent niche. Um, you
+- [375:04:00] would just need to produce a similar
+- [375:37:20] volume of content around that one topic
+- [376:32:00] to retrain the algorithms, right? So,
+- [377:14:40] but you can't just do kind of one-off
+- [377:41:19] stuff. It's not really going to do
+- [378:02:40] anything. All right? So, YouTube is
+- [378:38:40] absolutely huge. And in addition to
+- [379:24:00] YouTube, you should be thinking about
+- [379:50:40] search across all of these other
+- [380:26:40] platforms. So, you know, LinkedIn
+- [381:01:19] obviously being optimized there. You got
+- [381:32:00] X, you've got Pinterest, you've got
+- [382:11:59] obviously Tik Tok, you've got Instagram,
+- [382:57:20] you've got Facebook, and so on and so
+- [383:25:20] forth. Okay, this is all the social
+- [383:49:20] search. So, and there's this is like
+- [384:39:59] this is probably 95% of search, like all
+- [385:27:59] the stuff I just mentioned, but you also
+- [386:06:40] have like, you know, app store
+- [386:32:00] optimization and other stuff like that.
+- [387:04:00] But those are all going to be case-byase
+- [387:36:00] basis for most businesses. is you're
+- [388:09:20] going to be, you know, the the core ones
+- [388:36:00] that really matter for every business,
+- [389:09:20] not just, you know, not just uh specific
+- [389:57:20] use cases. Obviously, traditional search
+- [390:31:59] because we know this fuels, this is the
+- [391:17:20] fuel. Um, let's see if I can turn this
+- [392:07:59] to a different color. This is the fuel
+- [392:44:00] for AI platforms. So, doing well here is
+- [393:36:00] critical. AI search goes without saying,
+- [394:33:20] every business needs to be thinking
+- [395:10:40] about AI search. every single business.
+- [395:54:40] It does not matter what you do. It
+- [396:29:20] matters for every business. So these two
+- [397:07:59] are universal for every business.
+- [397:37:20] Traditional search and AI search goes
+- [398:13:20] without saying. Okay. Then you just pop
+- [398:47:59] in, you know, your specific vertical use
+- [399:25:19] case. Okay. So those are the
+- [400:00:00] opportunities and as you can tell SEO is
+- [400:45:20] much more than just ranking in blue
+- [401:29:20] links. Okay. And I think that's what's
+- [402:01:20] really important here is like if you're
+- [402:37:20] going to do well at SEO, if you're going
+- [403:07:59] to sell SEO to businesses, you're going
+- [403:46:40] to help businesses with SEO, uh you're
+- [404:21:19] going to try to do SEO yourself, this is
+- [404:58:39] the mindset you have to have. You're not
+- [405:24:00] just thinking, oh, I'm just running
+- [405:42:39] traditional search and everything's
+- [406:05:19] going to go well. Not necessarily. Okay,
+- [406:49:19] not necessarily. And I'll show you a
+- [407:13:20] quick example of this inside of
+- [407:37:20] Rankability. You'll see um this is best
+- [408:37:19] SEO content optimization tool. So very
+- [409:13:20] competitive keyword. Okay, you can see
+- [409:52:00] rankability absolutely crushes it in
+- [410:37:20] traditional search. Okay, I mean we're
+- [411:15:59] we could do better. Yes, there's always
+- [411:46:40] more room for improvement, but like it's
+- [412:24:00] doing really really well. Okay, but then
+- [413:06:40] you go to the AI answers and we're not
+- [413:45:20] number one, right? So, and then we've
+- [414:25:19] seen this repeated over and over and
+- [415:01:20] over. Just because you're doing well in
+- [415:37:20] traditional search for your one URL,
+- [416:26:40] that's not enough to influence every AI
+- [417:25:20] platform, right? because that's just one
+- [418:14:39] citation source, right? You're just one
+- [418:45:20] citation source among many. And as I
+- [419:17:20] just showed you in this example, there's
+- [419:57:20] many citation sources that happen. So,
+- [420:26:40] you need to be visible across all those
+- [421:04:00] citation sources. So, we see gaps here
+- [421:52:00] and these gaps are are opportunities.
+- [422:54:40] Okay, I see like, okay, we're not doing
+- [423:26:40] well in chat GBT. All right, so we click
+- [423:51:59] on Chat GBT and see, okay, well, why is
+- [424:28:00] that? Well, number one, you we're
+- [425:02:39] definitely not mentioned here. So, we
+- [425:26:40] got to go figure out what citations is
+- [426:12:00] chat GBT using, what retrieval sources
+- [426:48:00] is chat GBT using, then I'm going to go
+- [427:34:39] and make sure that our brand is present
+- [428:07:59] on those platforms, right? And so, you
+- [428:41:19] can go into the AI citations like this.
+- [429:08:00] And you can see, you know, once again,
+- [429:43:59] rankability has a lot of citation
+- [430:38:40] coverage, right? Across five different
+- [431:04:00] AI platforms, we're being cited. Okay?
+- [431:44:00] But once again, that's just one. That's
+- [432:26:39] just one one. So, we can see mentions.
+- [433:18:39] You can even see where you're mentioned
+- [433:42:40] in here, which is also helpful, right?
+- [434:08:00] We want to see what are the platforms
+- [434:32:00] where we actually are mentioned, but
+- [435:02:39] what are the ones where we're completely
+- [435:29:20] invisible, right? And so we see here we
+- [436:06:40] got Zapier, Marketer Milk, like all
+- [436:42:39] these different platforms where we
+- [437:18:40] absolutely would want to be a citation
+- [437:52:00] source. And if you filter through this,
+- [438:18:39] this is where it gets interesting. So
+- [438:54:40] we'll go to all and then we'll filter
+- [439:29:19] out. We know like like we know that chat
+- [439:57:20] GBT we're not doing well on. So, we just
+- [440:27:59] click on Chat GBT and we can see the
+- [441:00:00] core citation sources of Chat GBT. So,
+- [441:42:39] okay, cool. Tech Radar, I guess I need
+- [442:24:00] to be present there because they have
+- [442:46:40] three they're used three times as a
+- [443:30:40] citation source, right? So, I should be
+- [444:14:39] trying to figure out ways to get brand
+- [444:45:20] coverage on Tech Radar. Okay, this is
+- [445:35:59] all you have to do. You just find those
+- [446:02:40] gaps and then you go and try to figure
+- [446:52:00] out a strategy to get coverage on those
+- [447:29:20] those websites. Okay, this is why, you
+- [448:09:20] know, thinking about traditional link
+- [448:32:00] building is not really the way you
+- [448:49:20] should be thinking anymore. You should
+- [449:05:20] be thinking about, okay, no, my
+- [449:34:40] prospects are the prospects that are
+- [450:05:20] being used as a common source of
+- [450:44:00] retrieval and then you go and get your
+- [451:19:59] brand mentioned there. It doesn't matter
+- [451:44:00] whether it's a link or just a brand
+- [452:15:59] mention. You could literally have an
+- [452:38:40] unlin brand mention on this particular
+- [453:29:19] website and that still would influence
+- [453:57:20] AI platforms. Okay, the game has changed
+- [454:37:20] in that way. Okay. All right. So, going
+- [455:27:59] back to this, so we know the
+- [455:44:00] opportunities. we know we need to do.
+- [456:12:00] Now, what are a couple things uh as far
+- [457:02:40] as goals? So, we'll pull this over here.
+- [457:44:00] And so, there's kind of a couple goals
+- [458:21:20] that we need to be thinking about.
+- [458:47:59] Number one is we need to rank in
+- [459:52:00] traditional search with our own website.
+- [461:09:19] Goes without saying, okay, that has not
+- [461:36:00] changed. We should still be trying to do
+- [461:58:40] that. That's still very important
+- [462:26:39] because this is something we can
+- [462:57:20] control. We can actually produce
+- [463:30:40] content. We can try to attack many
+- [464:09:20] different queries, many different
+- [464:26:40] angles. Um, we we can just, you know,
+- [465:14:40] use our own website. Now, for our own
+- [465:39:59] website to rank well in traditional
+- [466:01:19] search, it's pretty simple, you know,
+- [466:46:39] really uh efficient technical SEO, good
+- [467:26:39] loading speed, mobile experience,
+- [468:01:20] security, all the stuff that's real
+- [468:28:00] basic stuff. Okay. But then aside from
+- [469:09:20] that, creating pages around our core
+- [469:56:00] subject matter expertise, right? Right?
+- [470:24:00] So just building as many pages of those
+- [470:49:20] as we can around our core expertise uh
+- [471:25:20] and filling in every gap that we can
+- [471:57:19] find and then back links. Okay, getting
+- [472:49:19] links from relevant highquality websites
+- [473:32:00] to your website is the most important
+- [474:13:20] ranking variable for traditional search.
+- [474:52:00] Okay, so we still want to rank our own
+- [475:26:40] website, but we also want to rank
+- [477:04:00] other properties outside of outside of
+- [478:12:00] our website. So, I'll just say outside
+- [478:45:20] of website. Now, I'll show you an
+- [479:35:59] example of this.
+- [480:20:00] We'll look up uh let's see, we'll go
+- [481:02:40] into here
+- [481:45:20] and we'll search something like
+- [482:34:39] um we'll just do a quick analysis. We'll
+- [483:06:40] do like best SEO tools. Okay. So, we'll
+- [484:18:40] run this. And what we're going to see
+- [485:04:00] here is, you know, you Yes. If you can
+- [485:53:20] get your one URL to rank, that's great.
+- [486:36:00] Okay, that's super good. But you'd also
+- [487:24:00] like to have rankings across other
+- [488:07:59] platforms. So, in particular, when it
+- [488:34:40] comes to Google, YouTube is incredibly
+- [489:13:20] powerful, right? YouTube is one of the
+- [489:45:20] best sources to uh to ultimately
+- [490:42:39] influence the AI platforms. YouTube is
+- [491:18:40] used quite a bit as a retrieval source.
+- [492:04:00] So, we we want to have a presence on
+- [492:40:00] YouTube. Okay? And so, like this video
+- [493:10:40] here that I'm currently doing, primary
+- [493:36:00] keyword of this video is what is SEO?
+- [494:22:40] So, I'm saying this very clearly in my
+- [494:53:20] script. The purpose of this video is to
+- [495:38:40] teach people what is SEO in 2026. Okay?
+- [496:23:59] So, when you say that in your video,
+- [497:09:20] it's actually the AI platforms use the
+- [497:52:00] transcription. So, that's why you want
+- [498:22:39] to be really clear about your videos,
+- [498:45:20] what you're actually what it's all
+- [499:05:20] about. If it's just kind of like
+- [499:35:59] meandering topics, you don't really know
+- [500:08:00] what it's about, it's going to be harder
+- [500:30:40] for that video to be placed not just on
+- [501:02:40] YouTube, but also in traditional Google
+- [501:44:00] search and also um the AI platforms will
+- [502:45:19] struggle, right? So, you don't want to
+- [503:06:40] have that. Now, when we look at this, a
+- [503:55:59] couple things I want to show you here.
+- [504:16:00] So, number one is like yes, you can rank
+- [505:00:00] in traditional search, but you can see
+- [505:31:59] there's a lot of other things we want to
+- [505:53:20] be thinking about is you want to also
+- [506:15:59] rank on YouTube. Okay? because this
+- [506:49:19] gives us an opportunity to actually show
+- [507:28:00] up in traditional search. If it's a
+- [508:05:20] wildly competitive keyword, right? If
+- [508:34:40] it's a wildly competitive keyword, you
+- [509:09:20] might have a better chance of ranking on
+- [509:42:40] YouTube than you do in traditional.
+- [510:10:40] Okay? Because you can see like you look
+- [510:42:39] at the strength of some of these
+- [511:01:19] websites, it's a lot, right? Like each
+- [511:37:20] of these websites, the domain score is
+- [512:09:20] very, very high. So, you'd have to be
+- [512:42:40] you'd have to really do something
+- [513:02:40] spectacular and and invest a significant
+- [513:40:00] amount of money into links just to show
+- [514:18:40] up, you know, the top three. And even if
+- [515:01:20] you show up in the top three, you're
+- [515:26:40] competing with so many other SER
+- [515:52:00] features. Okay? So, you want to be
+- [516:15:59] thinking about that. Um, but then we go
+- [516:48:00] into YouTube, you know, typically you
+- [517:18:40] might have a better chance of performing
+- [517:41:19] here, right? So, you can see like
+- [518:12:00] ranking number one in YouTube with a
+- [518:41:19] video that's over a year old. Okay? Now,
+- [519:14:39] in traditional search, you're probably
+- [519:41:20] not going to get away with having stuff
+- [520:17:19] that's a year old, right? It's probably
+- [520:49:20] not going to work as well. So, once
+- [521:29:20] again, what you want to be thinking
+- [521:53:19] about is how do we rank on platforms
+- [522:49:19] that are known to do very well in
+- [523:37:19] traditional search. Okay? So, that's the
+- [524:16:00] key. You don't just want to, oh, I'm
+- [524:39:59] just going to start creating content
+- [525:00:00] everywhere. Actually, that's not what
+- [525:25:20] you want to do. We want to carry really
+- [525:49:20] targeted content um on platforms that
+- [526:50:40] already have good SEO performance
+- [527:37:20] because we know that as I mentioned
+- [528:13:20] before traditional search is used quite
+- [528:58:40] a bit in retrieval. So some that I like
+- [529:42:40] to do uh will be YouTube is we know is
+- [530:42:39] very good for Google. Um we also have
+- [531:31:59] LinkedIn articles specifically.
+- [532:18:40] These rank really well. Um, and if we
+- [532:58:40] look up like even uh let's see like
+- [533:32:00] OpenClaw, let's see. I don't even know
+- [534:04:00] if this is ranking. Openclaw SEO. Okay.
+- [534:58:39] And we'll see if there's any LinkedIn
+- [535:27:59] post popping up here. Okay. So, you can
+- [535:53:20] see here right away there's a LinkedIn
+- [536:21:20] post popping up here. This is what I'm
+- [536:57:19] talking about, right? And like once
+- [537:21:20] again, another LinkedIn post. Actually,
+- [537:53:19] Instagram is actually popping up here,
+- [538:18:39] which is interesting. Um, go over here.
+- [539:02:39] Here's another one here uh from me.
+- [539:43:59] Another one actually from here from me
+- [540:16:00] from X. So we see X is starting to get
+- [540:52:00] better indexation as well and even
+- [541:31:59] Facebook. Okay. So you can see you can
+- [542:19:59] use these other platforms to your
+- [542:42:40] advantage, right? So we got, you know,
+- [543:09:20] LinkedIn articles, we've got X. Now I
+- [543:46:40] didn't actually think X would get
+- [544:06:39] indexed that well, but there it is. We
+- [544:41:20] got IG. So all these platforms that can
+- [545:24:00] that can help us because of their super
+- [546:04:00] powerful authority can help us drive a
+- [546:45:20] lot of visibility, you know, for for our
+- [547:22:39] business ultimately in search. And then
+- [547:46:40] of course I forgot the most obvious ones
+- [548:14:39] which is Reddit and Kora. Okay, these
+- [549:12:00] are critical as well. So this is what
+- [549:42:40] you want to be thinking is like I'm not
+- [550:06:39] just ranking our one URL. I rank our one
+- [551:08:00] URL. Then what I do is I immediately
+- [551:41:20] start go attacking these topics across
+- [552:24:00] these other platforms. Okay. To try to
+- [553:06:40] uh drive as much uh visibility in
+- [553:53:20] traditional search and and capture as
+- [554:26:40] much real estate as possible around the
+- [555:09:19] topics that really matter for us. Okay.
+- [555:49:20] So those are the two kind of critical
+- [556:17:20] pieces for you know the standard goals
+- [556:50:40] but then in addition to that the kind of
+- [557:13:20] lagging goal we're going for is to get
+- [558:13:20] um our brand mentioned
+- [559:01:20] in AI answers. Okay so um specifically
+- [560:34:40] for queries
+- [561:44:00] with commercial intent. Okay, so an
+- [562:24:00] example would be like, you know, what
+- [562:48:00] are the best uh AI SEO tools for
+- [563:40:00] agencies right now, right? And so if
+- [564:09:20] someone searches that, we would want
+- [564:30:40] rankability to be in that answer, right?
+- [565:16:00] And if we're not, we've got work to do.
+- [566:02:40] Okay? So that's a big one here. And then
+- [566:41:20] in addition to that goal, we also want
+- [567:25:20] to uh become a top source of
+- [568:55:59] of retrieval.
+- [569:42:40] That's very important. So like our
+- [570:06:39] website becomes one of the top sources
+- [570:31:59] of retrieval. That's a big one. And then
+- [571:06:40] the last one here is
+- [571:57:20] we want to be present on the top sources
+- [573:54:39] of retrieval. Okay. And I can't spell.
+- [575:02:39] So let's try that again. All right.
+- [575:29:20] There we go. All right. So these are
+- [575:55:59] kind of the core goals you need to be
+- [576:22:40] thinking about. Okay. This is very
+- [576:45:20] important. As you can tell, our goals
+- [577:29:20] are not just about, hey, let's rank our
+- [578:04:00] one web page anymore. There's multiple
+- [578:36:00] goals we need to be thinking about. And
+- [579:09:20] this is why SEO is much more than what
+- [579:50:40] it's ever been before. But that makes it
+- [580:26:39] exciting. There's a lot of new
+- [580:46:40] opportunities that are going on. And if
+- [581:16:00] you understand all of this, you're going
+- [581:52:00] to be incredibly valuable to the
+- [582:18:40] marketplace. Okay. So, now moving on to
+- [582:53:20] a couple other things I want to be
+- [583:16:00] thinking about here is we'll we'll
+- [583:52:00] quickly talk about threats. The threats
+- [584:34:40] are not as severe as people think they
+- [585:09:20] are. You'll probably see people saying
+- [585:29:20] all the time that SEO is dead and all
+- [586:05:20] this stuff. But the reality is, yes, the
+- [586:45:20] old school SEO is not a good idea if
+- [587:53:20] that's all you're going to do. If you're
+- [588:20:00] just going to be thinking about
+- [588:34:40] traditional search and ranking your one
+- [589:17:20] URL for one keyword, yes, you are
+- [590:09:20] definitely going to be in trouble. But
+- [590:40:00] if you're thinking about SEO as the way
+- [591:09:20] I'm describing it here, you're going to
+- [591:44:00] be fine if you understand how to do
+- [592:08:00] this, okay? because it's not easy to
+- [592:56:00] actually execute this work. Okay,
+- [593:37:20] everything I'm describing to you, this
+- [594:17:20] is this is not a simple process to
+- [594:57:19] execute. And no, you can't just open up
+- [595:41:20] chat GBT and figure this all out for
+- [596:16:00] you. There is still skill involved.
+- [597:00:00] There still is execution capabilities
+- [597:43:59] involved. Okay, so we'll go down here
+- [598:44:00] and execution is the next big one. Okay,
+- [599:15:59] so how do you actually get results?
+- [599:48:00] Let's talk about that. How do you
+- [600:06:40] actually get result in traditional
+- [600:30:39] search? Well, you have to understand the
+- [601:13:20] strategy obviously and I've talked I've
+- [601:48:00] touched on a lot of different points
+- [602:09:20] here. Um, but there is actually like
+- [603:02:40] we're in a very unique time right now
+- [603:29:20] because number one, you can use AI in
+- [604:05:20] general, right, to help you with
+- [604:27:59] execution. So, of course, the tr you
+- [605:04:00] know the the most basic form is using
+- [605:37:20] chat GBT and Gemini and Claude to help
+- [606:30:40] you out with some stuff. Have it ask
+- [607:01:20] questions, have it develop some basic
+- [607:33:20] code stuff. um do some uh deep research
+- [608:37:20] and data analysis. Um it can actually
+- [609:25:20] kind of help you formulate strategy a
+- [609:56:00] little bit. It's okay at that. Um this
+- [610:33:20] is like we'll call this like beginner
+- [611:13:20] level AI execution for SEO. Okay. But
+- [612:21:20] then you can go to the next level which
+- [612:58:40] brings in agents. Okay. And agents are
+- [613:45:20] the next level of this where you can
+- [614:14:40] actually instead of just talking and
+- [614:46:40] chatting with the AI and copy and
+- [615:24:00] pasting stuff, you actually have the
+- [616:02:40] agent go out and do work for you. So
+- [616:37:19] I'll give you a small example of this.
+- [617:06:39] All right. So we'll go into um
+- [618:04:00] we'll go into search OS and I'll copy a
+- [618:38:39] prompt so you can see what this looks
+- [619:13:20] like using Claude Co-work. Okay. So
+- [620:10:40] we'll go um let's actually go into here.
+- [620:59:59] Go to library. So, in the agent skills,
+- [621:44:00] this is one thing you want to first like
+- [622:10:39] for any agents that you're going to be
+- [622:39:59] working with, whether it's open claw or
+- [623:33:20] uh clawed co-work, um you want to start
+- [624:25:20] to be thinking about these skills. Now,
+- [624:56:00] skills are not SOPs. Skills are
+- [625:30:39] specific. Um the it's like a skill that
+- [626:25:19] a human would have, right? You give a
+- [626:56:00] skill to the agent and it executes that
+- [628:08:00] skill and based on the output that it
+- [628:56:00] produces from the skill that you had
+- [629:23:59] given it, you then correct course,
+- [630:09:20] right? So if it does a good job, you
+- [630:53:20] continue on. If it does a poor job, you
+- [631:32:00] iterate and you improve and you keep
+- [631:58:39] expanding that skill further and
+- [632:22:40] further. So treat your agents like an
+- [632:58:40] entrylevel employee where you got to
+- [633:36:00] continually compound the um the skill
+- [634:23:59] over time, right? So you may think
+- [635:02:40] you've got a good kind of idea of like
+- [635:28:00] okay here's the skill go and execute but
+- [636:09:20] the the reality is in in the in
+- [636:49:20] practicality when you actually get that
+- [637:14:39] output very rarely is it going to be be
+- [637:52:00] exactly what you want out of the gate.
+- [638:24:00] So you have to continually work with it
+- [638:54:39] over and over and over until eventually
+- [639:48:00] it's doing what it needs to do. So you
+- [640:13:20] can see here like I have the lead PM
+- [640:44:00] agent project management. This is one
+- [641:36:00] thing I've basically been able to
+- [641:57:20] systemize almost fully uh using my agent
+- [643:00:00] specifically in openclaw. So openclaw
+- [643:36:00] manages all of our projects inside of
+- [644:23:59] search OS and I do it through the search
+- [645:08:00] OS API. So I've given openclaw the API
+- [646:06:40] and so when I say hey I need you to go
+- [646:36:00] and um assign this work or I need you to
+- [647:25:20] go and organize this uh organize our
+- [648:12:00] board organize our projects it can do
+- [648:53:20] that. It can also assign work to people.
+- [649:23:59] It can manage the workload. It can do
+- [650:10:40] all of that. Okay. But only because I've
+- [650:45:20] been training it over and over and over
+- [651:14:40] and over to the point where it can
+- [651:45:20] actually do that. Okay. Now, if you
+- [652:31:59] don't want to use something crazy like
+- [653:00:00] open claw, which is much more intense
+- [653:37:20] and pretty intimidating, claude is
+- [654:33:20] probably easier. Okay. So, you can go
+- [655:10:40] over to like you can use AI prompts. I
+- [655:54:40] got a bi prompts in here. So, we'll do a
+- [656:21:20] small one like um Chamber of Commerce
+- [657:13:20] Finder. Okay. This was copy this over.
+- [658:01:20] So then you would just go into Google
+- [659:05:20] and what I do is I open up the open claw
+- [660:17:20] uh chat window here. Okay. And so for me
+- [661:16:00] I'm pretty aggressive with this. I
+- [661:40:00] basically let it just run. I let it just
+- [662:25:20] do its stuff. Um but basically you drop
+- [663:10:40] this in here and you want to have you
+- [663:37:20] obviously want to have a good prompt.
+- [664:00:00] Okay? Like that is the key to this being
+- [664:40:00] successful. So, in this case, uh, I'd be
+- [665:21:20] doing some sort of link prospecting for
+- [665:51:59] a local business. Okay? So, you put in
+- [666:24:00] the prompt, you fill in all your stuff,
+- [667:00:00] and then you submit that prompt, and
+- [667:28:00] then Claude on this one tab will go and
+- [668:20:00] conduct this research for you. Okay?
+- [669:09:20] Incredibly powerful, right? Incredibly
+- [669:38:40] powerful. It can also uh save this in a
+- [670:26:39] Google Doc or Google Sheet. So, it can
+- [671:03:59] do a lot. Um, I just I I do think though
+- [672:04:00] that Open Clause better if you're
+- [672:38:40] willing to get past the technicalities
+- [673:12:00] of it because it it it's unlimited as
+- [674:13:20] far as um its use. It's not limited by
+- [674:54:40] anything. It's not limited by a
+- [675:13:20] particular platform. Uh it can use any
+- [676:03:59] tool that it wants, right? So you can
+- [676:49:20] use anything. You don't just have to use
+- [677:26:40] Claude, right? And so I think there's
+- [677:58:40] advantages there. Um, but you know, if
+- [678:40:00] you want to have something a little more
+- [679:01:20] secure, something a little bit safer,
+- [679:36:00] something a little more potentially
+- [680:01:19] reliable in some cases, um, this is it.
+- [680:46:40] Now, I will tell you using this browser
+- [681:33:19] extension, be careful, okay? Because
+- [682:22:40] there's a couple things that will
+- [682:37:20] happen. Number one is when you get
+- [683:00:00] really long jobs, it can break and it
+- [683:54:39] will like it will just kill the job and
+- [684:33:20] then your work can get erased. Uh, I've
+- [685:22:39] also had this uh the browsers crashed
+- [686:17:20] many times. So when the browser crashes,
+- [687:06:39] anything that you have in here that's
+- [687:41:20] been collected, gone. It's absolutely
+- [688:30:40] gone. It does not save. Now, this could
+- [689:00:00] be user error on my end, but I have not
+- [689:30:40] found a way to properly save the data
+- [690:24:00] when you're using just the pure browser
+- [690:53:20] extension like I'm doing now. It doesn't
+- [691:28:00] like go into clawed, right? So, um, as
+- [692:24:00] soon as it finishes a job, the first
+- [692:56:00] thing you want to do is copy that
+- [693:20:00] information and go and put it into a
+- [693:52:00] Google doc just to make sure because if
+- [694:30:40] it crashes, you're going to lose it.
+- [695:01:19] Okay, so that's what I would be thinking
+- [695:44:00] about on this. And this is once again
+- [696:13:20] one simple use case for agents where you
+- [696:53:20] just, you know, use good solid prompts
+- [697:21:20] and let the agent go and do your link
+- [697:50:40] prospecting, do your uh one I just did
+- [698:40:00] recently was for uh finding
+- [699:11:59] opportunities inside uh for rankability
+- [699:57:19] that we had a bunch of outdated logos
+- [700:25:20] and stuff like that. I had this go and
+- [700:59:59] do that. Another simple one is I had uh
+- [701:44:00] Claude go and
+- [702:29:20] um update our G2 profile. Okay. So, I
+- [703:29:20] actually had it I was logged in in G2
+- [704:15:59] and I let it change all of the settings.
+- [704:57:19] So, I said, "Hey, go, you know, go to
+- [705:18:39] our website and make sure that um our G2
+- [706:21:20] profile is up to date with the most
+- [706:49:20] current information and it's 100%
+- [707:29:20] accurate." So, then it went through
+- [707:51:59] literally cleaned up the whole G2
+- [708:21:19] profile. I didn't even touch it and it
+- [708:58:39] just did it right. And uh so, small
+- [709:57:19] little things that you can do on that
+- [710:20:00] front are going to be incredibly
+- [710:44:00] valuable. uh using agents. Uh there's
+- [711:28:00] obviously small use cases and big use
+- [712:04:00] cases outside the scope of this video,
+- [712:49:20] but um but yeah, agents are the key to
+- [713:42:39] execution. Now,
+- [714:22:40] there's one thing that really really
+- [714:52:00] matters to all of this. Okay, the
+- [715:37:20] technology is no longer a problem. The
+- [716:14:40] knowledge of the AI is no longer a
+- [716:54:40] problem. Um the the uh the capabilities
+- [718:09:19] honestly is not really a problem
+- [718:32:00] anymore. The biggest problem I'm seeing
+- [718:58:39] with people trying to use AI or use
+- [719:31:59] agents is you still need to understand
+- [720:20:00] the process, right? Like you, you know,
+- [721:10:40] you give these incredibly highowered
+- [721:53:20] tools to someone that does not have any
+- [722:38:40] experience doing SEO, doesn't have any
+- [723:20:00] systems, has never driven results, it's
+- [724:04:00] not going to do anything for you. Okay.
+- [724:40:00] The key to really getting the best
+- [725:16:00] results with this technology is
+- [725:55:59] understanding the process of SEO. Okay?
+- [726:42:40] have to know how does this all work from
+- [727:25:20] end to end. Okay? And so that's why in
+- [728:12:00] these videos that I'm going to be doing
+- [728:37:20] here on my YouTube channel, this is the
+- [729:21:20] first one, which is, you know, what is
+- [729:49:19] SEO in 2026? Let's let's get this
+- [730:25:20] highlevel overview explained. All of the
+- [731:11:59] upcoming videos, I'm going to be
+- [731:36:00] unpacking every little detail of SEO,
+- [732:18:39] okay? We're going to dive into this um
+- [733:02:40] because there's just so much there's so
+- [733:41:20] much to know, so much to do um to do
+- [734:38:40] this the right way, okay? And no, GBT is
+- [735:36:00] not going to help you. No, some random
+- [736:10:40] guy on X who's never done SEO is not
+- [736:50:40] going to help you with this because
+- [737:30:40] there's so much nuance and so much
+- [738:02:40] detail that goes into building a proper
+- [738:38:39] SEO system from end to end. Um, and you
+- [739:40:00] know, at the end of the day, chat GBT on
+- [740:22:39] its own has never developed a strategy,
+- [740:58:40] executed a strategy, and iterated on
+- [741:26:40] that strategy in its entire existence.
+- [742:22:40] Okay? All it ever does is just give you
+- [743:02:40] information that it's found and that's
+- [743:34:40] it. But it's never actually executed
+- [744:06:40] that work. Now, at this point, agents
+- [744:49:19] can execute and they can execute, but
+- [745:28:00] they can only execute within the
+- [746:05:20] confines of a proper strategy, a proper
+- [746:58:39] system. And so that's what I'll be
+- [747:22:40] talking about in these, you know, many
+- [747:42:40] videos I'm going to be doing here. Um,
+- [748:22:40] and if you want like my most up-to-date
+- [749:04:00] stuff, like if you want to see like the
+- [749:33:20] like stuff that I'm constantly updating
+- [750:10:40] my systems, um, everything that I'm
+- [750:50:40] doing as far as AI and SEO specifically,
+- [751:54:40] uh, Search OS is probably the best place
+- [752:21:20] for that. Okay, so you can see in search
+- [752:46:40] OS, this is the platform where I manage
+- [753:30:40] all of um all of our work across all of
+- [754:14:40] our campaigns, all of our businesses,
+- [754:40:00] not just SEO, but like literally all of
+- [755:12:00] our work. Like you can see we go into
+- [755:40:00] you go into rankability, like we have
+- [756:03:59] our engineering in here. Like this is
+- [756:34:40] like engineering for our product. Like
+- [757:09:20] everything is managed in here. Um and
+- [757:50:40] funny enough, uh if you want to know,
+- [758:17:19] this is my open claw, uh bot here. So
+- [759:18:40] Serena, okay, so this is, you know, she
+- [760:12:00] goes and she manages all the operations
+- [761:02:40] in here. Um, but search OS is much more
+- [761:46:40] than just that. It's obviously when you
+- [762:24:00] click in here, you're going to be able
+- [762:42:40] to see um any of these. You'll be able
+- [763:26:40] to see this. You know, we starting to uh
+- [763:54:39] upload stuff to the academy now. So you
+- [764:26:40] can see this is the local SEO and AI
+- [765:04:00] search playbook is all being built in
+- [765:40:00] here. But if you also go, this is where
+- [766:36:00] the real magic happens is every single
+- [767:39:59] thing that we do is systemized, right?
+- [768:40:00] So hundreds now hundreds of SOPs in here
+- [769:34:40] specifically for local and now we're
+- [770:10:40] starting to build in some SAS related
+- [770:37:20] stuff as well. Uh uploading the agent
+- [771:24:00] skills. So, as we build skills with our
+- [772:04:00] own agents, we just go ahead and put the
+- [772:51:59] uh the templates in here so you can copy
+- [773:22:40] of them and start to build your skills
+- [774:00:00] with your agents as well. Okay? So,
+- [774:34:40] there's a ton of stuff in here and I'm
+- [775:02:40] just constantly putting new things in
+- [775:38:39] here. So, if you want really like you
+- [776:25:19] want to figure out how to really do this
+- [776:52:00] the right way, this is probably going to
+- [777:25:20] be the best place to go. So, I'll have a
+- [777:47:59] link below the video. Um, and in the
+- [778:16:00] next video we'll start digging into
+- [778:38:39] some, you know, really hardcore SEO
+- [779:08:00] stuff. But hopefully this helps you get
+- [779:27:59] a good idea of, you know, ultimately
+- [780:00:00] what SEO is all about right now. Um, and
+- [780:41:20] I'll see you in the next video. Thanks.

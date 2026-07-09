@@ -1,0 +1,784 @@
+﻿---
+title: "How to Prepare for AI Search with Aleyda Solis: Building a Roadmap for the Future of SEO | Ep.215"
+expert: "Aleyda Solis"
+video_id: "NNl9sRCv3q8"
+video_url: "https://www.youtube.com/watch?v=NNl9sRCv3q8"
+channel: ""
+published_at: ""
+language: "en"
+---
+
+# How to Prepare for AI Search with Aleyda Solis: Building a Roadmap for the Future of SEO | Ep.215
+
+- Expert: Aleyda Solis
+- Source: https://www.youtube.com/watch?v=NNl9sRCv3q8
+- Notes: Discussion on preparing for AI search.
+
+## Transcript
+
+[Music]
+- [02:08] Welcome to another English episode of
+- [02:52] the SEO Presso podcast. I'm in London
+- [03:31] today and was lucky enough to catch a
+- [04:14] later solless to talk with her about one
+- [04:50] of the hottest topics in SEO right now.
+- [05:30] How to actually build an AI search
+- [06:14] optimization road map and how to win in
+- [07:02] AI. Elena Sol is one of the most
+- [07:39] respected global SEO experts,
+- [08:10] consultants to brands worldwide and
+- [08:42] always ahead of the curve when it comes
+- [09:12] to new search trends. We will dive into
+- [09:45] how her clients are already using
+- [10:14] generative AI, what traffic shifts they
+- [10:50] are seeing from platforms like Chatty,
+- [11:22] Perplexity or Google's AI overviews, and
+- [12:05] most importantly, how to turn all of
+- [12:41] this into a road map that actually
+- [13:14] drives business results. So, here's a
+- [13:59] later solo podcast. Let's jump right in.
+- [16:18] So later welcome to the SEO press
+- [16:51] podcast. I'm very honored that you are
+- [17:27] here. I mean you've been in the industry
+- [17:54] for a long long time and uh I really
+- [18:40] like to ask you like how do you feel
+- [19:18] being an SEO nowadays?
+- [19:57] >> It really feels like back in the day
+- [20:30] when I was just entering SEO in 2007. A
+- [21:30] lot of things new uh a lot of things
+- [22:18] ready to be tested. no absolute truth
+- [23:24] and also truths that can be
+- [24:18] real and truths today but not
+- [24:48] necessarily tomorrow because things are
+- [25:17] shifting so much and changing so much
+- [25:56] right so uh these are honestly very
+- [26:42] exciting times I know that there's a lot
+- [27:10] of let's say unstability going on and a
+- [27:59] lot of people unfortunately those that
+- [28:40] focus on certain sectors have been
+- [29:14] negatively affected uh but in general I
+- [30:06] think that it's very exciting times to
+- [30:57] learn, to shift, to be proactive and um
+- [31:44] and to have this this test and validate
+- [32:42] and curiosity mindset that I think is
+- [33:40] what differentiated SEOs forever, right?
+- [34:33] >> Absolutely. And I I also I totally
+- [35:09] agree. I think it was like, you know,
+- [35:51] for a long time it wasn't that
+- [36:17] interesting to be an SEO for a long
+- [36:50] time, right? Because we we repeated all
+- [37:26] the same EIT content, etc.
+- [37:58] >> 100%. In fact, we got to relying on what
+- [38:44] Googler said to be honest because I
+- [39:17] remember that for a long a long time at
+- [39:48] the beginning when I started doing it.
+- [40:09] So maybe 2007 until 2012 or so. Uh I
+- [41:37] Matt Cops was there and he only said so
+- [42:32] much right but in recent years we had a
+- [43:14] lot of this team of Googlers yes uh
+- [43:52] advocating evangelizing
+- [44:31] uh etc. and we got to relying on on that
+- [45:37] rather than our own tests and our own
+- [46:05] validations, observations and so on. So
+- [46:52] I think that those of of us that uh who
+- [47:45] who are used to what we used to uh back
+- [48:35] in the day are not necessarily that
+- [49:09] shocked to see or to be in this moments
+- [50:18] uh to do SEOs or or optimize for new
+- [51:13] platforms as well because we have this
+- [51:40] productiviveness. Uh but unfortunately I
+- [52:20] can also see that those who started
+- [52:46] doing SEO like in the last seven years
+- [53:22] or five years might I see like a
+- [54:14] completely new type of situation going
+- [54:51] on.
+- [54:58] >> Yeah. It's like similar to like mo most
+- [55:33] probably mobile get on right before you
+- [56:04] did SEO and then there was mobile get on
+- [56:33] and then like everything was new
+- [56:58] apparently but wasn't but
+- [57:34] >> but like if we talk about AI like I I
+- [58:17] really like to distinguish because if we
+- [59:00] talk about optimizing for AI then it's a
+- [59:44] leveraging AI in order to optimize right
+- [60:38] and then it's also optimizing for AI
+- [61:25] search I mean you work with clients
+- [62:08] worldwide
+- [62:33] can you share how companies that you
+- [63:02] work with are using actually generative
+- [63:35] AI to create real business value. I mean
+- [64:18] a lot of people are talking about using
+- [64:42] CH2P perplexity but really creating
+- [65:22] business value
+- [65:35] >> 100%. So I work with SAS marketplaces
+- [66:34] and realistically I love how we all love
+- [67:15] to hey AI generated content or AI
+- [68:05] generated whatever because we always
+- [68:34] side to low quality and it doesn't need
+- [69:13] to be like that and and also the same
+- [69:56] with programmatic right uh unfortunately
+- [70:38] for many programmatic uh equals spam and
+- [71:29] it doesn't need to be like that if it
+- [71:55] does if it if it's done well and for use
+- [72:45] cases that actually makes sense uh to to
+- [73:33] do that at scale to target good use
+- [74:28] cases uh relevant use cases and and
+- [75:17] queries and scenarios for our business.
+- [75:52] So for example I have u uh marketplaces
+- [77:13] let's say in certain sectors that
+- [77:44] leverage programmatic that is much more
+- [78:25] sophisticated and better because of AI
+- [79:09] >> better content better FAQs
+- [79:52] better better um um summarize reviews
+- [81:14] and data and insights across different
+- [82:06] landing pages for every use case at
+- [82:46] scale. Um that actually makes sense that
+- [83:38] is review and there is a proper workflow
+- [84:12] that the data is brought from internal
+- [85:09] uh insights and information of the
+- [85:45] client that is not that is not an
+- [86:16] externally used or non chat GBT but it's
+- [86:59] integrated within the platform and um
+- [87:40] and it's trained from their own insights
+- [88:13] and is topnotch and has helped to
+- [88:57] elevate uh the value that this landing
+- [89:45] page provide for their customers. Before
+- [90:28] it was like lowlevel
+- [91:06] um let's say summarization of of
+- [91:49] insights now is much more blended much
+- [92:30] more sophisticated better personalized
+- [92:58] and so on because of AI the same with
+- [93:39] internal linking as well right like you
+- [94:21] could do it in a less sophisticated way
+- [94:49] before now much better because you are
+- [95:17] able to better uh identify semantically
+- [96:21] related content and information as well
+- [96:54] and better refer uh to your to your
+- [97:44] users based on the the buyer journey uh
+- [98:36] and the topic that they came from and so
+- [99:05] on etc Yeah, I mean that's an amazing
+- [99:52] example exactly this is what what
+- [100:28:00] especially using your own data right so
+- [101:22:40] let's say you are a marketplace right um
+- [102:08:00] or like a real estate platform where you
+- [102:40:00] have a lot of environmental data like
+- [103:12:00] you know crime rates and uh cost of
+- [103:48:00] living in a certain area if you combine
+- [104:21:20] that with generative AR AI that's that's
+- [105:07:59] the jackpot right that's that's perfect
+- [105:54:40] when you look across your client base
+- [106:32:00] like do like what traffic changes are
+- [107:20:00] you seeing from AI how I I powered
+- [107:58:40] search platforms like jet dribblexity or
+- [108:34:40] Google AI overviews. So
+- [109:24:00] it's I I guess it depends on what type
+- [110:14:40] of clients we work with and I have to
+- [110:42:40] clarify right I I am in the situation
+- [111:23:59] that 90% of the clients that I work with
+- [111:54:40] are enterprise level so are very well
+- [112:18:39] established brands. Yes,
+- [112:40:00] >> they have very mature
+- [113:27:59] organic uh search platform already uh
+- [114:33:20] that has been optimized for a while.
+- [115:02:40] They have usually internal team. They
+- [115:33:20] bring me to advise and provide external
+- [116:18:40] consultancy to complement what they're
+- [116:52:00] already doing. So
+- [117:30:39] it's the type of brand that
+- [118:34:40] you won't see in the typical case
+- [119:16:00] studies of oh I have 10x my traffic all
+- [119:57:20] of a sudden in front and the type of a
+- [120:42:40] scenarios where I see this coming is
+- [121:08:00] like for little startups that we're not
+- [121:44:00] even doing any SEO. So of course
+- [122:09:19] whatever they do now in terms of
+- [122:41:20] citations or digital PR or whatever or
+- [123:25:19] you see now they see uh their traffic
+- [124:06:40] 10x from Chad GBT because of course they
+- [124:40:00] had nothing in traditional search. The
+- [125:09:20] brands that I work with had have had
+- [125:38:39] tons already coming from traditional
+- [126:04:00] source. So realistically, it's true that
+- [126:33:19] it's growing a lot, but potentially
+- [126:54:40] right now the ones that have the biggest
+- [127:26:40] share of AI traffic are 4% or so.
+- [128:13:19] >> Yeah.
+- [128:20:00] >> Because all of the the uh platforms or
+- [129:19:59] channels are so well optimized and very
+- [130:10:39] well established already. But it's true
+- [130:38:39] that it's growing uh fast that at the
+- [131:25:20] beginning of the year it was 1%, now
+- [131:52:00] it's 4%. Let's see where it is in at the
+- [132:39:59] end of the year, right? And um so it's
+- [133:27:59] growing very fast on one hand then it's
+- [134:01:19] converting also very well but also it
+- [134:42:40] has to do with the the the industry of
+- [135:36:00] my clients. I I love I I I work with a
+- [136:17:19] lot of SAS and marketplaces and um
+- [137:16:00] online retailers. I imagine that is
+- [137:57:19] different or it's a different stories if
+- [138:29:20] if you are share for example. Yes. So in
+- [139:34:39] in my scenario my situation I have seen
+- [140:16:00] that the value that is being brought by
+- [141:21:19] um traffic it it's good quality it's
+- [142:17:20] great uh a lot of questions a lot of
+- [142:52:00] traffic that is being brought by use
+- [143:17:19] cases a lot of of of traffic that is
+- [143:58:40] being brought by the help center. So
+- [144:26:40] here's a a a really good point to be
+- [145:05:20] made here of the integration of all of
+- [145:39:59] those forums and help centers that are
+- [146:29:20] uh siloed in in subdomains that are not
+- [147:36:00] even integrated with the design of the
+- [148:14:40] main website. A lot of SAS still do this
+- [149:01:20] by the way. Uh and there's a lot of
+- [149:34:40] value and traffic coming from AI because
+- [150:05:20] of course people research the questions
+- [150:52:00] are sourced from from these ODC type of
+- [151:45:20] sources.
+- [151:54:40] >> Yeah, absolutely. I I think you're
+- [152:18:40] complet completely right. Right. So you
+- [152:52:00] should look at industries because if I
+- [153:18:40] look at my industry which is real
+- [153:44:00] estate, right? I mean we are talking
+- [154:12:00] about 1% of the traffic compared to
+- [154:51:59] Google traffic, right? If that would
+- [155:17:20] just be another traffic channel, we
+- [155:49:19] wouldn't even bother, right? So we
+- [156:14:40] wouldn't even look at it. But because
+- [156:37:19] it's such an high%,
+- [157:16:00] you know what pays me and and of course
+- [157:48:00] I mean I'm all of being proactive and
+- [158:42:40] and prepared for whatever shifts. Uh
+- [159:40:00] however realistically like I it it pains
+- [160:30:39] me to see many sea decision makers uh
+- [161:40:00] putting attention or or wanting to
+- [162:19:59] invest
+- [162:41:20] >> money that they have never ever in their
+- [163:24:00] mind blocked their minds to invest in
+- [163:56:00] SEO that is bringing
+- [164:21:20] >> in many cases 70% of their traffic and
+- [165:10:40] revenue. Thank you very much. So yes,
+- [165:44:00] it's it's very interesting, but that is
+- [166:12:00] why thankfully we have data sources to
+- [166:41:20] prove and we have knowhow to show or to
+- [167:34:39] be able to to to to get by in show value
+- [168:16:00] and show realistic value and showcase
+- [168:44:00] also how what we are doing with SEO and
+- [169:23:59] this what I'm I'm trying to change the
+- [169:58:40] narrative or shift or uh influence the
+- [170:34:39] narrative here. Okay, you you have great
+- [171:02:40] interests on AI. Amazing. Perfect. Uh
+- [172:02:40] 80% of what we're already doing in
+- [172:34:39] traditional search will impact on that.
+- [173:29:20] Let's put more money on here as well.
+- [174:12:00] >> H and we will see impact twice as fast
+- [175:05:20] because a this is a channel that is
+- [175:38:40] already mature. We'll have way there
+- [176:02:40] with what we want. We just need just
+- [176:45:20] this extra resources for this that will
+- [177:19:59] achieve this and AI search visibility
+- [177:58:40] but also in traditional search. So this
+- [178:38:40] is the type of influence and knowhow I
+- [179:10:40] believe and and and advice that the
+- [179:51:59] shoemakers uh need uh in order to see an
+- [180:41:20] actual impact at the end of the day. um
+- [181:18:40] to be realistic of to setting
+- [181:49:20] expectations right as well. Uh because
+- [182:25:20] unfortunately all of this Yeah. hype and
+- [183:01:20] fluff and SEO is dead and AI is a new
+- [183:49:20] channel whatever that we see around
+- [184:14:39] indeed.
+- [184:21:20] >> Yeah. But let's assume you have a CL you
+- [185:01:19] would have a client that you know sees
+- [185:38:40] traffic is decreasing right and they see
+- [186:17:20] more and more also you know being
+- [186:49:20] visible in in AI uh and AIdriven search
+- [187:43:59] results for example. So what what
+- [188:11:59] strategies would you recommend and maybe
+- [188:38:40] based also on the uh presentation that
+- [189:08:00] you gave what strategies would you
+- [189:44:00] recommend the the client to focus on
+- [190:18:40] stay visible and actually drive clicks
+- [190:53:20] from AIdriven search. So what I will
+- [191:33:20] actually take a look at is which are the
+- [192:02:40] other platforms that are being used as
+- [192:45:20] sources not only for the AI overviews or
+- [193:33:20] that are actually very likely impacting
+- [194:05:20] negatively the traffic and that is why
+- [194:27:59] it's decreasing but all of these are
+- [195:09:20] features uh that is being that are being
+- [195:45:20] shown beyond AI overviews like for
+- [196:13:19] example like also ask or or video
+- [197:04:00] carousels or or UGC etc. And in general,
+- [198:13:20] what is the we use data sources like the
+- [199:01:20] one of similar web as well like what are
+- [199:30:40] the platforms where users are engaging
+- [200:10:40] the most or getting more traffic beyond
+- [200:52:00] Google and many times we are going to
+- [201:16:00] see that these are the same type of of
+- [201:57:20] audiences that are hanging out more and
+- [202:33:20] more in YouTube in Tik Tok. Yes,
+- [203:06:40] >> in Reddit, this is where my money will
+- [203:42:40] go and and uh we will see that many many
+- [204:26:40] times it will correlate with the
+- [205:04:00] citations that AI platforms will uh use.
+- [206:20:00] So it should indirectly uh positively
+- [207:36:00] influence any AI visibility as well also
+- [208:17:19] your visibility and inclusion in your
+- [208:46:40] features. uh maybe your organic
+- [209:42:39] traditional organic Google traffic won't
+- [210:14:40] necessarily grow because I'm vesting on
+- [210:39:59] on those but you will see more direct
+- [211:14:40] traffic coming from those or referral
+- [211:40:00] traffic coming from those uh if you
+- [212:18:40] start get engaging more and more in
+- [212:49:20] there so I have a client that actually
+- [213:28:00] spend quite a bit in YouTube because of
+- [214:12:00] the nature of their is a SAS their
+- [214:53:20] nature of their platform right and um it
+- [215:54:39] pays off it pays off they have a
+- [216:27:59] community management team engaging with
+- [216:58:40] influencers there and a lot of the
+- [217:37:20] visibility that it's coming from um AI
+- [218:46:40] is because of all of the citations and
+- [219:18:39] and the endorsement and the referral
+- [219:50:40] that those videos have not only from
+- [220:21:19] YouTube itself but also a lot of
+- [220:54:39] conversations in Reddit that end up
+- [221:27:59] referring to the the videos in YouTube
+- [221:57:20] and things like that. Yeah, I I love
+- [222:25:20] that YouTube example because also within
+- [223:02:39] my industry like I see one example where
+- [223:56:00] a very small player actually is is
+- [224:38:40] getting uh a lot of you know referral
+- [225:15:59] traffic from chat GPT or I I search and
+- [226:01:20] the reason is I was looking it up right
+- [226:44:00] the reason is or I believe the reason is
+- [227:19:59] because LLMs are also trained with
+- [227:50:40] transcripts from YouTube but they also
+- [228:22:40] of course look for citation citations
+- [228:56:00] and stuff right so what they did is like
+- [229:32:00] they have a huge community on YouTube
+- [230:00:00] it's about renting flats Right. So, so
+- [230:46:40] they get go exactly on this question.
+- [231:14:40] What do I need to consider when I view a
+- [231:45:20] flat? What do I need to consider when I
+- [232:14:39] do this X Y Z? And they create the
+- [232:47:59] videos, the transcript. And that's why
+- [233:14:40] they are really strong when it comes to
+- [233:52:00] >> really nice and shows the value of it
+- [234:17:20] and how to to repurpose that information
+- [235:02:40] and and to maximize the opportunities
+- [235:33:20] with that information that was not
+- [236:00:00] necessarily meant to be for SEO, but it
+- [236:30:40] will impact SEO. Something that you
+- [237:08:00] reminded me of like a year ago, I was
+- [237:49:20] invited to speak at this creators event.
+- [238:38:40] Yes,
+- [238:52:00] >> travel creators. So we it it was very
+- [239:33:19] interesting for me that in my session I
+- [240:17:20] only got this cohort that was of more
+- [241:06:40] like older let's say creators that had
+- [241:59:59] blocks that were were unfortunately many
+- [242:42:40] of them impacted by the HCU and all of
+- [243:17:19] the this latest uh updates that
+- [243:57:20] negatively affected uh uh this sort of
+- [244:54:40] more independent indie uh traffic that
+- [245:37:20] rely a lot on on re on on on um
+- [246:20:00] affiliates and ads. Um, and then there
+- [247:17:20] was this younger cohort of influencers
+- [248:20:00] and creators that were at that event
+- [249:13:19] that were not necessarily that interest
+- [249:54:40] uh interested on on traditional SEO,
+- [250:39:59] let's say Google Pocus SEO. So, I went
+- [251:22:39] and asked and I started to interact with
+- [252:01:19] them to learn more and it was so
+- [252:45:20] mind-blowing to me to see how the
+- [253:32:00] younger generation didn't even had a
+- [254:09:19] blog. They all and these are troubled
+- [254:53:20] influencers and creators or whatever.
+- [255:18:40] They all were relying on Tik Tok and
+- [256:25:20] Instagram and they didn't even bother
+- [257:16:00] with a desktop or a laptop to create the
+- [258:16:00] content and produce like everything
+- [258:37:20] editable editable with Cupcot or
+- [259:22:40] whatever mobile apps from the mobile.
+- [260:01:19] >> My son is same. Yeah, my son is the
+- [260:30:39] same. So, so my and of course it's it's
+- [261:18:40] different if you are a big publisher and
+- [261:41:19] a big creator let's say more
+- [262:12:00] professional than that but it shows how
+- [263:10:40] you need to be where your audiences and
+- [263:38:40] how audiences are shifting and not
+- [264:22:39] necessarily using a more for many use
+- [265:02:40] cases and across many topics Google
+- [265:39:59] anymore so maybe you need to invest more
+- [266:13:19] on your presence on Tik Tok maybe you
+- [266:41:19] need to invest more on your presence on
+- [267:12:00] Instagram if if you provide content and
+- [267:57:19] create content
+- [268:10:40] >> yeah in
+- [268:45:19] Um so my management directors came to me
+- [269:22:39] one one uh the other day and they asked
+- [270:02:40] me okay B how visible are we like are we
+- [271:02:39] actually playing a role within within
+- [271:33:20] CHGP within AI search everything was new
+- [272:13:20] right of course I know the answer but um
+- [272:54:40] like like if clients come to you like
+- [273:34:40] what would you recommend how can they
+- [274:03:59] measure how visible and how relevant
+- [274:47:59] they are in AI search
+- [275:18:40] >> yeah so on one hand is um taking a look
+- [276:17:19] at their analytics data current traffic
+- [276:50:39] analytics data with first party uh
+- [277:45:20] existing data that they have and then
+- [278:11:59] start using platforms like uh similar
+- [279:20:00] web right that allow to start tracking
+- [279:53:20] the visibility versus players uh current
+- [280:32:00] traffic versus players to also do a
+- [280:57:20] little bit of benchmark validation to
+- [281:22:39] understand the gap and the opportunity
+- [281:49:20] maybe they are already the leaders maybe
+- [282:19:59] there's only so much that they can gain
+- [282:50:40] from that but maybe they realize we
+- [283:26:39] realize that they're analyzing uh the
+- [284:03:59] current standing in traffic and
+- [284:26:40] engagement and visibility and everything
+- [284:50:39] that they're behind so yes there's room
+- [285:21:20] for opportunity and maybe we identified
+- [285:54:40] that a lot a lot has to do with stuff
+- [286:28:00] that we already had in the backlog
+- [286:50:40] anyway. So we just need to prioritize or
+- [287:34:40] or not that we need to start from
+- [287:58:40] scratch. depending on that. But my
+- [288:25:19] recommendation is to validate to assess
+- [288:58:39] rather than start saying okay give me
+- [289:30:40] budget let's buy a tool because
+- [290:00:00] unfortunately this is the thing a lot of
+- [290:29:20] decision makers ask this question after
+- [291:09:20] they have read some news or come or they
+- [292:05:20] have uh been requested by a tool or a
+- [293:05:20] platform uh for to get a a meeting or or
+- [294:39:59] to ask for budget because they they are
+- [295:14:40] pitching something right yeah that's
+- [295:57:20] like what for me was mind-blowing and
+- [296:28:00] and that should actually steer a lot of
+- [297:05:20] your optimization initiatives like when
+- [297:50:40] I use G4 for example. So I I I I filter
+- [299:00:00] for all those AI search platforms right
+- [299:50:40] and what is more interestingly is
+- [300:17:19] actually where does the traffic land to
+- [300:58:40] >> and in com comparison to traditional SEO
+- [301:52:00] where a lot in the time marketplace go
+- [302:30:39] to a SER landing page like a listing pen
+- [303:02:40] landing page and AI search is the detail
+- [303:47:59] page.
+- [303:54:40] >> Yeah. and to 60% of all the traffic goes
+- [304:39:59] to a detail page and the SER comes on on
+- [305:14:40] on position number three or so right and
+- [305:58:40] this is G gives a a completely new
+- [306:40:00] >> 100% I I see that a lot in e-commerce
+- [307:22:39] where is the homepage for a lot of
+- [307:46:40] branded
+- [307:55:59] >> it's the last one
+- [308:10:40] >> and and and uh and and then there's a
+- [308:45:20] very long tale for PDPs yes probably but
+- [309:29:20] it makes sense because at the end of the
+- [309:50:40] day it doesn't make sense for this
+- [310:27:59] platforms to site so much category pages
+- [311:22:40] or listing pages because those are
+- [311:54:40] aggregations of Yeah,
+- [312:18:40] >> links pretty much with a little bit of
+- [312:48:00] descriptions and FAQs, but most of the
+- [313:17:20] content where is the content is the PP
+- [313:46:40] right at the bottom of the funeral. That
+- [314:16:00] is why there's also a good case of
+- [314:45:20] trying to leverage more uhformational
+- [315:24:00] content that is well integrated well
+- [315:52:00] placed to complement that information
+- [316:25:20] that is much more commercially oriented
+- [317:00:00] as well. But a lot of a lot of
+- [318:01:20] especially shopping type of sites
+- [318:36:00] haven't invested much on.
+- [318:58:40] >> Yeah. And and that also makes sense
+- [319:20:00] because I mean open AAI or CHP in that
+- [320:08:00] sense or P they want to become the
+- [320:34:40] middleman right they want to become the
+- [321:01:19] aggregator
+- [321:13:20] >> which is actually if realistically this
+- [321:57:19] is something that even traditional uh
+- [322:28:00] SER is shifting to with especially with
+- [323:10:40] shopping right like a lot of the traffic
+- [323:42:40] now if you see it's it's you can see
+- [324:32:00] eBay by the way data how everything
+- [325:20:00] because they have they have all of the
+- [325:48:00] PDPs under a specific uh directory and
+- [327:00:00] all of
+- [327:17:20] category pages and another one and if
+- [327:55:59] you see the evolution over time of the
+- [328:36:00] tool and traffic you you see how PDP's
+- [329:26:40] directory is growing and how the PPS
+- [330:05:20] piece directory is going down makes
+- [330:52:00] sense not only from of AI platforms but
+- [331:40:00] also from the SERs because of all of the
+- [332:09:20] product packs
+- [332:24:00] >> yes product knowledge panels that end up
+- [333:13:20] referring directly to the PDP uh the
+- [333:58:40] category pages are still ranking even
+- [334:34:40] top position but far below to the road
+- [335:22:40] packs that are above the four now. So
+- [335:56:00] yeah.
+- [336:02:40] >> Yeah. I loved by the way how you broke
+- [336:49:19] down the comparison between traditional
+- [337:22:39] search and uh AI search. So from your
+- [338:16:00] perspective again what are the key
+- [338:42:40] differences between models like chat GPT
+- [339:16:00] Gemini Player Plexity or Google AI
+- [339:54:39] overviews on how should companies adapt
+- [340:25:20] their optimization strategies for each?
+- [340:58:40] Yeah, I think that the first and and
+- [341:23:59] biggest one that we need to think of is
+- [341:58:40] like the the search behavior for what
+- [342:40:00] are our users actually uh using these
+- [343:46:40] platforms is like the same. What is the
+- [344:22:40] overlap? What are the new type of
+- [345:06:40] behaviors and prompts and interactions
+- [345:38:40] that they are having there that we are
+- [346:13:20] not yet tackling because they were we
+- [346:41:20] were not used to and they were not doing
+- [347:05:20] that with traditional search that are
+- [347:37:20] actually relevant for us to tackle. Uh
+- [348:16:00] it's not necessarily because of
+- [348:44:00] commercial opportunities but potentially
+- [349:14:40] because of authority, insights, data and
+- [350:04:00] uh because of the level of
+- [350:29:20] personalization this that these type of
+- [350:58:40] platforms tend to have. We want to be
+- [351:36:00] showcased even at the beginning of the
+- [352:00:00] journey. So they can interact with us
+- [352:25:20] and we have higher chances to be
+- [352:53:20] recommended at the very end of the
+- [353:20:00] journey as well. uh so definitely the
+- [354:04:00] behavior uh validation uh there's that
+- [355:05:20] then on the other on the other hand is
+- [355:40:00] what are the type of expectations
+- [356:05:19] because realistic realistically across
+- [356:37:20] many scenarios even if we are highly
+- [357:10:40] visible the level of the share of
+- [357:53:20] traffic won't be the same for a lot of
+- [358:26:40] scenarios for a lot of type of questions
+- [359:00:00] are less transactional that are
+- [359:24:00] moreformational so how do we measure
+- [360:10:40] success there how do we know that it
+- [361:08:00] pays off to be there right and and this
+- [361:48:00] trick is about attribution and is a a
+- [362:30:39] bigger conversation about attribution
+- [363:17:20] models to use. How do we track that? Uh
+- [364:08:00] how much does it influence um even
+- [364:58:39] direct traffic that we end up getting uh
+- [366:01:19] later on on on our site and things like
+- [366:44:00] that. So it's important to I believe to
+- [367:36:00] try to test to assess because otherwise
+- [368:21:20] it can be a money uh ways to start like
+- [369:21:19] creating like Hopson's box for every
+- [370:16:00] topic if if you're a big retailer right
+- [370:53:20] so what I tend to advise clients like
+- [371:21:20] okay let's pick the top three topics
+- [371:58:40] that you have a real unique set of
+- [372:25:20] position and those product lines and
+- [373:10:40] let's focus on that let's double down
+- [373:45:20] there in the next six months and let's
+- [374:17:20] let's see how it pays off and then we
+- [375:04:00] have actual data to show like hey we
+- [375:37:20] have double down on the information that
+- [376:40:00] insights the data that we provide here
+- [377:07:59] and this is how we have grown not only
+- [377:44:00] and this is the thing it's not on a silo
+- [378:09:20] not only in AI platforms but in
+- [378:42:40] traditional and across all of the
+- [379:13:20] platforms efforts that we're doing where
+- [379:45:20] this type of information will be surface
+- [380:14:40] right and will have play a role in
+- [380:42:39] decision making and I believe that that
+- [381:21:20] finally something that we haven't talked
+- [381:50:40] about yet a lot that I cover here before
+- [382:30:39] in in today's session is like
+- [383:03:59] realistically We are also optimizing for
+- [383:55:59] different bots and I don't think that
+- [384:35:59] especially from a technical optimization
+- [385:04:00] perspective we highlight this enough how
+- [385:53:20] overall line are we on clients are
+- [386:37:20] render javascript do have we actually
+- [387:20:00] validated are we are are we monitoring
+- [388:01:20] with our web server log files or do we
+- [388:34:40] have CDN access to see and validate how
+- [389:21:19] these bots are behaving and uh where
+- [390:04:00] what content they are crawling and what
+- [390:35:59] content is invisible for them because if
+- [391:10:40] we are overrelying on um clients are
+- [392:05:20] render JavaScript for all of our a lot
+- [392:40:00] of our information um we might be
+- [393:26:40] missing out and that's very building
+- [393:53:20] blocks type of thing that we had tackle
+- [394:45:20] and was a sole problem for many uh
+- [395:37:20] already in uh traditional search for
+- [396:10:40] traditional search for Google but it's
+- [396:36:00] not a sole problem for LMS and it's not
+- [397:18:40] about just extrapolating what we had
+- [397:44:00] because different user agents seeing
+- [398:17:20] different things being blocked from
+- [398:46:40] other things and and having a better uh
+- [399:35:59] type of handling of of of that
+- [400:09:19] information. that we allow them to see
+- [400:53:20] because maybe they it it didn't make
+- [401:37:20] sense for traditional search bots to see
+- [402:33:20] for example internal search results uh
+- [403:16:00] because would that would generate
+- [403:38:40] content duplication issues but maybe for
+- [404:22:40] LMS it makes sense because there are new
+- [404:54:39] insights there there's new information
+- [405:22:40] there um that is unstructured but uh
+- [406:22:40] since they don't rank pages anyway but
+- [407:34:39] uh chunks and passages is it's relevant
+- [408:12:00] for them to see that information as
+- [408:34:40] well.
+- [408:45:20] >> I I especially love like the comparison
+- [409:17:20] between okay, Google does one query on
+- [410:04:00] you know like the user does one query
+- [410:40:00] and then Google goes to one page in the
+- [411:12:00] index which they think might be relevant
+- [411:46:40] and that appears in search with this AI
+- [412:29:20] does query fan out and you know looks at
+- [413:03:59] different fragments on different you
+- [413:30:40] know kind of sources which underlines
+- [414:12:00] the fact that you should be appearing as
+- [414:56:00] a source on different platforms right
+- [415:38:40] and and that is really that's really a
+- [416:10:40] key differentiation
+- [416:23:59] >> oh I and it's something that should be
+- [416:57:19] again completely new. We should aim for
+- [417:28:00] topical story e blah blah blah blah but
+- [418:18:39] very few actually did it well because of
+- [419:04:00] course we were obsessed of getting the
+- [419:43:59] click in Google and it work how it
+- [420:37:20] worked right
+- [420:50:39] >> yeah many companies are asking okay how
+- [421:36:00] do I even start right what does an
+- [422:09:20] effective AI search optimization roadmap
+- [422:48:00] look like in practice
+- [423:09:20] >> so the like I actually share a
+- [423:58:40] stepby-step
+- [424:26:40] road map and uh well you have access to
+- [425:17:19] it I will also sharing many many more
+- [425:52:00] insights many of my talks in the next
+- [426:32:00] few weeks and months will be about that.
+- [427:06:40] But the first thing is uh assessment
+- [427:49:19] validation from a uh user behavior
+- [428:40:00] standpoint. Unfortunately, right now uh
+- [429:24:00] the only very few platforms that allows
+- [430:04:00] to access that information. But by the
+- [430:53:20] way, not only similar web but also
+- [431:25:20] Citrix has the AI model as well
+- [432:05:20] providing pumps uh information uh
+- [433:10:40] displaying which are the top entities,
+- [433:42:40] top brands uh per any topic as well uh
+- [434:53:20] profound as well. So we have more data
+- [435:35:59] sources right now to give a to gauge
+- [436:09:19] right now the topical opportunity and
+- [436:57:19] and visibility that we already have. So
+- [437:29:20] doing a benchmark doing an analysis a
+- [438:01:20] research audience research for each one
+- [438:32:00] of these platforms which are the ones
+- [438:54:40] that are actually referring more traffic
+- [439:21:19] in our industry or to our player to our
+- [439:56:00] competitors and other players that we
+- [440:41:20] are not getting yet. things like that.
+- [441:21:20] There's that. And then from a mechanical
+- [441:52:00] standpoint, what I mentioned before uh
+- [442:34:39] validating well what the scroller the AI
+- [443:22:39] bot scrollers actually see and are able
+- [443:55:59] to index. And then from a content
+- [444:21:19] standpoint, what is the gap
+- [444:53:20] realistically to what we have been doing
+- [445:30:40] so far from a content optimization
+- [445:57:20] standpoint for traditional search versus
+- [446:33:20] what should be surface in um AI
+- [447:28:00] platforms? Is is it very likely we
+- [448:05:20] wanted to start from scratch? very
+- [448:28:00] likely it's just about uh giving more
+- [449:01:20] weight to certain type of efforts that
+- [449:28:00] we had in the backlog before and uh and
+- [450:09:19] and do do pilot projects at this point
+- [451:04:00] because again since this is shifting
+- [451:34:39] this evolving a lot uh new features new
+- [452:24:00] trends uh come and go so we need to
+- [453:06:40] allocate uh resources with certain
+- [453:45:20] constraints as well to be realistic and
+- [454:20:00] and give it a go and then finally to
+- [454:50:40] measure it well to configure our
+- [455:17:19] analytics well in order to measure
+- [455:53:20] accordingly and and to monitor pay
+- [456:32:00] attention to identify any shift. Um the
+- [457:25:20] the the the
+- [458:03:59] there were many insights shared lately
+- [458:42:40] regarding oh chat GBT is referring less
+- [459:33:20] traffic in recent months and um this
+- [460:33:20] this the the the release or let's say or
+- [461:17:20] tweet or or disclaimer of the this this
+- [462:22:39] Googlers saying oh you will see in the
+- [463:10:40] next few weeks and months also shift in
+- [463:38:40] our traffic going in a positive way
+- [464:00:00] because we are going to start
+- [464:29:19] integrating embedding links in AI load
+- [465:24:00] much further. So again, things change
+- [466:02:40] pretty quickly. So we need to be paying
+- [466:32:00] attention and I understand that we
+- [467:02:40] shouldn't obsess on static answers
+- [467:44:00] because they are highly personalized
+- [468:10:40] etc. But we should track the trends at
+- [468:51:59] the end of the day to shift accordingly
+- [469:20:00] and we should also aim to be flexible
+- [470:10:40] enough and and and
+- [470:48:00] communicating that to decision makers as
+- [471:38:39] well like look this shifting very fast.
+- [472:14:40] We'll need flexibility. So this is my
+- [472:46:40] road map but uh maybe in 3 months I will
+- [473:33:19] let you know maybe we'll need to shift a
+- [474:01:20] little bit further because things are
+- [474:35:59] are are shifting as well and we need to
+- [475:13:19] allocate resources accordingly.
+- [475:38:40] >> But with with all you saying maybe this
+- [476:08:00] the last question like would you would
+- [476:46:39] you agree that content is the most
+- [477:28:00] important piece to build that topical
+- [478:09:20] authority being you know effective on
+- [478:50:40] all platforms? Yes. That's the number
+- [479:17:20] one investment everyone
+- [479:41:20] >> content in your platform in your own
+- [480:09:19] website and third party as well. Yes.
+- [480:53:20] >> Um
+- [481:18:40] to create presence in with in mind,
+- [482:30:39] right? To to refer you as a brand to
+- [483:28:00] establish brand authority, popularity,
+- [484:10:39] content that is also very aligned to
+- [484:38:40] your business. Yes. Not fluff content,
+- [485:14:40] not generic top content just to try to
+- [485:46:39] piggy back on a trending topic or
+- [486:14:40] something like that. That is something
+- [486:32:00] that unfortunately we went too far with
+- [487:10:40] in traditional search. um but content
+- [488:17:20] that is aligned with our customer
+- [488:50:40] journey uh and we are aim to provide
+- [489:41:20] actual value for and uh content that we
+- [490:41:20] should leverage for digital PR community
+- [491:17:20] management and so on and we should aim
+- [491:56:00] to collaborate with these other areas
+- [492:28:00] too uh and these are the ones that are
+- [492:59:59] going to pay off also from a citation
+- [493:29:19] standpoint.
+- [493:42:40] >> Thank you very much for the interview.
+- [494:08:00] It was a pleasure.
+- [494:25:19] >> Likewise. Thank you for the opportunity.
+- [494:46:40] It was an amazing uh interview. I really
+- [495:31:59] enjoy it. Thanks. Thank you.
