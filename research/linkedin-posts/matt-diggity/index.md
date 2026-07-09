@@ -18,3 +18,9 @@ Collected manually on 2026-07-09 from public LinkedIn pages/search results.
 - Summary: Presents a custom prompt and AI-agent framing for SEO execution.
 - Why relevant: Useful for studying prompt-driven SEO workflows.
 
+### 2026 SEO Strategy for AI Search
+
+- Link: https://www.linkedin.com/posts/mattdiggityseo_heres-my-2026-seo-strategy-stop-chasing-activity-7404443723511623681--Dk9
+- Date shown: 7 months ago
+- Summary: Shifts SEO strategy from chasing clicks toward AI citations, embedded conversions, and original research.
+- Why relevant: Directly supports AI SEO playbook thinking around citations and authority assets.

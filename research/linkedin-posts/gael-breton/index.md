@@ -18,3 +18,9 @@ Collected manually on 2026-07-09 from public LinkedIn pages/search results.
 - Summary: Explains why the old content-site model is less reliable and why Authority Hacker is shifting focus.
 - Why relevant: Useful background on why AI-era SEO content production needs a new model.
 
+### Choosing AI Models for Automation
+
+- Link: https://www.linkedin.com/posts/gael-breton_think-openai-is-the-king-for-automation-activity-7326589391483621376-p8Cf
+- Date shown: 1.2 years ago
+- Summary: Explains why model choice matters for cost-effective automation workflows.
+- Why relevant: Useful for production workflow design where AI cost, latency, and quality trade-offs matter.

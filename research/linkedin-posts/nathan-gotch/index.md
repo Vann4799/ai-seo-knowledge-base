@@ -18,3 +18,9 @@ Collected manually on 2026-07-09 from public LinkedIn pages/search results.
 - Summary: Warns against relying on AI to run SEO campaigns without a strong structure, strategy, and technical foundation.
 - Why relevant: Practical quality control lens for AI-powered content production.
 
+### AI Search Success Tied to SEO Performance
+
+- Link: https://www.linkedin.com/posts/nathangotch_im-still-waiting-for-the-day-that-someone-activity-7437451654733438976-yeTY
+- Date shown: 4 months ago
+- Summary: Argues that GEO and AEO performance depends on strong traditional SEO fundamentals.
+- Why relevant: Useful counterweight against treating AI search as a separate shortcut.

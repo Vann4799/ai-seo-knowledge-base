@@ -18,3 +18,9 @@ Collected manually on 2026-07-09 from public LinkedIn pages/search results.
 - Summary: Points to Lily Ray's recent SEO and AI search consulting materials and slide resources.
 - Why relevant: Useful source for trust, authority, and AI-search education.
 
+### Launching Algorythmic for SEO and AI Search
+
+- Link: https://www.linkedin.com/posts/lily-ray-44755615_big-announcement-after-16-years-in-seo-activity-7445461365109993472-p09H
+- Date shown: 3 months ago
+- Summary: Announces her SEO and AI search consultancy after years of algorithm and E-E-A-T work.
+- Why relevant: Shows direct practitioner focus on helping brands appear in AI-driven search.

@@ -52,7 +52,7 @@ Sources:
 - YouTube: https://www.youtube.com/@RossSimmondsTV
 
 Relevant content targets:
-- Ross Simmonds YouTube channel - https://www.youtube.com/@RossSimmondsTV
+- What effective content distribution actually looks like - https://www.youtube.com/watch?v=TpmBInAnY3Y
 - Website / newsletter hub - https://rosssimmonds.com/
 
 Topics:

@@ -18,3 +18,9 @@ Collected manually on 2026-07-09 from public LinkedIn pages/search results.
 - Summary: Covers broken metrics, probabilistic LLM answers, and the move toward teams that combine brand, PR, and technical SEO.
 - Why relevant: Useful framing for how AI changes SEO content production and measurement.
 
+### Trust-First Wins in AI Search
+
+- Link: https://www.linkedin.com/posts/kevinindig_trust-first-wins-in-ai-search-activity-7425857050036924416-dBoE
+- Date shown: 5 months ago
+- Summary: Connects audience trust and brand familiarity with search and AI-search source selection.
+- Why relevant: Useful for understanding why AI SEO content needs brand trust and audience engagement, not just optimized pages.

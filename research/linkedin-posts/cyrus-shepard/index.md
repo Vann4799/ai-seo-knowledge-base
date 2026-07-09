@@ -18,3 +18,9 @@ Collected manually on 2026-07-09 from public LinkedIn pages/search results.
 - Summary: Uses a concrete search result example to discuss visibility and ranking outcomes.
 - Why relevant: Helpful for comparing classic search visibility with AI-era visibility.
 
+### AI Citation Ranking Factors
+
+- Link: https://www.linkedin.com/posts/cyrusshepard_new-ai-citation-ranking-factor-analysis-activity-7458203852731838466-_yfY
+- Date shown: 2 months ago
+- Summary: Shares analysis of factors associated with earning citations in AI engines.
+- Why relevant: Directly relevant to content production aimed at AI citation visibility.

@@ -79,6 +79,7 @@ Experts were selected using these criteria:
 |   |   `-- <expert>/
 |   |       `-- <video-title>-<video-id>.md
 |   `-- other/
+|       `-- additional-materials.md
 `-- scripts/
     |-- download_youtube_transcripts.py
     `-- download_youtube_transcripts_free.py
@@ -100,7 +101,7 @@ Experts were selected using these criteria:
 The research uses three collection lanes:
 
 - Source mapping: expert profiles, websites, newsletters, and video channels are documented in [`research/sources.md`](research/sources.md).
-- LinkedIn research: 20 selected public LinkedIn post records are organized by expert under [`research/linkedin-posts/`](research/linkedin-posts/) and consolidated in [`research/linkedin-posts/manifest.csv`](research/linkedin-posts/manifest.csv).
+- LinkedIn research: 30 selected public LinkedIn post records are organized by expert under [`research/linkedin-posts/`](research/linkedin-posts/) and consolidated in [`research/linkedin-posts/manifest.csv`](research/linkedin-posts/manifest.csv).
 - YouTube transcripts: transcript targets are listed in [`research/youtube-video-targets.csv`](research/youtube-video-targets.csv), collected with [`scripts/download_youtube_transcripts.py`](scripts/download_youtube_transcripts.py), and saved under [`research/youtube-transcripts/`](research/youtube-transcripts/).
 
 ## Tools Used

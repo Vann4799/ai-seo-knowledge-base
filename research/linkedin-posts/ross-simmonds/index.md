@@ -18,3 +18,9 @@ Collected manually on 2026-07-09 from public LinkedIn pages/search results.
 - Summary: Argues that AI should amplify expert craft rather than replace the human parts that make content distinctive.
 - Why relevant: Useful guardrail against low-quality AI content automation.
 
+### YouTube as an AI Search Source for B2B
+
+- Link: https://www.linkedin.com/posts/rosssimmonds_how-to-start-a-youtube-channel-for-b2b-dominate-activity-7440396678282678272-OIwn
+- Date shown: 3 months ago
+- Summary: Frames YouTube as a major discovery channel and AI-search citation source for B2B buyers.
+- Why relevant: Supports the project decision to collect YouTube transcripts as AI-visible content assets.
