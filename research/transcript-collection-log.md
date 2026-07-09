@@ -66,6 +66,26 @@ Observed error category:
 HTTP Error 429: Too Many Requests
 ```
 
+## Method 4: Google timedtext endpoint
+
+Test command:
+
+```powershell
+Invoke-WebRequest -Uri "https://video.google.com/timedtext?lang=en&v=x5CgYCRLgbc" -UseBasicParsing -TimeoutSec 30
+```
+
+Status:
+Attempted with one target video.
+
+Result:
+Request was blocked by Google automated-query protection from the current network.
+
+Observed error category:
+
+```text
+We're sorry... your computer or network may be sending automated queries.
+```
+
 ## Next Best Step
 
 Use the Supadata API script from a normal authenticated API workflow:
@@ -86,4 +106,3 @@ python scripts/download_youtube_transcripts_free.py --manifest research/youtube-
 - No fake transcripts were created.
 - No API keys or credentials were committed.
 - The transcript folder includes documentation and is ready for generated Markdown outputs.
-

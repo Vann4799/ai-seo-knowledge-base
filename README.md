@@ -91,7 +91,7 @@ scripts/
 The research uses three collection lanes:
 
 - Source mapping: expert profiles, websites, newsletters, and video channels are documented in [`research/sources.md`](research/sources.md).
-- LinkedIn research: selected public LinkedIn posts are summarized under [`research/linkedin-posts/`](research/linkedin-posts/).
+- LinkedIn research: 20 selected public LinkedIn post records are organized by expert under [`research/linkedin-posts/`](research/linkedin-posts/) and consolidated in [`research/linkedin-posts/manifest.csv`](research/linkedin-posts/manifest.csv).
 - YouTube transcripts: transcript targets are listed in [`research/youtube-video-targets.csv`](research/youtube-video-targets.csv) and can be collected with the script in [`scripts/download_youtube_transcripts.py`](scripts/download_youtube_transcripts.py).
 
 ## Tools Used
@@ -154,7 +154,7 @@ research/youtube-transcripts/<expert>/
 
 - YouTube transcripts have not been downloaded yet because the API key is not stored in the repository.
 - Free transcript methods were attempted, but YouTube blocked requests from the current environment.
-- LinkedIn research is manually collected from public pages and search results, so it may not represent every recent post by each expert.
+- LinkedIn research is manually collected from public pages and search results as linked post records, so it may not represent every recent post by each expert.
 - Some experts have stronger newsletter or webinar material than YouTube material.
 - This repository is a research base, not the final AI SEO playbook.
 
